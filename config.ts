@@ -1,13 +1,18 @@
 import { extendDeploymentConfig } from "scripts";
 
 /** TZ config extends the default config **/
-const config = extendDeploymentConfig({ name: "plh_tz", parent: "plh" });
+const config = extendDeploymentConfig({ name: "plh_teens_tz", parent: "plh_teens" });
 
 config.app_data!.sheets_filter_function = (flow) =>
   !["debug", "component_demo", "example_hardcoded", "campaign_rows_debug"].includes(
     flow.flow_subtype!
   );
 config.translations!.filter_language_codes = ["tz_en", "tz_sw"];
+
+config.git = {
+  content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
+  content_tag_latest: "1.1.1",
+};
 
 // Override constants
 config.app_config!.APP_LANGUAGES!.default = "tz_sw";
