@@ -7,9 +7,7 @@
       "name": "name_1",
       "value": "Have a hot drink",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "name_1"
@@ -18,9 +16,7 @@
       "name": "name_2",
       "value": "Call a friend or relative",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "name_2"
@@ -29,9 +25,7 @@
       "name": "name_3",
       "value": "Have a relaxing bath",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "name_3"
@@ -40,9 +34,7 @@
       "name": "name_4",
       "value": "Read",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "name_4"
@@ -56,9 +48,7 @@
           "name": "description_text",
           "value": "Things you can do to reward yourself:",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "suggestions.description_text"

@@ -8,9 +8,7 @@
       "name": "title",
       "value": "Unlock Workshops",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },
@@ -19,9 +17,7 @@
       "name": "text",
       "value": "Are you sure you want to unlock all the workshops? Once you do this you will not be able to lock them back",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "text"
     },
@@ -30,9 +26,7 @@
       "name": "unlock_button",
       "value": "Unlock Workshops",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {

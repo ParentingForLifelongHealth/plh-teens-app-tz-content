@@ -10,9 +10,7 @@
       "name": "parent_app",
       "value": "ParentApp",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -20,9 +18,7 @@
       "name": "home_screen",
       "value": "Home",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -30,9 +26,7 @@
       "name": "weekly_workshops",
       "value": "Modules",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -40,9 +34,7 @@
       "name": "weekly_workshop",
       "value": "Module",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -50,9 +42,7 @@
       "name": "options",
       "value": "Options",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -69,9 +59,7 @@
       "name": "workshops",
       "value": "modules",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -79,9 +67,7 @@
       "name": "workshop",
       "value": "module",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -89,9 +75,7 @@
       "name": "workshops_capital",
       "value": "Modules",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -99,9 +83,7 @@
       "name": "workshop_capital",
       "value": "Module",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -109,9 +91,7 @@
       "name": "parent_points",
       "value": "ParentPoints",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -119,9 +99,7 @@
       "name": "parent_point",
       "value": "ParentPoint",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -129,9 +107,7 @@
       "name": "parent_centre",
       "value": "Parent Library",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -139,9 +115,7 @@
       "name": "in_week_messages",
       "value": "In-Week Messages",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     }
   ],

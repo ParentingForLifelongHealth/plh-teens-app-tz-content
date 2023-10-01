@@ -35,9 +35,7 @@
           "name": "name_1",
           "value": "Sleeping",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "w_self_care_reward.name_1"
@@ -46,9 +44,7 @@
           "name": "name_2",
           "value": "Talking with a friend",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "w_self_care_reward.name_2"
@@ -57,9 +53,7 @@
           "name": "name_3",
           "value": "Doing something I enjoy",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "w_self_care_reward.name_3"
@@ -68,9 +62,7 @@
           "name": "name_4",
           "value": "Doing something relaxing",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "w_self_care_reward.name_4"

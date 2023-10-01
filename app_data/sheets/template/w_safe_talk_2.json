@@ -37,9 +37,7 @@
               "name": "intro_text",
               "value": "Let's talk about our teens' online safety.",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "type": "set_variable",
               "_nested_name": "talk_together.workshop_activity.intro_text"
@@ -52,9 +50,7 @@
                   "name": "text",
                   "value": "What are some of the online risks for teens these days?",
                   "_translations": {
-                    "value": {
-                      "tz_sw": true
-                    }
+                    "value": {}
                   },
                   "type": "set_variable",
                   "_nested_name": "talk_together.workshop_activity.content_box.text"

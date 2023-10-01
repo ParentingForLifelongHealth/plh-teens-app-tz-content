@@ -224,9 +224,7 @@
       "name": "text",
       "value": "How would you like to do this workshop?",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "text"
     },

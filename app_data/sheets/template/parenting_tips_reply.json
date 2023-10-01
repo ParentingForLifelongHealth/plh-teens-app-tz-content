@@ -72,6 +72,54 @@
           }
         },
         {
+          "name": "tools",
+          "value": "tools.@local.workshop",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "workshop_specific_content.tools",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "tools.@local.workshop",
+                "matchedExpression": "@local.workshop",
+                "type": "local",
+                "fieldName": "workshop"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.workshop": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "tools_data",
+          "value": "@data.@local.tools",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "workshop_specific_content.tools_data",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@data.@local.tools",
+                "matchedExpression": "@local.tools",
+                "type": "local",
+                "fieldName": "tools"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.tools": [
+              "value"
+            ]
+          }
+        },
+        {
           "name": "disabled",
           "value": "_disabled",
           "_translations": {
@@ -295,9 +343,7 @@
               "name": "reply_workshop_disabled",
               "value": "You will get more support in the @local.workshop_data.in_text_title.",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "_nested_name": "workshop_specific_content.dg_workshop_disabled.reply_workshop_disabled",
               "_dynamicFields": {
@@ -347,9 +393,7 @@
               "name": "reply_workshop_start",
               "value": "You can get more support in the @local.workshop_data.in_text_title.",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "_nested_name": "workshop_specific_content.dg_workshop_start.reply_workshop_start",
               "_dynamicFields": {
@@ -373,9 +417,7 @@
               "name": "button_workshop_start",
               "value": "Start the @local.workshop_data.in_text_title",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "action_list": [
                 {
@@ -480,9 +522,7 @@
               "name": "reply_workshop_continue",
               "value": "Finish the @local.workshop_data.in_text_title to get more support.",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "_nested_name": "workshop_specific_content.dg_workshop_continue.reply_workshop_continue",
               "_dynamicFields": {
@@ -506,9 +546,7 @@
               "name": "button_workshop_continue",
               "value": "Continue the @local.workshop_data.in_text_title",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "action_list": [
                 {
@@ -613,9 +651,7 @@
               "name": "button_workshop_completed",
               "value": "Re-access the @local.workshop_data.in_text_title",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "action_list": [
                 {
@@ -701,7 +737,7 @@
         {
           "type": "button",
           "name": "button_tools",
-          "value": "@local.workshop_data.tools",
+          "value": "@local.tools_data.title",
           "_translations": {
             "value": {}
           },
@@ -720,10 +756,10 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@local.workshop_data.tools",
-                "matchedExpression": "@local.workshop_data.tools",
+                "fullExpression": "@local.tools_data.title",
+                "matchedExpression": "@local.tools_data.title",
                 "type": "local",
-                "fieldName": "workshop_data"
+                "fieldName": "tools_data"
               }
             ],
             "action_list": {
@@ -758,7 +794,7 @@
             }
           },
           "_dynamicDependencies": {
-            "@local.workshop_data.tools": [
+            "@local.tools_data.title": [
               "value"
             ],
             "@local.workshop_tools": [

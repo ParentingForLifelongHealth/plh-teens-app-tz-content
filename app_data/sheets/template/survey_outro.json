@@ -32,9 +32,7 @@
           "name": "title",
           "value": "Thank you for being honest",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "hidden": false,
           "type": "set_variable",

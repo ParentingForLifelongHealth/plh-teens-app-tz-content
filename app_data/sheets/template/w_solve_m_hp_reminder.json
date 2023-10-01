@@ -17,9 +17,7 @@
               "name": "text",
               "value": "Have you tried the four steps of problem-solving with your teen yet? \n\nKNOW IT, SOLVE IT, TRY IT, TEST IT!",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "type": "set_variable",
               "_nested_name": "m_hp_reminder.in_week_message.text"

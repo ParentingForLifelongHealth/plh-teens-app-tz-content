@@ -43,9 +43,7 @@
           "name": "text",
           "value": "You have not added any activities to @global.my_activities yet. Why don't you choose some?",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "_nested_name": "none_added.text",
           "_dynamicFields": {

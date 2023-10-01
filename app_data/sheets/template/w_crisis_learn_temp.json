@@ -35,11 +35,9 @@
           "rows": [
             {
               "name": "intro_text",
-              "value": "It’s helpful to practice dealing with crisis before something happens. \n\nLook at these five family crisis times. Imagine you are the parent: What would you do?\n\nRemember:  BREATHE - LISTEN - THINK",
+              "value": "It is helpful to practice dealing with crisis before something happens.\n\nLook at these five family crisis times. Imagine you are the parent: What would you do?\n\nRemember:  BREATHE - LISTEN - THINK",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "type": "set_variable",
               "_nested_name": "learn.workshop_activity.intro_text"
@@ -104,9 +102,7 @@
                       "name": "title",
                       "value": "Crisis 1: @global.w_crisis_teen_boy_2 fights at school",
                       "_translations": {
-                        "value": {
-                          "tz_sw": true
-                        }
+                        "value": {}
                       },
                       "hidden": false,
                       "type": "set_variable",
@@ -129,18 +125,16 @@
                     },
                     {
                       "name": "text",
-                      "value": "@global.w_crisis_teen_boy_2: \"I’ve never done this before. And now they will expel me\"",
+                      "value": "@global.w_crisis_teen_boy_2: \"I have never done this before. And now they will expel me.\"",
                       "_translations": {
-                        "value": {
-                          "tz_sw": true
-                        }
+                        "value": {}
                       },
                       "type": "set_variable",
                       "_nested_name": "learn.workshop_activity.content_box.box_1.text",
                       "_dynamicFields": {
                         "value": [
                           {
-                            "fullExpression": "@global.w_crisis_teen_boy_2: \"I’ve never done this before. And now they will expel me\"",
+                            "fullExpression": "@global.w_crisis_teen_boy_2: \"I have never done this before. And now they will expel me.\"",
                             "matchedExpression": "@global.w_crisis_teen_boy_2",
                             "type": "global",
                             "fieldName": "w_crisis_teen_boy_2"
@@ -157,9 +151,7 @@
                       "name": "dashed_box",
                       "value": "How could you respond to @global.w_crisis_teen_boy_2?",
                       "_translations": {
-                        "value": {
-                          "tz_sw": true
-                        }
+                        "value": {}
                       },
                       "hidden": false,
                       "type": "set_variable",
@@ -206,9 +198,7 @@
                           "name": "title",
                           "value": "Crisis 2: @global.w_crisis_teen_girl_2 gets pregnant",
                           "_translations": {
-                            "value": {
-                              "tz_sw": true
-                            }
+                            "value": {}
                           },
                           "hidden": false,
                           "type": "set_variable",
@@ -231,24 +221,22 @@
                         },
                         {
                           "name": "text",
-                          "value": "@global.w_crisis_teen_girl_2: \"@global.w_crisis_male_caregiver_1, I’m so ashamed. I don’t know what to do\"",
+                          "value": "@global.w_crisis_teen_girl_2: \"@global.w_crisis_male_caregiver_1, I am so ashamed. I do not know what to do.\"",
                           "_translations": {
-                            "value": {
-                              "tz_sw": true
-                            }
+                            "value": {}
                           },
                           "type": "set_variable",
                           "_nested_name": "learn.workshop_activity.content_box.box_2.box_1.text",
                           "_dynamicFields": {
                             "value": [
                               {
-                                "fullExpression": "@global.w_crisis_teen_girl_2: \"@global.w_crisis_male_caregiver_1, I’m so ashamed. I don’t know what to do\"",
+                                "fullExpression": "@global.w_crisis_teen_girl_2: \"@global.w_crisis_male_caregiver_1, I am so ashamed. I do not know what to do.\"",
                                 "matchedExpression": "@global.w_crisis_teen_girl_2",
                                 "type": "global",
                                 "fieldName": "w_crisis_teen_girl_2"
                               },
                               {
-                                "fullExpression": "@global.w_crisis_teen_girl_2: \"@global.w_crisis_male_caregiver_1, I’m so ashamed. I don’t know what to do\"",
+                                "fullExpression": "@global.w_crisis_teen_girl_2: \"@global.w_crisis_male_caregiver_1, I am so ashamed. I do not know what to do.\"",
                                 "matchedExpression": "@global.w_crisis_male_caregiver_1",
                                 "type": "global",
                                 "fieldName": "w_crisis_male_caregiver_1"
@@ -268,9 +256,7 @@
                           "name": "dashed_box",
                           "value": "How could you respond to @global.w_crisis_teen_girl_2?",
                           "_translations": {
-                            "value": {
-                              "tz_sw": true
-                            }
+                            "value": {}
                           },
                           "hidden": false,
                           "type": "set_variable",
@@ -317,9 +303,7 @@
                               "name": "title",
                               "value": "Crisis 3: @global.w_crisis_teen_boy_1 makes a girl pregnant",
                               "_translations": {
-                                "value": {
-                                  "tz_sw": true
-                                }
+                                "value": {}
                               },
                               "hidden": false,
                               "type": "set_variable",
@@ -342,18 +326,16 @@
                             },
                             {
                               "name": "text",
-                              "value": "@global.w_crisis_teen_boy_1: \"I don’t want to have a baby\"",
+                              "value": "@global.w_crisis_teen_boy_1: \"I do not want to have a baby.\"",
                               "_translations": {
-                                "value": {
-                                  "tz_sw": true
-                                }
+                                "value": {}
                               },
                               "type": "set_variable",
                               "_nested_name": "learn.workshop_activity.content_box.box_2.box_2.box_1.text",
                               "_dynamicFields": {
                                 "value": [
                                   {
-                                    "fullExpression": "@global.w_crisis_teen_boy_1: \"I don’t want to have a baby\"",
+                                    "fullExpression": "@global.w_crisis_teen_boy_1: \"I do not want to have a baby.\"",
                                     "matchedExpression": "@global.w_crisis_teen_boy_1",
                                     "type": "global",
                                     "fieldName": "w_crisis_teen_boy_1"
@@ -370,9 +352,7 @@
                               "name": "dashed_box",
                               "value": "How could you respond to @global.w_crisis_teen_boy_1?",
                               "_translations": {
-                                "value": {
-                                  "tz_sw": true
-                                }
+                                "value": {}
                               },
                               "hidden": false,
                               "type": "set_variable",
@@ -419,9 +399,7 @@
                                   "name": "title",
                                   "value": "Crisis 4: Someone in the family may get sick",
                                   "_translations": {
-                                    "value": {
-                                      "tz_sw": true
-                                    }
+                                    "value": {}
                                   },
                                   "hidden": false,
                                   "type": "set_variable",
@@ -429,11 +407,9 @@
                                 },
                                 {
                                   "name": "text",
-                                  "value": "\"The test said I have HIV. I’m scared I’m going to die\"",
+                                  "value": "\"The test said I have HIV. I am scared I am going to die.\"",
                                   "_translations": {
-                                    "value": {
-                                      "tz_sw": true
-                                    }
+                                    "value": {}
                                   },
                                   "type": "set_variable",
                                   "_nested_name": "learn.workshop_activity.content_box.box_2.box_2.box_2.box_1.text"
@@ -442,9 +418,7 @@
                                   "name": "dashed_box",
                                   "value": "How could you respond in this situation?",
                                   "_translations": {
-                                    "value": {
-                                      "tz_sw": true
-                                    }
+                                    "value": {}
                                   },
                                   "hidden": false,
                                   "type": "set_variable",
@@ -471,9 +445,7 @@
                                   "name": "title",
                                   "value": "Crisis 5: @global.w_crisis_teen_girl_1 is pressured into sex by her boyfriend",
                                   "_translations": {
-                                    "value": {
-                                      "tz_sw": true
-                                    }
+                                    "value": {}
                                   },
                                   "hidden": false,
                                   "type": "set_variable",
@@ -496,24 +468,22 @@
                                 },
                                 {
                                   "name": "text",
-                                  "value": "@global.w_crisis_teen_girl_1: \"I didn’t really want to. Now I will get pregnant or be ill. @global.w_crisis_female_caregiver, I’m so scared...\"",
+                                  "value": "@global.w_crisis_teen_girl_1: \"I did not really want to. Now I will get pregnant or be ill. @global.w_crisis_female_caregiver, I am so scared...\"",
                                   "_translations": {
-                                    "value": {
-                                      "tz_sw": true
-                                    }
+                                    "value": {}
                                   },
                                   "type": "set_variable",
                                   "_nested_name": "learn.workshop_activity.content_box.box_2.box_2.box_2.box_2.text",
                                   "_dynamicFields": {
                                     "value": [
                                       {
-                                        "fullExpression": "@global.w_crisis_teen_girl_1: \"I didn’t really want to. Now I will get pregnant or be ill. @global.w_crisis_female_caregiver, I’m so scared...\"",
+                                        "fullExpression": "@global.w_crisis_teen_girl_1: \"I did not really want to. Now I will get pregnant or be ill. @global.w_crisis_female_caregiver, I am so scared...\"",
                                         "matchedExpression": "@global.w_crisis_teen_girl_1",
                                         "type": "global",
                                         "fieldName": "w_crisis_teen_girl_1"
                                       },
                                       {
-                                        "fullExpression": "@global.w_crisis_teen_girl_1: \"I didn’t really want to. Now I will get pregnant or be ill. @global.w_crisis_female_caregiver, I’m so scared...\"",
+                                        "fullExpression": "@global.w_crisis_teen_girl_1: \"I did not really want to. Now I will get pregnant or be ill. @global.w_crisis_female_caregiver, I am so scared...\"",
                                         "matchedExpression": "@global.w_crisis_female_caregiver",
                                         "type": "global",
                                         "fieldName": "w_crisis_female_caregiver"
@@ -533,9 +503,7 @@
                                   "name": "dashed_box",
                                   "value": "How could you respond to @global.w_crisis_teen_girl_1?",
                                   "_translations": {
-                                    "value": {
-                                      "tz_sw": true
-                                    }
+                                    "value": {}
                                   },
                                   "hidden": false,
                                   "type": "set_variable",
@@ -575,9 +543,7 @@
               "name": "outro_text",
               "value": "Remember to support and encourage each other. It is hard to remain calm and listen to each other in a crisis - we are proud of you.",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "type": "set_variable",
               "_nested_name": "learn.workshop_activity.outro_text"

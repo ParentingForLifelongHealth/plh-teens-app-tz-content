@@ -8,13 +8,12 @@
       "individual": true,
       "together": true,
       "priority": 11,
+      "icon_asset": "@data.mode.think.icon_asset",
       "has_single_task": true,
       "template": "w_celebrate_think",
       "title": "Think",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -31,9 +30,7 @@
       "template": "w_celebrate_talk_1",
       "title": "Talk Together",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -50,9 +47,7 @@
       "template": "w_celebrate_talk_2",
       "title": "Talk Together",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {

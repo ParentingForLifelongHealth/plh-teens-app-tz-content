@@ -13,9 +13,7 @@
           "name": "text_1",
           "value": "Not seeing any friends for a month",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "suggestions_ticks.text_1"
@@ -24,9 +22,7 @@
           "name": "dashed_box_1",
           "value": "This may be hard to do for you and also too harsh!",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "parameter_list": {
             "icon_src": "plh_images/icons/cross_circle.svg",
@@ -39,9 +35,7 @@
           "name": "text_2",
           "value": "Cancelling their birthday plans in a month’s time",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "suggestions_ticks.text_2"
@@ -50,9 +44,7 @@
           "name": "dashed_box_2",
           "value": "This is too far in the future, and too harsh as well!",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "parameter_list": {
             "icon_src": "plh_images/icons/cross_circle.svg",
@@ -65,9 +57,7 @@
           "name": "text_3",
           "value": "No TV this evening",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "suggestions_ticks.text_3"
@@ -76,9 +66,7 @@
           "name": "dashed_box_3",
           "value": "Perfect, this sounds fair and can be done straight away",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "parameter_list": {
             "icon_src": "plh_images/icons/tick_circle.svg",

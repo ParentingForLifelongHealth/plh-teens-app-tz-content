@@ -138,9 +138,7 @@
           "name": "button_1",
           "value": "Relax now",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -244,9 +242,7 @@
           "name": "habit_text",
           "value": "Did you relax already? Tap it!",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "hidden": false,
           "type": "set_variable",

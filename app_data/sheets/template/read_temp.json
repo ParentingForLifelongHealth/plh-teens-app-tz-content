@@ -57,9 +57,7 @@
           "name": "activity_title",
           "value": "Read Together",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "condition": "@fields.do_this_workshop_together",
           "type": "set_variable",
@@ -84,9 +82,7 @@
           "name": "intro_text",
           "value": "Let's read a story together!",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "condition": "@fields.do_this_workshop_together",
           "type": "set_variable",
@@ -136,9 +132,7 @@
           "name": "activity_title",
           "value": "Read",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "condition": "!@fields.do_this_workshop_together",
           "type": "set_variable",
@@ -163,9 +157,7 @@
           "name": "intro_text",
           "value": "Let's read a story!",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "condition": "!@fields.do_this_workshop_together",
           "type": "set_variable",

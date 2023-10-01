@@ -95,9 +95,7 @@
           "name": "button_submit",
           "value": "Submit",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -157,5 +155,5 @@
       "_nested_name": "dg_buttons"
     }
   ],
-  "_xlsxPath": "quality_assurance/feature_sheets/to_be_sorted/feature_feedback.xlsx"
+  "_xlsxPath": "global/core_templates/feature_feedback.xlsx"
 }
