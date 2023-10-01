@@ -14,6 +14,8 @@ config.git = {
   content_tag_latest: "1.1.1",
 };
 
+config.app_data.output_path = "./app_data";
+
 // Override constants
 config.app_config!.APP_LANGUAGES!.default = "tz_sw";
 config.app_config!.APP_SIDEMENU_DEFAULTS!.title = "ParentApp (TZ)";
