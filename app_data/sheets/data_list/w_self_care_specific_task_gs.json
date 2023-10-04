@@ -8,13 +8,12 @@
       "individual": true,
       "together": true,
       "priority": 11,
+      "icon_asset": "@data.mode.relax.icon_asset",
       "has_single_task": true,
       "template": "w_self_care_relax",
       "title": "Relax",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -27,13 +26,12 @@
       "individual": true,
       "together": true,
       "priority": 12,
+      "icon_asset": "@data.mode.think.icon_asset",
       "has_single_task": true,
       "template": "w_self_care_recognise",
       "title": "Recognise",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -46,13 +44,12 @@
       "individual": true,
       "together": true,
       "priority": 13,
+      "icon_asset": "@data.mode.think.icon_asset",
       "has_single_task": true,
       "template": "w_self_care_reward",
       "title": "Reward",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {

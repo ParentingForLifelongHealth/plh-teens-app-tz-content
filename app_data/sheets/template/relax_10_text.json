@@ -11,11 +11,9 @@
       "rows": [
         {
           "name": "activity_text",
-          "value": "Close your eyes.  \n\nNotice your connection with the ground beneath you.  \nWhat parts of your body touch the ground? What parts of your body don’t?   \nNotice where it feels warm and where it feels cool.  \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.",
+          "value": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "relax_text.activity_text"
@@ -24,9 +22,7 @@
           "name": "outro_text",
           "value": "Try this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "relax_text.outro_text"

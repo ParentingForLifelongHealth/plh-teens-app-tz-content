@@ -13,9 +13,7 @@
           "name": "description_text",
           "value": "@global.w_rules_teen_boy knew his @global.w_rules_female_caregiver_1 appreciated him because...",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "suggestions.description_text",
@@ -48,9 +46,7 @@
           "name": "list_text",
           "value": "* She praised him\n* She rewarded him when he followed the rule",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "suggestions.list_text"

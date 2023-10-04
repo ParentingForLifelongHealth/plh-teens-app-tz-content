@@ -23,9 +23,7 @@
           "name": "title",
           "value": "Customise your @global.parent_app",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "hidden": false,
           "type": "set_variable",
@@ -59,9 +57,7 @@
           "name": "text",
           "value": "These quick questions will fit this app to your needs.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "box_image.text"

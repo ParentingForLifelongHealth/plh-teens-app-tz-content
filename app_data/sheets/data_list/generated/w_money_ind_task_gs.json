@@ -8,12 +8,11 @@
       "individual": true,
       "together": false,
       "priority": 1,
+      "icon_asset": "@data.mode.welcome_individual.icon_asset",
       "has_single_task": true,
       "title": "How are you?",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -29,14 +28,15 @@
       "individual": true,
       "together": true,
       "priority": 3,
+      "icon_asset": "@data.mode.relax.icon_asset",
       "has_single_task": true,
-      "title": "@data.workshop[@fields.current_workshop].relax_title",
+      "title": "@data.workshop_relax[@fields.current_workshop].activity_title",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "@data.workshop[@fields.current_workshop].relax_title"
+          "eng": "@data.workshop_relax[@fields.current_workshop].activity_title"
         }
       },
       "template": "w_money_relax",
@@ -48,14 +48,15 @@
       "individual": true,
       "together": true,
       "priority": 5,
+      "icon_asset": "@data.mode.topic_intro.icon_asset",
       "has_single_task": true,
-      "title": "@data.workshop[@fields.current_workshop].intro_title",
+      "title": "@data.topic_intro[@fields.current_workshop].title",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "@data.workshop[@fields.current_workshop].intro_title"
+          "eng": "@data.topic_intro[@fields.current_workshop].title"
         }
       },
       "template": "w_money_intro",
@@ -67,14 +68,15 @@
       "individual": true,
       "together": true,
       "priority": 70,
+      "icon_asset": "@data.mode.tools.icon_asset",
       "has_single_task": true,
-      "title": "@data.workshop[@fields.current_workshop].tools",
+      "title": "@data.tools[@fields.current_workshop].title",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "@data.workshop[@fields.current_workshop].tools"
+          "eng": "@data.tools[@fields.current_workshop].title"
         }
       },
       "template": "w_money_tools_activity",
@@ -86,6 +88,7 @@
       "individual": true,
       "together": true,
       "priority": 80,
+      "icon_asset": "@data.mode.home_practice.icon_asset",
       "has_single_task": true,
       "title": "@global.home_practice",
       "_translations": {
@@ -105,12 +108,11 @@
       "individual": true,
       "together": true,
       "priority": 90,
+      "icon_asset": "@data.mode.ending.icon_asset",
       "has_single_task": true,
       "title": "Well done!",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -126,6 +128,7 @@
       "individual": true,
       "together": true,
       "priority": 91,
+      "icon_asset": "@data.mode.hp_review.icon_asset",
       "has_single_task": true,
       "title": "@global.hp_review",
       "_translations": {
@@ -145,14 +148,15 @@
       "individual": true,
       "together": true,
       "priority": 11,
+      "icon_asset": "@data.mode.read.icon_asset",
       "has_single_task": true,
-      "title": "@global.story @global.part_connector @data.story.money_problems.title",
+      "title": "@global.story: @data.story.money_problems.title",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "@global.story @global.part_connector @data.story.money_problems.title"
+          "eng": "@global.story: @data.story.money_problems.title"
         }
       },
       "template": "w_money_read_1",
@@ -165,16 +169,15 @@
       "individual": true,
       "together": true,
       "priority": 12,
+      "icon_asset": "@data.mode.learn.icon_asset",
       "has_single_task": true,
-      "title": "Learn - Budget preparation",
+      "title": "Budget preparation",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Learn - Budget preparation"
+          "eng": "Budget preparation"
         }
       },
       "template": "w_money_learn_1_temp",
@@ -186,16 +189,15 @@
       "individual": true,
       "together": true,
       "priority": 13,
+      "icon_asset": "@data.mode.learn.icon_asset",
       "has_single_task": true,
-      "title": "Learn - Step 1: Think",
+      "title": "Step 1: Think",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Learn - Step 1: Think"
+          "eng": "Step 1: Think"
         }
       },
       "template": "w_money_learn_2_temp",
@@ -207,16 +209,15 @@
       "individual": true,
       "together": true,
       "priority": 14,
+      "icon_asset": "@data.mode.learn.icon_asset",
       "has_single_task": true,
-      "title": "Learn - Step 2: Choose",
+      "title": "Step 2: Choose",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Learn - Step 2: Choose"
+          "eng": "Step 2: Choose"
         }
       },
       "template": "w_money_learn_3_temp",
@@ -228,16 +229,15 @@
       "individual": true,
       "together": true,
       "priority": 15,
+      "icon_asset": "@data.mode.learn.icon_asset",
       "has_single_task": true,
-      "title": "Learn - Step 3: Build",
+      "title": "Step 3: Build",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Learn - Step 3: Build"
+          "eng": "Step 3: Build"
         }
       },
       "template": "w_money_learn_4_temp",
@@ -249,14 +249,15 @@
       "individual": true,
       "together": true,
       "priority": 16,
+      "icon_asset": "@data.mode.read.icon_asset",
       "has_single_task": false,
-      "title": "@global.story @global.part_connector @data.story.money_plan.title",
+      "title": "@global.story: @data.story.money_plan.title",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "@global.story @global.part_connector @data.story.money_plan.title"
+          "eng": "@global.story: @data.story.money_plan.title"
         }
       },
       "story_id": "money_plan",
@@ -268,14 +269,15 @@
       "individual": true,
       "together": true,
       "priority": 18,
+      "icon_asset": "@data.mode.read.icon_asset",
       "has_single_task": false,
-      "title": "@global.story @global.part_connector @data.story.money_emergencies.title",
+      "title": "@global.story: @data.story.money_emergencies.title",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "@global.story @global.part_connector @data.story.money_emergencies.title"
+          "eng": "@global.story: @data.story.money_emergencies.title"
         }
       },
       "story_id": "money_emergencies",
@@ -287,16 +289,15 @@
       "individual": true,
       "together": true,
       "priority": 21,
+      "icon_asset": "@data.mode.learn.icon_asset",
       "has_single_task": true,
-      "title": "Learn - Step 4: Plan",
+      "title": "Step 4: Plan",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Learn - Step 4: Plan"
+          "eng": "Step 4: Plan"
         }
       },
       "template": "w_money_learn_5_temp",

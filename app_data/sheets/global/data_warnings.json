@@ -8,9 +8,7 @@
       "name": "data_warning_video",
       "value": "Watching this video requires internet access. To limit data use, watch or download this video when on WiFi.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -18,9 +16,7 @@
       "name": "data_warning_websites",
       "value": "Visiting these websites requires internet access. To limit data use, visit these websites when on WiFi.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -28,9 +24,7 @@
       "name": "data_warning_send_message",
       "value": "Sending this message requires internet access. To limit data use, send this message when on WiFi.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     }
   ],

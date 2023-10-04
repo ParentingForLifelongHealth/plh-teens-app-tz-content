@@ -7,9 +7,7 @@
       "name": "yes",
       "value": "Yes",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "yes"
@@ -18,9 +16,7 @@
       "name": "no",
       "value": "No",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "no"
@@ -76,10 +72,6 @@
     {
       "type": "text",
       "name": "text_done",
-      "value": "text_done",
-      "_translations": {
-        "value": {}
-      },
       "exclude_from_translation": true,
       "_nested_name": "text_done"
     },
@@ -103,7 +95,7 @@
       "_nested_name": "radio_group_done_answered"
     },
     {
-      "type": "radio_group",
+      "type": "radio_button_grid",
       "name": "radio_group_done",
       "action_list": [
         {
@@ -128,7 +120,8 @@
         }
       ],
       "parameter_list": {
-        "answer_list": "@local.answer_list"
+        "answer_list": "@local.answer_list",
+        "item_width": "50px"
       },
       "_nested_name": "radio_group_done",
       "_dynamicFields": {
@@ -369,7 +362,7 @@
           "_nested_name": "reply_yes_dg.radio_group_mood_answered"
         },
         {
-          "type": "radio_group",
+          "type": "radio_button_grid",
           "name": "radio_group_mood",
           "action_list": [
             {
@@ -385,7 +378,7 @@
           ],
           "parameter_list": {
             "answer_list": "@local.answer_list_mood",
-            "options_per_row": "@local.options_per_row"
+            "item_width": "50px"
           },
           "_nested_name": "reply_yes_dg.radio_group_mood",
           "_dynamicFields": {
@@ -439,14 +432,6 @@
                   "type": "local",
                   "fieldName": "answer_list_mood"
                 }
-              ],
-              "options_per_row": [
-                {
-                  "fullExpression": "@local.options_per_row",
-                  "matchedExpression": "@local.options_per_row",
-                  "type": "local",
-                  "fieldName": "options_per_row"
-                }
               ]
             }
           },
@@ -462,9 +447,6 @@
             ],
             "@local.answer_list_mood": [
               "parameter_list.answer_list"
-            ],
-            "@local.options_per_row": [
-              "parameter_list.options_per_row"
             ]
           }
         },

@@ -8,9 +8,7 @@
       "name": "my_relaxes",
       "value": "My Favourite Relaxes",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -18,9 +16,7 @@
       "name": "all_relaxes",
       "value": "All Relaxes",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -28,9 +24,7 @@
       "name": "random_relax",
       "value": "Random Relax",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -38,9 +32,7 @@
       "name": "current_relax",
       "value": "This Week's Relax",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -48,9 +40,7 @@
       "name": "relax_passive_short",
       "value": "Listen & Relax (1-2 minutes)",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -58,9 +48,7 @@
       "name": "relax_passive_long",
       "value": "Listen & Relax (3-5 minutes)",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -68,9 +56,7 @@
       "name": "relax_active",
       "value": "Do & Relax (5-10 minutes)",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {

@@ -35,9 +35,7 @@
       "name": "button_1_a",
       "value": "Update my parenting experiences",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -73,9 +71,7 @@
       "name": "button_1_b",
       "value": "Update my parenting experiences",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -111,9 +107,7 @@
       "name": "button_2",
       "value": "Update my personal details",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -133,9 +127,7 @@
       "name": "button_3",
       "value": "Update my @global.workshop options",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {

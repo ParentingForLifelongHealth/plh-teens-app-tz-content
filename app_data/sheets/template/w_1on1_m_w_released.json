@@ -89,9 +89,7 @@
               "name": "title",
               "value": "First @global.weekly_workshop!",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "type": "set_variable",
               "_nested_name": "m_workshop_released.in_week_message.title",
@@ -115,9 +113,7 @@
               "name": "text",
               "value": "Hi @fields.user_name. Your @local.workshop_data.in_text_title is ready for you.",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "condition": "!@local.do_workshops_together",
               "type": "set_variable",
@@ -162,9 +158,7 @@
               "name": "text",
               "value": "Hi @fields.group_name. Your @local.workshop_data.in_text_title is ready for you.",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "condition": "@local.do_workshops_together",
               "type": "set_variable",

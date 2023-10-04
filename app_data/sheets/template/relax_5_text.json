@@ -13,20 +13,16 @@
           "name": "activity_text",
           "value": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "relax_text.activity_text"
         },
         {
           "name": "outro_text",
-          "value": "When you are ready open your eyes again. You are in control!",
+          "value": "When you are ready, open your eyes again. You are in control!",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "relax_text.outro_text"

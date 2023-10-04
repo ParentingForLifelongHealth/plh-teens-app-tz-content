@@ -54,9 +54,7 @@
           "name": "text",
           "value": "@global.w_consequence_teen_boy_1 came home late.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "box_combo_box.text",
@@ -80,9 +78,7 @@
           "name": "question_text",
           "value": "What consequence would help here?",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "box_combo_box.question_text"
@@ -171,9 +167,7 @@
           "name": "reply",
           "value": "Consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "box_combo_box.reply"
@@ -236,9 +230,7 @@
           "name": "text_1",
           "value": "@global.w_consequence_teen_boy_1 came home late.\n\nWhat consequence would help here?",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "box_buttons.text_1",
@@ -297,9 +289,7 @@
           "name": "text_2",
           "value": "Consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "hidden": false,
           "type": "set_variable",

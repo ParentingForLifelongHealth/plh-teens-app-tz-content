@@ -8,9 +8,7 @@
       "name": "answer_1",
       "value": "Recognise why he feels stressed",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "answer_1"
@@ -19,9 +17,7 @@
       "name": "answer_2",
       "value": "Take a deep breath and speak calmly",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "answer_2"
@@ -30,9 +26,7 @@
       "name": "answer_3",
       "value": "Show he understands his teen’s feelings",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "answer_3"
@@ -41,9 +35,7 @@
       "name": "answer_4",
       "value": "Think about solutions together with @global.w_stress_teen_boy_1",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "answer_4",
@@ -67,9 +59,7 @@
       "name": "answer_5",
       "value": "Do something positive together with @global.w_stress_teen_boy_1",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "answer_5",
@@ -88,6 +78,42 @@
           "value"
         ]
       }
+    },
+    {
+      "name": "sad",
+      "value": "Sad",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "sad"
+    },
+    {
+      "name": "scared",
+      "value": "Scared",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "scared"
+    },
+    {
+      "name": "confused",
+      "value": "Confused",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "confused"
+    },
+    {
+      "name": "angry",
+      "value": "Angry",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "angry"
     },
     {
       "type": "template",
@@ -122,9 +148,7 @@
               "name": "intro_text",
               "value": "Let's think about what happened in this story.",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "type": "set_variable",
               "_nested_name": "question_time.workshop_activity.intro_text"
@@ -158,9 +182,7 @@
                       "name": "question_text",
                       "value": "How do you think @global.w_stress_teen_boy_1 felt?",
                       "_translations": {
-                        "value": {
-                          "tz_sw": true
-                        }
+                        "value": {}
                       },
                       "type": "set_variable",
                       "_nested_name": "question_time.workshop_activity.content_box.radio_buttons_1.question_text",
@@ -183,13 +205,63 @@
                     {
                       "name": "answer_list",
                       "value": [
-                        "name:sad | text: Sad | image:plh_images/stickers/faces/sadder.svg",
-                        "name:scared | text: Scared | image:plh_images/stickers/faces/scared.svg",
-                        "name:confused | text:Confused | image:plh_images/stickers/faces/confused_question_mark.svg",
-                        "name:angry | text: Angry | image:plh_images/stickers/faces/angry.svg"
+                        "name:sad | text: @local.sad | image:plh_images/stickers/faces/sadder.svg",
+                        "name:scared | text: @local.scared | image:plh_images/stickers/faces/scared.svg",
+                        "name:confused | text: @local.confused | image:plh_images/stickers/faces/confused_question_mark.svg",
+                        "name:angry | text: @local.angry | image:plh_images/stickers/faces/angry.svg"
                       ],
                       "type": "set_variable",
-                      "_nested_name": "question_time.workshop_activity.content_box.radio_buttons_1.answer_list"
+                      "_nested_name": "question_time.workshop_activity.content_box.radio_buttons_1.answer_list",
+                      "_dynamicFields": {
+                        "value": {
+                          "0": [
+                            {
+                              "fullExpression": "name:sad | text: @local.sad | image:plh_images/stickers/faces/sadder.svg",
+                              "matchedExpression": "@local.sad",
+                              "type": "local",
+                              "fieldName": "sad"
+                            }
+                          ],
+                          "1": [
+                            {
+                              "fullExpression": "name:scared | text: @local.scared | image:plh_images/stickers/faces/scared.svg",
+                              "matchedExpression": "@local.scared",
+                              "type": "local",
+                              "fieldName": "scared"
+                            }
+                          ],
+                          "2": [
+                            {
+                              "fullExpression": "name:confused | text: @local.confused | image:plh_images/stickers/faces/confused_question_mark.svg",
+                              "matchedExpression": "@local.confused",
+                              "type": "local",
+                              "fieldName": "confused"
+                            }
+                          ],
+                          "3": [
+                            {
+                              "fullExpression": "name:angry | text: @local.angry | image:plh_images/stickers/faces/angry.svg",
+                              "matchedExpression": "@local.angry",
+                              "type": "local",
+                              "fieldName": "angry"
+                            }
+                          ]
+                        }
+                      },
+                      "_dynamicDependencies": {
+                        "@local.sad": [
+                          "value.0"
+                        ],
+                        "@local.scared": [
+                          "value.1"
+                        ],
+                        "@local.confused": [
+                          "value.2"
+                        ],
+                        "@local.angry": [
+                          "value.3"
+                        ]
+                      }
                     },
                     {
                       "name": "reply",
@@ -224,9 +296,7 @@
                       "name": "question_text",
                       "value": "And @global.w_stress_male_caregiver?",
                       "_translations": {
-                        "value": {
-                          "tz_sw": true
-                        }
+                        "value": {}
                       },
                       "type": "set_variable",
                       "_nested_name": "question_time.workshop_activity.content_box.radio_buttons_2.question_text",
@@ -249,13 +319,63 @@
                     {
                       "name": "answer_list",
                       "value": [
-                        "name:sad | text: Sad | image:plh_images/stickers/faces/sadder.svg",
-                        "name:scared | text: Scared | image:plh_images/stickers/faces/scared.svg",
-                        "name:confused | text:Confused | image:plh_images/stickers/faces/confused_question_mark.svg",
-                        "name:angry | text: Angry | image:plh_images/stickers/faces/angry.svg"
+                        "name:sad | text: @local.sad | image:plh_images/stickers/faces/sadder.svg",
+                        "name:scared | text: @local.scared | image:plh_images/stickers/faces/scared.svg",
+                        "name:confused | text: @local.confused | image:plh_images/stickers/faces/confused_question_mark.svg",
+                        "name:angry | text: @local.angry | image:plh_images/stickers/faces/angry.svg"
                       ],
                       "type": "set_variable",
-                      "_nested_name": "question_time.workshop_activity.content_box.radio_buttons_2.answer_list"
+                      "_nested_name": "question_time.workshop_activity.content_box.radio_buttons_2.answer_list",
+                      "_dynamicFields": {
+                        "value": {
+                          "0": [
+                            {
+                              "fullExpression": "name:sad | text: @local.sad | image:plh_images/stickers/faces/sadder.svg",
+                              "matchedExpression": "@local.sad",
+                              "type": "local",
+                              "fieldName": "sad"
+                            }
+                          ],
+                          "1": [
+                            {
+                              "fullExpression": "name:scared | text: @local.scared | image:plh_images/stickers/faces/scared.svg",
+                              "matchedExpression": "@local.scared",
+                              "type": "local",
+                              "fieldName": "scared"
+                            }
+                          ],
+                          "2": [
+                            {
+                              "fullExpression": "name:confused | text: @local.confused | image:plh_images/stickers/faces/confused_question_mark.svg",
+                              "matchedExpression": "@local.confused",
+                              "type": "local",
+                              "fieldName": "confused"
+                            }
+                          ],
+                          "3": [
+                            {
+                              "fullExpression": "name:angry | text: @local.angry | image:plh_images/stickers/faces/angry.svg",
+                              "matchedExpression": "@local.angry",
+                              "type": "local",
+                              "fieldName": "angry"
+                            }
+                          ]
+                        }
+                      },
+                      "_dynamicDependencies": {
+                        "@local.sad": [
+                          "value.0"
+                        ],
+                        "@local.scared": [
+                          "value.1"
+                        ],
+                        "@local.confused": [
+                          "value.2"
+                        ],
+                        "@local.angry": [
+                          "value.3"
+                        ]
+                      }
                     },
                     {
                       "name": "reply",
@@ -290,9 +410,7 @@
                       "name": "question_text",
                       "value": "And @global.w_stress_girl?",
                       "_translations": {
-                        "value": {
-                          "tz_sw": true
-                        }
+                        "value": {}
                       },
                       "type": "set_variable",
                       "_nested_name": "question_time.workshop_activity.content_box.radio_buttons_3.question_text",
@@ -315,21 +433,69 @@
                     {
                       "name": "answer_list",
                       "value": [
-                        "name:sad | text: Sad | image:plh_images/stickers/faces/sadder.svg",
-                        "name:scared | text: Scared | image:plh_images/stickers/faces/scared.svg",
-                        "name:confused | text:Confused | image:plh_images/stickers/faces/confused_question_mark.svg",
-                        "name:angry | text: Angry | image:plh_images/stickers/faces/angry.svg"
+                        "name:sad | text: @local.sad | image:plh_images/stickers/faces/sadder.svg",
+                        "name:scared | text: @local.scared | image:plh_images/stickers/faces/scared.svg",
+                        "name:confused | text: @local.confused | image:plh_images/stickers/faces/confused_question_mark.svg",
+                        "name:angry | text: @local.angry | image:plh_images/stickers/faces/angry.svg"
                       ],
                       "type": "set_variable",
-                      "_nested_name": "question_time.workshop_activity.content_box.radio_buttons_3.answer_list"
+                      "_nested_name": "question_time.workshop_activity.content_box.radio_buttons_3.answer_list",
+                      "_dynamicFields": {
+                        "value": {
+                          "0": [
+                            {
+                              "fullExpression": "name:sad | text: @local.sad | image:plh_images/stickers/faces/sadder.svg",
+                              "matchedExpression": "@local.sad",
+                              "type": "local",
+                              "fieldName": "sad"
+                            }
+                          ],
+                          "1": [
+                            {
+                              "fullExpression": "name:scared | text: @local.scared | image:plh_images/stickers/faces/scared.svg",
+                              "matchedExpression": "@local.scared",
+                              "type": "local",
+                              "fieldName": "scared"
+                            }
+                          ],
+                          "2": [
+                            {
+                              "fullExpression": "name:confused | text: @local.confused | image:plh_images/stickers/faces/confused_question_mark.svg",
+                              "matchedExpression": "@local.confused",
+                              "type": "local",
+                              "fieldName": "confused"
+                            }
+                          ],
+                          "3": [
+                            {
+                              "fullExpression": "name:angry | text: @local.angry | image:plh_images/stickers/faces/angry.svg",
+                              "matchedExpression": "@local.angry",
+                              "type": "local",
+                              "fieldName": "angry"
+                            }
+                          ]
+                        }
+                      },
+                      "_dynamicDependencies": {
+                        "@local.sad": [
+                          "value.0"
+                        ],
+                        "@local.scared": [
+                          "value.1"
+                        ],
+                        "@local.confused": [
+                          "value.2"
+                        ],
+                        "@local.angry": [
+                          "value.3"
+                        ]
+                      }
                     },
                     {
                       "name": "reply",
                       "value": "Each of them was feeling upset for their own reason!",
                       "_translations": {
-                        "value": {
-                          "tz_sw": true
-                        }
+                        "value": {}
                       },
                       "type": "set_variable",
                       "_nested_name": "question_time.workshop_activity.content_box.radio_buttons_3.reply"
@@ -362,9 +528,7 @@
                       "name": "question_text",
                       "value": "What could @global.w_stress_male_caregiver have done differently?",
                       "_translations": {
-                        "value": {
-                          "tz_sw": true
-                        }
+                        "value": {}
                       },
                       "type": "set_variable",
                       "_nested_name": "question_time.workshop_activity.content_box.radio_buttons_4.question_text",

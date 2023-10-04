@@ -41,9 +41,7 @@
               "name": "text",
               "value": "You have have gained so many parenting skills already over the past weeks!\n\nComplete the next workshop to gain another helpful skill.",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "type": "set_variable",
               "_nested_name": "m_workshop_reminder.in_week_message.text"

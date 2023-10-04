@@ -31,9 +31,7 @@
       "name": "change_button_text",
       "value": "Change",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "change_button_text"

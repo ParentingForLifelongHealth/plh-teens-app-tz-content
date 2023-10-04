@@ -8,9 +8,7 @@
       "name": "ideas_button",
       "value": "Real-world ideas",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -18,9 +16,7 @@
       "name": "ideas_short_button",
       "value": "Ideas",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -28,9 +24,7 @@
       "name": "ideas_pop_up",
       "value": "Ideas from other families...",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -38,9 +32,7 @@
       "name": "challenges_solutions_button",
       "value": "Challenges & solutions",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -48,9 +40,7 @@
       "name": "submit_button",
       "value": "Submit",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -58,9 +48,7 @@
       "name": "more",
       "value": "Find out more",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -68,9 +56,7 @@
       "name": "show_me_how",
       "value": "Show me how",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -78,9 +64,7 @@
       "name": "tell_me_more",
       "value": "Tell me more!",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -88,9 +72,7 @@
       "name": "lets_go",
       "value": "Let's go!",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -98,9 +80,7 @@
       "name": "check_it_out",
       "value": "Check it out!",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -108,9 +88,7 @@
       "name": "done",
       "value": "Done",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -118,9 +96,7 @@
       "name": "next",
       "value": "Next",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -128,9 +104,7 @@
       "name": "back",
       "value": "Previous",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -138,9 +112,7 @@
       "name": "save",
       "value": "Save",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -148,9 +120,7 @@
       "name": "start",
       "value": "Start",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -158,9 +128,7 @@
       "name": "skip",
       "value": "Skip",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -168,9 +136,7 @@
       "name": "continue",
       "value": "Continue",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -178,9 +144,7 @@
       "name": "finish_with_song",
       "value": "Finish with a song",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -188,9 +152,7 @@
       "name": "goodbye",
       "value": "Goodbye!",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {

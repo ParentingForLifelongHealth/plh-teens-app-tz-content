@@ -11,8 +11,10 @@ config.translations!.filter_language_codes = ["tz_en", "tz_sw"];
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.1.1",
+  content_tag_latest: "1.1.2",
 };
+
+config.app_data.output_path = "./app_data";
 
 // Override constants
 config.app_config!.APP_LANGUAGES!.default = "tz_sw";

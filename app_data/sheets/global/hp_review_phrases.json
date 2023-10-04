@@ -8,9 +8,7 @@
       "name": "to_solve_hp_challenge",
       "value": "To solve this challenge, I will try to:",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -18,9 +16,7 @@
       "name": "try_this_hp_challenge",
       "value": "Do you want to try one of the following things?",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -28,9 +24,15 @@
       "name": "challenge_not_here",
       "value": "My challenge is not listed here.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "chance_try",
+      "value": "Did you have a chance to try",
+      "_translations": {
+        "value": {}
       }
     }
   ],
