@@ -7,9 +7,7 @@
       "name": "tile_first_line_text",
       "value": "Start",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "tile_first_line_text"

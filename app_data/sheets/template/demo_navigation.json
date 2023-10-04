@@ -178,9 +178,7 @@
           "name": "pt_3_button_3",
           "value": "Unlock workshops",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -417,9 +415,7 @@
           "name": "pt_6_button_1",
           "value": "Read Together",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -448,7 +444,7 @@
         {
           "type": "button",
           "name": "pt_6_button_2",
-          "value": "Question Time (reflect individually)",
+          "value": "Question time (reflect individually)",
           "_translations": {
             "value": {}
           },
@@ -555,7 +551,7 @@
         {
           "type": "button",
           "name": "pt_7_button_1",
-          "value": "@data.workshop.w_praise.tools",
+          "value": "@data.tools.w_praise.title",
           "_translations": {
             "value": {}
           },
@@ -585,15 +581,15 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@data.workshop.w_praise.tools",
-                "matchedExpression": "@data.workshop.w_praise.tools",
+                "fullExpression": "@data.tools.w_praise.title",
+                "matchedExpression": "@data.tools.w_praise.title",
                 "type": "data",
-                "fieldName": "workshop"
+                "fieldName": "tools"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@data.workshop.w_praise.tools": [
+            "@data.tools.w_praise.title": [
               "value"
             ]
           }
@@ -639,9 +635,7 @@
           "name": "pt_7_button_3",
           "value": "Try it Together",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -1016,9 +1010,7 @@
           "name": "pt_11_button_1",
           "value": "Reset App",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "action_list": [
             {

@@ -43,9 +43,7 @@
           "name": "text",
           "value": "You have not added any relaxation activities to @global.my_relaxes yet. Why don't you choose some?",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "_nested_name": "none_added.text",
           "_dynamicFields": {

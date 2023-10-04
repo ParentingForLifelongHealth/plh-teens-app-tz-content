@@ -37,9 +37,7 @@
               "name": "intro_text",
               "value": "Let's talk about what happened to @global.w_safe_teen_girl_1",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "type": "set_variable",
               "_nested_name": "talk_together.workshop_activity.intro_text",
@@ -67,9 +65,7 @@
                   "name": "text",
                   "value": "Discuss together: \n\nWhat was risky about that situation?",
                   "_translations": {
-                    "value": {
-                      "tz_sw": true
-                    }
+                    "value": {}
                   },
                   "type": "set_variable",
                   "_nested_name": "talk_together.workshop_activity.content_box.text"

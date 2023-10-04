@@ -8,9 +8,7 @@
       "name": "item_1",
       "value": "A specific food",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "item_1"
@@ -19,9 +17,7 @@
       "name": "item_2",
       "value": "A specific family member",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "item_2"
@@ -30,9 +26,7 @@
       "name": "item_3",
       "value": "A specific animal",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "item_3"
@@ -41,9 +35,7 @@
       "name": "item_4",
       "value": "Something else",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "item_4"

@@ -115,9 +115,7 @@
       "title": "@global.m_hp_reminder",
       "_translations": {
         "title": {},
-        "text": {
-          "tz_sw": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
@@ -239,9 +237,7 @@
       "title": "@global.m_w_tomorrow",
       "_translations": {
         "title": {},
-        "text": {
-          "tz_sw": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
@@ -308,9 +304,7 @@
       "title": "@global.m_w_tomorrow",
       "_translations": {
         "title": {},
-        "text": {
-          "tz_sw": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {

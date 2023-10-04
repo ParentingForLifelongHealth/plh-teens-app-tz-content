@@ -132,9 +132,7 @@
           "name": "text",
           "value": "Here is a fun activity to do with your teen!",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "in_week_message.text"

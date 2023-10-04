@@ -50,9 +50,7 @@
                   "name": "bottom_text",
                   "value": "Well done!",
                   "_translations": {
-                    "value": {
-                      "tz_sw": true
-                    }
+                    "value": {}
                   },
                   "type": "set_variable",
                   "_nested_name": "reflect_individual.workshop_activity.content_box.bottom_text"

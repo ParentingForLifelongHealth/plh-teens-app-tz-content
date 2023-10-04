@@ -35,9 +35,7 @@
       ],
       "text": "Welcome to @global.parent_app. Click here to start your journey!",
       "_translations": {
-        "text": {
-          "tz_sw": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {

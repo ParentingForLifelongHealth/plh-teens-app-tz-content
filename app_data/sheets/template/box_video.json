@@ -11,9 +11,7 @@
           "name": "video_title",
           "value": "Video",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "hidden": true,
           "_nested_name": "display_group.video_title"

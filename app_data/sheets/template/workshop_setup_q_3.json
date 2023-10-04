@@ -6,25 +6,23 @@
     {
       "type": "text",
       "name": "text_intro",
-      "value": "You can do the @global.weekly_workshops by yourself OR you can invite some other family members or friends to join you - you will learn a lot from each other. It's up to you!",
+      "value": "You can do the @global.workshops by yourself OR you can invite some other family members or friends to join you - you will learn a lot from each other. It is up to you!",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "text_intro",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "You can do the @global.weekly_workshops by yourself OR you can invite some other family members or friends to join you - you will learn a lot from each other. It's up to you!",
-            "matchedExpression": "@global.weekly_workshops",
+            "fullExpression": "You can do the @global.workshops by yourself OR you can invite some other family members or friends to join you - you will learn a lot from each other. It is up to you!",
+            "matchedExpression": "@global.workshops",
             "type": "global",
-            "fieldName": "weekly_workshops"
+            "fieldName": "workshops"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@global.weekly_workshops": [
+        "@global.workshops": [
           "value"
         ]
       }
@@ -32,11 +30,9 @@
     {
       "type": "text",
       "name": "text_q_1",
-      "value": "How would you like to do your @global.weekly_workshops?",
+      "value": "How would you like to do your @global.workshops?",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "parameter_list": {
         "style": "emphasised"
@@ -45,15 +41,15 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "How would you like to do your @global.weekly_workshops?",
-            "matchedExpression": "@global.weekly_workshops",
+            "fullExpression": "How would you like to do your @global.workshops?",
+            "matchedExpression": "@global.workshops",
             "type": "global",
-            "fieldName": "weekly_workshops"
+            "fieldName": "workshops"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@global.weekly_workshops": [
+        "@global.workshops": [
           "value"
         ]
       }
@@ -212,9 +208,7 @@
           "name": "text_q_2",
           "value": "Can you think of a name for your group?",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "parameter_list": {
             "style": "emphasised"
@@ -371,11 +365,9 @@
     {
       "type": "text",
       "name": "text_q_3",
-      "value": "Which day of the week would you like to do your @global.weekly_workshops?",
+      "value": "Which day of the week would you like to do your @global.workshops?",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "parameter_list": {
         "style": "emphasised"
@@ -384,15 +376,15 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "Which day of the week would you like to do your @global.weekly_workshops?",
-            "matchedExpression": "@global.weekly_workshops",
+            "fullExpression": "Which day of the week would you like to do your @global.workshops?",
+            "matchedExpression": "@global.workshops",
             "type": "global",
-            "fieldName": "weekly_workshops"
+            "fieldName": "workshops"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@global.weekly_workshops": [
+        "@global.workshops": [
           "value"
         ]
       }
@@ -401,9 +393,7 @@
       "name": "monday",
       "value": "Monday",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "monday"
@@ -412,9 +402,7 @@
       "name": "tuesday",
       "value": "Tuesday",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "tuesday"
@@ -423,9 +411,7 @@
       "name": "wednesday",
       "value": "Wednesday",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "wednesday"
@@ -434,9 +420,7 @@
       "name": "thursday",
       "value": "Thursday",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "thursday"
@@ -445,9 +429,7 @@
       "name": "friday",
       "value": "Friday",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "friday"
@@ -456,9 +438,7 @@
       "name": "saturday",
       "value": "Saturday",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "saturday"
@@ -467,9 +447,7 @@
       "name": "sunday",
       "value": "Sunday",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "sunday"
@@ -756,9 +734,7 @@
           "name": "text_group",
           "value": "Great! We will unlock a new @global.workshop for your group every week. This allows all of you to try what you learned with your families before building the next skill.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "condition": "@local.radio_group==\"together\"",
           "_nested_name": "combo_box_replies.text_group",
@@ -794,9 +770,7 @@
           "name": "text_individual",
           "value": "Great! We will unlock a new @global.workshop for you every week. This allows you to try what you learned with your family before building the next skill.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "condition": "@local.radio_group==\"individual\"",
           "_nested_name": "combo_box_replies.text_individual",
@@ -850,9 +824,7 @@
       "name": "text_change",
       "value": "You can always change these settings in your @global.weekly_workshop_options.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "text_change",
       "_dynamicFields": {

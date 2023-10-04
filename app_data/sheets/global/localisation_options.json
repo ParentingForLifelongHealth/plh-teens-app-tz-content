@@ -17,9 +17,7 @@
       "name": "whatsapp",
       "value": "WhatsApp",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true
     },
@@ -73,9 +71,15 @@
       "name": "covid",
       "value": "COVID",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "regional",
+      "value": "regional",
+      "_translations": {
+        "value": {}
       }
     }
   ],

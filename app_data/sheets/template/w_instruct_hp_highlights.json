@@ -9,9 +9,7 @@
       "name": "question_text_1",
       "value": "Which of the tips helped you?",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "parameter_list": {
         "style": "emphasised"
@@ -22,9 +20,7 @@
       "name": "choice_1",
       "value": "GET REAL – Can your teen do what you are about to ask?",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "choice_1"
@@ -33,9 +29,7 @@
       "name": "choice_2",
       "value": "GET POSITIVE – Use positive words and praise them!",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "choice_2"
@@ -44,9 +38,7 @@
       "name": "choice_3",
       "value": "GET CLEAR – Be clear and specific!",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "choice_3"
@@ -246,9 +238,7 @@
       "name": "reply_choice_1",
       "value": "Wonderful! When we ask our teen to do something that is realistic, it is easier for them to succeed.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "hidden": "@local.combo_box!=\"choice_1\"",
       "_nested_name": "reply_choice_1",
@@ -273,9 +263,7 @@
       "name": "reply_choice_2",
       "value": "When we praise them, our teens feel encouraged to listen to us again!",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "hidden": "@local.combo_box!=\"choice_2\"",
       "_nested_name": "reply_choice_2",
@@ -300,9 +288,7 @@
       "name": "reply_choice_3",
       "value": "Awesome! When we think ahead of specific instructions to give our teen, our instructions become much easier to follow!",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "hidden": "@local.combo_box!=\"choice_3\"",
       "_nested_name": "reply_choice_3",

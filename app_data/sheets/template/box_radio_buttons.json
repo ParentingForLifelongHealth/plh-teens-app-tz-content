@@ -67,7 +67,7 @@
       "_nested_name": "radio_group_answered"
     },
     {
-      "type": "radio_group",
+      "type": "radio_button_grid",
       "name": "radio_group",
       "action_list": [
         {
@@ -93,7 +93,7 @@
       ],
       "parameter_list": {
         "answer_list": "@local.answer_list",
-        "options_per_row": "@local.options_per_row"
+        "item_width": "50px"
       },
       "_nested_name": "radio_group",
       "_dynamicFields": {
@@ -147,14 +147,6 @@
               "type": "local",
               "fieldName": "answer_list"
             }
-          ],
-          "options_per_row": [
-            {
-              "fullExpression": "@local.options_per_row",
-              "matchedExpression": "@local.options_per_row",
-              "type": "local",
-              "fieldName": "options_per_row"
-            }
           ]
         }
       },
@@ -170,30 +162,46 @@
         ],
         "@local.answer_list": [
           "parameter_list.answer_list"
-        ],
-        "@local.options_per_row": [
-          "parameter_list.options_per_row"
         ]
       }
+    },
+    {
+      "name": "reply",
+      "type": "set_variable",
+      "_nested_name": "reply"
     },
     {
       "type": "display_group",
       "name": "reply_dg",
       "hidden": "!@local.radio_group_answered",
+      "condition": "!!(@local.reply)",
       "parameter_list": {
         "style": "column"
       },
       "rows": [
         {
           "type": "text",
-          "name": "reply",
-          "value": "Reply",
+          "name": "show_reply",
+          "value": "@local.reply",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
-          "_nested_name": "reply_dg.reply"
+          "_nested_name": "reply_dg.show_reply",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.reply",
+                "matchedExpression": "@local.reply",
+                "type": "local",
+                "fieldName": "reply"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.reply": [
+              "value"
+            ]
+          }
         }
       ],
       "_nested_name": "reply_dg",
@@ -205,11 +213,22 @@
             "type": "local",
             "fieldName": "radio_group_answered"
           }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.reply)",
+            "matchedExpression": "@local.reply",
+            "type": "local",
+            "fieldName": "reply"
+          }
         ]
       },
       "_dynamicDependencies": {
         "!@local.radio_group_answered": [
           "hidden"
+        ],
+        "@local.reply": [
+          "condition"
         ]
       }
     },

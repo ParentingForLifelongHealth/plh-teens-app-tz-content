@@ -8,13 +8,12 @@
       "individual": true,
       "together": false,
       "priority": 11,
+      "icon_asset": "@data.mode.quiz.icon_asset",
       "has_single_task": true,
       "template": "w_praise_question_1",
       "title": "Question",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -31,9 +30,7 @@
       "template": "w_praise_talk_1",
       "title": "Talk Together",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -46,15 +43,16 @@
       "individual": true,
       "together": true,
       "priority": 12,
-      "story_id": "praise",
+      "icon_asset": "@data.mode.read.icon_asset",
+      "story_id": "give_praise",
       "has_single_task": false,
-      "title": "@global.story @global.part_connector @data.story.praise.title",
+      "title": "@global.story: @data.story.give_praise.title",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "@global.story @global.part_connector @data.story.praise.title"
+          "eng": "@global.story: @data.story.give_praise.title"
         }
       }
     },
@@ -63,13 +61,12 @@
       "individual": false,
       "together": true,
       "priority": 71,
+      "icon_asset": "@data.mode.try.icon_asset",
       "has_single_task": true,
       "template": "w_praise_try",
       "title": "Try it out!",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {

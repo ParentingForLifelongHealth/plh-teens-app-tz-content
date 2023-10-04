@@ -8,15 +8,16 @@
       "individual": true,
       "together": true,
       "priority": 11,
-      "story_id": "rape",
+      "icon_asset": "@data.mode.read.icon_asset",
+      "story_id": "rape_crisis",
       "has_single_task": false,
-      "title": "@global.story @global.part_connector @data.story.rape.title",
+      "title": "@global.story: @data.story.rape_crisis.title",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "@global.story @global.part_connector @data.story.rape.title"
+          "eng": "@global.story: @data.story.rape_crisis.title"
         }
       }
     },
@@ -25,15 +26,16 @@
       "individual": true,
       "together": true,
       "priority": 13,
-      "story_id": "violence",
+      "icon_asset": "@data.mode.read.icon_asset",
+      "story_id": "violence_crime",
       "has_single_task": false,
-      "title": "@global.story @global.part_connector @data.story.violence.title",
+      "title": "@global.story: @data.story.violence_crime.title",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "@global.story @global.part_connector @data.story.violence.title"
+          "eng": "@global.story: @data.story.violence_crime.title"
         }
       }
     },
@@ -42,13 +44,12 @@
       "individual": true,
       "together": true,
       "priority": 71,
+      "icon_asset": "@data.mode.learn.icon_asset",
       "has_single_task": true,
       "template": "w_crisis_learn_temp",
       "title": "Learn",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {

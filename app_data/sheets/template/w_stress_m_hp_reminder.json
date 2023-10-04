@@ -17,9 +17,7 @@
               "name": "text",
               "value": "How have your stress levels been this week? Try to take a few deep breaths before responding to your teen - it makes a big difference.",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "condition": "@fields.parent_point_count_breathe == 0",
               "type": "set_variable",
@@ -80,9 +78,7 @@
               "name": "title",
               "value": "Well done!",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "condition": "@fields.parent_point_count_breathe > 0",
               "type": "set_variable",
@@ -143,9 +139,7 @@
               "name": "text",
               "value": "Well done for taking a big breath before responding to your teen! Each time you are taking a pause, you are getting back control.",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "condition": "@fields.parent_point_count_breathe > 0",
               "type": "set_variable",

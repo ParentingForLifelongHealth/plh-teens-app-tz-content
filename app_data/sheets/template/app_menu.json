@@ -30,9 +30,7 @@
       "name": "button_1",
       "value": "Home",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -52,9 +50,7 @@
       "name": "button_2",
       "value": "About @global.parent_app",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -89,9 +85,7 @@
       "name": "button_3",
       "value": "Settings",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -111,9 +105,7 @@
       "name": "button_4",
       "value": "Template",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -149,9 +141,7 @@
       "name": "button_5",
       "value": "How to use @global.parent_app",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -198,9 +188,7 @@
       "name": "button_5",
       "value": "How to use @global.parent_app",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -247,9 +235,7 @@
       "name": "button_6",
       "value": "In-Week Messages",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -294,9 +280,7 @@
       "name": "button_7",
       "value": "Campaigns",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -332,9 +316,7 @@
       "name": "button_notifications",
       "value": "Notifications",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {

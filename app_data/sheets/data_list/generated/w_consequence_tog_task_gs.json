@@ -11,9 +11,7 @@
       "has_single_task": true,
       "title": "How are you?",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -29,14 +27,15 @@
       "individual": true,
       "together": true,
       "priority": 3,
+      "icon_asset": "@data.mode.relax.icon_asset",
       "has_single_task": true,
-      "title": "@data.workshop[@fields.current_workshop].relax_title",
+      "title": "@data.workshop_relax[@fields.current_workshop].activity_title",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "@data.workshop[@fields.current_workshop].relax_title"
+          "eng": "@data.workshop_relax[@fields.current_workshop].activity_title"
         }
       },
       "template": "w_consequence_relax",
@@ -67,14 +66,15 @@
       "individual": true,
       "together": true,
       "priority": 5,
+      "icon_asset": "@data.mode.topic_intro.icon_asset",
       "has_single_task": true,
-      "title": "@data.workshop[@fields.current_workshop].intro_title",
+      "title": "@data.topic_intro[@fields.current_workshop].title",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "@data.workshop[@fields.current_workshop].intro_title"
+          "eng": "@data.topic_intro[@fields.current_workshop].title"
         }
       },
       "template": "w_consequence_intro",
@@ -86,14 +86,15 @@
       "individual": true,
       "together": true,
       "priority": 70,
+      "icon_asset": "@data.mode.tools.icon_asset",
       "has_single_task": true,
-      "title": "@data.workshop[@fields.current_workshop].tools",
+      "title": "@data.tools[@fields.current_workshop].title",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "@data.workshop[@fields.current_workshop].tools"
+          "eng": "@data.tools[@fields.current_workshop].title"
         }
       },
       "template": "w_consequence_tools_activity",
@@ -105,6 +106,7 @@
       "individual": true,
       "together": true,
       "priority": 80,
+      "icon_asset": "@data.mode.home_practice.icon_asset",
       "has_single_task": true,
       "title": "@global.home_practice",
       "_translations": {
@@ -124,12 +126,11 @@
       "individual": true,
       "together": true,
       "priority": 90,
+      "icon_asset": "@data.mode.ending.icon_asset",
       "has_single_task": true,
       "title": "Well done!",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -145,6 +146,7 @@
       "individual": true,
       "together": true,
       "priority": 91,
+      "icon_asset": "@data.mode.hp_review.icon_asset",
       "has_single_task": true,
       "title": "@global.hp_review",
       "_translations": {
@@ -164,14 +166,15 @@
       "individual": true,
       "together": true,
       "priority": 11,
+      "icon_asset": "@data.mode.read.icon_asset",
       "has_single_task": false,
-      "title": "@global.story @global.part_connector @data.story.neg_consequence.title",
+      "title": "@global.story: @data.story.neg_consequence.title",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "@global.story @global.part_connector @data.story.neg_consequence.title"
+          "eng": "@global.story: @data.story.neg_consequence.title"
         }
       },
       "story_id": "neg_consequence",
@@ -183,12 +186,11 @@
       "individual": true,
       "together": true,
       "priority": 13,
+      "icon_asset": "@data.mode.learn.icon_asset",
       "has_single_task": true,
       "title": "Learn",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -207,9 +209,7 @@
       "has_single_task": true,
       "title": "Talk Together",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -225,14 +225,15 @@
       "individual": true,
       "together": true,
       "priority": 72,
+      "icon_asset": "@data.mode.read.icon_asset",
       "has_single_task": false,
-      "title": "@global.story @global.part_connector @data.story.pos_consequence.title",
+      "title": "@global.story: @data.story.pos_consequence.title",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "@global.story @global.part_connector @data.story.pos_consequence.title"
+          "eng": "@global.story: @data.story.pos_consequence.title"
         }
       },
       "story_id": "pos_consequence",
@@ -244,12 +245,11 @@
       "individual": false,
       "together": true,
       "priority": 75,
+      "icon_asset": "@data.mode.try.icon_asset",
       "has_single_task": true,
       "title": "Try it out!",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {

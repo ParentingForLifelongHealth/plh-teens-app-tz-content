@@ -8,9 +8,7 @@
       "name": "description_text",
       "value": "Ideas from other families:",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "description_text"
     },

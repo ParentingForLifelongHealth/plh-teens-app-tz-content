@@ -35,9 +35,7 @@
       "name": "button_1",
       "value": "Support Contacts",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -73,9 +71,7 @@
       "name": "button_2",
       "value": "Quick Parenting Tips",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -95,9 +91,7 @@
       "name": "button_3",
       "value": "Technical Support",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {
