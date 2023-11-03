@@ -1,5 +1,5 @@
 # plh-teens-app-tz-content
-This package contains data used in the plh-teens Tanzania app
+This package contains data used in the PLH Teens Tanzania app
 
 linked directly to PLH Teens https://github.com/IDEMSInternational/plh-teens-app-content
 
