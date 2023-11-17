@@ -245,7 +245,7 @@
           "eng": "Think back to when you were a teenager. \n\nWas there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @global.w_stress_teen_boy_2 and @global.w_stress_teen_girl! Let’s have a look:"
         },
         "text_1": {
-          "eng": "@global.w_stress_teen_boy_2: \"Don’t tell the adults, but I am going to bar with my friends tonight\" \n\n@global.w_stress_teen_girl: \"Have fun! I have told them I am staying with my girlfriend, but I am actually going to a cool party.\""
+          "eng": "@global.w_stress_teen_boy_2: \"Don’t tell the adults, but I am going to bar with my friends tonight.\" \n\n@global.w_stress_teen_girl: \"Have fun! I have told them I am staying with my girlfriend, but I am actually going to a cool party.\""
         },
         "text_2": {
           "eng": "@global.w_stress_teen_boy_2: \"I think they are dealing drugs. We could all get arrested. But I can’t tell my parents – they will be so angry!\""
@@ -264,7 +264,7 @@
         }
       },
       "intro_text": "Think back to when you were a teenager. \n\nWas there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @global.w_stress_teen_boy_2 and @global.w_stress_teen_girl! Let’s have a look:",
-      "text_1": "@global.w_stress_teen_boy_2: \"Don’t tell the adults, but I am going to bar with my friends tonight\" \n\n@global.w_stress_teen_girl: \"Have fun! I have told them I am staying with my girlfriend, but I am actually going to a cool party.\"",
+      "text_1": "@global.w_stress_teen_boy_2: \"Don’t tell the adults, but I am going to bar with my friends tonight.\" \n\n@global.w_stress_teen_girl: \"Have fun! I have told them I am staying with my girlfriend, but I am actually going to a cool party.\"",
       "text_2": "@global.w_stress_teen_boy_2: \"I think they are dealing drugs. We could all get arrested. But I can’t tell my parents – they will be so angry!\"",
       "text_3": "@global.w_stress_teen_girl: \"I am scared. Everyone is too drunk to drive me home. This boy says he will take me but he wants us to go to his house first. I can’t tell my parents – I lied about coming to this party.\"",
       "text_4": "These are dangerous situations! Thankfully, @global.w_stress_teen_boy_2 and @global.w_stress_teen_girl then remembered what @global.w_stress_parent told them:  \n\n\"I care about your safety more than anything. If you are ever upset, or scared, you can always call me for help, or tell me about it. \n\nShall we use an imaginary ‘@global.safety_word_example_1’ as @global.safety_word? Just say something about @global.safety_word_example_1, I promise that I will try my best to help and I will not be angry – even if you are doing something you should not.\"",
@@ -413,7 +413,7 @@
           "eng": "Let’s see how @global.w_rules_female_caregiver_1 and @global.w_rules_teen_boy did this the next day:\n\n@global.w_rules_female_caregiver_1: “I want you to have fun, @global.w_rules_teen_boy, but I’m also worried about you staying out late. Do you know why?” \n\n@global.w_rules_teen_boy: “Because you want me to have enough time for my schoolwork?”"
         },
         "text_3": {
-          "eng": "@global.w_rules_female_caregiver_1: “That is right, and it is also not safe in this area to be outside after sunset. What do you think would be a good time for you to be home?”"
+          "eng": "@global.w_rules_female_caregiver_1: “That is right. It is also not safe in this area to be outside after sunset. What do you think would be a good time for you to be home?”"
         },
         "text_4": {
           "eng": "@global.w_rules_teen_boy: “I could come home at 10pm?\"  \n\n@global.w_rules_female_caregiver_1: “That is a bit late, what about 6pm? Or something in the middle?\""
@@ -432,7 +432,7 @@
       "text_1": "@global.w_rules_female_caregiver_1: \"You always come home late!\"\n\n@global.w_rules_teen_boy: \"No I don’t, I don’t even know what late means! Stop nagging me.\"",
       "dashed_box_1": "Which specific rule could @global.w_rules_teen_boy and @global.w_rules_female_caregiver_1 create together?",
       "text_2": "Let’s see how @global.w_rules_female_caregiver_1 and @global.w_rules_teen_boy did this the next day:\n\n@global.w_rules_female_caregiver_1: “I want you to have fun, @global.w_rules_teen_boy, but I’m also worried about you staying out late. Do you know why?” \n\n@global.w_rules_teen_boy: “Because you want me to have enough time for my schoolwork?”",
-      "text_3": "@global.w_rules_female_caregiver_1: “That is right, and it is also not safe in this area to be outside after sunset. What do you think would be a good time for you to be home?”",
+      "text_3": "@global.w_rules_female_caregiver_1: “That is right. It is also not safe in this area to be outside after sunset. What do you think would be a good time for you to be home?”",
       "text_4": "@global.w_rules_teen_boy: “I could come home at 10pm?\"  \n\n@global.w_rules_female_caregiver_1: “That is a bit late, what about 6pm? Or something in the middle?\"",
       "text_5": "@global.w_rules_teen_boy: “I could come home at 6pm on school nights and 10pm on Friday and Saturday?” \n\n@global.w_rules_female_caregiver_1: “Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 10pm on Friday and Saturday. But you always walk home with a friend. Okay?”",
       "text_6": "@global.w_rules_teen_boy: “Okay, @global.w_rules_female_caregiver_1” \n\n@global.w_rules_female_caregiver_1: “Thank you very much, @global.w_rules_teen_boy, for helping to come up with a good rule together. I am proud to see how responsible you are getting.”",
@@ -829,13 +829,13 @@
           "eng": "@global.w_safe_female_caregiver: \"You are a good friend for being worried about her. Sending sexy photos is a real risk too.\""
         },
         "text_3": {
-          "eng": "@global.w_safe_female_caregiver: \"Sometimes people are not who they say they are online – he could say he is your age but be a 50 year old man. Or when they break up, he could send those photos to everyone and your friend would feel awful.\""
+          "eng": "@global.w_safe_female_caregiver: \"Sometimes people are not who they say they are online – he could say he is your age but be a 50-year-old man. Or when they break up, he could send those photos to everyone and your friend would feel awful.\""
         }
       },
       "intro_text": "Let's look at another example of a dangerous situation together.",
       "text_1": "@global.w_safe_teen_girl_1: \"My friend has been talking with a guy our age online... She is going to send him photos of herself. Is that better because he is our age?\"",
       "text_2": "@global.w_safe_female_caregiver: \"You are a good friend for being worried about her. Sending sexy photos is a real risk too.\"",
-      "text_3": "@global.w_safe_female_caregiver: \"Sometimes people are not who they say they are online – he could say he is your age but be a 50 year old man. Or when they break up, he could send those photos to everyone and your friend would feel awful.\""
+      "text_3": "@global.w_safe_female_caregiver: \"Sometimes people are not who they say they are online – he could say he is your age but be a 50-year-old man. Or when they break up, he could send those photos to everyone and your friend would feel awful.\""
     },
     {
       "id": "rape_crisis",
@@ -919,7 +919,7 @@
           "eng": "Another problem that many parents are worried about is violence and crime. Let’s look at an example together."
         },
         "text_1": {
-          "eng": "@global.w_crisis_male_caregiver_1: \"@global.w_crisis_teen_boy_1, you look worried since yesterday. What is wrong?\""
+          "eng": "@global.w_crisis_male_caregiver_1: \"@global.w_crisis_teen_boy_1, you've looked worried since yesterday. What is wrong?\""
         },
         "text_2": {
           "eng": "@global.w_crisis_teen_boy_1: \"Yesterday, my friends and I went to a soccer match. Some guys who were drunk started a fight with my friend.\"\n\n@global.w_crisis_male_caregiver_1: \"Continue, I am listening. I hope you did not fight?\""
@@ -938,7 +938,7 @@
         }
       },
       "intro_text": "Another problem that many parents are worried about is violence and crime. Let’s look at an example together.",
-      "text_1": "@global.w_crisis_male_caregiver_1: \"@global.w_crisis_teen_boy_1, you look worried since yesterday. What is wrong?\"",
+      "text_1": "@global.w_crisis_male_caregiver_1: \"@global.w_crisis_teen_boy_1, you've looked worried since yesterday. What is wrong?\"",
       "text_2": "@global.w_crisis_teen_boy_1: \"Yesterday, my friends and I went to a soccer match. Some guys who were drunk started a fight with my friend.\"\n\n@global.w_crisis_male_caregiver_1: \"Continue, I am listening. I hope you did not fight?\"",
       "text_3": "@global.w_crisis_teen_boy_1: \"I did not want to, but I could not just stand there and let them beat up my friend, so…\"\n\n@global.w_crisis_male_caregiver_1: \"So, did you fight in order to help defend your friend?\"",
       "text_4": "@global.w_crisis_teen_boy_1: “Everyone was fighting. I saw someone lying on the field in a pool of blood. He looked… dead.\"",

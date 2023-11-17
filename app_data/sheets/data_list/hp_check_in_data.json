@@ -35,7 +35,7 @@
           "eng": "That’s wonderful! Well done for spending time together. It lays the foundation for a great relationship with your teen!"
         },
         "reply_ok": {
-          "eng": "Sometimes it will be easy and fun to spend time with your teens, and sometimes it will be more challenging. Spending time together will definitely improve your relationship!"
+          "eng": "Sometimes it will be easy and fun to spend time with your teens and sometimes it will be more challenging. Spending time together will definitely improve your relationship!"
         },
         "reply_sad": {
           "eng": "Sorry to hear that it was difficult for you to spend time with your teen. We all have challenges sometimes. Just be patient with yourself and your teen – things will get better. Well done for trying!"
@@ -63,7 +63,7 @@
         }
       },
       "reply_happy": "That’s wonderful! Well done for spending time together. It lays the foundation for a great relationship with your teen!",
-      "reply_ok": "Sometimes it will be easy and fun to spend time with your teens, and sometimes it will be more challenging. Spending time together will definitely improve your relationship!",
+      "reply_ok": "Sometimes it will be easy and fun to spend time with your teens and sometimes it will be more challenging. Spending time together will definitely improve your relationship!",
       "reply_sad": "Sorry to hear that it was difficult for you to spend time with your teen. We all have challenges sometimes. Just be patient with yourself and your teen – things will get better. Well done for trying!",
       "activity_title": "@global.hp_review",
       "intro_text": "@global.text_hp_review",
@@ -101,13 +101,13 @@
           "eng": "Your goal was to praise your teen."
         },
         "reply_no": {
-          "eng": "It can sometimes be hard to remember to praise our teens. Next time you spend one-on-one time with your teen, try and think of one thing you can praise them for. You can even say, “Thank you for spending time with me!”."
+          "eng": "It can sometimes be hard to remember to praise our teens. Next time you spend one-on-one time with your teen, try and think of one thing you can praise them for. You can even say, “Thank you for spending time with me!”"
         },
         "reply_happy": {
           "eng": "Great to hear it went well! Keep up the praise – you will see your teen do more and more of the behaviour you like to see!"
         },
         "reply_ok": {
-          "eng": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference, you will see."
+          "eng": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference - you will see."
         },
         "reply_sad": {
           "eng": "Sorry that you struggled with this. Starting with praise can take some practice, but you will see the positive results soon!"
@@ -131,9 +131,9 @@
           "eng": "How did it go?"
         }
       },
-      "reply_no": "It can sometimes be hard to remember to praise our teens. Next time you spend one-on-one time with your teen, try and think of one thing you can praise them for. You can even say, “Thank you for spending time with me!”.",
+      "reply_no": "It can sometimes be hard to remember to praise our teens. Next time you spend one-on-one time with your teen, try and think of one thing you can praise them for. You can even say, “Thank you for spending time with me!”",
       "reply_happy": "Great to hear it went well! Keep up the praise – you will see your teen do more and more of the behaviour you like to see!",
-      "reply_ok": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference, you will see.",
+      "reply_ok": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference - you will see.",
       "reply_sad": "Sorry that you struggled with this. Starting with praise can take some practice, but you will see the positive results soon!",
       "outro_text": "You deserve some praise, too. Thank you again for using @global.parent_app. It shows you really care!",
       "activity_title": "@global.hp_review",
@@ -376,7 +376,7 @@
           "eng": "Your goal was to make ONE rule with your teen."
         },
         "reply_happy": {
-          "eng": "Great to hear it went well! Consistent rules help make our teens feel secure, and keep them safe!"
+          "eng": "Great to hear it went well! Consistent rules help make our teens feel secure and keep them safe!"
         },
         "reply_ok": {
           "eng": "It can be hard to create your first rule together, but you will see the benefits of involving your family. Keep trying!"
@@ -406,7 +406,7 @@
           "eng": "How did it go?"
         }
       },
-      "reply_happy": "Great to hear it went well! Consistent rules help make our teens feel secure, and keep them safe!",
+      "reply_happy": "Great to hear it went well! Consistent rules help make our teens feel secure and keep them safe!",
       "reply_ok": "It can be hard to create your first rule together, but you will see the benefits of involving your family. Keep trying!",
       "reply_sad": "Sorry that this has been difficult. Creating rules together requires some practice but it is worth it!",
       "outro_text": "Well done for this! It is not easy, and teenagers will not keep to the rules all the time, but making a few key rules together is a great start. Praise yourself for trying this – we are proud of you!",

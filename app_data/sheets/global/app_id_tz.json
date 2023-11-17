@@ -3,7 +3,7 @@
   "flow_name": "app_id_tz",
   "status": "released",
   "override_target": "app_id",
-  "override_condition": "@fields._deployment_name == \"plh_tz\"",
+  "override_condition": "@fields._deployment_name == \"plh_teens_tz\"",
   "rows": [
     {
       "type": "declare_global_constant",

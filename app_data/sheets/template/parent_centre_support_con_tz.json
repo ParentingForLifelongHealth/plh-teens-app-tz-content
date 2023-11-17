@@ -3,7 +3,7 @@
   "flow_name": "parent_centre_support_con_tz",
   "status": "released",
   "override_target": "parent_centre_support_con",
-  "override_condition": "@fields._deployment_name == \"plh_tz\"",
+  "override_condition": "@fields._deployment_name == \"plh_teens_tz\"",
   "rows": [
     {
       "type": "template",

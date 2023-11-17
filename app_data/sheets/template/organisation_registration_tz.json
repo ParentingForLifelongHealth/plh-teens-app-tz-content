@@ -3,7 +3,7 @@
   "flow_name": "organisation_registration_tz",
   "status": "released",
   "override_target": "organisation_registration",
-  "override_condition": "@fields._deployment_name == \"plh_tz\"",
+  "override_condition": "@fields._deployment_name == \"plh_teens_tz\"",
   "rows": [
     {
       "name": "myself",

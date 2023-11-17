@@ -3,7 +3,7 @@
   "flow_name": "localised_names_tz",
   "status": "released",
   "override_target": "localised_names",
-  "override_condition": "@fields._deployment_name == \"plh_tz\"",
+  "override_condition": "@fields._deployment_name == \"plh_teens_tz\"",
   "rows": [
     {
       "type": "declare_global_constant",

@@ -718,7 +718,7 @@
         {
           "type": "text",
           "name": "reply_choice_1_a",
-          "value": "Perfect! Even spending 5 minutes makes a big difference, and if you do it at the same time every day (like at breakfast or before bed), it will be easier to keep it up!",
+          "value": "Perfect! Even spending 5 minutes makes a big difference and if you do it at the same time every day (like at breakfast or before bed) it will be easier to keep it up!",
           "_translations": {
             "value": {}
           },
@@ -939,7 +939,7 @@
         {
           "type": "text",
           "name": "reply_choice_2_b",
-          "value": "Nice! Watching your teen’s favourite T.V. show or sports match together will show them that you care. Just be patient; they will open up to you over time!",
+          "value": "Nice! Watching your teen’s favourite TV show or sports match together will show them that you care. Just be patient; they will open up to you over time!",
           "_translations": {
             "value": {}
           },
@@ -1015,7 +1015,7 @@
         {
           "type": "text",
           "name": "reply_challenge_3",
-          "value": "Sorry that you had that challenge. Children often want to spend time watching T.V. or playing with a gadget. Well done for being patient with your teen!",
+          "value": "Sorry that you had that challenge. Children often want to spend time watching TV or playing with a gadget. Well done for being patient with your teen!",
           "_translations": {
             "value": {}
           },
@@ -1182,7 +1182,7 @@
         {
           "type": "text",
           "name": "reply_choice_3_b",
-          "value": "Wonderful!  There are lots of fun and educational apps on phones that you can explore together. Ask questions, show interest, and remember to say something nice.",
+          "value": "Wonderful!  There are lots of fun and educational apps on phones that you can explore together. Ask questions, show interest and remember to say something nice.",
           "_translations": {
             "value": {}
           },
@@ -1258,7 +1258,7 @@
         {
           "type": "text",
           "name": "reply_challenge_4",
-          "value": "You are not alone here. Many parents sometimes have this challenge, too. One-on-one time should always be safe, and it does not have to cost a thing!",
+          "value": "You are not alone here. Many parents sometimes have this challenge, too. One-on-one time should always be safe and it does not have to cost a thing!",
           "_translations": {
             "value": {}
           },
@@ -1946,7 +1946,7 @@
         {
           "type": "text",
           "name": "reply_choice_7_c",
-          "value": "Wonderful! If you spend time together right before dinner, you can happily say, “one-on-one time is over. Let’s get ready for dinner with the rest of the family!”",
+          "value": "Wonderful! If you spend time together right before dinner, you can happily say, “One-on-one time is over. Let’s get ready for dinner with the rest of the family!”",
           "_translations": {
             "value": {}
           },
