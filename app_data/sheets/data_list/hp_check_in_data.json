@@ -107,7 +107,7 @@
           "eng": "Great to hear it went well! Keep up the praise – you will see your teen do more and more of the behaviour you like to see!"
         },
         "reply_ok": {
-          "eng": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference - you will see."
+          "eng": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference – you will see."
         },
         "reply_sad": {
           "eng": "Sorry that you struggled with this. Starting with praise can take some practice, but you will see the positive results soon!"
@@ -133,7 +133,7 @@
       },
       "reply_no": "It can sometimes be hard to remember to praise our teens. Next time you spend one-on-one time with your teen, try and think of one thing you can praise them for. You can even say, “Thank you for spending time with me!”",
       "reply_happy": "Great to hear it went well! Keep up the praise – you will see your teen do more and more of the behaviour you like to see!",
-      "reply_ok": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference - you will see.",
+      "reply_ok": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference – you will see.",
       "reply_sad": "Sorry that you struggled with this. Starting with praise can take some practice, but you will see the positive results soon!",
       "outro_text": "You deserve some praise, too. Thank you again for using @global.parent_app. It shows you really care!",
       "activity_title": "@global.hp_review",
