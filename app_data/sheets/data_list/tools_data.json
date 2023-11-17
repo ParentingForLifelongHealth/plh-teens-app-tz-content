@@ -143,7 +143,7 @@
           "eng": "SEE IT"
         },
         "tool_1_text": {
-          "eng": "Look for anything your teen does that is helpful or good, and praise them for it. They may not show it, but you will see them doing that good thing again. It will also reassure them that you notice and care."
+          "eng": "Look for anything your teen does that is helpful or good and praise them for it. They may not show it, but you will see them doing that good thing again. It will also reassure them that you notice and care."
         },
         "tool_2_title": {
           "eng": "SAY IT"
@@ -165,7 +165,7 @@
         }
       },
       "tool_1_title": "SEE IT",
-      "tool_1_text": "Look for anything your teen does that is helpful or good, and praise them for it. They may not show it, but you will see them doing that good thing again. It will also reassure them that you notice and care.",
+      "tool_1_text": "Look for anything your teen does that is helpful or good and praise them for it. They may not show it, but you will see them doing that good thing again. It will also reassure them that you notice and care.",
       "tool_2_title": "SAY IT",
       "tool_2_text": "Be enthusiastic – really mean it when you say it!",
       "tool_3_title": "REPEAT IT",
@@ -200,7 +200,7 @@
           "eng": "GET POSITIVE"
         },
         "tool_2_text": {
-          "eng": "Smile, look them in the eye, and use positive words. Praise them as soon as they start to do what you ask!"
+          "eng": "Smile, look them in the eye and use positive words. Praise them as soon as they start to do what you ask!"
         },
         "tool_3_title": {
           "eng": "GET CLEAR"
@@ -215,7 +215,7 @@
       "tool_1_title": "GET REAL",
       "tool_1_text": "Can your teen actually do what you are about to ask? It may be impossible for them to read quietly all day, but half an hour when you really need it is realistic.",
       "tool_2_title": "GET POSITIVE",
-      "tool_2_text": "Smile, look them in the eye, and use positive words. Praise them as soon as they start to do what you ask!",
+      "tool_2_text": "Smile, look them in the eye and use positive words. Praise them as soon as they start to do what you ask!",
       "tool_3_title": "GET CLEAR",
       "tool_3_text": "Often we know what we want in our head, but we don’t say it clearly enough. Say exactly what you want your teen to do. Try ‘please come home by 7pm’ instead of ‘come home in time’.",
       "tool_4_title": ""
@@ -439,7 +439,7 @@
           "eng": "How to create rules"
         },
         "top_text": {
-          "eng": "Household rules help keep our teenagers safe, and understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them."
+          "eng": "Household rules help keep our teenagers safe and to understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them."
         },
         "tool_1_title": {
           "eng": "TEAM RULES"
@@ -463,7 +463,7 @@
           "eng": ""
         }
       },
-      "top_text": "Household rules help keep our teenagers safe, and understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them.",
+      "top_text": "Household rules help keep our teenagers safe and to understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them.",
       "tool_1_title": "TEAM RULES",
       "tool_1_text": "Household rules help keep our teenagers safe, and understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them.",
       "tool_2_title": "REAL RULES",
@@ -620,7 +620,7 @@
           "eng": "BREATHE"
         },
         "tool_1_text": {
-          "eng": "Stay calm. Ask yourself \"What does my teen need right now?\""
+          "eng": "Stay calm. Ask yourself, \"What does my teen need right now?\""
         },
         "tool_2_title": {
           "eng": "LISTEN"
@@ -632,7 +632,7 @@
           "eng": "THINK"
         },
         "tool_3_text": {
-          "eng": "Talk with your teen. What might help the situation? You might need to make immediate plans now, and then long-term plans later."
+          "eng": "Talk with your teen. What might help the situation? You might need to make immediate plans now and then long-term plans later."
         },
         "tool_4_title": {
           "eng": ""
@@ -643,11 +643,11 @@
       },
       "top_text": "Crisis can make us feel angry or helpless. But this is when our teens really need us to breathe, listen and think.",
       "tool_1_title": "BREATHE",
-      "tool_1_text": "Stay calm. Ask yourself \"What does my teen need right now?\"",
+      "tool_1_text": "Stay calm. Ask yourself, \"What does my teen need right now?\"",
       "tool_2_title": "LISTEN",
       "tool_2_text": "Tell them you are there for them and love them.",
       "tool_3_title": "THINK",
-      "tool_3_text": "Talk with your teen. What might help the situation? You might need to make immediate plans now, and then long-term plans later.",
+      "tool_3_text": "Talk with your teen. What might help the situation? You might need to make immediate plans now and then long-term plans later.",
       "tool_4_title": "",
       "bottom_text": "You can be proud of yourself for exploring ways to get help!"
     },

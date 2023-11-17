@@ -206,23 +206,24 @@
     {
       "type": "display_group",
       "name": "additional_deployment_partners",
-      "condition": "@local.deployment != \"plh_global\"",
+      "condition": "@local.deployment != \"plh_teens_global\"",
       "parameter_list": {
         "style": "two_columns_images grid-spacing-sm"
       },
       "rows": [
         {
           "name": "partners_deployment",
-          "value": "partners_@local.deployment",
+          "value": "partners_za",
           "_translations": {
             "value": {}
           },
+          "condition": "@local.deployment == \"plh_teens_za\"",
           "type": "set_variable",
           "_nested_name": "additional_deployment_partners.partners_deployment",
           "_dynamicFields": {
-            "value": [
+            "condition": [
               {
-                "fullExpression": "partners_@local.deployment",
+                "fullExpression": "@local.deployment == \"plh_teens_za\"",
                 "matchedExpression": "@local.deployment",
                 "type": "local",
                 "fieldName": "deployment"
@@ -231,7 +232,32 @@
           },
           "_dynamicDependencies": {
             "@local.deployment": [
-              "value"
+              "condition"
+            ]
+          }
+        },
+        {
+          "name": "partners_deployment",
+          "value": "partners_tz",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "@local.deployment == \"plh_teens_tz\"",
+          "type": "set_variable",
+          "_nested_name": "additional_deployment_partners.partners_deployment",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@local.deployment == \"plh_teens_tz\"",
+                "matchedExpression": "@local.deployment",
+                "type": "local",
+                "fieldName": "deployment"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.deployment": [
+              "condition"
             ]
           }
         },
@@ -418,7 +444,7 @@
       "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "@local.deployment != \"plh_global\"",
+            "fullExpression": "@local.deployment != \"plh_teens_global\"",
             "matchedExpression": "@local.deployment",
             "type": "local",
             "fieldName": "deployment"

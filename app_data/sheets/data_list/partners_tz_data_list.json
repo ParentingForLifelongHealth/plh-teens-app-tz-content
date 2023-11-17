@@ -2,7 +2,7 @@
   "flow_type": "data_list",
   "flow_name": "partners_tz_data_list",
   "status": "released",
-  "data_list_name": "partners_plh_tz",
+  "data_list_name": "partners_tz",
   "rows": [
     {
       "id": "tz_government",

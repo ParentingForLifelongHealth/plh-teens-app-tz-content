@@ -483,6 +483,6 @@
   ],
   "_xlsxPath": "global/top_templates/workshop_templates/workshop_self_care.xlsx",
   "_overrides": {
-    "w_self_care_reward_tz": "@fields._deployment_name == \"plh_tz\""
+    "w_self_care_reward_tz": "@fields._deployment_name == \"plh_teens_tz\""
   }
 }

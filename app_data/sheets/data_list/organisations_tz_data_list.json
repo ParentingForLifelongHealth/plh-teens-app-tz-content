@@ -2,7 +2,7 @@
   "flow_type": "data_list",
   "flow_name": "organisations_tz_data_list",
   "status": "released",
-  "data_list_name": "organisations_plh_tz",
+  "data_list_name": "organisations_tz",
   "rows": [
     {
       "id": "organisation_1",

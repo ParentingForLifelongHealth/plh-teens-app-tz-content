@@ -3,7 +3,7 @@
   "flow_name": "w_self_care_reward_tz",
   "status": "released",
   "override_target": "w_self_care_reward",
-  "override_condition": "@fields._deployment_name == \"plh_tz\"",
+  "override_condition": "@fields._deployment_name == \"plh_teens_tz\"",
   "rows": [
     {
       "type": "template",

@@ -195,7 +195,7 @@
           "eng": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone."
         },
         "reply_sad": {
-          "eng": "Sorry that things are hard right now. You deserve good things, and @global.parent_app is here to support you every step of the way."
+          "eng": "Sorry that things are hard right now. You deserve good things and @global.parent_app is here to support you every step of the way."
         },
         "activity_title": {
           "eng": "Welcome, @fields.user_name!"
@@ -209,7 +209,7 @@
       },
       "reply_happy": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
       "reply_ok": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone.",
-      "reply_sad": "Sorry that things are hard right now. You deserve good things, and @global.parent_app is here to support you every step of the way.",
+      "reply_sad": "Sorry that things are hard right now. You deserve good things and @global.parent_app is here to support you every step of the way.",
       "activity_title": "Welcome, @fields.user_name!",
       "intro_text": "It is great to see you again!",
       "question_text": "How are you feeling today?"
@@ -453,7 +453,7 @@
           "eng": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing."
         },
         "reply_sad": {
-          "eng": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions, and trying to be calm and kind to yourself. You are setting a great example for your family."
+          "eng": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family."
         },
         "activity_title": {
           "eng": "Welcome, @fields.user_name!"
@@ -467,7 +467,7 @@
       },
       "reply_happy": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it.",
       "reply_ok": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing.",
-      "reply_sad": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions, and trying to be calm and kind to yourself. You are setting a great example for your family.",
+      "reply_sad": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family.",
       "activity_title": "Welcome, @fields.user_name!",
       "intro_text": "It is great to see you again!",
       "question_text": "How are you feeling today?"

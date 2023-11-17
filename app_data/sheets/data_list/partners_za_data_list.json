@@ -2,7 +2,7 @@
   "flow_type": "data_list",
   "flow_name": "partners_za_data_list",
   "status": "released",
-  "data_list_name": "partners_plh_za",
+  "data_list_name": "partners_za",
   "rows": [
     {
       "id": "za_dsd",

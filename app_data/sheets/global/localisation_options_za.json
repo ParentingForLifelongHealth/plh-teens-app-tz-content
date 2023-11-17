@@ -3,7 +3,7 @@
   "flow_name": "localisation_options_za",
   "status": "released",
   "override_target": "localisation_options",
-  "override_condition": "@fields._deployment_name == \"plh_za\"",
+  "override_condition": "@fields._deployment_name == \"plh_teens_za\"",
   "rows": [
     {
       "type": "declare_global_constant",

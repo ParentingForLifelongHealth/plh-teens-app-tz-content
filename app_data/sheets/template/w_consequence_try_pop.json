@@ -42,7 +42,7 @@
         },
         {
           "name": "dashed_box_2",
-          "value": "This is too far in the future, and too harsh as well!",
+          "value": "This is too far in the future and too harsh as well!",
           "_translations": {
             "value": {}
           },

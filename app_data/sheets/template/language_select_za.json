@@ -3,7 +3,7 @@
   "flow_name": "language_select_za",
   "status": "released",
   "override_target": "language_select",
-  "override_condition": "@fields._deployment_name == \"plh_za\"",
+  "override_condition": "@fields._deployment_name == \"plh_teens_za\"",
   "rows": [
     {
       "type": "template",
