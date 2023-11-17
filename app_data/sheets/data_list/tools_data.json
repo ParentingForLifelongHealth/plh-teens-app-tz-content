@@ -425,7 +425,6 @@
       "title": "How to create rules",
       "_translations": {
         "title": {},
-        "top_text": {},
         "tool_1_title": {},
         "tool_1_text": {},
         "tool_2_title": {},
@@ -438,14 +437,11 @@
         "title": {
           "eng": "How to create rules"
         },
-        "top_text": {
-          "eng": "Household rules help keep our teenagers safe and to understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them."
-        },
         "tool_1_title": {
           "eng": "TEAM RULES"
         },
         "tool_1_text": {
-          "eng": "Household rules help keep our teenagers safe, and understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them."
+          "eng": "Household rules help to keep our teenagers safe and to understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them."
         },
         "tool_2_title": {
           "eng": "REAL RULES"
@@ -463,9 +459,8 @@
           "eng": ""
         }
       },
-      "top_text": "Household rules help keep our teenagers safe and to understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them.",
       "tool_1_title": "TEAM RULES",
-      "tool_1_text": "Household rules help keep our teenagers safe, and understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them.",
+      "tool_1_text": "Household rules help to keep our teenagers safe and to understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them.",
       "tool_2_title": "REAL RULES",
       "tool_2_text": "Plan rules WITH your teenager. Start with one new rule first – you can add another one later. Discuss the reasons for the rule and listen to their views.",
       "tool_3_title": "PRAISE RULES!",
