@@ -13,7 +13,9 @@
           "name": "description_text",
           "value": "Today you will explore:",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "suggestions.description_text"
@@ -22,7 +24,9 @@
           "name": "list_text",
           "value": "* Story & discussion – that worked!\n* Story & discussion – that worked!\n* Mapping exercise\n* Tools: How to keep your teen safe\nMAPS - RULES - AMNESTY\n* Home practice suggestions",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@field.do_this_workshop_together",
           "type": "set_variable",
@@ -47,7 +51,9 @@
           "name": "list_text",
           "value": "* Story & reflection – that worked!\n* Story & reflection – that worked!\n* Mapping exercise\n* Tools: How to keep your teen safe\nMAPS - RULES - AMNESTY\n* Home practice suggestions",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "!@field.do_this_workshop_together",
           "type": "set_variable",

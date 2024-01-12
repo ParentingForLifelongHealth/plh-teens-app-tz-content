@@ -11,11 +11,19 @@
       "lottie_asset": "plh_lottie/habits/habit_relax.json",
       "title": "Relax",
       "_translations": {
-        "title": {},
-        "description": {},
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
         "mark_text": {},
-        "in_text_title": {},
-        "short_mark_text": {}
+        "in_text_title": {
+          "tz_sw": true
+        },
+        "short_mark_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -46,11 +54,21 @@
       "lottie_asset": "plh_lottie/habits/habit_treat_yourself.json",
       "title": "Treat yourself well",
       "_translations": {
-        "title": {},
-        "description": {},
-        "mark_text": {},
-        "in_text_title": {},
-        "short_mark_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "mark_text": {
+          "tz_sw": true
+        },
+        "in_text_title": {
+          "tz_sw": true
+        },
+        "short_mark_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -81,11 +99,21 @@
       "lottie_asset": "plh_lottie/habits/habit_praise_yourself.json",
       "title": "Praise yourself",
       "_translations": {
-        "title": {},
-        "description": {},
-        "mark_text": {},
-        "in_text_title": {},
-        "short_mark_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "mark_text": {
+          "tz_sw": true
+        },
+        "in_text_title": {
+          "tz_sw": true
+        },
+        "short_mark_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -116,11 +144,21 @@
       "lottie_asset": "plh_lottie/habits/habit_spend_time.json",
       "title": "One-on-one time",
       "_translations": {
-        "title": {},
-        "description": {},
-        "mark_text": {},
-        "in_text_title": {},
-        "short_mark_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "mark_text": {
+          "tz_sw": true
+        },
+        "in_text_title": {
+          "tz_sw": true
+        },
+        "short_mark_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -151,11 +189,21 @@
       "lottie_asset": "plh_lottie/habits/habit_praise_teen.json",
       "title": "Praise your teen",
       "_translations": {
-        "title": {},
-        "description": {},
-        "mark_text": {},
-        "in_text_title": {},
-        "short_mark_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "mark_text": {
+          "tz_sw": true
+        },
+        "in_text_title": {
+          "tz_sw": true
+        },
+        "short_mark_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -186,11 +234,21 @@
       "lottie_asset": "plh_lottie/habits/habit_instruct_positively.json",
       "title": "Positive instructions",
       "_translations": {
-        "title": {},
-        "description": {},
-        "mark_text": {},
-        "in_text_title": {},
-        "short_mark_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "mark_text": {
+          "tz_sw": true
+        },
+        "in_text_title": {
+          "tz_sw": true
+        },
+        "short_mark_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -221,11 +279,21 @@
       "lottie_asset": "plh_lottie/habits/habit_breathe.json",
       "title": "Respond calmly",
       "_translations": {
-        "title": {},
-        "description": {},
-        "mark_text": {},
-        "in_text_title": {},
-        "short_mark_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "mark_text": {
+          "tz_sw": true
+        },
+        "in_text_title": {
+          "tz_sw": true
+        },
+        "short_mark_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -256,11 +324,21 @@
       "lottie_asset": "plh_lottie/habits/habit_money.json",
       "title": "Good money choice",
       "_translations": {
-        "title": {},
-        "description": {},
-        "mark_text": {},
-        "in_text_title": {},
-        "short_mark_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "mark_text": {
+          "tz_sw": true
+        },
+        "in_text_title": {
+          "tz_sw": true
+        },
+        "short_mark_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -291,11 +369,21 @@
       "lottie_asset": "plh_lottie/habits/habit_consequence.json",
       "title": "Calm consequence",
       "_translations": {
-        "title": {},
-        "description": {},
-        "mark_text": {},
-        "in_text_title": {},
-        "short_mark_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "mark_text": {
+          "tz_sw": true
+        },
+        "in_text_title": {
+          "tz_sw": true
+        },
+        "short_mark_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -326,11 +414,21 @@
       "lottie_asset": "plh_lottie/habits/habit_safe.json",
       "title": "Keep your teen safe",
       "_translations": {
-        "title": {},
-        "description": {},
-        "mark_text": {},
-        "in_text_title": {},
-        "short_mark_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "description": {
+          "tz_sw": true
+        },
+        "mark_text": {
+          "tz_sw": true
+        },
+        "in_text_title": {
+          "tz_sw": true
+        },
+        "short_mark_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -365,7 +463,9 @@
         "description": {},
         "mark_text": {},
         "in_text_title": {},
-        "short_mark_text": {}
+        "short_mark_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -400,7 +500,9 @@
         "description": {},
         "mark_text": {},
         "in_text_title": {},
-        "short_mark_text": {}
+        "short_mark_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

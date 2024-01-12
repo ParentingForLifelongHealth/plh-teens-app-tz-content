@@ -12,7 +12,9 @@
       "has_single_task": true,
       "title": "How are you?",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,7 +33,9 @@
       "has_single_task": true,
       "title": "How are you?",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -131,7 +135,9 @@
       "has_single_task": true,
       "title": "Well done!",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -171,7 +177,9 @@
       "has_single_task": true,
       "title": "Question",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -190,7 +198,9 @@
       "has_single_task": true,
       "title": "Talk Together",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

@@ -57,7 +57,9 @@
           "name": "activity_title",
           "value": "Learn Together",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@fields.do_this_workshop_together",
           "type": "set_variable",
@@ -132,7 +134,9 @@
           "name": "activity_title",
           "value": "Learn",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "!@fields.do_this_workshop_together",
           "type": "set_variable",

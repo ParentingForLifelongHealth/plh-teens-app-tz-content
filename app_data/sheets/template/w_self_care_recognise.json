@@ -37,7 +37,9 @@
               "name": "activity_title",
               "value": "Recognise",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "think.workshop_activity.activity_title"
@@ -70,7 +72,9 @@
               "name": "intro_text",
               "value": "Paying attention to what we do well helps us to focus on the positive. \n\nLet’s take a moment to praise ourselves. We’ll show you how.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "think.workshop_activity.intro_text"
@@ -125,7 +129,9 @@
                   "name": "text_1",
                   "value": "Think of one thing YOU have done well recently.\n\nSay it aloud to each other: \"Well done to me for…\"\n\nHere is one thing you deserve praise for: Well done for using @global.parent_app!",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "type": "set_variable",
                   "_nested_name": "think.workshop_activity.content_box.text_1",
@@ -187,7 +193,9 @@
               "name": "outro_text",
               "value": "Well done! Try to do this every day.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "think.workshop_activity.outro_text"
@@ -247,7 +255,9 @@
               "name": "activity_title",
               "value": "Recognise",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "think.workshop_activity.activity_title"
@@ -280,7 +290,9 @@
               "name": "intro_text",
               "value": "Take a moment to praise yourself. \n\nWe will now show you how.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "think.workshop_activity.intro_text"
@@ -345,7 +357,9 @@
                   "name": "text",
                   "value": "Think of one thing YOU have done well recently.",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "type": "set_variable",
                   "_nested_name": "think.workshop_activity.content_box.text"
@@ -354,7 +368,9 @@
                   "name": "question_text",
                   "value": "\"Well done to me for...\"",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "type": "set_variable",
                   "_nested_name": "think.workshop_activity.content_box.question_text"
@@ -376,7 +392,9 @@
                   "name": "reply",
                   "value": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.parent_app!",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "type": "set_variable",
                   "_nested_name": "think.workshop_activity.content_box.reply",
@@ -403,7 +421,9 @@
               "name": "outro_text",
               "value": "Well done! Try to do this every day.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "think.workshop_activity.outro_text"

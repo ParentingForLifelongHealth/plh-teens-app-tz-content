@@ -13,7 +13,9 @@
           "name": "description_text",
           "value": "Making the rule together went well because...",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "suggestions.description_text"
@@ -22,7 +24,9 @@
           "name": "list_text",
           "value": "* They discussed the reasons behind the rule \n* @global.w_rules_female_caregiver_1 listened to @global.w_rules_teen_boy’s suggestions \n* The rule was clear, specific and fair \n* @global.w_rules_female_caregiver_1 praised @global.w_rules_teen_boy for helping to make the rule",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "suggestions.list_text",

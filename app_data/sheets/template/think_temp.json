@@ -32,7 +32,9 @@
           "name": "activity_title",
           "value": "Think Together",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@fields.do_this_workshop_together",
           "type": "set_variable",
@@ -57,7 +59,9 @@
           "name": "intro_text",
           "value": "It's time to think together!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@fields.do_this_workshop_together",
           "type": "set_variable",
@@ -107,7 +111,9 @@
           "name": "activity_title",
           "value": "Think",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "!@fields.do_this_workshop_together",
           "type": "set_variable",
@@ -132,7 +138,9 @@
           "name": "intro_text",
           "value": "It's time to think!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "!@fields.do_this_workshop_together",
           "type": "set_variable",

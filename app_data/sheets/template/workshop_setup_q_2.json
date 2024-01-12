@@ -7,7 +7,9 @@
       "name": "adults_word",
       "value": "Adults",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "adults_word"
@@ -16,7 +18,9 @@
       "name": "teens_word",
       "value": "Teens",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "teens_word"
@@ -25,7 +29,9 @@
       "name": "children_word",
       "value": "Children",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "children_word"
@@ -34,7 +40,9 @@
       "name": "babies_word",
       "value": "Babies",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "babies_word"
@@ -258,7 +266,9 @@
       "name": "text",
       "value": "How many people are in your household?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"

@@ -46,7 +46,9 @@
                   "name": "text",
                   "value": "Discuss together:\n* What rules do your teens often break? \n* What consequence could you use for each specific broken rule? \n\nConsequences should be: \nFAIR (not too harsh)\nIMMEDIATE (do it straight away) \nCONSISTENT (same every time).\n\nPraise and encourage each other – we can give each other strength!",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "type": "set_variable",
                   "_nested_name": "talk_together.workshop_activity.content_box.text"

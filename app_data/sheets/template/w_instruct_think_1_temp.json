@@ -37,7 +37,9 @@
               "name": "intro_text",
               "value": "Let’s do a thought experiment!",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "think.workshop_activity.intro_text"
@@ -127,7 +129,9 @@
                               "name": "text",
                               "value": "NOW, THINK ABOUT A CHEETAH! \n\nWhat are you thinking about?",
                               "_translations": {
-                                "value": {}
+                                "value": {
+                                  "tz_sw": true
+                                }
                               },
                               "type": "set_variable",
                               "_nested_name": "think.workshop_activity.content_box.box_2.box_2.box_1.text"

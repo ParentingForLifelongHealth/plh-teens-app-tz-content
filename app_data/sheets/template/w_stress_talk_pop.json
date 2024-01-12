@@ -13,7 +13,9 @@
           "name": "description_text",
           "value": "@global.w_stress_male_caregiver could...",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "suggestions.description_text",
@@ -37,7 +39,9 @@
           "name": "list_text",
           "value": "* Recognise why he feels stressed \n* Take a deep breath and speak calmly  \n* Show he understands his teen’s feelings \n* Think about solutions together with @global.w_stress_teen_boy_1\n* Do something positive together with @global.w_stress_teen_boy_1",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "suggestions.list_text",

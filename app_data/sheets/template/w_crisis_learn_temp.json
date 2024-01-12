@@ -102,7 +102,9 @@
                       "name": "title",
                       "value": "Crisis 1: @global.w_crisis_teen_boy_2 fights at school",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "hidden": false,
                       "type": "set_variable",
@@ -151,7 +153,9 @@
                       "name": "dashed_box",
                       "value": "How could you respond to @global.w_crisis_teen_boy_2?",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "hidden": false,
                       "type": "set_variable",
@@ -198,7 +202,9 @@
                           "name": "title",
                           "value": "Crisis 2: @global.w_crisis_teen_girl_2 gets pregnant",
                           "_translations": {
-                            "value": {}
+                            "value": {
+                              "tz_sw": true
+                            }
                           },
                           "hidden": false,
                           "type": "set_variable",
@@ -256,7 +262,9 @@
                           "name": "dashed_box",
                           "value": "How could you respond to @global.w_crisis_teen_girl_2?",
                           "_translations": {
-                            "value": {}
+                            "value": {
+                              "tz_sw": true
+                            }
                           },
                           "hidden": false,
                           "type": "set_variable",
@@ -303,7 +311,9 @@
                               "name": "title",
                               "value": "Crisis 3: @global.w_crisis_teen_boy_1 makes a girl pregnant",
                               "_translations": {
-                                "value": {}
+                                "value": {
+                                  "tz_sw": true
+                                }
                               },
                               "hidden": false,
                               "type": "set_variable",
@@ -352,7 +362,9 @@
                               "name": "dashed_box",
                               "value": "How could you respond to @global.w_crisis_teen_boy_1?",
                               "_translations": {
-                                "value": {}
+                                "value": {
+                                  "tz_sw": true
+                                }
                               },
                               "hidden": false,
                               "type": "set_variable",
@@ -399,7 +411,9 @@
                                   "name": "title",
                                   "value": "Crisis 4: Someone in the family may get sick",
                                   "_translations": {
-                                    "value": {}
+                                    "value": {
+                                      "tz_sw": true
+                                    }
                                   },
                                   "hidden": false,
                                   "type": "set_variable",
@@ -418,7 +432,9 @@
                                   "name": "dashed_box",
                                   "value": "How could you respond in this situation?",
                                   "_translations": {
-                                    "value": {}
+                                    "value": {
+                                      "tz_sw": true
+                                    }
                                   },
                                   "hidden": false,
                                   "type": "set_variable",
@@ -445,7 +461,9 @@
                                   "name": "title",
                                   "value": "Crisis 5: @global.w_crisis_teen_girl_1 is pressured into sex by her boyfriend",
                                   "_translations": {
-                                    "value": {}
+                                    "value": {
+                                      "tz_sw": true
+                                    }
                                   },
                                   "hidden": false,
                                   "type": "set_variable",
@@ -503,7 +521,9 @@
                                   "name": "dashed_box",
                                   "value": "How could you respond to @global.w_crisis_teen_girl_1?",
                                   "_translations": {
-                                    "value": {}
+                                    "value": {
+                                      "tz_sw": true
+                                    }
                                   },
                                   "hidden": false,
                                   "type": "set_variable",
@@ -543,7 +563,9 @@
               "name": "outro_text",
               "value": "Remember to support and encourage each other. It is hard to remain calm and listen to each other in a crisis - we are proud of you.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "learn.workshop_activity.outro_text"

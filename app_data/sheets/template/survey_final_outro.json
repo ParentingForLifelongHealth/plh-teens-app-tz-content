@@ -36,7 +36,9 @@
               "name": "text",
               "value": "Remember you can access lots of helpful tips and resources in the @global.parent_centre - this is available for you at any time!",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "survey_outro.box_image.text",

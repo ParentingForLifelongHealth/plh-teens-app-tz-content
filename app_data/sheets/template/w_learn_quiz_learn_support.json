@@ -519,7 +519,9 @@
       "name": "sad",
       "value": "Sad",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "sad"
@@ -528,7 +530,9 @@
       "name": "confused",
       "value": "Confused",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "confused"
@@ -537,7 +541,9 @@
       "name": "tired",
       "value": "Tired",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "tired"
@@ -575,7 +581,9 @@
               "name": "intro_text",
               "value": "Let's think about what happened in this story.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "question_time.workshop_activity.intro_text"

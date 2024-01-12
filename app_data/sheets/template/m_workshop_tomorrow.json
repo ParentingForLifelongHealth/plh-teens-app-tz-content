@@ -259,7 +259,9 @@
           "name": "button_1",
           "value": "Finish current workshop",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "action_list": [
             {

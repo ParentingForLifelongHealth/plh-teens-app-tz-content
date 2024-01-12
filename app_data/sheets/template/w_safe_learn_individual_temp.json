@@ -8,7 +8,9 @@
       "name": "alone",
       "value": "Let me try it out by myself",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "alone"
@@ -17,7 +19,9 @@
       "name": "family",
       "value": "My family can join in now!",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "family"
@@ -55,7 +59,9 @@
               "name": "intro_title",
               "value": "Safety Plan",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "learn.workshop_activity.intro_title"
@@ -64,7 +70,9 @@
               "name": "intro_text",
               "value": "To keep our teens safe, we need to understand the dangerous situations they could get into!",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "learn.workshop_activity.intro_text"
@@ -104,7 +112,9 @@
               "name": "outro_habit_text",
               "value": "Every time you plan or keep a safety plan, click the @global.parent_point and celebrate your success!",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "learn.workshop_activity.outro_habit_text",

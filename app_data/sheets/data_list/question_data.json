@@ -82,10 +82,16 @@
       "_translations": {
         "question_text": {},
         "option_1": {},
-        "option_2": {},
-        "option_3": {},
+        "option_2": {
+          "tz_sw": true
+        },
+        "option_3": {
+          "tz_sw": true
+        },
         "option_4": {},
-        "option_5": {},
+        "option_5": {
+          "tz_sw": true
+        },
         "reply_all": {}
       },
       "_translatedFields": {

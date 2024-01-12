@@ -8,7 +8,9 @@
       "name": "my_activities",
       "value": "My Favourite Activities",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -16,7 +18,9 @@
       "name": "all_activities",
       "value": "All Activities",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -32,7 +36,9 @@
       "name": "something_fun",
       "value": "Something fun",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -40,7 +46,9 @@
       "name": "random_activity",
       "value": "Random Activity",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -48,7 +56,9 @@
       "name": "current_activity",
       "value": "This Week's Activity",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -56,7 +66,9 @@
       "name": "chat_together",
       "value": "Chat Together",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -64,7 +76,9 @@
       "name": "do_together",
       "value": "Do Together",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {

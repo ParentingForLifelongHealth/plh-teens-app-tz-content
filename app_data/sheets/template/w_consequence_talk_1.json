@@ -37,7 +37,9 @@
               "name": "intro_text",
               "value": "Let's discuss what happened in this story.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "talk_together.workshop_activity.intro_text"
@@ -50,7 +52,9 @@
                   "name": "text",
                   "value": "Discuss together: \n* Why did giving a consequence this way not work well?",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "type": "set_variable",
                   "_nested_name": "talk_together.workshop_activity.content_box.text"

@@ -37,7 +37,9 @@
               "name": "intro_text",
               "value": "Let's discuss what happened in this story.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "talk_together.workshop_activity.intro_text"
@@ -56,7 +58,9 @@
                       "name": "text",
                       "value": "What went well here in making a rule together?",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "type": "set_variable",
                       "_nested_name": "talk_together.workshop_activity.content_box.box_1.text"
@@ -109,7 +113,9 @@
                       "name": "text",
                       "value": "How do you think @global.w_rules_teen_boy knew his @global.w_rules_female_caregiver_1 appreciated him?",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "type": "set_variable",
                       "_nested_name": "talk_together.workshop_activity.content_box.box_2.text",

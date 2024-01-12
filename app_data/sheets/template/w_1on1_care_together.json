@@ -37,7 +37,9 @@
               "name": "activity_title",
               "value": "Using the app together",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "care_together.workshop_activity.activity_title"
@@ -46,7 +48,9 @@
               "name": "intro_text",
               "value": "It’s great to see you!\n\nFirst, let’s help your group get started.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "care_together.workshop_activity.intro_text"
@@ -71,7 +75,9 @@
                       "name": "text",
                       "value": "Agree on your ground rules together:\n* Which day(s)/time(s) will we meet in the week?\n* Who will hold the phone(s) during our activities?\n* How can we make sure everyone can share freely?\n* What can we do so we all feel respected?",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "type": "set_variable",
                       "_nested_name": "care_together.workshop_activity.content_box.box_1.text"
@@ -124,7 +130,9 @@
                       "name": "text_1",
                       "value": "You always can change your @global.workshop day and your group name in the @global.weekly_workshop_options.",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "type": "set_variable",
                       "_nested_name": "care_together.workshop_activity.content_box.box_2.text_1",

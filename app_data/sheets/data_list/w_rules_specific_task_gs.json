@@ -50,7 +50,9 @@
       "template": "w_rules_learn_temp",
       "title": "Learn",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -68,7 +70,9 @@
       "template": "w_rules_try",
       "title": "Try it out!",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

@@ -41,7 +41,9 @@
           "name": "activity_title",
           "value": "Customise @global.parent_app",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "workshop_activity.activity_title",

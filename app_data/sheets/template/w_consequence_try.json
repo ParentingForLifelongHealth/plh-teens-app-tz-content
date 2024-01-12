@@ -41,7 +41,9 @@
                   "name": "text",
                   "value": "What would be a calm consequence for your teenagers arguing with each other during dinner? \n\nRemember it needs to be: \nFAIR - IMMEDIATE - CONSISTENT",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "type": "set_variable",
                   "_nested_name": "try_together.workshop_activity.content_box.text"

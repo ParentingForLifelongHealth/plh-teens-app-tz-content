@@ -8,7 +8,9 @@
       "name": "text_1",
       "value": "This button will take you to the Coronavirus section of the official WHO website.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "_nested_name": "text_1"
     },
@@ -17,7 +19,9 @@
       "name": "text_2",
       "value": "The URL is https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "style_list": [
         "overflow-wrap: anywhere"

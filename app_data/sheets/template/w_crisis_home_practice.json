@@ -69,7 +69,9 @@
                       "name": "text_1",
                       "value": "With your teen choose one of these situations (or think of one yourself!). Look at the cartoon, and discuss what you would do together if this happened to a friend or in your family. \n\nAnd remember: BREATHE  - LISTEN - THINK",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "type": "set_variable",
                       "_nested_name": "home_practice.workshop_activity.content_box.box_1.text_1"
@@ -78,7 +80,9 @@
                       "name": "button_1",
                       "value": "Crisis Examples",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "action_list": [
                         {

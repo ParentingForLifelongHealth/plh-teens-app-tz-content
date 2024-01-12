@@ -152,7 +152,9 @@
       "name": "title",
       "value": "Coming soon",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "_nested_name": "title"
     },
@@ -161,7 +163,9 @@
       "name": "test_text",
       "value": "We will need to cover other parenting issues before we can start working on @local.workshop_data.title.\n\nYou can get essential tools on @local.workshop_data.title via the @global.parent_centre.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "_nested_name": "test_text",
       "_dynamicFields": {

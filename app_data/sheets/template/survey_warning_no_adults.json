@@ -12,7 +12,9 @@
           "name": "title",
           "value": "Are there adults in your family?",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "survey_warning.title"
@@ -21,7 +23,9 @@
           "name": "text",
           "value": "This app focuses on parents of teenagers age @global.teen_age_bracket, but you are welcome to continue - you may learn useful things too!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "survey_warning.text",

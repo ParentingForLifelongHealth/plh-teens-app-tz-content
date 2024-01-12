@@ -13,8 +13,12 @@
       "click_count_field": "click_pc_help_count",
       "title": "Help",
       "_translations": {
-        "title": {},
-        "location_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "location_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -35,8 +39,12 @@
       "click_count_field": "click_pc_my_tips_count",
       "title": "My Tips",
       "_translations": {
-        "title": {},
-        "location_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "location_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -57,8 +65,12 @@
       "click_count_field": "click_pc_essential_tools_count",
       "title": "Essential Tools",
       "_translations": {
-        "title": {},
-        "location_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "location_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -79,8 +91,12 @@
       "click_count_field": "click_pc_relax_and_activities_count",
       "title": "Relax & Activities",
       "_translations": {
-        "title": {},
-        "location_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "location_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -101,7 +117,9 @@
       "click_count_field": "click_pc_relax_count",
       "title": "Relaxation activities",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "location_text": {}
       },
       "_translatedFields": {
@@ -145,8 +163,12 @@
       "click_count_field": "click_pc_covid_count",
       "title": "Coping with @global.covid",
       "_translations": {
-        "title": {},
-        "location_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "location_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -167,8 +189,12 @@
       "click_count_field": "click_pc_bereavement_count",
       "title": "Coping with grief",
       "_translations": {
-        "title": {},
-        "location_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "location_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -189,8 +215,12 @@
       "click_count_field": "click_pc_message_archive_count",
       "title": "Message Archive",
       "_translations": {
-        "title": {},
-        "location_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "location_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

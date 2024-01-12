@@ -83,7 +83,9 @@
       "name": "subtitle_1",
       "value": "Relaxation activities",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "_nested_name": "subtitle_1"
     },
@@ -268,7 +270,9 @@
       "name": "subtitle_2",
       "value": "Something fun to do with your teen",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "_nested_name": "subtitle_2"
     },

@@ -38,7 +38,9 @@
               "name": "intro_title",
               "value": "Step 2: CHOOSE",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "learn_group_family.workshop_activity.intro_title"
@@ -47,7 +49,9 @@
               "name": "intro_text",
               "value": "Talk together about your needs and wants\n\nWANT: Something you can live without\nNEED: Something you cannot live without",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "learn_group_family.workshop_activity.intro_text"
@@ -148,7 +152,9 @@
               "name": "intro_title",
               "value": "Step 2: CHOOSE",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "learn_alone.workshop_activity.intro_title"
@@ -157,7 +163,9 @@
               "name": "intro_text",
               "value": "Think about your needs and wants\n\nWANT: Something you can live without\nNEED: Something you cannot live without",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "learn_alone.workshop_activity.intro_text"

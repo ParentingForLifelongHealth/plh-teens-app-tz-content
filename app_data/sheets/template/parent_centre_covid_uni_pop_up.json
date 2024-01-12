@@ -8,7 +8,9 @@
       "name": "text_1",
       "value": "This button will take you to the Coronavirus section of the official UNICEF website.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "_nested_name": "text_1"
     },
@@ -17,7 +19,9 @@
       "name": "text_2",
       "value": "The URL is https://www.unicef.org/coronavirus/covid-19",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "style_list": [
         "overflow-wrap: anywhere"
