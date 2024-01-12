@@ -15,7 +15,7 @@ config.translations.translated_strings_path = "./app_data/translations_source/tr
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.1.7",
+  content_tag_latest: "1.1.8",
 };
 
 config.api.db_name = "plh_teens_tz"
