@@ -8,7 +8,9 @@
       "name": "idea_1",
       "value": "@global.w_consequence_teen_boy_1 and his @global.w_consequence_male_caregiver discussed consequences when they were both calm",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "idea_1",
@@ -41,7 +43,9 @@
       "name": "idea_2",
       "value": "They agreed on consequences together",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "idea_2"
@@ -50,7 +54,9 @@
       "name": "idea_3",
       "value": "@global.w_consequence_male_caregiver responded calmly but firmly when @global.w_consequence_teen_boy_1 broke the rule",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "idea_3",
@@ -83,7 +89,9 @@
       "name": "idea_4",
       "value": "@global.w_consequence_male_caregiver listened to @global.w_consequence_teen_boy_1",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "idea_4",
@@ -116,7 +124,9 @@
       "name": "idea_5",
       "value": "The consequence was realistic and appropriate",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "idea_5"
@@ -130,7 +140,9 @@
           "name": "description_text",
           "value": "Using a consequence worked well this time because...",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "suggestions.description_text"

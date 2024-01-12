@@ -13,7 +13,9 @@
           "name": "list_text",
           "value": "* food \n* water & electricity \n* clothing \n* accounts \n* TV subscription \n* toiletries \n* salon \n* airtime \n* school fees \n* transport \n* insurance/policies \n* medication \n* entertainment/sports \n* rent \n* loans \n* church",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "suggestions.list_text"

@@ -49,7 +49,9 @@
       "template": "w_safe_learn_individual_temp",
       "title": "Learn",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -67,7 +69,9 @@
       "template": "w_safe_learn_together_temp",
       "title": "Learn",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

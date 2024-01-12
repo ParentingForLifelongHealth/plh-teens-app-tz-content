@@ -119,7 +119,9 @@
                       "name": "button_1",
                       "value": "Safety Plan Activity",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "action_list": [
                         {

@@ -340,7 +340,9 @@
           "name": "intro_text",
           "value": "Here are this week’s takeaway skills! \n\nUse them at home and find them anytime in your @global.parent_centre.",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "workshop_activity.intro_text",

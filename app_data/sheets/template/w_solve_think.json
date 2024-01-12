@@ -43,7 +43,9 @@
               "name": "intro_text",
               "value": "Remember @global.w_solve_teen_girl and the phone she got from the boy?",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "think.workshop_activity.intro_text",
@@ -72,7 +74,9 @@
                   "name": "text_1",
                   "value": "How could @global.w_solve_teen_girl and @global.w_solve_female_caregiver_1 use the 4 steps of problem solving, like @global.w_solve_female_caregiver_2 and @global.w_solve_teen_boy_2 did? \n\nKNOW IT - SOLVE IT - TRY IT - TEST IT",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "type": "set_variable",
                   "_nested_name": "think.workshop_activity.content_box.text_1",

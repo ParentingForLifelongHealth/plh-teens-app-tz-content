@@ -13,7 +13,9 @@
           "name": "description_text",
           "value": "Today you will celebrate, look back and look ahead:",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@field.do_this_workshop_together",
           "type": "set_variable",
@@ -38,7 +40,9 @@
           "name": "list_text",
           "value": "* Reflection & discussion\n* Tools: How to support each other\nMEET - CALL - TEXT - SHARE\n* Planning support",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@field.do_this_workshop_together",
           "type": "set_variable",
@@ -63,7 +67,9 @@
           "name": "description_text",
           "value": "Today you celebrate and reflect on your experiences.",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "!@field.do_this_workshop_together",
           "type": "set_variable",

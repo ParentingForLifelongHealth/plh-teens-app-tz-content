@@ -9,7 +9,9 @@
       "name": "saving_goal_1",
       "value": "Teens completing school/university",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -17,7 +19,9 @@
       "name": "saving_goal_2",
       "value": "Building/expanding a house for my family",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -25,7 +29,9 @@
       "name": "saving_goal_3",
       "value": "Starting a business",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -33,7 +39,9 @@
       "name": "saving_goal_4",
       "value": "Buying a car for my family",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     }
   ],

@@ -13,8 +13,12 @@
       "relax_data": "@data.relax.relax_5",
       "intro_text": "Let's try it out and do a short relaxation activity together!",
       "_translations": {
-        "intro_text": {},
-        "outro_text": {}
+        "intro_text": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "intro_text": {

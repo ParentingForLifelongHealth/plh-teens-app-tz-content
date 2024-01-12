@@ -37,7 +37,9 @@
               "name": "intro_text",
               "value": "Let's practice giving praise.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "try_together.workshop_activity.intro_text"
@@ -50,7 +52,9 @@
                   "name": "text",
                   "value": "Share with each other: \n\n* What can you praise your teen for? \n* What has someone else done well during this workshop? Tell them!\n* How did it make you feel to praise someone?\n* How did it make you feel to be praised?",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "type": "set_variable",
                   "_nested_name": "try_together.workshop_activity.content_box.text"

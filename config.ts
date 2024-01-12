@@ -7,11 +7,15 @@ config.app_data!.sheets_filter_function = (flow) =>
   !["debug", "component_demo", "example_hardcoded", "campaign_rows_debug"].includes(
     flow.flow_subtype!
   );
+
 config.translations!.filter_language_codes = ["tz_en", "tz_sw"];
+
+// Hacky fix to point extended deployment to translations within its own repo
+config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.1.6",
+  content_tag_latest: "1.1.7",
 };
 
 config.api.db_name = "plh_teens_tz"

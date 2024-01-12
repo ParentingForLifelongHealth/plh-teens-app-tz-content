@@ -194,7 +194,9 @@
       "name": "question_text_happy",
       "value": "Did you have any challenges?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -205,7 +207,9 @@
       "name": "text_challenge_1",
       "value": "My teenager did not want to follow the instruction.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "text_challenge_1"
@@ -214,7 +218,9 @@
       "name": "text_challenge_2",
       "value": "I did not find time to spend one-on-one time with my teen.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "text_challenge_2"
@@ -223,7 +229,9 @@
       "name": "text_challenge_3",
       "value": "I gave a negative instead of a positive instruction.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "text_challenge_3"
@@ -232,7 +240,9 @@
       "name": "text_challenge_4",
       "value": "I shouted at my teen when they behaved negatively, instead of giving them a positive instruction for what they should do.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "text_challenge_4"
@@ -338,7 +348,9 @@
       "name": "top_text",
       "value": "Top @local.number_of_challenges challenges other parents experience:",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "top_text",
@@ -550,7 +562,9 @@
       "name": "reply_challenge_1",
       "value": "I know; our children need time to learn to follow instructions. Be patient, try again, and remember to praise them every time they follow an instruction!",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@local.combo_box==\"challenge_1\"",
       "_nested_name": "reply_challenge_1",
@@ -583,7 +597,9 @@
           "name": "question_text_challenge_2",
           "value": "Do you want to try one of the following things?",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "parameter_list": {
             "style": "emphasised"
@@ -654,7 +670,9 @@
           "name": "reply_choice_2_a",
           "value": "Perfect! Even spending 5 minutes makes a big difference, and if you do it at the same time every day (like at breakfast or before bed), it will be easier to keep it up!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "hidden": "@local.combo_box_challenge_2!=\"choice_2_a\"",
           "_nested_name": "challenge_2.reply_choice_2_a",
@@ -679,7 +697,9 @@
           "name": "reply_choice_2_b",
           "value": "Great! That way you get your work done and have a fun time together with your teen!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "hidden": "@local.combo_box_challenge_2!=\"choice_2_b\"",
           "_nested_name": "challenge_2.reply_choice_2_b",
@@ -780,7 +800,9 @@
           "name": "reply_challenge_4",
           "value": "It is difficult to come up with instructions while we are still angry. Try and find a time when you are calm to introduce a positive instruction to your teen. \n\nIn the next @global.weekly_workshop, we’ll talk more about how we can manage our emotions!  You can find more relaxation activities @data.parent_centre.relax_and_activities.location_text.",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "_nested_name": "challenge_4.reply_challenge_4",
           "_dynamicFields": {

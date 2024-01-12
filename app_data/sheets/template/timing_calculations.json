@@ -149,7 +149,9 @@
       "name": "workshop_start_day_label",
       "value": "Sunday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@fields.workshop_start_day == 0",
       "_nested_name": "workshop_start_day_label",
@@ -174,7 +176,9 @@
       "name": "workshop_start_day_label",
       "value": "Monday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@fields.workshop_start_day == 1",
       "_nested_name": "workshop_start_day_label",
@@ -199,7 +203,9 @@
       "name": "workshop_start_day_label",
       "value": "Tuesday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@fields.workshop_start_day == 2",
       "_nested_name": "workshop_start_day_label",
@@ -224,7 +230,9 @@
       "name": "workshop_start_day_label",
       "value": "Wednesday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@fields.workshop_start_day == 3",
       "_nested_name": "workshop_start_day_label",
@@ -249,7 +257,9 @@
       "name": "workshop_start_day_label",
       "value": "Thursday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@fields.workshop_start_day == 4",
       "_nested_name": "workshop_start_day_label",
@@ -274,7 +284,9 @@
       "name": "workshop_start_day_label",
       "value": "Friday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@fields.workshop_start_day == 5",
       "_nested_name": "workshop_start_day_label",
@@ -299,7 +311,9 @@
       "name": "workshop_start_day_label",
       "value": "Saturday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@fields.workshop_start_day == 6",
       "_nested_name": "workshop_start_day_label",

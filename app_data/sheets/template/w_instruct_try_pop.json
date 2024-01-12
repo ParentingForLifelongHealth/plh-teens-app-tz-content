@@ -13,7 +13,9 @@
           "name": "description_text",
           "value": "Examples of positive instructions:",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "suggestions.description_text"
@@ -22,7 +24,9 @@
           "name": "list_text",
           "value": "* I like your music. Could you turn it down during dinner so that we can talk? Thank you – I really appreciate it. \n* That’s great music. Who is the singer? Please turn the music off when you come in the house. You can play it in your room quietly if you want. Thank you!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "suggestions.list_text"

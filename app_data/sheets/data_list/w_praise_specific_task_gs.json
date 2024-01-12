@@ -13,7 +13,9 @@
       "template": "w_praise_question_1",
       "title": "Question",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -30,7 +32,9 @@
       "template": "w_praise_talk_1",
       "title": "Talk Together",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -66,7 +70,9 @@
       "template": "w_praise_try",
       "title": "Try it out!",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

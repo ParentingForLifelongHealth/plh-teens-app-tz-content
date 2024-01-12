@@ -460,7 +460,9 @@
           "name": "text",
           "value": "Hi @fields.user_name! This week you did:",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "!@local.no_parent_points_this_week",
           "type": "set_variable",
@@ -496,7 +498,9 @@
           "name": "text",
           "value": "Hi @fields.user_name! Thank you for using @global.parent_app and committing to your parenting. \n\nRemember to tap your @global.parent_points!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@local.no_parent_points_this_week",
           "type": "set_variable",
@@ -599,7 +603,9 @@
           "name": "bottom_text",
           "value": "That’s wonderful!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@local.pick_random == 1",
           "type": "set_variable",
@@ -624,7 +630,9 @@
           "name": "bottom_text",
           "value": "Nice work!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@local.pick_random == 2",
           "type": "set_variable",
@@ -649,7 +657,9 @@
           "name": "bottom_text",
           "value": "Your commitment is not taken for granted.",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@local.pick_random == 3",
           "type": "set_variable",
@@ -674,7 +684,9 @@
           "name": "bottom_text",
           "value": "Keep up the good work!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@local.pick_random == 4",
           "type": "set_variable",
@@ -699,7 +711,9 @@
           "name": "bottom_text",
           "value": "This is lovely!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@local.pick_random == 5",
           "type": "set_variable",
@@ -724,7 +738,9 @@
           "name": "bottom_text",
           "value": "Tap yourself on the shoulder. You deserve this.",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@local.pick_random == 6",
           "type": "set_variable",
@@ -749,7 +765,9 @@
           "name": "bottom_text",
           "value": "Every @global.parent_point counts!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@local.pick_random == 7",
           "type": "set_variable",

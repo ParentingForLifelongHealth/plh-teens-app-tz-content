@@ -49,7 +49,9 @@
       "template": "w_crisis_learn_temp",
       "title": "Learn",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

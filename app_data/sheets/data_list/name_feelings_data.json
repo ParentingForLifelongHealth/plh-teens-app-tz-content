@@ -22,7 +22,9 @@
       "name": "sad",
       "text": "Sad",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -35,7 +37,9 @@
       "name": "scared",
       "text": "Scared",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -61,7 +65,9 @@
       "name": "angry",
       "text": "Angry",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -100,7 +106,9 @@
       "name": "hopeful",
       "text": "Hopeful",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -152,7 +160,9 @@
       "name": "lonely",
       "text": "Lonely",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text": {

@@ -69,7 +69,9 @@
                       "name": "text_1",
                       "value": "This week's home practice is to give your teen positive instructions.\n\nRemember – GET REAL, GET POSITIVE, GET CLEAR = GET EXACTLY WHAT YOU WANT (as much as is possible with a teenager!)",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "type": "set_variable",
                       "_nested_name": "home_practice.workshop_activity.content_box.box_1.text_1"

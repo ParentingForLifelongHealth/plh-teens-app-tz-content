@@ -32,7 +32,9 @@
           "name": "activity_title",
           "value": "Start Positively Together",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "workshop_activity.activity_title"
@@ -50,7 +52,9 @@
           "name": "intro_title",
           "value": "Welcome @fields.group_name",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "workshop_activity.intro_title",
@@ -74,7 +78,9 @@
           "name": "intro_text",
           "value": "It's great to see you again! \n\nLet's start with caring for you.",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "workshop_activity.intro_text"
@@ -94,7 +100,9 @@
               "name": "text",
               "value": "Take turns:\n* Share: How are you feeling today?\n* Praise someone in your group for something they did well this week!\n\nRemember that no matter how you feel, it’s great you are here. You all deserve praise.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "workshop_activity.content_box.text"

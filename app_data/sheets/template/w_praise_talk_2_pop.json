@@ -13,7 +13,9 @@
           "name": "description_text",
           "value": "@global.w_praise_female_caregiver_name praised her teens...",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "suggestions.description_text",
@@ -37,7 +39,9 @@
           "name": "list_text",
           "value": "* To get them to do it more often\n* To help her finish her work \n* To make them feel good \n* To make herself feel good",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "suggestions.list_text"

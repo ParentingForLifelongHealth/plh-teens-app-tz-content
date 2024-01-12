@@ -61,7 +61,9 @@
               "name": "intro_text",
               "value": "There are two home practices for this week.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "home_practice.workshop_activity.intro_text"
@@ -78,7 +80,9 @@
                       "name": "text_1",
                       "value": "Whenever you are feeling stressed or upset: take five breaths in and out before you react. \n\nAnd when you're both calm, share with your teen how you feel.",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "type": "set_variable",
                       "_nested_name": "home_practice.workshop_activity.content_box.box_1.text_1"
@@ -123,7 +127,9 @@
                       "name": "text_2",
                       "value": "Choose a \"@global.safety_word\" with your teenager, and think of a situation together when you could use this.",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "hidden": false,
                       "type": "set_variable",
@@ -148,7 +154,9 @@
                       "name": "button_2",
                       "value": "@global.safety_word Story",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "action_list": [
                         {
@@ -184,7 +192,9 @@
                       "name": "habit_text",
                       "value": "Every time you take a pause before responding, or whenever you do something to keep your teen safe, tap your @global.parent_points and celebrate your success!",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "type": "set_variable",
                       "_nested_name": "home_practice.workshop_activity.content_box.box_1.habit_text",

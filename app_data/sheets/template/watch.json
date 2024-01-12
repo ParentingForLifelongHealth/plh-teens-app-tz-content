@@ -41,7 +41,9 @@
           "name": "activity_title",
           "value": "Watch Together",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@field.do_this_workshop_together",
           "type": "set_variable",
@@ -66,7 +68,9 @@
           "name": "intro_text",
           "value": "Let's watch a video together!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@field.do_this_workshop_together",
           "type": "set_variable",
@@ -91,7 +95,9 @@
           "name": "activity_title",
           "value": "Watch",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "!@field.do_this_workshop_together",
           "type": "set_variable",
@@ -116,7 +122,9 @@
           "name": "intro_text",
           "value": "Let's watch a video!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "!@field.do_this_workshop_together",
           "type": "set_variable",

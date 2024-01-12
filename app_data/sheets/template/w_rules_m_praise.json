@@ -17,7 +17,9 @@
               "name": "text",
               "value": "Sometimes it feels like your teens are still grumpy even when you’ve done the best you can. Remember that you are doing an amazing job, and that there will be good times with them too!",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "m_praise.in_week_message.text"

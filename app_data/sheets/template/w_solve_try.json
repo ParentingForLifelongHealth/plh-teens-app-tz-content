@@ -37,7 +37,9 @@
               "name": "intro_text",
               "value": "Let's practice problem-solving!",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "try_together.workshop_activity.intro_text"
@@ -50,7 +52,9 @@
                   "name": "text",
                   "value": "Practice together on a problem you have now. One of you is the parent and one the teen. \n\nPraise and encourage each other – we are proud of you! \n\nRemember the steps: \nKNOW IT - SOLVE IT - TRY IT - TEST IT",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "type": "set_variable",
                   "_nested_name": "try_together.workshop_activity.content_box.text"

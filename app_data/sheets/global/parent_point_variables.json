@@ -8,7 +8,9 @@
       "name": "parent_points_make_me_smile",
       "value": "Make me smile",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -16,7 +18,9 @@
       "name": "parent_points_get_me_going",
       "value": "Get me going",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {

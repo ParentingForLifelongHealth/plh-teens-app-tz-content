@@ -14,7 +14,9 @@
       "name": "skip_text",
       "value": "Skip intro",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "skip_text"
@@ -77,7 +79,9 @@
               "name": "slogan_1",
               "value": "Bringing teenagers up is hard",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "parameter_list": {
                 "text_align": "center"
@@ -119,7 +123,9 @@
               "name": "slogan_2",
               "value": "You are the best parent your teen could have",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "parameter_list": {
                 "style": "large center"
@@ -161,7 +167,9 @@
               "name": "slogan_3",
               "value": "Join the over @local.number million parents who have used our resources",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "parameter_list": {
                 "style": "large center"

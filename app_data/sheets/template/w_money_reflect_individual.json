@@ -41,7 +41,9 @@
                   "name": "bottom_text",
                   "value": "Take a moment and just be impressed at what you’ve achieved, despite all the other things you have to do each day.",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "type": "set_variable",
                   "_nested_name": "reflect_individual.workshop_activity.content_box.bottom_text"

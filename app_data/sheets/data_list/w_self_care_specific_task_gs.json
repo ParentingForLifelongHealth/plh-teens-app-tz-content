@@ -13,7 +13,9 @@
       "template": "w_self_care_relax",
       "title": "Relax",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,7 +33,9 @@
       "template": "w_self_care_recognise",
       "title": "Recognise",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -49,7 +53,9 @@
       "template": "w_self_care_reward",
       "title": "Reward",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

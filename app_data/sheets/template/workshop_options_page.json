@@ -7,7 +7,9 @@
       "name": "monday",
       "value": "Monday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "monday"
@@ -16,7 +18,9 @@
       "name": "tuesday",
       "value": "Tuesday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "tuesday"
@@ -25,7 +29,9 @@
       "name": "wednesday",
       "value": "Wednesday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "wednesday"
@@ -34,7 +40,9 @@
       "name": "thursday",
       "value": "Thursday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "thursday"
@@ -43,7 +51,9 @@
       "name": "friday",
       "value": "Friday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "friday"
@@ -52,7 +62,9 @@
       "name": "saturday",
       "value": "Saturday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "saturday"
@@ -61,7 +73,9 @@
       "name": "sunday",
       "value": "Sunday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "sunday"
@@ -452,7 +466,9 @@
       "name": "user_name_text",
       "value": "My name",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -593,7 +609,9 @@
       "name": "workshop_start_day_text",
       "value": "@global.weekly_workshop day",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -672,7 +690,9 @@
       "name": "text_workshop_path",
       "value": "I do the @global.workshops:",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -793,7 +813,9 @@
           "name": "group_name",
           "value": "My group's name",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "parameter_list": {
             "style": "emphasised"
@@ -952,7 +974,9 @@
       "name": "text_what_group_workshop",
       "value": "My group is now doing the @global.workshop:",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@local.radio_group_1==\"together\"",
       "parameter_list": {
@@ -991,7 +1015,9 @@
       "name": "text_what_individual_workshop",
       "value": "I am now doing the @global.workshop:",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "condition": "@local.radio_group_1==\"individual\"",
       "parameter_list": {

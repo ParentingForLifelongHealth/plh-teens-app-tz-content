@@ -13,7 +13,9 @@
       "name": "title",
       "value": "Support Contacts",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "exclude_from_translation": true,
       "_nested_name": "title"
@@ -23,7 +25,9 @@
       "name": "text",
       "value": "I need help with:",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "_nested_name": "text"
     },

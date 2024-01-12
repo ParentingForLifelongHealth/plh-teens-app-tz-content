@@ -87,7 +87,9 @@
               "name": "intro_text",
               "value": "You and your family have learnt so much. Let's think back and see what has changed.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "think_temp.workshop_activity.intro_text"
@@ -102,7 +104,9 @@
               "name": "activity_title",
               "value": "Reflect",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "think_temp.workshop_activity.activity_title"
@@ -116,7 +120,9 @@
                   "name": "audio_title",
                   "value": "Listen and reflect",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "type": "set_variable",
                   "_nested_name": "think_temp.workshop_activity.content_box.audio_title"
@@ -134,7 +140,9 @@
                   "name": "button_1",
                   "value": "Read and reflect",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "action_list": [
                     {

@@ -72,7 +72,9 @@
       "has_single_task": true,
       "title": "Well done!",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -92,7 +94,9 @@
       "has_single_task": true,
       "title": "Relax",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -112,7 +116,9 @@
       "has_single_task": true,
       "title": "Recognise",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -132,7 +138,9 @@
       "has_single_task": true,
       "title": "Reward",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

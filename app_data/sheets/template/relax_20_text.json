@@ -21,7 +21,9 @@
           "name": "outro_text",
           "value": "Well done! You can do this activity at any time whenever you feel like you need to release stress and energise your mind and body.",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "relax_text.outro_text"

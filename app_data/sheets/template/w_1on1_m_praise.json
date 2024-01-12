@@ -17,7 +17,9 @@
               "name": "text",
               "value": "Thank you for putting so much effort into being a better parent. You are loved and appreciated!",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "m_praise.in_week_message.text"

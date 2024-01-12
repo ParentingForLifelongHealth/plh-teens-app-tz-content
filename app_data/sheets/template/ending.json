@@ -45,7 +45,9 @@
               "name": "activity_title",
               "value": "Let's Slow Down",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "watch.workshop_activity.activity_title"
@@ -190,7 +192,9 @@
               "name": "intro_title",
               "value": "Well done!",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "watch.workshop_activity.intro_title"
@@ -199,7 +203,9 @@
               "name": "intro_text",
               "value": "You’ve completed your @global.workshop.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "condition": "@local.workshop != \"w_celebrate\" && @local.workshop != \"w_crisis\"",
               "type": "set_variable",
@@ -346,7 +352,9 @@
               "name": "intro_text",
               "value": "We are so proud of you. You have shown strength, courage, and love for your family. Parents are amazing. You are amazing. \n\nThis song is for parents everywhere. Listen, dance together and celebrate yourselves!",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "condition": "@fields.do_this_workshop_together && @local.workshop == \"w_celebrate\"",
               "type": "set_variable",
@@ -380,7 +388,9 @@
               "name": "intro_text",
               "value": "We are so proud of you. You have shown strength, courage, and love for your family. Parents are amazing. You are amazing. \n\nThis song is for parents everywhere. Listen, dance and celebrate yourself!",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "condition": "!@fields.do_this_workshop_together && @local.workshop == \"w_celebrate\"",
               "type": "set_variable",
@@ -473,7 +483,9 @@
                   "name": "button",
                   "value": "Read along",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "action_list": [
                     {
@@ -494,7 +506,9 @@
                   "name": "bottom_text",
                   "value": "See you soon.",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "hidden": false,
                   "type": "set_variable",

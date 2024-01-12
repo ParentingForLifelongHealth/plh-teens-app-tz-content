@@ -21,7 +21,9 @@
       "name": "timer_title",
       "value": "Timer",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "timer_title"
@@ -30,7 +32,9 @@
       "name": "timer_help",
       "value": "Press the triangle to help you keep this discussion to @local.timer_duration minutes.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "timer_help",

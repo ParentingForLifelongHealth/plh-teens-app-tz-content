@@ -758,7 +758,9 @@
           "name": "location_name",
           "value": "module",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "activities_button.location_name"

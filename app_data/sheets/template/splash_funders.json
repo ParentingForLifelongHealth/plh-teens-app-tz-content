@@ -7,7 +7,9 @@
       "type": "text",
       "value": "@global.parent_app funded by",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "parameter_list": {
         "style": "large center"

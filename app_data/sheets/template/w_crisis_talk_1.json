@@ -37,7 +37,9 @@
               "name": "intro_text",
               "value": "This was such a difficult situation for @global.w_crisis_teen_girl_1 and her @global.w_crisis_female_caregiver! This can happen to boys and girls.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "talk_together.workshop_activity.intro_text",
@@ -74,7 +76,9 @@
                   "name": "text",
                   "value": "What skills did @global.w_crisis_female_caregiver use?",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "type": "set_variable",
                   "_nested_name": "talk_together.workshop_activity.content_box.text",

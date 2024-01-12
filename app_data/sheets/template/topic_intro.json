@@ -611,7 +611,9 @@
                       "name": "button_2",
                       "value": "Today's steps",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "action_list": [
                         {
@@ -691,7 +693,9 @@
                       "name": "audio_title",
                       "value": "Hear a caregiver's testimonial",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "type": "set_variable",
                       "_nested_name": "listen.workshop_activity.content_box.box_2.audio_title"
@@ -724,7 +728,9 @@
                       "name": "button_1",
                       "value": "Read a caregiver's testimonial",
                       "_translations": {
-                        "value": {}
+                        "value": {
+                          "tz_sw": true
+                        }
                       },
                       "action_list": [
                         {
@@ -1159,7 +1165,9 @@
                   "name": "button_2",
                   "value": "Today's steps",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "tz_sw": true
+                    }
                   },
                   "action_list": [
                     {

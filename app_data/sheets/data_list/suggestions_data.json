@@ -247,7 +247,9 @@
       "image_asset": "plh_images/workshops/w_svp/use_body/moves.gif",
       "title": "Examples",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "text": {}
       },
       "_translatedFields": {

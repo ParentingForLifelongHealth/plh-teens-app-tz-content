@@ -11,7 +11,9 @@
       "audio_asset": "plh_audio/topic_intros/w_self_care_intro.mp3",
       "intro_text": "We often don’t look after ourselves enough. But this is so important, especially as a parent! \n\nReducing our stress and treating ourselves well helps us AND our teenagers.",
       "_translations": {
-        "intro_text": {},
+        "intro_text": {
+          "tz_sw": true
+        },
         "script": {},
         "title": {},
         "intro_nav_button_completed": {}
@@ -41,9 +43,13 @@
       "audio_asset": "plh_audio/topic_intros/w_1on1_intro.mp3",
       "intro_text": "Being a parent can be so hard. Sometimes it feels like our children never listen to us.\n\nBut science shows that spending just a few minutes each day of focused one-on-one time with your teen helps build trust and love.",
       "_translations": {
-        "intro_text": {},
+        "intro_text": {
+          "tz_sw": true
+        },
         "intro_nav_button_completed": {},
-        "text": {},
+        "text": {
+          "tz_sw": true
+        },
         "script": {},
         "title": {}
       },
@@ -76,8 +82,12 @@
       "audio_asset": "plh_audio/topic_intros/w_praise_intro.mp3",
       "intro_text": "Praise is a powerful parenting skill.\n\nIf we praise our teens when they do something well, we will see them do more and more positive things!",
       "_translations": {
-        "intro_text": {},
-        "script": {},
+        "intro_text": {
+          "tz_sw": true
+        },
+        "script": {
+          "tz_sw": true
+        },
         "title": {},
         "intro_nav_button_completed": {}
       },
@@ -106,7 +116,9 @@
       "audio_asset": "plh_audio/topic_intros/w_instruct_intro.mp3",
       "intro_text": "Focus on the positive! \n\nTelling our teens what we DO want them to do works better than telling them to STOP doing something.\n\nYou will see the difference.",
       "_translations": {
-        "intro_text": {},
+        "intro_text": {
+          "tz_sw": true
+        },
         "script": {},
         "title": {},
         "intro_nav_button_completed": {}
@@ -137,7 +149,9 @@
       "intro_text": "We know how stressful it is to bring up teenagers in these times. Learning to manage your stress helps you – and your family.",
       "_translations": {
         "intro_text": {},
-        "script": {},
+        "script": {
+          "tz_sw": true
+        },
         "title": {},
         "intro_nav_button_completed": {}
       },
@@ -166,8 +180,12 @@
       "audio_asset": "plh_audio/topic_intros/w_solve_intro.mp3",
       "intro_text": "Every family faces challenges, but when we work together we can deal with problems in an effective and peaceful way. \n\nWhat a great skill for your teen to learn too!",
       "_translations": {
-        "intro_text": {},
-        "script": {},
+        "intro_text": {
+          "tz_sw": true
+        },
+        "script": {
+          "tz_sw": true
+        },
         "title": {},
         "intro_nav_button_completed": {}
       },
@@ -196,7 +214,9 @@
       "audio_asset": "plh_audio/topic_intros/w_money_intro.mp3",
       "intro_text": "Many families are stressed about money, especially if teens keep asking for things! \n\nWhen we make a budget together, we can agree how to spend AND save to prevent stress and work towards our family’s goals.",
       "_translations": {
-        "intro_text": {},
+        "intro_text": {
+          "tz_sw": true
+        },
         "script": {},
         "title": {},
         "intro_nav_button_completed": {}
@@ -226,8 +246,12 @@
       "audio_asset": "plh_audio/topic_intros/w_rules_intro.mp3",
       "intro_text": "Rules help teens understand what is expected from them. \n\nTeens are more likely to follow rules if you create the rules WITH your teen and praise them for it!",
       "_translations": {
-        "intro_text": {},
-        "script": {},
+        "intro_text": {
+          "tz_sw": true
+        },
+        "script": {
+          "tz_sw": true
+        },
         "title": {},
         "intro_nav_button_completed": {}
       },
@@ -286,8 +310,12 @@
       "audio_asset": "plh_audio/topic_intros/w_safe_intro.mp3",
       "intro_text": "Teens can spend a lot of time outside the house or online, where it is harder for us to keep them safe. \n\nTalking together about safe and unsafe places, and how to prevent problems, really helps!",
       "_translations": {
-        "intro_text": {},
-        "script": {},
+        "intro_text": {
+          "tz_sw": true
+        },
+        "script": {
+          "tz_sw": true
+        },
         "title": {},
         "intro_nav_button_completed": {}
       },
@@ -316,7 +344,9 @@
       "audio_asset": "plh_audio/topic_intros/w_crisis_intro.mp3",
       "intro_text": "All families experience crises. When we prepare together and know where to get help BEFORE something bad happens, we can overcome any crisis.",
       "_translations": {
-        "intro_text": {},
+        "intro_text": {
+          "tz_sw": true
+        },
         "script": {},
         "title": {},
         "intro_nav_button_completed": {}

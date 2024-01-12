@@ -65,7 +65,9 @@
               "name": "text",
               "value": "Thank you again for using @global.parent_app and for committing to your parenting journey. \n\nThe @local.workshop_data.in_text_title will show you how to set rules in a way that will help your teen to understand and follow them better.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "tz_sw": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "m_workshop_reminder.in_week_message.text",

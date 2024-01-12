@@ -9,7 +9,9 @@
       "name": "savings_option_1",
       "value": "At home",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -17,7 +19,9 @@
       "name": "savings_option_2",
       "value": "Buy things we can sell",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -25,7 +29,9 @@
       "name": "savings_option_3",
       "value": "At a bank",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -33,7 +39,9 @@
       "name": "savings_option_4",
       "value": "In a savings group",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     }
   ],

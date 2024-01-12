@@ -50,7 +50,9 @@
           "name": "activity_title",
           "value": "Listen Together",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@field.do_this_workshop_together",
           "type": "set_variable",
@@ -75,7 +77,9 @@
           "name": "intro_text",
           "value": "Let's listen to an audio together!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@field.do_this_workshop_together",
           "type": "set_variable",
@@ -100,7 +104,9 @@
           "name": "activity_title",
           "value": "Listen",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "!@field.do_this_workshop_together",
           "type": "set_variable",
@@ -125,7 +131,9 @@
           "name": "intro_text",
           "value": "Let's listen to an audio!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "!@field.do_this_workshop_together",
           "type": "set_variable",
