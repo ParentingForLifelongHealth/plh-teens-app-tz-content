@@ -1,4 +1,5 @@
 import { extendDeploymentConfig } from "scripts";
+import { loadEncryptedConfig } from "scripts";
 
 /** TZ config extends the default config **/
 const config = extendDeploymentConfig({ name: "plh_teens_tz", parent: "plh_teens" });
@@ -15,16 +16,21 @@ config.translations.translated_strings_path = "./app_data/translations_source/tr
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.1.8",
+  content_tag_latest: "1.1.9",
 };
 
 config.api.db_name = "plh_teens_tz"
 config.app_data.output_path = "./app_data";
 
+config.firebase = {
+  config: loadEncryptedConfig('firebase.json'),
+  auth:{enabled:true},
+  crashlytics:{enabled:true}
+}
+
 // Override constants
 config.app_config!.APP_LANGUAGES!.default = "tz_sw";
 config.app_config!.APP_SIDEMENU_DEFAULTS!.title = "ParentApp (TZ)";
-config.app_config!.APP_AUTHENTICATION_DEFAULTS!.enforceLogin = true;
 config.error_logging = { dsn: "https://1bfed3b77f4e4a0f9b55b510915c7f1c@app.glitchtip.com/2233" };
 
 export default config;
