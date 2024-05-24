@@ -26,14 +26,18 @@
         "tool_2_title": {
           "tz_sw": true
         },
-        "tool_2_text": {},
+        "tool_2_text": {
+          "tz_sw": true
+        },
         "tool_2_button_text": {
           "tz_sw": true
         },
         "tool_3_title": {
           "tz_sw": true
         },
-        "tool_3_text": {},
+        "tool_3_text": {
+          "tz_sw": true
+        },
         "tool_3_button_text": {
           "tz_sw": true
         },
@@ -99,12 +103,24 @@
         "title": {
           "tz_sw": true
         },
-        "tool_1_title": {},
-        "tool_1_text": {},
-        "tool_2_title": {},
-        "tool_2_text": {},
-        "tool_3_title": {},
-        "tool_3_text": {},
+        "tool_1_title": {
+          "tz_sw": true
+        },
+        "tool_1_text": {
+          "tz_sw": true
+        },
+        "tool_2_title": {
+          "tz_sw": true
+        },
+        "tool_2_text": {
+          "tz_sw": true
+        },
+        "tool_3_title": {
+          "tz_sw": true
+        },
+        "tool_3_text": {
+          "tz_sw": true
+        },
         "tool_4_title": {}
       },
       "_translatedFields": {
@@ -224,7 +240,9 @@
           "tz_sw": true
         },
         "tool_2_text": {},
-        "tool_3_title": {},
+        "tool_3_title": {
+          "tz_sw": true
+        },
         "tool_3_text": {
           "tz_sw": true
         },
@@ -274,15 +292,27 @@
         "tool_1_title": {
           "tz_sw": true
         },
-        "tool_1_text": {},
+        "tool_1_text": {
+          "tz_sw": true
+        },
         "tool_2_title": {
           "tz_sw": true
         },
-        "tool_2_text": {},
-        "tool_3_title": {},
-        "tool_3_text": {},
-        "tool_4_title": {},
-        "tool_4_text": {},
+        "tool_2_text": {
+          "tz_sw": true
+        },
+        "tool_3_title": {
+          "tz_sw": true
+        },
+        "tool_3_text": {
+          "tz_sw": true
+        },
+        "tool_4_title": {
+          "tz_sw": true
+        },
+        "tool_4_text": {
+          "tz_sw": true
+        },
         "bottom_text": {
           "tz_sw": true
         }
@@ -427,20 +457,42 @@
         "title": {
           "tz_sw": true
         },
-        "tool_1_title": {},
+        "tool_1_title": {
+          "tz_sw": true
+        },
         "tool_1_text": {
           "tz_sw": true
         },
-        "tool_1_button_text": {},
-        "tool_2_title": {},
-        "tool_2_text": {},
-        "tool_2_button_text": {},
-        "tool_3_title": {},
-        "tool_3_text": {},
-        "tool_3_button_text": {},
-        "tool_4_title": {},
-        "tool_4_text": {},
-        "tool_4_button_text": {}
+        "tool_1_button_text": {
+          "tz_sw": true
+        },
+        "tool_2_title": {
+          "tz_sw": true
+        },
+        "tool_2_text": {
+          "tz_sw": true
+        },
+        "tool_2_button_text": {
+          "tz_sw": true
+        },
+        "tool_3_title": {
+          "tz_sw": true
+        },
+        "tool_3_text": {
+          "tz_sw": true
+        },
+        "tool_3_button_text": {
+          "tz_sw": true
+        },
+        "tool_4_title": {
+          "tz_sw": true
+        },
+        "tool_4_text": {
+          "tz_sw": true
+        },
+        "tool_4_button_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -510,7 +562,9 @@
         "tool_2_title": {
           "tz_sw": true
         },
-        "tool_2_text": {},
+        "tool_2_text": {
+          "tz_sw": true
+        },
         "tool_3_title": {
           "tz_sw": true
         },
@@ -566,7 +620,9 @@
         "tool_1_title": {
           "tz_sw": true
         },
-        "tool_1_text": {},
+        "tool_1_text": {
+          "tz_sw": true
+        },
         "tool_2_title": {
           "tz_sw": true
         },
@@ -576,7 +632,9 @@
         "tool_3_title": {
           "tz_sw": true
         },
-        "tool_3_text": {},
+        "tool_3_text": {
+          "tz_sw": true
+        },
         "tool_4_title": {}
       },
       "_translatedFields": {
@@ -630,18 +688,24 @@
         "tool_1_title": {
           "tz_sw": true
         },
-        "tool_1_text": {},
+        "tool_1_text": {
+          "tz_sw": true
+        },
         "tool_1_button_text": {
           "tz_sw": true
         },
         "tool_2_title": {
           "tz_sw": true
         },
-        "tool_2_text": {},
+        "tool_2_text": {
+          "tz_sw": true
+        },
         "tool_2_button_text": {
           "tz_sw": true
         },
-        "tool_3_title": {},
+        "tool_3_title": {
+          "tz_sw": true
+        },
         "tool_3_text": {
           "tz_sw": true
         },
@@ -794,11 +858,15 @@
         "tool_2_title": {
           "tz_sw": true
         },
-        "tool_2_text": {},
+        "tool_2_text": {
+          "tz_sw": true
+        },
         "tool_3_title": {
           "tz_sw": true
         },
-        "tool_3_text": {},
+        "tool_3_text": {
+          "tz_sw": true
+        },
         "tool_4_title": {
           "tz_sw": true
         },
@@ -848,14 +916,30 @@
       "id": "w_srh",
       "title": "How to talk about sensitive topics",
       "_translations": {
-        "title": {},
-        "top_text": {},
-        "tool_1_title": {},
-        "tool_1_text": {},
-        "tool_2_title": {},
-        "tool_2_text": {},
-        "tool_3_title": {},
-        "tool_3_text": {},
+        "title": {
+          "tz_sw": true
+        },
+        "top_text": {
+          "tz_sw": true
+        },
+        "tool_1_title": {
+          "tz_sw": true
+        },
+        "tool_1_text": {
+          "tz_sw": true
+        },
+        "tool_2_title": {
+          "tz_sw": true
+        },
+        "tool_2_text": {
+          "tz_sw": true
+        },
+        "tool_3_title": {
+          "tz_sw": true
+        },
+        "tool_3_text": {
+          "tz_sw": true
+        },
         "tool_4_title": {}
       },
       "_translatedFields": {
@@ -903,26 +987,42 @@
       "tool_4_button_go_to_template": "w_svp_learn_use_body",
       "title": "How to stay safe",
       "_translations": {
-        "title": {},
-        "top_text": {},
+        "title": {
+          "tz_sw": true
+        },
+        "top_text": {
+          "tz_sw": true
+        },
         "tool_1_title": {
           "tz_sw": true
         },
-        "tool_1_text": {},
+        "tool_1_text": {
+          "tz_sw": true
+        },
         "tool_2_title": {
           "tz_sw": true
         },
-        "tool_2_text": {},
+        "tool_2_text": {
+          "tz_sw": true
+        },
         "tool_2_button_text": {},
         "tool_3_title": {
           "tz_sw": true
         },
-        "tool_3_text": {},
+        "tool_3_text": {
+          "tz_sw": true
+        },
         "tool_3_button_text": {},
-        "tool_4_title": {},
-        "tool_4_text": {},
+        "tool_4_title": {
+          "tz_sw": true
+        },
+        "tool_4_text": {
+          "tz_sw": true
+        },
         "tool_4_button_text": {},
-        "bottom_text": {}
+        "bottom_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -986,13 +1086,27 @@
       "id": "w_grief",
       "title": "How to cope with grief",
       "_translations": {
-        "title": {},
-        "tool_1_title": {},
-        "tool_1_text": {},
-        "tool_2_title": {},
-        "tool_2_text": {},
-        "tool_3_title": {},
-        "tool_3_text": {},
+        "title": {
+          "tz_sw": true
+        },
+        "tool_1_title": {
+          "tz_sw": true
+        },
+        "tool_1_text": {
+          "tz_sw": true
+        },
+        "tool_2_title": {
+          "tz_sw": true
+        },
+        "tool_2_text": {
+          "tz_sw": true
+        },
+        "tool_3_title": {
+          "tz_sw": true
+        },
+        "tool_3_text": {
+          "tz_sw": true
+        },
         "tool_4_title": {}
       },
       "_translatedFields": {
@@ -1033,15 +1147,27 @@
       "id": "w_learn",
       "title": "How to help your teen learn",
       "_translations": {
-        "title": {},
-        "tool_1_title": {},
-        "tool_1_text": {},
-        "tool_2_title": {},
-        "tool_2_text": {},
+        "title": {
+          "tz_sw": true
+        },
+        "tool_1_title": {
+          "tz_sw": true
+        },
+        "tool_1_text": {
+          "tz_sw": true
+        },
+        "tool_2_title": {
+          "tz_sw": true
+        },
+        "tool_2_text": {
+          "tz_sw": true
+        },
         "tool_3_title": {
           "tz_sw": true
         },
-        "tool_3_text": {},
+        "tool_3_text": {
+          "tz_sw": true
+        },
         "tool_4_title": {}
       },
       "_translatedFields": {

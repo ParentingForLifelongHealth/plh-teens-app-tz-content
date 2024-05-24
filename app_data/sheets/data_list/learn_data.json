@@ -14,8 +14,12 @@
       "part_4": "sex_talk_age",
       "title": "Other parents’ questions",
       "_translations": {
-        "title": {},
-        "intro_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -40,8 +44,12 @@
       "part_7": "rejected_ride",
       "title": "Warning signs",
       "_translations": {
-        "title": {},
-        "intro_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -60,8 +68,12 @@
       "part_1": "use_voice",
       "title": "Use your voice",
       "_translations": {
-        "title": {},
-        "intro_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -83,8 +95,12 @@
       "part_3": "defence_moves",
       "title": "Use your body",
       "_translations": {
-        "title": {},
-        "intro_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -101,8 +117,12 @@
       "workshop": "w_grief",
       "title": "Name your feelings",
       "_translations": {
-        "title": {},
-        "intro_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -125,8 +145,12 @@
       "part_3": "cook",
       "title": "What could I do?",
       "_translations": {
-        "title": {},
-        "intro_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

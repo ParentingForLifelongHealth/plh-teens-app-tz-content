@@ -197,7 +197,9 @@
       "has_single_task": true,
       "title": "Budget preparation",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -215,7 +217,9 @@
       "has_single_task": true,
       "title": "Step 1: Think",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -233,7 +237,9 @@
       "has_single_task": true,
       "title": "Step 2: Choose",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -251,7 +257,9 @@
       "has_single_task": true,
       "title": "Step 3: Build",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -305,7 +313,9 @@
       "has_single_task": true,
       "title": "Step 4: Plan",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
