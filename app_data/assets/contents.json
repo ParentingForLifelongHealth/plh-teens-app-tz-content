@@ -3380,5 +3380,10 @@
       }
     },
     "size_kb": 1.8
+  },
+  "web/favicon.png": {
+    "filePath": "global/web/favicon.png",
+    "md5Checksum": "2265c040569691441d445a1696bd5035",
+    "size_kb": 6.3
   }
 }
