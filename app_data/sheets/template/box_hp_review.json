@@ -38,38 +38,48 @@
     {
       "name": "answer_list",
       "value": [
-        "name: yes | text: @local.yes",
-        "name: no | text: @local.no"
+        {
+          "name": "yes",
+          "text": "@local.yes"
+        },
+        {
+          "name": "no",
+          "text": "@local.no"
+        }
       ],
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name: yes | text: @local.yes",
-              "matchedExpression": "@local.yes",
-              "type": "local",
-              "fieldName": "yes"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name: no | text: @local.no",
-              "matchedExpression": "@local.no",
-              "type": "local",
-              "fieldName": "no"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.yes",
+                "matchedExpression": "@local.yes",
+                "type": "local",
+                "fieldName": "yes"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.no",
+                "matchedExpression": "@local.no",
+                "type": "local",
+                "fieldName": "no"
+              }
+            ]
+          }
         }
       },
       "_dynamicDependencies": {
         "@local.yes": [
-          "value.0"
+          "value.0.text"
         ],
         "@local.no": [
-          "value.1"
+          "value.1.text"
         ]
       }
     },
@@ -334,9 +344,21 @@
         {
           "name": "answer_list_mood",
           "value": [
-            "name:happy | image:plh_images/stickers/faces/happier.svg | image_checked:plh_images/stickers/faces/happier.svg",
-            "name:ok | image:plh_images/stickers/faces/neutral.svg | image_checked:plh_images/stickers/faces/neutral.svg",
-            "name:sad | image:plh_images/stickers/faces/sadder.svg |  image_checked:plh_images/stickers/faces/sadder.svg"
+            {
+              "name": "happy",
+              "image": "plh_images/stickers/faces/happier.svg",
+              "image_checked": "plh_images/stickers/faces/happier.svg"
+            },
+            {
+              "name": "ok",
+              "image": "plh_images/stickers/faces/neutral.svg",
+              "image_checked": "plh_images/stickers/faces/neutral.svg"
+            },
+            {
+              "name": "sad",
+              "image": "plh_images/stickers/faces/sadder.svg",
+              "image_checked": "plh_images/stickers/faces/sadder.svg"
+            }
           ],
           "type": "set_variable",
           "_nested_name": "reply_yes_dg.answer_list_mood"

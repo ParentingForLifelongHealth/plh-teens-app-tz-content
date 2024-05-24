@@ -99,7 +99,7 @@
               "parameter_list": {
                 "background_box": "true"
               },
-              "_nested_name": "intro.display_group.intro_image_src",
+              "_nested_name": "intro.display_group_1.intro_image_src",
               "_dynamicFields": {
                 "value": [
                   {
@@ -117,8 +117,8 @@
               }
             }
           ],
-          "name": "display_group",
-          "_nested_name": "intro.display_group"
+          "name": "display_group_1",
+          "_nested_name": "intro.display_group_1"
         },
         {
           "type": "title",
@@ -466,7 +466,7 @@
               "parameter_list": {
                 "background_box": "true"
               },
-              "_nested_name": "outro.display_group.outro_image_src",
+              "_nested_name": "outro.display_group_1.outro_image_src",
               "_dynamicFields": {
                 "value": [
                   {
@@ -484,8 +484,8 @@
               }
             }
           ],
-          "name": "display_group",
-          "_nested_name": "outro.display_group"
+          "name": "display_group_1",
+          "_nested_name": "outro.display_group_1"
         },
         {
           "type": "title",

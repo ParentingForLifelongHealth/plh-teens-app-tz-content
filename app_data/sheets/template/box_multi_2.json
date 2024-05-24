@@ -29,10 +29,10 @@
               "name": "nav_buttons",
               "hidden": true,
               "rows": [],
-              "_nested_name": "display_group.number_selector_1.nav_buttons"
+              "_nested_name": "display_group_4.number_selector_1.nav_buttons"
             }
           ],
-          "_nested_name": "display_group.number_selector_1"
+          "_nested_name": "display_group_4.number_selector_1"
         },
         {
           "type": "template",
@@ -44,14 +44,14 @@
               "name": "nav_buttons",
               "hidden": true,
               "rows": [],
-              "_nested_name": "display_group.number_selector_2.nav_buttons"
+              "_nested_name": "display_group_4.number_selector_2.nav_buttons"
             }
           ],
-          "_nested_name": "display_group.number_selector_2"
+          "_nested_name": "display_group_4.number_selector_2"
         }
       ],
-      "name": "display_group",
-      "_nested_name": "display_group"
+      "name": "display_group_4",
+      "_nested_name": "display_group_4"
     },
     {
       "type": "display_group",
@@ -66,10 +66,10 @@
               "name": "nav_buttons",
               "hidden": true,
               "rows": [],
-              "_nested_name": "display_group.number_selector_3.nav_buttons"
+              "_nested_name": "display_group_6.number_selector_3.nav_buttons"
             }
           ],
-          "_nested_name": "display_group.number_selector_3"
+          "_nested_name": "display_group_6.number_selector_3"
         },
         {
           "type": "template",
@@ -81,14 +81,14 @@
               "name": "nav_buttons",
               "hidden": true,
               "rows": [],
-              "_nested_name": "display_group.number_selector_4.nav_buttons"
+              "_nested_name": "display_group_6.number_selector_4.nav_buttons"
             }
           ],
-          "_nested_name": "display_group.number_selector_4"
+          "_nested_name": "display_group_6.number_selector_4"
         }
       ],
-      "name": "display_group",
-      "_nested_name": "display_group"
+      "name": "display_group_6",
+      "_nested_name": "display_group_6"
     },
     {
       "type": "template",

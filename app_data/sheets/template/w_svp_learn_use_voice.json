@@ -339,8 +339,14 @@
                         {
                           "name": "answer_list",
                           "value": [
-                            "name:yes | text:Yes",
-                            "name:no | text:No"
+                            {
+                              "name": "yes",
+                              "text": "Yes"
+                            },
+                            {
+                              "name": "no",
+                              "text": "No"
+                            }
                           ],
                           "type": "set_variable",
                           "_nested_name": "learn.workshop_activity.content_box.box_2.radio_buttons_1.answer_list"
@@ -364,8 +370,14 @@
                         {
                           "name": "answer_list",
                           "value": [
-                            "name:yes | text:Yes",
-                            "name:no | text:No"
+                            {
+                              "name": "yes",
+                              "text": "Yes"
+                            },
+                            {
+                              "name": "no",
+                              "text": "No"
+                            }
                           ],
                           "type": "set_variable",
                           "_nested_name": "learn.workshop_activity.content_box.box_2.radio_buttons_2.answer_list"

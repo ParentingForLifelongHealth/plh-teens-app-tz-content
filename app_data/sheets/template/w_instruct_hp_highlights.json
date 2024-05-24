@@ -63,61 +63,81 @@
     {
       "name": "answer_list",
       "value": [
-        "name:choice_1 | text:@local.choice_1",
-        "name:choice_2 | text:@local.choice_2",
-        "name:choice_3 | text:@local.choice_3",
-        "name: choice_none | text:@local.choice_none"
+        {
+          "name": "choice_1",
+          "text": "@local.choice_1"
+        },
+        {
+          "name": "choice_2",
+          "text": "@local.choice_2"
+        },
+        {
+          "name": "choice_3",
+          "text": "@local.choice_3"
+        },
+        {
+          "name": "choice_none",
+          "text": "@local.choice_none"
+        }
       ],
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name:choice_1 | text:@local.choice_1",
-              "matchedExpression": "@local.choice_1",
-              "type": "local",
-              "fieldName": "choice_1"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name:choice_2 | text:@local.choice_2",
-              "matchedExpression": "@local.choice_2",
-              "type": "local",
-              "fieldName": "choice_2"
-            }
-          ],
-          "2": [
-            {
-              "fullExpression": "name:choice_3 | text:@local.choice_3",
-              "matchedExpression": "@local.choice_3",
-              "type": "local",
-              "fieldName": "choice_3"
-            }
-          ],
-          "3": [
-            {
-              "fullExpression": "name: choice_none | text:@local.choice_none",
-              "matchedExpression": "@local.choice_none",
-              "type": "local",
-              "fieldName": "choice_none"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.choice_1",
+                "matchedExpression": "@local.choice_1",
+                "type": "local",
+                "fieldName": "choice_1"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.choice_2",
+                "matchedExpression": "@local.choice_2",
+                "type": "local",
+                "fieldName": "choice_2"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@local.choice_3",
+                "matchedExpression": "@local.choice_3",
+                "type": "local",
+                "fieldName": "choice_3"
+              }
+            ]
+          },
+          "3": {
+            "text": [
+              {
+                "fullExpression": "@local.choice_none",
+                "matchedExpression": "@local.choice_none",
+                "type": "local",
+                "fieldName": "choice_none"
+              }
+            ]
+          }
         }
       },
       "_dynamicDependencies": {
         "@local.choice_1": [
-          "value.0"
+          "value.0.text"
         ],
         "@local.choice_2": [
-          "value.1"
+          "value.1.text"
         ],
         "@local.choice_3": [
-          "value.2"
+          "value.2.text"
         ],
         "@local.choice_none": [
-          "value.3"
+          "value.3.text"
         ]
       }
     },

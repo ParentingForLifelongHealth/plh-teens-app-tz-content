@@ -131,309 +131,420 @@
     {
       "name": "answer_list_1",
       "value": [
-        "name: individual | text: @global.individual | image:@global.individual_image",
-        "name: together | text: @global.together | image:@global.together_image"
+        {
+          "name": "individual",
+          "text": "@global.individual",
+          "image": "@global.individual_image"
+        },
+        {
+          "name": "together",
+          "text": "@global.together",
+          "image": "@global.together_image"
+        }
       ],
       "type": "set_variable",
       "_nested_name": "answer_list_1",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name: individual | text: @global.individual | image:@global.individual_image",
-              "matchedExpression": "@global.individual",
-              "type": "global",
-              "fieldName": "individual"
-            },
-            {
-              "fullExpression": "name: individual | text: @global.individual | image:@global.individual_image",
-              "matchedExpression": "@global.individual_image",
-              "type": "global",
-              "fieldName": "individual_image"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name: together | text: @global.together | image:@global.together_image",
-              "matchedExpression": "@global.together",
-              "type": "global",
-              "fieldName": "together"
-            },
-            {
-              "fullExpression": "name: together | text: @global.together | image:@global.together_image",
-              "matchedExpression": "@global.together_image",
-              "type": "global",
-              "fieldName": "together_image"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@global.individual",
+                "matchedExpression": "@global.individual",
+                "type": "global",
+                "fieldName": "individual"
+              }
+            ],
+            "image": [
+              {
+                "fullExpression": "@global.individual_image",
+                "matchedExpression": "@global.individual_image",
+                "type": "global",
+                "fieldName": "individual_image"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@global.together",
+                "matchedExpression": "@global.together",
+                "type": "global",
+                "fieldName": "together"
+              }
+            ],
+            "image": [
+              {
+                "fullExpression": "@global.together_image",
+                "matchedExpression": "@global.together_image",
+                "type": "global",
+                "fieldName": "together_image"
+              }
+            ]
+          }
         }
       },
       "_dynamicDependencies": {
         "@global.individual": [
-          "value.0"
+          "value.0.text"
         ],
         "@global.individual_image": [
-          "value.0"
+          "value.0.image"
         ],
         "@global.together": [
-          "value.1"
+          "value.1.text"
         ],
         "@global.together_image": [
-          "value.1"
+          "value.1.image"
         ]
       }
     },
     {
       "name": "answer_list_2",
       "value": [
-        "name:1 | text: @local.monday",
-        "name:2 | text: @local.tuesday",
-        "name:3 | text: @local.wednesday",
-        "name:4 | text: @local.thursday",
-        "name:5 | text: @local.friday",
-        "name:6 | text: @local.saturday",
-        "name:0 | text: @local.sunday"
+        {
+          "name": "1",
+          "text": "@local.monday"
+        },
+        {
+          "name": "2",
+          "text": "@local.tuesday"
+        },
+        {
+          "name": "3",
+          "text": "@local.wednesday"
+        },
+        {
+          "name": "4",
+          "text": "@local.thursday"
+        },
+        {
+          "name": "5",
+          "text": "@local.friday"
+        },
+        {
+          "name": "6",
+          "text": "@local.saturday"
+        },
+        {
+          "name": "0",
+          "text": "@local.sunday"
+        }
       ],
       "type": "set_variable",
       "_nested_name": "answer_list_2",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name:1 | text: @local.monday",
-              "matchedExpression": "@local.monday",
-              "type": "local",
-              "fieldName": "monday"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name:2 | text: @local.tuesday",
-              "matchedExpression": "@local.tuesday",
-              "type": "local",
-              "fieldName": "tuesday"
-            }
-          ],
-          "2": [
-            {
-              "fullExpression": "name:3 | text: @local.wednesday",
-              "matchedExpression": "@local.wednesday",
-              "type": "local",
-              "fieldName": "wednesday"
-            }
-          ],
-          "3": [
-            {
-              "fullExpression": "name:4 | text: @local.thursday",
-              "matchedExpression": "@local.thursday",
-              "type": "local",
-              "fieldName": "thursday"
-            }
-          ],
-          "4": [
-            {
-              "fullExpression": "name:5 | text: @local.friday",
-              "matchedExpression": "@local.friday",
-              "type": "local",
-              "fieldName": "friday"
-            }
-          ],
-          "5": [
-            {
-              "fullExpression": "name:6 | text: @local.saturday",
-              "matchedExpression": "@local.saturday",
-              "type": "local",
-              "fieldName": "saturday"
-            }
-          ],
-          "6": [
-            {
-              "fullExpression": "name:0 | text: @local.sunday",
-              "matchedExpression": "@local.sunday",
-              "type": "local",
-              "fieldName": "sunday"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.monday",
+                "matchedExpression": "@local.monday",
+                "type": "local",
+                "fieldName": "monday"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.tuesday",
+                "matchedExpression": "@local.tuesday",
+                "type": "local",
+                "fieldName": "tuesday"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@local.wednesday",
+                "matchedExpression": "@local.wednesday",
+                "type": "local",
+                "fieldName": "wednesday"
+              }
+            ]
+          },
+          "3": {
+            "text": [
+              {
+                "fullExpression": "@local.thursday",
+                "matchedExpression": "@local.thursday",
+                "type": "local",
+                "fieldName": "thursday"
+              }
+            ]
+          },
+          "4": {
+            "text": [
+              {
+                "fullExpression": "@local.friday",
+                "matchedExpression": "@local.friday",
+                "type": "local",
+                "fieldName": "friday"
+              }
+            ]
+          },
+          "5": {
+            "text": [
+              {
+                "fullExpression": "@local.saturday",
+                "matchedExpression": "@local.saturday",
+                "type": "local",
+                "fieldName": "saturday"
+              }
+            ]
+          },
+          "6": {
+            "text": [
+              {
+                "fullExpression": "@local.sunday",
+                "matchedExpression": "@local.sunday",
+                "type": "local",
+                "fieldName": "sunday"
+              }
+            ]
+          }
         }
       },
       "_dynamicDependencies": {
         "@local.monday": [
-          "value.0"
+          "value.0.text"
         ],
         "@local.tuesday": [
-          "value.1"
+          "value.1.text"
         ],
         "@local.wednesday": [
-          "value.2"
+          "value.2.text"
         ],
         "@local.thursday": [
-          "value.3"
+          "value.3.text"
         ],
         "@local.friday": [
-          "value.4"
+          "value.4.text"
         ],
         "@local.saturday": [
-          "value.5"
+          "value.5.text"
         ],
         "@local.sunday": [
-          "value.6"
+          "value.6.text"
         ]
       }
     },
     {
       "name": "answer_list_3",
       "value": [
-        "name:w_self_care| text:@data.workshop.w_self_care.title",
-        "name:w_1on1| text:@data.workshop.w_1on1.title",
-        "name:w_praise | text:@data.workshop.w_praise.title",
-        "name:w_instruct | text:@data.workshop.w_instruct.title",
-        "name:w_stress | text:@data.workshop.w_stress.title",
-        "name:w_money | text:@data.workshop.w_money.title",
-        "name:w_rules | text:@data.workshop.w_rules.title",
-        "name:w_consequence | text:@data.workshop.w_consequence.title",
-        "name:w_solve | text:@data.workshop.w_solve.title",
-        "name:w_safe | text:@data.workshop.w_safe.title",
-        "name:w_crisis | text:@data.workshop.w_crisis.title",
-        "name:w_celebrate | text:@data.workshop.w_celebrate.title"
+        {
+          "name": "w_self_care",
+          "text": "@data.workshop.w_self_care.title"
+        },
+        {
+          "name": "w_1on1",
+          "text": "@data.workshop.w_1on1.title"
+        },
+        {
+          "name": "w_praise",
+          "text": "@data.workshop.w_praise.title"
+        },
+        {
+          "name": "w_instruct",
+          "text": "@data.workshop.w_instruct.title"
+        },
+        {
+          "name": "w_stress",
+          "text": "@data.workshop.w_stress.title"
+        },
+        {
+          "name": "w_money",
+          "text": "@data.workshop.w_money.title"
+        },
+        {
+          "name": "w_rules",
+          "text": "@data.workshop.w_rules.title"
+        },
+        {
+          "name": "w_consequence",
+          "text": "@data.workshop.w_consequence.title"
+        },
+        {
+          "name": "w_solve",
+          "text": "@data.workshop.w_solve.title"
+        },
+        {
+          "name": "w_safe",
+          "text": "@data.workshop.w_safe.title"
+        },
+        {
+          "name": "w_crisis",
+          "text": "@data.workshop.w_crisis.title"
+        },
+        {
+          "name": "w_celebrate",
+          "text": "@data.workshop.w_celebrate.title"
+        }
       ],
       "type": "set_variable",
       "_nested_name": "answer_list_3",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name:w_self_care| text:@data.workshop.w_self_care.title",
-              "matchedExpression": "@data.workshop.w_self_care.title",
-              "type": "data",
-              "fieldName": "workshop"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name:w_1on1| text:@data.workshop.w_1on1.title",
-              "matchedExpression": "@data.workshop.w_1on1.title",
-              "type": "data",
-              "fieldName": "workshop"
-            }
-          ],
-          "2": [
-            {
-              "fullExpression": "name:w_praise | text:@data.workshop.w_praise.title",
-              "matchedExpression": "@data.workshop.w_praise.title",
-              "type": "data",
-              "fieldName": "workshop"
-            }
-          ],
-          "3": [
-            {
-              "fullExpression": "name:w_instruct | text:@data.workshop.w_instruct.title",
-              "matchedExpression": "@data.workshop.w_instruct.title",
-              "type": "data",
-              "fieldName": "workshop"
-            }
-          ],
-          "4": [
-            {
-              "fullExpression": "name:w_stress | text:@data.workshop.w_stress.title",
-              "matchedExpression": "@data.workshop.w_stress.title",
-              "type": "data",
-              "fieldName": "workshop"
-            }
-          ],
-          "5": [
-            {
-              "fullExpression": "name:w_money | text:@data.workshop.w_money.title",
-              "matchedExpression": "@data.workshop.w_money.title",
-              "type": "data",
-              "fieldName": "workshop"
-            }
-          ],
-          "6": [
-            {
-              "fullExpression": "name:w_rules | text:@data.workshop.w_rules.title",
-              "matchedExpression": "@data.workshop.w_rules.title",
-              "type": "data",
-              "fieldName": "workshop"
-            }
-          ],
-          "7": [
-            {
-              "fullExpression": "name:w_consequence | text:@data.workshop.w_consequence.title",
-              "matchedExpression": "@data.workshop.w_consequence.title",
-              "type": "data",
-              "fieldName": "workshop"
-            }
-          ],
-          "8": [
-            {
-              "fullExpression": "name:w_solve | text:@data.workshop.w_solve.title",
-              "matchedExpression": "@data.workshop.w_solve.title",
-              "type": "data",
-              "fieldName": "workshop"
-            }
-          ],
-          "9": [
-            {
-              "fullExpression": "name:w_safe | text:@data.workshop.w_safe.title",
-              "matchedExpression": "@data.workshop.w_safe.title",
-              "type": "data",
-              "fieldName": "workshop"
-            }
-          ],
-          "10": [
-            {
-              "fullExpression": "name:w_crisis | text:@data.workshop.w_crisis.title",
-              "matchedExpression": "@data.workshop.w_crisis.title",
-              "type": "data",
-              "fieldName": "workshop"
-            }
-          ],
-          "11": [
-            {
-              "fullExpression": "name:w_celebrate | text:@data.workshop.w_celebrate.title",
-              "matchedExpression": "@data.workshop.w_celebrate.title",
-              "type": "data",
-              "fieldName": "workshop"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@data.workshop.w_self_care.title",
+                "matchedExpression": "@data.workshop.w_self_care.title",
+                "type": "data",
+                "fieldName": "workshop"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@data.workshop.w_1on1.title",
+                "matchedExpression": "@data.workshop.w_1on1.title",
+                "type": "data",
+                "fieldName": "workshop"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@data.workshop.w_praise.title",
+                "matchedExpression": "@data.workshop.w_praise.title",
+                "type": "data",
+                "fieldName": "workshop"
+              }
+            ]
+          },
+          "3": {
+            "text": [
+              {
+                "fullExpression": "@data.workshop.w_instruct.title",
+                "matchedExpression": "@data.workshop.w_instruct.title",
+                "type": "data",
+                "fieldName": "workshop"
+              }
+            ]
+          },
+          "4": {
+            "text": [
+              {
+                "fullExpression": "@data.workshop.w_stress.title",
+                "matchedExpression": "@data.workshop.w_stress.title",
+                "type": "data",
+                "fieldName": "workshop"
+              }
+            ]
+          },
+          "5": {
+            "text": [
+              {
+                "fullExpression": "@data.workshop.w_money.title",
+                "matchedExpression": "@data.workshop.w_money.title",
+                "type": "data",
+                "fieldName": "workshop"
+              }
+            ]
+          },
+          "6": {
+            "text": [
+              {
+                "fullExpression": "@data.workshop.w_rules.title",
+                "matchedExpression": "@data.workshop.w_rules.title",
+                "type": "data",
+                "fieldName": "workshop"
+              }
+            ]
+          },
+          "7": {
+            "text": [
+              {
+                "fullExpression": "@data.workshop.w_consequence.title",
+                "matchedExpression": "@data.workshop.w_consequence.title",
+                "type": "data",
+                "fieldName": "workshop"
+              }
+            ]
+          },
+          "8": {
+            "text": [
+              {
+                "fullExpression": "@data.workshop.w_solve.title",
+                "matchedExpression": "@data.workshop.w_solve.title",
+                "type": "data",
+                "fieldName": "workshop"
+              }
+            ]
+          },
+          "9": {
+            "text": [
+              {
+                "fullExpression": "@data.workshop.w_safe.title",
+                "matchedExpression": "@data.workshop.w_safe.title",
+                "type": "data",
+                "fieldName": "workshop"
+              }
+            ]
+          },
+          "10": {
+            "text": [
+              {
+                "fullExpression": "@data.workshop.w_crisis.title",
+                "matchedExpression": "@data.workshop.w_crisis.title",
+                "type": "data",
+                "fieldName": "workshop"
+              }
+            ]
+          },
+          "11": {
+            "text": [
+              {
+                "fullExpression": "@data.workshop.w_celebrate.title",
+                "matchedExpression": "@data.workshop.w_celebrate.title",
+                "type": "data",
+                "fieldName": "workshop"
+              }
+            ]
+          }
         }
       },
       "_dynamicDependencies": {
         "@data.workshop.w_self_care.title": [
-          "value.0"
+          "value.0.text"
         ],
         "@data.workshop.w_1on1.title": [
-          "value.1"
+          "value.1.text"
         ],
         "@data.workshop.w_praise.title": [
-          "value.2"
+          "value.2.text"
         ],
         "@data.workshop.w_instruct.title": [
-          "value.3"
+          "value.3.text"
         ],
         "@data.workshop.w_stress.title": [
-          "value.4"
+          "value.4.text"
         ],
         "@data.workshop.w_money.title": [
-          "value.5"
+          "value.5.text"
         ],
         "@data.workshop.w_rules.title": [
-          "value.6"
+          "value.6.text"
         ],
         "@data.workshop.w_consequence.title": [
-          "value.7"
+          "value.7.text"
         ],
         "@data.workshop.w_solve.title": [
-          "value.8"
+          "value.8.text"
         ],
         "@data.workshop.w_safe.title": [
-          "value.9"
+          "value.9.text"
         ],
         "@data.workshop.w_crisis.title": [
-          "value.10"
+          "value.10.text"
         ],
         "@data.workshop.w_celebrate.title": [
-          "value.11"
+          "value.11.text"
         ]
       }
     },

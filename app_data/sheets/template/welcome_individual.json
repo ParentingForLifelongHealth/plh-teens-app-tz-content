@@ -44,26 +44,25 @@
     },
     {
       "name": "data_list_row",
-      "value": [
-        "check_in.@local.workshop"
-      ],
+      "value": "check_in.@local.workshop",
+      "_translations": {
+        "value": {}
+      },
       "type": "set_variable",
       "_nested_name": "data_list_row",
       "_dynamicFields": {
-        "value": {
-          "0": [
-            {
-              "fullExpression": "check_in.@local.workshop",
-              "matchedExpression": "@local.workshop",
-              "type": "local",
-              "fieldName": "workshop"
-            }
-          ]
-        }
+        "value": [
+          {
+            "fullExpression": "check_in.@local.workshop",
+            "matchedExpression": "@local.workshop",
+            "type": "local",
+            "fieldName": "workshop"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@local.workshop": [
-          "value.0"
+          "value"
         ]
       }
     },

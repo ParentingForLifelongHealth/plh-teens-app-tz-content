@@ -109,8 +109,8 @@
         "icon_src": "@local.relax_campaign.icon",
         "first_line_text": "@global.current_relax"
       },
-      "name": "tile_component",
-      "_nested_name": "tile_component",
+      "name": "tile_component_6",
+      "_nested_name": "tile_component_6",
       "_dynamicFields": {
         "action_list": {
           "0": {

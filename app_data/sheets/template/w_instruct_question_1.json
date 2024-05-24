@@ -192,49 +192,70 @@
                     {
                       "name": "answer_list",
                       "value": [
-                        "name:sad | text: @local.sad |  image:plh_images/stickers/faces/sadder.svg | image_checked: plh_images/stickers/faces/sadder.svg",
-                        "name:confused | text: @local.confused | image:plh_images/stickers/faces/confused_question_mark.svg | image_checked:plh_images/stickers/faces/confused_question_mark.svg",
-                        "name:angry | text: @local.angry | image:plh_images/stickers/faces/angry.svg | image_checked:plh_images/stickers/faces/angry.svg"
+                        {
+                          "name": "sad",
+                          "text": "@local.sad",
+                          "image": "plh_images/stickers/faces/sadder.svg",
+                          "image_checked": "plh_images/stickers/faces/sadder.svg"
+                        },
+                        {
+                          "name": "confused",
+                          "text": "@local.confused",
+                          "image": "plh_images/stickers/faces/confused_question_mark.svg",
+                          "image_checked": "plh_images/stickers/faces/confused_question_mark.svg"
+                        },
+                        {
+                          "name": "angry",
+                          "text": "@local.angry",
+                          "image": "plh_images/stickers/faces/angry.svg",
+                          "image_checked": "plh_images/stickers/faces/angry.svg"
+                        }
                       ],
                       "type": "set_variable",
                       "_nested_name": "question_time.workshop_activity.content_box.combo_box_1.answer_list",
                       "_dynamicFields": {
                         "value": {
-                          "0": [
-                            {
-                              "fullExpression": "name:sad | text: @local.sad |  image:plh_images/stickers/faces/sadder.svg | image_checked: plh_images/stickers/faces/sadder.svg",
-                              "matchedExpression": "@local.sad",
-                              "type": "local",
-                              "fieldName": "sad"
-                            }
-                          ],
-                          "1": [
-                            {
-                              "fullExpression": "name:confused | text: @local.confused | image:plh_images/stickers/faces/confused_question_mark.svg | image_checked:plh_images/stickers/faces/confused_question_mark.svg",
-                              "matchedExpression": "@local.confused",
-                              "type": "local",
-                              "fieldName": "confused"
-                            }
-                          ],
-                          "2": [
-                            {
-                              "fullExpression": "name:angry | text: @local.angry | image:plh_images/stickers/faces/angry.svg | image_checked:plh_images/stickers/faces/angry.svg",
-                              "matchedExpression": "@local.angry",
-                              "type": "local",
-                              "fieldName": "angry"
-                            }
-                          ]
+                          "0": {
+                            "text": [
+                              {
+                                "fullExpression": "@local.sad",
+                                "matchedExpression": "@local.sad",
+                                "type": "local",
+                                "fieldName": "sad"
+                              }
+                            ]
+                          },
+                          "1": {
+                            "text": [
+                              {
+                                "fullExpression": "@local.confused",
+                                "matchedExpression": "@local.confused",
+                                "type": "local",
+                                "fieldName": "confused"
+                              }
+                            ]
+                          },
+                          "2": {
+                            "text": [
+                              {
+                                "fullExpression": "@local.angry",
+                                "matchedExpression": "@local.angry",
+                                "type": "local",
+                                "fieldName": "angry"
+                              }
+                            ]
+                          }
                         }
                       },
                       "_dynamicDependencies": {
                         "@local.sad": [
-                          "value.0"
+                          "value.0.text"
                         ],
                         "@local.confused": [
-                          "value.1"
+                          "value.1.text"
                         ],
                         "@local.angry": [
-                          "value.2"
+                          "value.2.text"
                         ]
                       }
                     },
@@ -297,49 +318,64 @@
                     {
                       "name": "answer_list",
                       "value": [
-                        "name:name_1 | text:@local.answer_1",
-                        "name:name_2 | text:@local.answer_2",
-                        "name:name_3 | text:@local.answer_3"
+                        {
+                          "name": "name_1",
+                          "text": "@local.answer_1"
+                        },
+                        {
+                          "name": "name_2",
+                          "text": "@local.answer_2"
+                        },
+                        {
+                          "name": "name_3",
+                          "text": "@local.answer_3"
+                        }
                       ],
                       "type": "set_variable",
                       "_nested_name": "question_time.workshop_activity.content_box.combo_box_2.answer_list",
                       "_dynamicFields": {
                         "value": {
-                          "0": [
-                            {
-                              "fullExpression": "name:name_1 | text:@local.answer_1",
-                              "matchedExpression": "@local.answer_1",
-                              "type": "local",
-                              "fieldName": "answer_1"
-                            }
-                          ],
-                          "1": [
-                            {
-                              "fullExpression": "name:name_2 | text:@local.answer_2",
-                              "matchedExpression": "@local.answer_2",
-                              "type": "local",
-                              "fieldName": "answer_2"
-                            }
-                          ],
-                          "2": [
-                            {
-                              "fullExpression": "name:name_3 | text:@local.answer_3",
-                              "matchedExpression": "@local.answer_3",
-                              "type": "local",
-                              "fieldName": "answer_3"
-                            }
-                          ]
+                          "0": {
+                            "text": [
+                              {
+                                "fullExpression": "@local.answer_1",
+                                "matchedExpression": "@local.answer_1",
+                                "type": "local",
+                                "fieldName": "answer_1"
+                              }
+                            ]
+                          },
+                          "1": {
+                            "text": [
+                              {
+                                "fullExpression": "@local.answer_2",
+                                "matchedExpression": "@local.answer_2",
+                                "type": "local",
+                                "fieldName": "answer_2"
+                              }
+                            ]
+                          },
+                          "2": {
+                            "text": [
+                              {
+                                "fullExpression": "@local.answer_3",
+                                "matchedExpression": "@local.answer_3",
+                                "type": "local",
+                                "fieldName": "answer_3"
+                              }
+                            ]
+                          }
                         }
                       },
                       "_dynamicDependencies": {
                         "@local.answer_1": [
-                          "value.0"
+                          "value.0.text"
                         ],
                         "@local.answer_2": [
-                          "value.1"
+                          "value.1.text"
                         ],
                         "@local.answer_3": [
-                          "value.2"
+                          "value.2.text"
                         ]
                       }
                     },

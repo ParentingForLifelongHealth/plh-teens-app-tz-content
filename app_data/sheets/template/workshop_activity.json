@@ -187,7 +187,7 @@
                   "parameter_list": {
                     "background_box": "true"
                   },
-                  "_nested_name": "pages_activity.intro.display_group.intro_image_src",
+                  "_nested_name": "pages_activity.intro.display_group_1.intro_image_src",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -205,8 +205,8 @@
                   }
                 }
               ],
-              "name": "display_group",
-              "_nested_name": "pages_activity.intro.display_group"
+              "name": "display_group_1",
+              "_nested_name": "pages_activity.intro.display_group_1"
             },
             {
               "type": "title",
@@ -553,7 +553,7 @@
                   "parameter_list": {
                     "background_box": "true"
                   },
-                  "_nested_name": "pages_activity.outro.display_group.outro_image_src",
+                  "_nested_name": "pages_activity.outro.display_group_1.outro_image_src",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -571,8 +571,8 @@
                   }
                 }
               ],
-              "name": "display_group",
-              "_nested_name": "pages_activity.outro.display_group"
+              "name": "display_group_1",
+              "_nested_name": "pages_activity.outro.display_group_1"
             },
             {
               "type": "title",
@@ -997,13 +997,13 @@
             {
               "type": "text",
               "name": "outro_text",
-              "_nested_name": "scroll_activity.display_group.outro_text"
+              "_nested_name": "scroll_activity.display_group_4.outro_text"
             },
             {
               "type": "button",
               "name": "outro_button",
               "hidden": true,
-              "_nested_name": "scroll_activity.display_group.outro_button"
+              "_nested_name": "scroll_activity.display_group_4.outro_button"
             },
             {
               "type": "template",
@@ -1016,7 +1016,7 @@
                   "value": false,
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "scroll_activity.display_group.outro_habit_box.use_short_mark_text"
+                  "_nested_name": "scroll_activity.display_group_4.outro_habit_box.use_short_mark_text"
                 },
                 {
                   "name": "habit_text_long",
@@ -1026,7 +1026,7 @@
                   },
                   "condition": "!!@local.outro_habit_text",
                   "type": "set_variable",
-                  "_nested_name": "scroll_activity.display_group.outro_habit_box.habit_text_long",
+                  "_nested_name": "scroll_activity.display_group_4.outro_habit_box.habit_text_long",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -1061,7 +1061,7 @@
                     "value": {}
                   },
                   "type": "set_variable",
-                  "_nested_name": "scroll_activity.display_group.outro_habit_box.habit_1_data",
+                  "_nested_name": "scroll_activity.display_group_4.outro_habit_box.habit_1_data",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -1084,10 +1084,10 @@
                     "style": "column"
                   },
                   "type": "set_variable",
-                  "_nested_name": "scroll_activity.display_group.outro_habit_box.dashed_box"
+                  "_nested_name": "scroll_activity.display_group_4.outro_habit_box.dashed_box"
                 }
               ],
-              "_nested_name": "scroll_activity.display_group.outro_habit_box",
+              "_nested_name": "scroll_activity.display_group_4.outro_habit_box",
               "_dynamicFields": {
                 "condition": [
                   {
@@ -1136,7 +1136,7 @@
                     "true_text": "@local.outro_toggle_bar_text",
                     "false_text": "@local.outro_toggle_bar_text"
                   },
-                  "_nested_name": "scroll_activity.display_group.has_toggle_bar.outro_toggle_bar",
+                  "_nested_name": "scroll_activity.display_group_4.has_toggle_bar.outro_toggle_bar",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -1225,7 +1225,7 @@
                   }
                 }
               ],
-              "_nested_name": "scroll_activity.display_group.has_toggle_bar",
+              "_nested_name": "scroll_activity.display_group_4.has_toggle_bar",
               "_dynamicFields": {
                 "condition": [
                   {
@@ -1243,8 +1243,8 @@
               }
             }
           ],
-          "name": "display_group",
-          "_nested_name": "scroll_activity.display_group",
+          "name": "display_group_4",
+          "_nested_name": "scroll_activity.display_group_4",
           "_dynamicFields": {
             "condition": [
               {

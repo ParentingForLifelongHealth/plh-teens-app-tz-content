@@ -141,44 +141,44 @@
     },
     {
       "name": "hp_challenge_list",
-      "value": [
-        "_hp_challenge_list"
-      ],
+      "value": "_hp_challenge_list",
+      "_translations": {
+        "value": {}
+      },
       "type": "set_variable",
       "_nested_name": "hp_challenge_list"
     },
     {
       "name": "workshop_hp_challenge_list",
-      "value": [
-        "@local.workshop@local.hp_challenge_list"
-      ],
+      "value": "@local.workshop@local.hp_challenge_list",
+      "_translations": {
+        "value": {}
+      },
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "workshop_hp_challenge_list",
       "_dynamicFields": {
-        "value": {
-          "0": [
-            {
-              "fullExpression": "@local.workshop@local.hp_challenge_list",
-              "matchedExpression": "@local.workshop",
-              "type": "local",
-              "fieldName": "workshop"
-            },
-            {
-              "fullExpression": "@local.workshop@local.hp_challenge_list",
-              "matchedExpression": "@local.hp_challenge_list",
-              "type": "local",
-              "fieldName": "hp_challenge_list"
-            }
-          ]
-        }
+        "value": [
+          {
+            "fullExpression": "@local.workshop@local.hp_challenge_list",
+            "matchedExpression": "@local.workshop",
+            "type": "local",
+            "fieldName": "workshop"
+          },
+          {
+            "fullExpression": "@local.workshop@local.hp_challenge_list",
+            "matchedExpression": "@local.hp_challenge_list",
+            "type": "local",
+            "fieldName": "hp_challenge_list"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@local.workshop": [
-          "value.0"
+          "value"
         ],
         "@local.hp_challenge_list": [
-          "value.0"
+          "value"
         ]
       }
     },
@@ -322,121 +322,166 @@
     {
       "name": "answer_list",
       "value": [
-        "name:challenge_1 | text:@local.text_challenge_1",
-        "name:challenge_2 | text:@local.text_challenge_2",
-        "name:challenge_3 | text:@local.text_challenge_3",
-        "name:challenge_4 | text:@local.text_challenge_4",
-        "name:challenge_5 | text:@local.text_challenge_5",
-        "name:challenge_6 | text:@local.text_challenge_6",
-        "name:challenge_7 | text:@local.text_challenge_7",
-        "name:challenge_8 | text:@local.text_challenge_8",
-        "name:other_challenge | text: @local.text_other_challenge"
+        {
+          "name": "challenge_1",
+          "text": "@local.text_challenge_1"
+        },
+        {
+          "name": "challenge_2",
+          "text": "@local.text_challenge_2"
+        },
+        {
+          "name": "challenge_3",
+          "text": "@local.text_challenge_3"
+        },
+        {
+          "name": "challenge_4",
+          "text": "@local.text_challenge_4"
+        },
+        {
+          "name": "challenge_5",
+          "text": "@local.text_challenge_5"
+        },
+        {
+          "name": "challenge_6",
+          "text": "@local.text_challenge_6"
+        },
+        {
+          "name": "challenge_7",
+          "text": "@local.text_challenge_7"
+        },
+        {
+          "name": "challenge_8",
+          "text": "@local.text_challenge_8"
+        },
+        {
+          "name": "other_challenge",
+          "text": "@local.text_other_challenge"
+        }
       ],
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name:challenge_1 | text:@local.text_challenge_1",
-              "matchedExpression": "@local.text_challenge_1",
-              "type": "local",
-              "fieldName": "text_challenge_1"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name:challenge_2 | text:@local.text_challenge_2",
-              "matchedExpression": "@local.text_challenge_2",
-              "type": "local",
-              "fieldName": "text_challenge_2"
-            }
-          ],
-          "2": [
-            {
-              "fullExpression": "name:challenge_3 | text:@local.text_challenge_3",
-              "matchedExpression": "@local.text_challenge_3",
-              "type": "local",
-              "fieldName": "text_challenge_3"
-            }
-          ],
-          "3": [
-            {
-              "fullExpression": "name:challenge_4 | text:@local.text_challenge_4",
-              "matchedExpression": "@local.text_challenge_4",
-              "type": "local",
-              "fieldName": "text_challenge_4"
-            }
-          ],
-          "4": [
-            {
-              "fullExpression": "name:challenge_5 | text:@local.text_challenge_5",
-              "matchedExpression": "@local.text_challenge_5",
-              "type": "local",
-              "fieldName": "text_challenge_5"
-            }
-          ],
-          "5": [
-            {
-              "fullExpression": "name:challenge_6 | text:@local.text_challenge_6",
-              "matchedExpression": "@local.text_challenge_6",
-              "type": "local",
-              "fieldName": "text_challenge_6"
-            }
-          ],
-          "6": [
-            {
-              "fullExpression": "name:challenge_7 | text:@local.text_challenge_7",
-              "matchedExpression": "@local.text_challenge_7",
-              "type": "local",
-              "fieldName": "text_challenge_7"
-            }
-          ],
-          "7": [
-            {
-              "fullExpression": "name:challenge_8 | text:@local.text_challenge_8",
-              "matchedExpression": "@local.text_challenge_8",
-              "type": "local",
-              "fieldName": "text_challenge_8"
-            }
-          ],
-          "8": [
-            {
-              "fullExpression": "name:other_challenge | text: @local.text_other_challenge",
-              "matchedExpression": "@local.text_other_challenge",
-              "type": "local",
-              "fieldName": "text_other_challenge"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.text_challenge_1",
+                "matchedExpression": "@local.text_challenge_1",
+                "type": "local",
+                "fieldName": "text_challenge_1"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.text_challenge_2",
+                "matchedExpression": "@local.text_challenge_2",
+                "type": "local",
+                "fieldName": "text_challenge_2"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@local.text_challenge_3",
+                "matchedExpression": "@local.text_challenge_3",
+                "type": "local",
+                "fieldName": "text_challenge_3"
+              }
+            ]
+          },
+          "3": {
+            "text": [
+              {
+                "fullExpression": "@local.text_challenge_4",
+                "matchedExpression": "@local.text_challenge_4",
+                "type": "local",
+                "fieldName": "text_challenge_4"
+              }
+            ]
+          },
+          "4": {
+            "text": [
+              {
+                "fullExpression": "@local.text_challenge_5",
+                "matchedExpression": "@local.text_challenge_5",
+                "type": "local",
+                "fieldName": "text_challenge_5"
+              }
+            ]
+          },
+          "5": {
+            "text": [
+              {
+                "fullExpression": "@local.text_challenge_6",
+                "matchedExpression": "@local.text_challenge_6",
+                "type": "local",
+                "fieldName": "text_challenge_6"
+              }
+            ]
+          },
+          "6": {
+            "text": [
+              {
+                "fullExpression": "@local.text_challenge_7",
+                "matchedExpression": "@local.text_challenge_7",
+                "type": "local",
+                "fieldName": "text_challenge_7"
+              }
+            ]
+          },
+          "7": {
+            "text": [
+              {
+                "fullExpression": "@local.text_challenge_8",
+                "matchedExpression": "@local.text_challenge_8",
+                "type": "local",
+                "fieldName": "text_challenge_8"
+              }
+            ]
+          },
+          "8": {
+            "text": [
+              {
+                "fullExpression": "@local.text_other_challenge",
+                "matchedExpression": "@local.text_other_challenge",
+                "type": "local",
+                "fieldName": "text_other_challenge"
+              }
+            ]
+          }
         }
       },
       "_dynamicDependencies": {
         "@local.text_challenge_1": [
-          "value.0"
+          "value.0.text"
         ],
         "@local.text_challenge_2": [
-          "value.1"
+          "value.1.text"
         ],
         "@local.text_challenge_3": [
-          "value.2"
+          "value.2.text"
         ],
         "@local.text_challenge_4": [
-          "value.3"
+          "value.3.text"
         ],
         "@local.text_challenge_5": [
-          "value.4"
+          "value.4.text"
         ],
         "@local.text_challenge_6": [
-          "value.5"
+          "value.5.text"
         ],
         "@local.text_challenge_7": [
-          "value.6"
+          "value.6.text"
         ],
         "@local.text_challenge_8": [
-          "value.7"
+          "value.7.text"
         ],
         "@local.text_other_challenge": [
-          "value.8"
+          "value.8.text"
         ]
       }
     },
@@ -681,9 +726,18 @@
         {
           "name": "answer_list_challenge_1",
           "value": [
-            "name:choice_1_a | text: Think of a time each day that I can spare five minutes or a bit more time.",
-            "name:choice_1_b | text: Find a chore that we could do together in a fun way.",
-            "name:choice_1_c | text: Ask my teen or someone else to help me with a chore, so I have some extra free time."
+            {
+              "name": "choice_1_a",
+              "text": "Think of a time each day that I can spare five minutes or a bit more time."
+            },
+            {
+              "name": "choice_1_b",
+              "text": "Find a chore that we could do together in a fun way."
+            },
+            {
+              "name": "choice_1_c",
+              "text": "Ask my teen or someone else to help me with a chore, so I have some extra free time."
+            }
           ],
           "type": "set_variable",
           "_nested_name": "challenge_1.answer_list_challenge_1"
@@ -883,9 +937,18 @@
         {
           "name": "answer_list_challenge_2",
           "value": [
-            "name:choice_2_a | text: Think of a time when my teen is more open to me, like in the morning or right before bedtime.",
-            "name:choice_2_b | text: Sit next to my teen when they are doing something they enjoy and show interest in what they like.",
-            "name:choice_2_c | text: Do something fun with the whole family."
+            {
+              "name": "choice_2_a",
+              "text": "Think of a time when my teen is more open to me, like in the morning or right before bedtime."
+            },
+            {
+              "name": "choice_2_b",
+              "text": "Sit next to my teen when they are doing something they enjoy and show interest in what they like."
+            },
+            {
+              "name": "choice_2_c",
+              "text": "Do something fun with the whole family."
+            }
           ],
           "type": "set_variable",
           "_nested_name": "challenge_2.answer_list_challenge_2"
@@ -1083,9 +1146,18 @@
         {
           "name": "answer_list_challenge_3",
           "value": [
-            "name:choice_3_a | text: Suggest fun things my teen and I could do together.",
-            "name:choice_3_b | text: Find something educational to do with my teen on the gadget.",
-            "name:choice_3_c | text: Ask my teen to show me how their phone/gadget works."
+            {
+              "name": "choice_3_a",
+              "text": "Suggest fun things my teen and I could do together."
+            },
+            {
+              "name": "choice_3_b",
+              "text": "Find something educational to do with my teen on the gadget."
+            },
+            {
+              "name": "choice_3_c",
+              "text": "Ask my teen to show me how their phone/gadget works."
+            }
           ],
           "type": "set_variable",
           "_nested_name": "challenge_3.answer_list_challenge_3"
@@ -1330,8 +1402,14 @@
         {
           "name": "answer_list_challenge_4",
           "value": [
-            "name:choice_4_a | text: Explain to my teen why their suggestion is not safe or possible and ask them for other ideas.",
-            "name:choice_4_b | text: Suggest other fun activities that we could do together."
+            {
+              "name": "choice_4_a",
+              "text": "Explain to my teen why their suggestion is not safe or possible and ask them for other ideas."
+            },
+            {
+              "name": "choice_4_b",
+              "text": "Suggest other fun activities that we could do together."
+            }
           ],
           "type": "set_variable",
           "_nested_name": "challenge_4.answer_list_challenge_4"
@@ -1515,8 +1593,14 @@
         {
           "name": "answer_list_challenge_5",
           "value": [
-            "name:choice_5_a | text: Watch my teen do the activity and cheer them on.",
-            "name:choice_5_b | text: Suggest other fun activities we can do together."
+            {
+              "name": "choice_5_a",
+              "text": "Watch my teen do the activity and cheer them on."
+            },
+            {
+              "name": "choice_5_b",
+              "text": "Suggest other fun activities we can do together."
+            }
           ],
           "type": "set_variable",
           "_nested_name": "challenge_5.answer_list_challenge_5"
@@ -1700,8 +1784,14 @@
         {
           "name": "answer_list_challenge_6",
           "value": [
-            "name:choice_6_a | text: Suggest other activities that we can do together instead of against each other.",
-            "name:choice_6_b | text: Play the activity in teams, so I can encourage my teen if our team loses."
+            {
+              "name": "choice_6_a",
+              "text": "Suggest other activities that we can do together instead of against each other."
+            },
+            {
+              "name": "choice_6_b",
+              "text": "Play the activity in teams, so I can encourage my teen if our team loses."
+            }
           ],
           "type": "set_variable",
           "_nested_name": "challenge_6.answer_list_challenge_6"
@@ -1885,9 +1975,18 @@
         {
           "name": "answer_list_challenge_7",
           "value": [
-            "name:choice_7_a | text: Say to my teen, “We have one minute before the end of one-on-one time today”, so my teen is prepared.",
-            "name:choice_7_b | text: Inform my teen of how much time I have for one-on-one time and ask them to keep track on a clock or watch.",
-            "name:choice_7_c | text: Plan one-on-one time right before another activity that my teen enjoys."
+            {
+              "name": "choice_7_a",
+              "text": "Say to my teen, “We have one minute before the end of one-on-one time today”, so my teen is prepared."
+            },
+            {
+              "name": "choice_7_b",
+              "text": "Inform my teen of how much time I have for one-on-one time and ask them to keep track on a clock or watch."
+            },
+            {
+              "name": "choice_7_c",
+              "text": "Plan one-on-one time right before another activity that my teen enjoys."
+            }
           ],
           "type": "set_variable",
           "_nested_name": "challenge_7.answer_list_challenge_7"
@@ -2087,9 +2186,18 @@
         {
           "name": "answer_list_challenge_8",
           "value": [
-            "name:choice_8_a | text: Ask another adult or older sibling to look after the younger children during the one-on-one time with my teen.",
-            "name:choice_8_b | text: Think of a time when the other children are not around and spend time with my teen then.",
-            "name:choice_8_c | text: Plan one-on-one time in a place other than at home."
+            {
+              "name": "choice_8_a",
+              "text": "Ask another adult or older sibling to look after the younger children during the one-on-one time with my teen."
+            },
+            {
+              "name": "choice_8_b",
+              "text": "Think of a time when the other children are not around and spend time with my teen then."
+            },
+            {
+              "name": "choice_8_c",
+              "text": "Plan one-on-one time in a place other than at home."
+            }
           ],
           "type": "set_variable",
           "_nested_name": "challenge_8.answer_list_challenge_8"

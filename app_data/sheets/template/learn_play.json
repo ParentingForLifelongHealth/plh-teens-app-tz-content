@@ -221,7 +221,7 @@
               "_translations": {
                 "value": {}
               },
-              "_nested_name": "accordion.resources.resources_text",
+              "_nested_name": "accordion_13.resources.resources_text",
               "_dynamicFields": {
                 "value": [
                   {
@@ -246,7 +246,7 @@
                 "value": {}
               },
               "condition": "!!(@local.activity_data.resources_image_asset)",
-              "_nested_name": "accordion.resources.resources_image_asset",
+              "_nested_name": "accordion_13.resources.resources_image_asset",
               "_dynamicFields": {
                 "value": [
                   {
@@ -273,7 +273,7 @@
               }
             }
           ],
-          "_nested_name": "accordion.resources",
+          "_nested_name": "accordion_13.resources",
           "_dynamicFields": {
             "value": [
               {
@@ -314,7 +314,7 @@
               "_translations": {
                 "value": {}
               },
-              "_nested_name": "accordion.steps.steps_text",
+              "_nested_name": "accordion_13.steps.steps_text",
               "_dynamicFields": {
                 "value": [
                   {
@@ -332,7 +332,7 @@
               }
             }
           ],
-          "_nested_name": "accordion.steps",
+          "_nested_name": "accordion_13.steps",
           "_dynamicFields": {
             "value": [
               {
@@ -373,7 +373,7 @@
               "_translations": {
                 "value": {}
               },
-              "_nested_name": "accordion.tips.tips_text",
+              "_nested_name": "accordion_13.tips.tips_text",
               "_dynamicFields": {
                 "value": [
                   {
@@ -391,7 +391,7 @@
               }
             }
           ],
-          "_nested_name": "accordion.tips",
+          "_nested_name": "accordion_13.tips",
           "_dynamicFields": {
             "value": [
               {
@@ -432,7 +432,7 @@
               "_translations": {
                 "value": {}
               },
-              "_nested_name": "accordion.extension.extension_text",
+              "_nested_name": "accordion_13.extension.extension_text",
               "_dynamicFields": {
                 "value": [
                   {
@@ -450,7 +450,7 @@
               }
             }
           ],
-          "_nested_name": "accordion.extension",
+          "_nested_name": "accordion_13.extension",
           "_dynamicFields": {
             "value": [
               {
@@ -479,8 +479,8 @@
           }
         }
       ],
-      "name": "accordion",
-      "_nested_name": "accordion"
+      "name": "accordion_13",
+      "_nested_name": "accordion_13"
     },
     {
       "name": "toggle_bar_text",

@@ -26,9 +26,21 @@
     {
       "name": "answer_list",
       "value": [
-        "name:happy | image:plh_images/stickers/faces/happier.svg | image_checked:plh_images/stickers/faces/happier.svg",
-        "name:ok | image:plh_images/stickers/faces/neutral.svg | image_checked:plh_images/stickers/faces/neutral.svg",
-        "name:sad | image:plh_images/stickers/faces/sadder.svg |  image_checked:plh_images/stickers/faces/sadder.svg"
+        {
+          "name": "happy",
+          "image": "plh_images/stickers/faces/happier.svg",
+          "image_checked": "plh_images/stickers/faces/happier.svg"
+        },
+        {
+          "name": "ok",
+          "image": "plh_images/stickers/faces/neutral.svg",
+          "image_checked": "plh_images/stickers/faces/neutral.svg"
+        },
+        {
+          "name": "sad",
+          "image": "plh_images/stickers/faces/sadder.svg",
+          "image_checked": "plh_images/stickers/faces/sadder.svg"
+        }
       ],
       "type": "set_variable",
       "_nested_name": "answer_list"

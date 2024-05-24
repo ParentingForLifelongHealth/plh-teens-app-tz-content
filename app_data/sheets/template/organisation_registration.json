@@ -54,37 +54,47 @@
     {
       "name": "answer_list",
       "value": [
-        "name:myself | text:@local.myself",
-        "name:friend | text: @local.friend"
+        {
+          "name": "myself",
+          "text": "@local.myself"
+        },
+        {
+          "name": "friend",
+          "text": "@local.friend"
+        }
       ],
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name:myself | text:@local.myself",
-              "matchedExpression": "@local.myself",
-              "type": "local",
-              "fieldName": "myself"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name:friend | text: @local.friend",
-              "matchedExpression": "@local.friend",
-              "type": "local",
-              "fieldName": "friend"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.myself",
+                "matchedExpression": "@local.myself",
+                "type": "local",
+                "fieldName": "myself"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.friend",
+                "matchedExpression": "@local.friend",
+                "type": "local",
+                "fieldName": "friend"
+              }
+            ]
+          }
         }
       },
       "_dynamicDependencies": {
         "@local.myself": [
-          "value.0"
+          "value.0.text"
         ],
         "@local.friend": [
-          "value.1"
+          "value.1.text"
         ]
       }
     },

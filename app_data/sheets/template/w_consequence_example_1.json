@@ -97,73 +97,98 @@
         {
           "name": "answer_list",
           "value": [
-            "name:name_1 | text:@global.negative_consequence_1",
-            "name:name_2 | text:@global.negative_consequence_2",
-            "name:name_3 | text:@global.negative_consequence_3",
-            "name:name_4 | text:@global.negative_consequence_4",
-            "name:name_5 | text:@global.negative_consequence_5"
+            {
+              "name": "name_1",
+              "text": "@global.negative_consequence_1"
+            },
+            {
+              "name": "name_2",
+              "text": "@global.negative_consequence_2"
+            },
+            {
+              "name": "name_3",
+              "text": "@global.negative_consequence_3"
+            },
+            {
+              "name": "name_4",
+              "text": "@global.negative_consequence_4"
+            },
+            {
+              "name": "name_5",
+              "text": "@global.negative_consequence_5"
+            }
           ],
           "type": "set_variable",
           "_nested_name": "box_combo_box.answer_list",
           "_dynamicFields": {
             "value": {
-              "0": [
-                {
-                  "fullExpression": "name:name_1 | text:@global.negative_consequence_1",
-                  "matchedExpression": "@global.negative_consequence_1",
-                  "type": "global",
-                  "fieldName": "negative_consequence_1"
-                }
-              ],
-              "1": [
-                {
-                  "fullExpression": "name:name_2 | text:@global.negative_consequence_2",
-                  "matchedExpression": "@global.negative_consequence_2",
-                  "type": "global",
-                  "fieldName": "negative_consequence_2"
-                }
-              ],
-              "2": [
-                {
-                  "fullExpression": "name:name_3 | text:@global.negative_consequence_3",
-                  "matchedExpression": "@global.negative_consequence_3",
-                  "type": "global",
-                  "fieldName": "negative_consequence_3"
-                }
-              ],
-              "3": [
-                {
-                  "fullExpression": "name:name_4 | text:@global.negative_consequence_4",
-                  "matchedExpression": "@global.negative_consequence_4",
-                  "type": "global",
-                  "fieldName": "negative_consequence_4"
-                }
-              ],
-              "4": [
-                {
-                  "fullExpression": "name:name_5 | text:@global.negative_consequence_5",
-                  "matchedExpression": "@global.negative_consequence_5",
-                  "type": "global",
-                  "fieldName": "negative_consequence_5"
-                }
-              ]
+              "0": {
+                "text": [
+                  {
+                    "fullExpression": "@global.negative_consequence_1",
+                    "matchedExpression": "@global.negative_consequence_1",
+                    "type": "global",
+                    "fieldName": "negative_consequence_1"
+                  }
+                ]
+              },
+              "1": {
+                "text": [
+                  {
+                    "fullExpression": "@global.negative_consequence_2",
+                    "matchedExpression": "@global.negative_consequence_2",
+                    "type": "global",
+                    "fieldName": "negative_consequence_2"
+                  }
+                ]
+              },
+              "2": {
+                "text": [
+                  {
+                    "fullExpression": "@global.negative_consequence_3",
+                    "matchedExpression": "@global.negative_consequence_3",
+                    "type": "global",
+                    "fieldName": "negative_consequence_3"
+                  }
+                ]
+              },
+              "3": {
+                "text": [
+                  {
+                    "fullExpression": "@global.negative_consequence_4",
+                    "matchedExpression": "@global.negative_consequence_4",
+                    "type": "global",
+                    "fieldName": "negative_consequence_4"
+                  }
+                ]
+              },
+              "4": {
+                "text": [
+                  {
+                    "fullExpression": "@global.negative_consequence_5",
+                    "matchedExpression": "@global.negative_consequence_5",
+                    "type": "global",
+                    "fieldName": "negative_consequence_5"
+                  }
+                ]
+              }
             }
           },
           "_dynamicDependencies": {
             "@global.negative_consequence_1": [
-              "value.0"
+              "value.0.text"
             ],
             "@global.negative_consequence_2": [
-              "value.1"
+              "value.1.text"
             ],
             "@global.negative_consequence_3": [
-              "value.2"
+              "value.2.text"
             ],
             "@global.negative_consequence_4": [
-              "value.3"
+              "value.3.text"
             ],
             "@global.negative_consequence_5": [
-              "value.4"
+              "value.4.text"
             ]
           }
         },

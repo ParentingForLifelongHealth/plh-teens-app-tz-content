@@ -322,7 +322,7 @@
                 "value": {}
               },
               "exclude_from_translation": true,
-              "_nested_name": "items.dg_sect_{@item.id}.text_age_{@item.id}",
+              "_nested_name": "items_14.dg_sect_{@item.id}.text_age_{@item.id}",
               "_dynamicFields": {
                 "name": [
                   {
@@ -348,13 +348,13 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "items.dg_sect_{@item.id}.text_age_{@item.id}",
+                    "fullExpression": "items_14.dg_sect_{@item.id}.text_age_{@item.id}",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
                   },
                   {
-                    "fullExpression": "items.dg_sect_{@item.id}.text_age_{@item.id}",
+                    "fullExpression": "items_14.dg_sect_{@item.id}.text_age_{@item.id}",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -397,7 +397,7 @@
                 "placeholder": "@global.tap_and_type",
                 "number_input": "true"
               },
-              "_nested_name": "items.dg_sect_{@item.id}.number_box_{@item.id}",
+              "_nested_name": "items_14.dg_sect_{@item.id}.number_box_{@item.id}",
               "_dynamicFields": {
                 "name": [
                   {
@@ -457,13 +457,13 @@
                 },
                 "_nested_name": [
                   {
-                    "fullExpression": "items.dg_sect_{@item.id}.number_box_{@item.id}",
+                    "fullExpression": "items_14.dg_sect_{@item.id}.number_box_{@item.id}",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
                   },
                   {
-                    "fullExpression": "items.dg_sect_{@item.id}.number_box_{@item.id}",
+                    "fullExpression": "items_14.dg_sect_{@item.id}.number_box_{@item.id}",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -488,7 +488,7 @@
               }
             }
           ],
-          "_nested_name": "items.dg_sect_{@item.id}",
+          "_nested_name": "items_14.dg_sect_{@item.id}",
           "_dynamicFields": {
             "name": [
               {
@@ -520,7 +520,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "items.dg_sect_{@item.id}",
+                "fullExpression": "items_14.dg_sect_{@item.id}",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -540,8 +540,8 @@
           }
         }
       ],
-      "name": "items",
-      "_nested_name": "items",
+      "name": "items_14",
+      "_nested_name": "items_14",
       "_dynamicFields": {
         "value": [
           {

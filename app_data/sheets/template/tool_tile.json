@@ -169,8 +169,8 @@
         "first_line_text": "@local.tools_data.title",
         "icon_src": "@local.workshop_data.image_asset"
       },
-      "name": "tile_component",
-      "_nested_name": "tile_component",
+      "name": "tile_component_9",
+      "_nested_name": "tile_component_9",
       "_dynamicFields": {
         "action_list": {
           "0": {

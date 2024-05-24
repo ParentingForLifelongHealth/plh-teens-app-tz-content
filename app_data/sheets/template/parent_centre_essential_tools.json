@@ -50,7 +50,7 @@
                     "value": {}
                   },
                   "type": "set_variable",
-                  "_nested_name": "tool_tiles.items.tool_tile_@item.id.workshop",
+                  "_nested_name": "tool_tiles.items_1.tool_tile_@item.id.workshop",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -62,7 +62,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "tool_tiles.items.tool_tile_@item.id.workshop",
+                        "fullExpression": "tool_tiles.items_1.tool_tile_@item.id.workshop",
                         "matchedExpression": "@item.id.workshop",
                         "type": "item",
                         "fieldName": "id"
@@ -79,7 +79,7 @@
                   }
                 }
               ],
-              "_nested_name": "tool_tiles.items.tool_tile_@item.id",
+              "_nested_name": "tool_tiles.items_1.tool_tile_@item.id",
               "_dynamicFields": {
                 "name": [
                   {
@@ -91,7 +91,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "tool_tiles.items.tool_tile_@item.id",
+                    "fullExpression": "tool_tiles.items_1.tool_tile_@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -106,8 +106,8 @@
               }
             }
           ],
-          "name": "items",
-          "_nested_name": "tool_tiles.items",
+          "name": "items_1",
+          "_nested_name": "tool_tiles.items_1",
           "_dynamicFields": {
             "value": [
               {

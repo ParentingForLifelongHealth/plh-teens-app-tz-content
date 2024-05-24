@@ -639,49 +639,70 @@
                         {
                           "name": "answer_list",
                           "value": [
-                            "name:sad | text: @local.sad |  image:plh_images/stickers/faces/sadder.svg | image_checked: plh_images/stickers/faces/sadder.svg",
-                            "name:confused | text: @local.confused | image:plh_images/stickers/faces/confused_question_mark.svg | image_checked:plh_images/stickers/faces/confused_question_mark.svg",
-                            "name:tired | text: @local.tired | image:plh_images/stickers/faces/tired.svg | image_checked:plh_images/stickers/faces/tired.svg"
+                            {
+                              "name": "sad",
+                              "text": "@local.sad",
+                              "image": "plh_images/stickers/faces/sadder.svg",
+                              "image_checked": "plh_images/stickers/faces/sadder.svg"
+                            },
+                            {
+                              "name": "confused",
+                              "text": "@local.confused",
+                              "image": "plh_images/stickers/faces/confused_question_mark.svg",
+                              "image_checked": "plh_images/stickers/faces/confused_question_mark.svg"
+                            },
+                            {
+                              "name": "tired",
+                              "text": "@local.tired",
+                              "image": "plh_images/stickers/faces/tired.svg",
+                              "image_checked": "plh_images/stickers/faces/tired.svg"
+                            }
                           ],
                           "type": "set_variable",
                           "_nested_name": "question_time.workshop_activity.content_box.box_1.box_1.answer_list",
                           "_dynamicFields": {
                             "value": {
-                              "0": [
-                                {
-                                  "fullExpression": "name:sad | text: @local.sad |  image:plh_images/stickers/faces/sadder.svg | image_checked: plh_images/stickers/faces/sadder.svg",
-                                  "matchedExpression": "@local.sad",
-                                  "type": "local",
-                                  "fieldName": "sad"
-                                }
-                              ],
-                              "1": [
-                                {
-                                  "fullExpression": "name:confused | text: @local.confused | image:plh_images/stickers/faces/confused_question_mark.svg | image_checked:plh_images/stickers/faces/confused_question_mark.svg",
-                                  "matchedExpression": "@local.confused",
-                                  "type": "local",
-                                  "fieldName": "confused"
-                                }
-                              ],
-                              "2": [
-                                {
-                                  "fullExpression": "name:tired | text: @local.tired | image:plh_images/stickers/faces/tired.svg | image_checked:plh_images/stickers/faces/tired.svg",
-                                  "matchedExpression": "@local.tired",
-                                  "type": "local",
-                                  "fieldName": "tired"
-                                }
-                              ]
+                              "0": {
+                                "text": [
+                                  {
+                                    "fullExpression": "@local.sad",
+                                    "matchedExpression": "@local.sad",
+                                    "type": "local",
+                                    "fieldName": "sad"
+                                  }
+                                ]
+                              },
+                              "1": {
+                                "text": [
+                                  {
+                                    "fullExpression": "@local.confused",
+                                    "matchedExpression": "@local.confused",
+                                    "type": "local",
+                                    "fieldName": "confused"
+                                  }
+                                ]
+                              },
+                              "2": {
+                                "text": [
+                                  {
+                                    "fullExpression": "@local.tired",
+                                    "matchedExpression": "@local.tired",
+                                    "type": "local",
+                                    "fieldName": "tired"
+                                  }
+                                ]
+                              }
                             }
                           },
                           "_dynamicDependencies": {
                             "@local.sad": [
-                              "value.0"
+                              "value.0.text"
                             ],
                             "@local.confused": [
-                              "value.1"
+                              "value.1.text"
                             ],
                             "@local.tired": [
-                              "value.2"
+                              "value.2.text"
                             ]
                           }
                         },
@@ -760,61 +781,81 @@
                         {
                           "name": "answer_list",
                           "value": [
-                            "name:name_1 | text:@local.option_2_1",
-                            "name:name_2 | text:@local.option_2_2",
-                            "name:name_3 | text:@local.option_2_3",
-                            "name:name_4 | text:@local.option_2_4"
+                            {
+                              "name": "name_1",
+                              "text": "@local.option_2_1"
+                            },
+                            {
+                              "name": "name_2",
+                              "text": "@local.option_2_2"
+                            },
+                            {
+                              "name": "name_3",
+                              "text": "@local.option_2_3"
+                            },
+                            {
+                              "name": "name_4",
+                              "text": "@local.option_2_4"
+                            }
                           ],
                           "type": "set_variable",
                           "_nested_name": "question_time.workshop_activity.content_box.box_1.box_2.answer_list",
                           "_dynamicFields": {
                             "value": {
-                              "0": [
-                                {
-                                  "fullExpression": "name:name_1 | text:@local.option_2_1",
-                                  "matchedExpression": "@local.option_2_1",
-                                  "type": "local",
-                                  "fieldName": "option_2_1"
-                                }
-                              ],
-                              "1": [
-                                {
-                                  "fullExpression": "name:name_2 | text:@local.option_2_2",
-                                  "matchedExpression": "@local.option_2_2",
-                                  "type": "local",
-                                  "fieldName": "option_2_2"
-                                }
-                              ],
-                              "2": [
-                                {
-                                  "fullExpression": "name:name_3 | text:@local.option_2_3",
-                                  "matchedExpression": "@local.option_2_3",
-                                  "type": "local",
-                                  "fieldName": "option_2_3"
-                                }
-                              ],
-                              "3": [
-                                {
-                                  "fullExpression": "name:name_4 | text:@local.option_2_4",
-                                  "matchedExpression": "@local.option_2_4",
-                                  "type": "local",
-                                  "fieldName": "option_2_4"
-                                }
-                              ]
+                              "0": {
+                                "text": [
+                                  {
+                                    "fullExpression": "@local.option_2_1",
+                                    "matchedExpression": "@local.option_2_1",
+                                    "type": "local",
+                                    "fieldName": "option_2_1"
+                                  }
+                                ]
+                              },
+                              "1": {
+                                "text": [
+                                  {
+                                    "fullExpression": "@local.option_2_2",
+                                    "matchedExpression": "@local.option_2_2",
+                                    "type": "local",
+                                    "fieldName": "option_2_2"
+                                  }
+                                ]
+                              },
+                              "2": {
+                                "text": [
+                                  {
+                                    "fullExpression": "@local.option_2_3",
+                                    "matchedExpression": "@local.option_2_3",
+                                    "type": "local",
+                                    "fieldName": "option_2_3"
+                                  }
+                                ]
+                              },
+                              "3": {
+                                "text": [
+                                  {
+                                    "fullExpression": "@local.option_2_4",
+                                    "matchedExpression": "@local.option_2_4",
+                                    "type": "local",
+                                    "fieldName": "option_2_4"
+                                  }
+                                ]
+                              }
                             }
                           },
                           "_dynamicDependencies": {
                             "@local.option_2_1": [
-                              "value.0"
+                              "value.0.text"
                             ],
                             "@local.option_2_2": [
-                              "value.1"
+                              "value.1.text"
                             ],
                             "@local.option_2_3": [
-                              "value.2"
+                              "value.2.text"
                             ],
                             "@local.option_2_4": [
-                              "value.3"
+                              "value.3.text"
                             ]
                           }
                         },
@@ -896,9 +937,21 @@
                     {
                       "name": "answer_list",
                       "value": [
-                        "name: happy | image:plh_images/stickers/faces/happy.svg | image_checked:plh_images/stickers/faces/happy.svg",
-                        "name: happier | image:plh_images/stickers/faces/happier.svg | image_checked:plh_images/stickers/faces/happier.svg",
-                        "name: happiest | image:plh_images/stickers/faces/happiest.svg | image_checked:plh_images/stickers/faces/happiest.svg"
+                        {
+                          "name": "happy",
+                          "image": "plh_images/stickers/faces/happy.svg",
+                          "image_checked": "plh_images/stickers/faces/happy.svg"
+                        },
+                        {
+                          "name": "happier",
+                          "image": "plh_images/stickers/faces/happier.svg",
+                          "image_checked": "plh_images/stickers/faces/happier.svg"
+                        },
+                        {
+                          "name": "happiest",
+                          "image": "plh_images/stickers/faces/happiest.svg",
+                          "image_checked": "plh_images/stickers/faces/happiest.svg"
+                        }
                       ],
                       "type": "set_variable",
                       "_nested_name": "question_time.workshop_activity.content_box.box_2.answer_list"

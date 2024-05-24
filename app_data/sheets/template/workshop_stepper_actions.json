@@ -77,26 +77,25 @@
         },
         {
           "name": "nav_template_list",
-          "value": [
-            "@local.nav_template_list"
-          ],
+          "value": "@local.nav_template_list",
+          "_translations": {
+            "value": {}
+          },
           "type": "set_variable",
           "_nested_name": "workshop_stepper.nav_template_list",
           "_dynamicFields": {
-            "value": {
-              "0": [
-                {
-                  "fullExpression": "@local.nav_template_list",
-                  "matchedExpression": "@local.nav_template_list",
-                  "type": "local",
-                  "fieldName": "nav_template_list"
-                }
-              ]
-            }
+            "value": [
+              {
+                "fullExpression": "@local.nav_template_list",
+                "matchedExpression": "@local.nav_template_list",
+                "type": "local",
+                "fieldName": "nav_template_list"
+              }
+            ]
           },
           "_dynamicDependencies": {
             "@local.nav_template_list": [
-              "value.0"
+              "value"
             ]
           }
         }
