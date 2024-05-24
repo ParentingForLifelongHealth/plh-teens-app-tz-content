@@ -120,7 +120,9 @@
         "title": {
           "tz_sw": true
         },
-        "location_text": {}
+        "location_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -141,8 +143,12 @@
       "click_count_field": "click_pc_activities_count",
       "title": "Activities",
       "_translations": {
-        "title": {},
-        "location_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "location_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

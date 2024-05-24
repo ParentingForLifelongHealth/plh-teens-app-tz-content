@@ -9,12 +9,24 @@
       "workshop": "w_srh",
       "question_text": "Why do you think @global.w_srh_female_caregiver_1 reacted the way she did?",
       "_translations": {
-        "question_text": {},
-        "option_1": {},
-        "option_2": {},
-        "option_3": {},
-        "option_4": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "option_1": {
+          "tz_sw": true
+        },
+        "option_2": {
+          "tz_sw": true
+        },
+        "option_3": {
+          "tz_sw": true
+        },
+        "option_4": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -47,11 +59,21 @@
       "workshop": "w_srh",
       "question_text": "How will this affect @global.w_srh_female_caregiver_1’s relationship with @global.w_srh_teen_girl_1?",
       "_translations": {
-        "question_text": {},
-        "option_1": {},
-        "option_2": {},
-        "option_3": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "option_1": {
+          "tz_sw": true
+        },
+        "option_2": {
+          "tz_sw": true
+        },
+        "option_3": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -80,19 +102,27 @@
       "workshop": "w_srh",
       "question_text": "How did @global.w_srh_female_caregiver_2 and @global.w_srh_teen_girl_2 feel at the start of their conversation?",
       "_translations": {
-        "question_text": {},
-        "option_1": {},
+        "question_text": {
+          "tz_sw": true
+        },
+        "option_1": {
+          "tz_sw": true
+        },
         "option_2": {
           "tz_sw": true
         },
         "option_3": {
           "tz_sw": true
         },
-        "option_4": {},
+        "option_4": {
+          "tz_sw": true
+        },
         "option_5": {
           "tz_sw": true
         },
-        "reply_all": {}
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -129,13 +159,27 @@
       "workshop": "w_srh",
       "question_text": "How does @global.w_srh_female_caregiver_2 respond to @global.w_srh_teen_girl_2?",
       "_translations": {
-        "question_text": {},
-        "option_1": {},
-        "option_2": {},
-        "option_3": {},
-        "option_4": {},
-        "option_5": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "option_1": {
+          "tz_sw": true
+        },
+        "option_2": {
+          "tz_sw": true
+        },
+        "option_3": {
+          "tz_sw": true
+        },
+        "option_4": {
+          "tz_sw": true
+        },
+        "option_5": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -172,8 +216,12 @@
       "workshop": "w_srh",
       "question_text": "How did @global.w_srh_female_caregiver_2 and @global.w_srh_teen_girl_2 feel after their conversation?",
       "_translations": {
-        "question_text": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -196,14 +244,30 @@
       "reply_3_icon_asset": "plh_images/icons/tick_circle.svg",
       "question_text": "Who should start the conversation about body changes and intimate relationships?",
       "_translations": {
-        "question_text": {},
-        "option_1": {},
-        "reply_1": {},
-        "option_2": {},
-        "reply_2": {},
-        "option_3": {},
-        "reply_3": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "option_1": {
+          "tz_sw": true
+        },
+        "reply_1": {
+          "tz_sw": true
+        },
+        "option_2": {
+          "tz_sw": true
+        },
+        "reply_2": {
+          "tz_sw": true
+        },
+        "option_3": {
+          "tz_sw": true
+        },
+        "reply_3": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -252,16 +316,36 @@
       "reply_4_icon_asset": "plh_images/icons/tick_circle.svg",
       "question_text": "When is the right time to start talking about body changes and intimate relationships?",
       "_translations": {
-        "question_text": {},
-        "option_1": {},
-        "reply_1": {},
-        "option_2": {},
-        "reply_2": {},
-        "option_3": {},
-        "reply_3": {},
-        "option_4": {},
-        "reply_4": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "option_1": {
+          "tz_sw": true
+        },
+        "reply_1": {
+          "tz_sw": true
+        },
+        "option_2": {
+          "tz_sw": true
+        },
+        "reply_2": {
+          "tz_sw": true
+        },
+        "option_3": {
+          "tz_sw": true
+        },
+        "reply_3": {
+          "tz_sw": true
+        },
+        "option_4": {
+          "tz_sw": true
+        },
+        "reply_4": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -320,18 +404,42 @@
       "reply_5_icon_asset": "plh_images/icons/tick_circle.svg",
       "question_text": "How can I best keep my teen safe?",
       "_translations": {
-        "question_text": {},
-        "option_1": {},
-        "reply_1": {},
-        "option_2": {},
-        "reply_2": {},
-        "option_3": {},
-        "reply_3": {},
-        "option_4": {},
-        "reply_4": {},
-        "option_5": {},
-        "reply_5": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "option_1": {
+          "tz_sw": true
+        },
+        "reply_1": {
+          "tz_sw": true
+        },
+        "option_2": {
+          "tz_sw": true
+        },
+        "reply_2": {
+          "tz_sw": true
+        },
+        "option_3": {
+          "tz_sw": true
+        },
+        "reply_3": {
+          "tz_sw": true
+        },
+        "option_4": {
+          "tz_sw": true
+        },
+        "reply_4": {
+          "tz_sw": true
+        },
+        "option_5": {
+          "tz_sw": true
+        },
+        "reply_5": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -394,14 +502,30 @@
       "reply_3_icon_asset": "plh_images/icons/tick_circle.svg",
       "question_text": "How can I help prevent  my teen from having sex too young?",
       "_translations": {
-        "question_text": {},
-        "option_1": {},
-        "reply_1": {},
-        "option_2": {},
-        "reply_2": {},
-        "option_3": {},
-        "reply_3": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "option_1": {
+          "tz_sw": true
+        },
+        "reply_1": {
+          "tz_sw": true
+        },
+        "option_2": {
+          "tz_sw": true
+        },
+        "reply_2": {
+          "tz_sw": true
+        },
+        "option_3": {
+          "tz_sw": true
+        },
+        "reply_3": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -442,8 +566,12 @@
       "workshop": "w_grief",
       "question_text": "How did @global.w_grief_male_caregiver_1’s response make @global.w_grief_teen_girl_1 feel?",
       "_translations": {
-        "question_text": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -460,12 +588,24 @@
       "workshop": "w_grief",
       "question_text": "What could @global.w_grief_male_caregiver_1 have done differently?",
       "_translations": {
-        "question_text": {},
-        "option_1": {},
-        "option_2": {},
-        "option_3": {},
-        "option_4": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "option_1": {
+          "tz_sw": true
+        },
+        "option_2": {
+          "tz_sw": true
+        },
+        "option_3": {
+          "tz_sw": true
+        },
+        "option_4": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -498,10 +638,18 @@
       "workshop": "w_grief",
       "question_text": "How did @global.w_grief_teen_girl_1 and @global.w_grief_male_caregiver_1 feel after talking?",
       "_translations": {
-        "question_text": {},
-        "option_1": {},
-        "option_2": {},
-        "option_3": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "option_1": {
+          "tz_sw": true
+        },
+        "option_2": {
+          "tz_sw": true
+        },
+        "option_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -526,11 +674,21 @@
       "workshop": "w_grief",
       "question_text": "What could have happened if @global.w_grief_male_caregiver_1 got angry at @global.w_grief_teen_girl_1 when she shared that she was feeling angry?",
       "_translations": {
-        "question_text": {},
-        "option_1": {},
-        "option_2": {},
-        "option_3": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "option_1": {
+          "tz_sw": true
+        },
+        "option_2": {
+          "tz_sw": true
+        },
+        "option_3": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -559,11 +717,21 @@
       "workshop": "w_learn",
       "question_text": "Why did @global.w_learn_teen_girl_1 react this way?",
       "_translations": {
-        "question_text": {},
-        "option_1": {},
-        "option_2": {},
-        "option_3": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "option_1": {
+          "tz_sw": true
+        },
+        "option_2": {
+          "tz_sw": true
+        },
+        "option_3": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -592,12 +760,24 @@
       "workshop": "w_learn",
       "question_text": "How will this affect the relationship between @global.w_learn_female_caregiver_1 and @global.w_learn_teen_girl_1?",
       "_translations": {
-        "question_text": {},
-        "option_1": {},
-        "option_2": {},
-        "option_3": {},
-        "option_4": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "option_1": {
+          "tz_sw": true
+        },
+        "option_2": {
+          "tz_sw": true
+        },
+        "option_3": {
+          "tz_sw": true
+        },
+        "option_4": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -630,8 +810,12 @@
       "workshop": "w_learn",
       "question_text": "How did @global.w_learn_teen_girl_1 and @global.w_learn_female_caregiver_1 feel before they got to speak to each other?",
       "_translations": {
-        "question_text": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -648,12 +832,24 @@
       "workshop": "w_learn",
       "question_text": "What did @global.w_learn_female_caregiver_1 do differently this time?",
       "_translations": {
-        "question_text": {},
-        "option_1": {},
-        "option_2": {},
-        "option_3": {},
-        "option_4": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "option_1": {
+          "tz_sw": true
+        },
+        "option_2": {
+          "tz_sw": true
+        },
+        "option_3": {
+          "tz_sw": true
+        },
+        "option_4": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {
@@ -686,8 +882,12 @@
       "workshop": "w_learn",
       "question_text": "How did @global.w_learn_teen_girl_1 and her mother feel afterwards?",
       "_translations": {
-        "question_text": {},
-        "reply_all": {}
+        "question_text": {
+          "tz_sw": true
+        },
+        "reply_all": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "question_text": {

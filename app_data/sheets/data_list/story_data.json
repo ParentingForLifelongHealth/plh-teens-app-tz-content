@@ -236,7 +236,9 @@
         "text_2": {
           "tz_sw": true
         },
-        "text_3": {},
+        "text_3": {
+          "tz_sw": true
+        },
         "text_4": {
           "tz_sw": true
         },
@@ -287,11 +289,19 @@
       "title": "@global.safety_word",
       "_translations": {
         "title": {},
-        "intro_text": {},
+        "intro_text": {
+          "tz_sw": true
+        },
         "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
         "text_5": {
           "tz_sw": true
         },
@@ -343,11 +353,15 @@
         "title": {
           "tz_sw": true
         },
-        "intro_text": {},
+        "intro_text": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -383,13 +397,21 @@
         "intro_text": {
           "tz_sw": true
         },
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
-        "text_3": {},
-        "text_4": {},
-        "text_5": {}
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -430,7 +452,9 @@
         "title": {
           "tz_sw": true
         },
-        "intro_text": {},
+        "intro_text": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         }
@@ -477,7 +501,9 @@
           "tz_sw": true
         },
         "text_3": {},
-        "text_4": {},
+        "text_4": {
+          "tz_sw": true
+        },
         "text_5": {
           "tz_sw": true
         },
@@ -544,16 +570,24 @@
         "title": {
           "tz_sw": true
         },
-        "intro_text": {},
-        "text_1": {},
-        "text_2": {},
+        "intro_text": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
         "text_3": {
           "tz_sw": true
         },
         "text_4": {
           "tz_sw": true
         },
-        "text_5": {}
+        "text_5": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -662,7 +696,9 @@
         "text_1": {
           "tz_sw": true
         },
-        "text_2": {},
+        "text_2": {
+          "tz_sw": true
+        },
         "text_3": {
           "tz_sw": true
         },
@@ -742,14 +778,18 @@
         "title": {
           "tz_sw": true
         },
-        "intro_text": {},
+        "intro_text": {
+          "tz_sw": true
+        },
         "text_1": {
           "tz_sw": true
         },
         "text_2": {
           "tz_sw": true
         },
-        "text_3": {}
+        "text_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -799,14 +839,24 @@
         "text_1": {
           "tz_sw": true
         },
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
         "dashed_box_4": {
           "tz_sw": true
         },
-        "text_5": {},
-        "text_6": {},
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        },
         "dashed_box_6": {
           "tz_sw": true
         },
@@ -816,12 +866,18 @@
         "text_8": {
           "tz_sw": true
         },
-        "text_9": {},
-        "text_10": {},
+        "text_9": {
+          "tz_sw": true
+        },
+        "text_10": {
+          "tz_sw": true
+        },
         "dashed_box_10": {
           "tz_sw": true
         },
-        "text_11": {},
+        "text_11": {
+          "tz_sw": true
+        },
         "dashed_box_11": {
           "tz_sw": true
         },
@@ -920,11 +976,21 @@
         "intro_text": {
           "tz_sw": true
         },
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        },
         "text_6": {
           "tz_sw": true
         }
@@ -977,7 +1043,9 @@
         "intro_text": {
           "tz_sw": true
         },
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
@@ -1025,9 +1093,15 @@
         "text_1": {
           "tz_sw": true
         },
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
         "text_5": {
           "tz_sw": true
         },
@@ -1090,7 +1164,9 @@
         "text_2": {
           "tz_sw": true
         },
-        "text_3": {},
+        "text_3": {
+          "tz_sw": true
+        },
         "text_4": {
           "tz_sw": true
         },
@@ -1144,12 +1220,24 @@
       "image_4": "plh_images/workshops/w_srh/read_sex_talk/slide_4.svg",
       "title": "Sex talk",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1188,13 +1276,27 @@
       "image_5": "plh_images/workshops/w_srh/read_new_boyfriend/slide_5.svg",
       "title": "My new boyfriend",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1234,11 +1336,21 @@
       "image_3": "plh_images/workshops/w_grief/read_grief_conflict/slide_3.svg",
       "title": "Stop crying",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1271,12 +1383,24 @@
       "image_4": "plh_images/workshops/w_grief/read_grief_support/slide_4.svg",
       "title": "Sharing memories",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1313,12 +1437,24 @@
       "image_4": "plh_images/workshops/w_learn/read_learn_conflict/slide_4.svg",
       "title": "Busy day",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1355,12 +1491,24 @@
       "image_4": "plh_images/workshops/w_learn/read_learn_support/slide_4.svg",
       "title": "When you are ready",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

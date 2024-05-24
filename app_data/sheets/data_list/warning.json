@@ -7,7 +7,9 @@
       "id": "sensitive_content",
       "text": "This @global.workshop includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text": {

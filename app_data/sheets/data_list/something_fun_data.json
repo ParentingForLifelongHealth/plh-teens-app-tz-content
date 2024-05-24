@@ -71,7 +71,9 @@
       "completed": "@fields.dream_travel_completed",
       "title": "Dream travel",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "activity_text": {
           "tz_sw": true
         }
@@ -97,7 +99,9 @@
       "completed": "@fields.famous_party_completed",
       "title": "Famous party",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "activity_text": {
           "tz_sw": true
         }
@@ -151,7 +155,9 @@
       "completed": "@fields.time_machine_completed",
       "title": "Time machine",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "activity_text": {
           "tz_sw": true
         }
@@ -231,8 +237,12 @@
       "completed": "@fields.interrupter_completed",
       "title": "The interrupter",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "activity_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -281,8 +291,12 @@
       "completed": "@fields.yes_no_maybe_completed",
       "title": "Yes, no or maybe",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "activity_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -304,8 +318,12 @@
       "completed": "@fields.memory_game_completed",
       "title": "Memory game – \"On Saturday...\"",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "activity_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -330,7 +348,9 @@
         "title": {
           "tz_sw": true
         },
-        "activity_text": {}
+        "activity_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -412,7 +432,9 @@
         "title": {
           "tz_sw": true
         },
-        "activity_text": {}
+        "activity_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -437,7 +459,9 @@
         "title": {
           "tz_sw": true
         },
-        "activity_text": {}
+        "activity_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -581,7 +605,9 @@
         "intro_text": {
           "tz_sw": true
         },
-        "activity_text": {}
+        "activity_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
