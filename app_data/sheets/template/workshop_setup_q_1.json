@@ -174,8 +174,14 @@
     {
       "name": "answer_list",
       "value": [
-        "name:female | text: Woman",
-        "name:male | text: Man"
+        {
+          "name": "female",
+          "text": "Woman"
+        },
+        {
+          "name": "male",
+          "text": "Man"
+        }
       ],
       "type": "set_variable",
       "_nested_name": "answer_list"

@@ -503,30 +503,40 @@
     {
       "name": "answer_list",
       "value": [
-        "name: option_1 | text: @local.option_1",
-        "name: option_2 | text: @local.option_2"
+        {
+          "name": "option_1",
+          "text": "@local.option_1"
+        },
+        {
+          "name": "option_2",
+          "text": "@local.option_2"
+        }
       ],
       "condition": "@local.no_of_options <= 2",
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name: option_1 | text: @local.option_1",
-              "matchedExpression": "@local.option_1",
-              "type": "local",
-              "fieldName": "option_1"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name: option_2 | text: @local.option_2",
-              "matchedExpression": "@local.option_2",
-              "type": "local",
-              "fieldName": "option_2"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.option_1",
+                "matchedExpression": "@local.option_1",
+                "type": "local",
+                "fieldName": "option_1"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.option_2",
+                "matchedExpression": "@local.option_2",
+                "type": "local",
+                "fieldName": "option_2"
+              }
+            ]
+          }
         },
         "condition": [
           {
@@ -539,10 +549,10 @@
       },
       "_dynamicDependencies": {
         "@local.option_1": [
-          "value.0"
+          "value.0.text"
         ],
         "@local.option_2": [
-          "value.1"
+          "value.1.text"
         ],
         "@local.no_of_options": [
           "condition"
@@ -552,39 +562,54 @@
     {
       "name": "answer_list",
       "value": [
-        "name: option_1 | text: @local.option_1",
-        "name: option_2 | text: @local.option_2",
-        "name: option_3 | text: @local.option_3"
+        {
+          "name": "option_1",
+          "text": "@local.option_1"
+        },
+        {
+          "name": "option_2",
+          "text": "@local.option_2"
+        },
+        {
+          "name": "option_3",
+          "text": "@local.option_3"
+        }
       ],
       "condition": "@local.no_of_options == 3",
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name: option_1 | text: @local.option_1",
-              "matchedExpression": "@local.option_1",
-              "type": "local",
-              "fieldName": "option_1"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name: option_2 | text: @local.option_2",
-              "matchedExpression": "@local.option_2",
-              "type": "local",
-              "fieldName": "option_2"
-            }
-          ],
-          "2": [
-            {
-              "fullExpression": "name: option_3 | text: @local.option_3",
-              "matchedExpression": "@local.option_3",
-              "type": "local",
-              "fieldName": "option_3"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.option_1",
+                "matchedExpression": "@local.option_1",
+                "type": "local",
+                "fieldName": "option_1"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.option_2",
+                "matchedExpression": "@local.option_2",
+                "type": "local",
+                "fieldName": "option_2"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@local.option_3",
+                "matchedExpression": "@local.option_3",
+                "type": "local",
+                "fieldName": "option_3"
+              }
+            ]
+          }
         },
         "condition": [
           {
@@ -597,13 +622,13 @@
       },
       "_dynamicDependencies": {
         "@local.option_1": [
-          "value.0"
+          "value.0.text"
         ],
         "@local.option_2": [
-          "value.1"
+          "value.1.text"
         ],
         "@local.option_3": [
-          "value.2"
+          "value.2.text"
         ],
         "@local.no_of_options": [
           "condition"
@@ -613,48 +638,68 @@
     {
       "name": "answer_list",
       "value": [
-        "name: option_1 | text: @local.option_1",
-        "name: option_2 | text: @local.option_2",
-        "name: option_3 | text: @local.option_3",
-        "name: option_4 | text: @local.option_4"
+        {
+          "name": "option_1",
+          "text": "@local.option_1"
+        },
+        {
+          "name": "option_2",
+          "text": "@local.option_2"
+        },
+        {
+          "name": "option_3",
+          "text": "@local.option_3"
+        },
+        {
+          "name": "option_4",
+          "text": "@local.option_4"
+        }
       ],
       "condition": "@local.no_of_options == 4",
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name: option_1 | text: @local.option_1",
-              "matchedExpression": "@local.option_1",
-              "type": "local",
-              "fieldName": "option_1"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name: option_2 | text: @local.option_2",
-              "matchedExpression": "@local.option_2",
-              "type": "local",
-              "fieldName": "option_2"
-            }
-          ],
-          "2": [
-            {
-              "fullExpression": "name: option_3 | text: @local.option_3",
-              "matchedExpression": "@local.option_3",
-              "type": "local",
-              "fieldName": "option_3"
-            }
-          ],
-          "3": [
-            {
-              "fullExpression": "name: option_4 | text: @local.option_4",
-              "matchedExpression": "@local.option_4",
-              "type": "local",
-              "fieldName": "option_4"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.option_1",
+                "matchedExpression": "@local.option_1",
+                "type": "local",
+                "fieldName": "option_1"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.option_2",
+                "matchedExpression": "@local.option_2",
+                "type": "local",
+                "fieldName": "option_2"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@local.option_3",
+                "matchedExpression": "@local.option_3",
+                "type": "local",
+                "fieldName": "option_3"
+              }
+            ]
+          },
+          "3": {
+            "text": [
+              {
+                "fullExpression": "@local.option_4",
+                "matchedExpression": "@local.option_4",
+                "type": "local",
+                "fieldName": "option_4"
+              }
+            ]
+          }
         },
         "condition": [
           {
@@ -667,16 +712,16 @@
       },
       "_dynamicDependencies": {
         "@local.option_1": [
-          "value.0"
+          "value.0.text"
         ],
         "@local.option_2": [
-          "value.1"
+          "value.1.text"
         ],
         "@local.option_3": [
-          "value.2"
+          "value.2.text"
         ],
         "@local.option_4": [
-          "value.3"
+          "value.3.text"
         ],
         "@local.no_of_options": [
           "condition"
@@ -686,57 +731,82 @@
     {
       "name": "answer_list",
       "value": [
-        "name: option_1 | text: @local.option_1",
-        "name: option_2 | text: @local.option_2",
-        "name: option_3 | text: @local.option_3",
-        "name: option_4 | text: @local.option_4",
-        "name: option_5 | text: @local.option_5"
+        {
+          "name": "option_1",
+          "text": "@local.option_1"
+        },
+        {
+          "name": "option_2",
+          "text": "@local.option_2"
+        },
+        {
+          "name": "option_3",
+          "text": "@local.option_3"
+        },
+        {
+          "name": "option_4",
+          "text": "@local.option_4"
+        },
+        {
+          "name": "option_5",
+          "text": "@local.option_5"
+        }
       ],
       "condition": "@local.no_of_options == 5",
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name: option_1 | text: @local.option_1",
-              "matchedExpression": "@local.option_1",
-              "type": "local",
-              "fieldName": "option_1"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name: option_2 | text: @local.option_2",
-              "matchedExpression": "@local.option_2",
-              "type": "local",
-              "fieldName": "option_2"
-            }
-          ],
-          "2": [
-            {
-              "fullExpression": "name: option_3 | text: @local.option_3",
-              "matchedExpression": "@local.option_3",
-              "type": "local",
-              "fieldName": "option_3"
-            }
-          ],
-          "3": [
-            {
-              "fullExpression": "name: option_4 | text: @local.option_4",
-              "matchedExpression": "@local.option_4",
-              "type": "local",
-              "fieldName": "option_4"
-            }
-          ],
-          "4": [
-            {
-              "fullExpression": "name: option_5 | text: @local.option_5",
-              "matchedExpression": "@local.option_5",
-              "type": "local",
-              "fieldName": "option_5"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.option_1",
+                "matchedExpression": "@local.option_1",
+                "type": "local",
+                "fieldName": "option_1"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.option_2",
+                "matchedExpression": "@local.option_2",
+                "type": "local",
+                "fieldName": "option_2"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@local.option_3",
+                "matchedExpression": "@local.option_3",
+                "type": "local",
+                "fieldName": "option_3"
+              }
+            ]
+          },
+          "3": {
+            "text": [
+              {
+                "fullExpression": "@local.option_4",
+                "matchedExpression": "@local.option_4",
+                "type": "local",
+                "fieldName": "option_4"
+              }
+            ]
+          },
+          "4": {
+            "text": [
+              {
+                "fullExpression": "@local.option_5",
+                "matchedExpression": "@local.option_5",
+                "type": "local",
+                "fieldName": "option_5"
+              }
+            ]
+          }
         },
         "condition": [
           {
@@ -749,19 +819,19 @@
       },
       "_dynamicDependencies": {
         "@local.option_1": [
-          "value.0"
+          "value.0.text"
         ],
         "@local.option_2": [
-          "value.1"
+          "value.1.text"
         ],
         "@local.option_3": [
-          "value.2"
+          "value.2.text"
         ],
         "@local.option_4": [
-          "value.3"
+          "value.3.text"
         ],
         "@local.option_5": [
-          "value.4"
+          "value.4.text"
         ],
         "@local.no_of_options": [
           "condition"
@@ -771,66 +841,96 @@
     {
       "name": "answer_list",
       "value": [
-        "name: option_1 | text: @local.option_1",
-        "name: option_2 | text: @local.option_2",
-        "name: option_3 | text: @local.option_3",
-        "name: option_4 | text: @local.option_4",
-        "name: option_5 | text: @local.option_5",
-        "name: option_6 | text: @local.option_6"
+        {
+          "name": "option_1",
+          "text": "@local.option_1"
+        },
+        {
+          "name": "option_2",
+          "text": "@local.option_2"
+        },
+        {
+          "name": "option_3",
+          "text": "@local.option_3"
+        },
+        {
+          "name": "option_4",
+          "text": "@local.option_4"
+        },
+        {
+          "name": "option_5",
+          "text": "@local.option_5"
+        },
+        {
+          "name": "option_6",
+          "text": "@local.option_6"
+        }
       ],
       "condition": "@local.no_of_options == 6",
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name: option_1 | text: @local.option_1",
-              "matchedExpression": "@local.option_1",
-              "type": "local",
-              "fieldName": "option_1"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name: option_2 | text: @local.option_2",
-              "matchedExpression": "@local.option_2",
-              "type": "local",
-              "fieldName": "option_2"
-            }
-          ],
-          "2": [
-            {
-              "fullExpression": "name: option_3 | text: @local.option_3",
-              "matchedExpression": "@local.option_3",
-              "type": "local",
-              "fieldName": "option_3"
-            }
-          ],
-          "3": [
-            {
-              "fullExpression": "name: option_4 | text: @local.option_4",
-              "matchedExpression": "@local.option_4",
-              "type": "local",
-              "fieldName": "option_4"
-            }
-          ],
-          "4": [
-            {
-              "fullExpression": "name: option_5 | text: @local.option_5",
-              "matchedExpression": "@local.option_5",
-              "type": "local",
-              "fieldName": "option_5"
-            }
-          ],
-          "5": [
-            {
-              "fullExpression": "name: option_6 | text: @local.option_6",
-              "matchedExpression": "@local.option_6",
-              "type": "local",
-              "fieldName": "option_6"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.option_1",
+                "matchedExpression": "@local.option_1",
+                "type": "local",
+                "fieldName": "option_1"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.option_2",
+                "matchedExpression": "@local.option_2",
+                "type": "local",
+                "fieldName": "option_2"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@local.option_3",
+                "matchedExpression": "@local.option_3",
+                "type": "local",
+                "fieldName": "option_3"
+              }
+            ]
+          },
+          "3": {
+            "text": [
+              {
+                "fullExpression": "@local.option_4",
+                "matchedExpression": "@local.option_4",
+                "type": "local",
+                "fieldName": "option_4"
+              }
+            ]
+          },
+          "4": {
+            "text": [
+              {
+                "fullExpression": "@local.option_5",
+                "matchedExpression": "@local.option_5",
+                "type": "local",
+                "fieldName": "option_5"
+              }
+            ]
+          },
+          "5": {
+            "text": [
+              {
+                "fullExpression": "@local.option_6",
+                "matchedExpression": "@local.option_6",
+                "type": "local",
+                "fieldName": "option_6"
+              }
+            ]
+          }
         },
         "condition": [
           {
@@ -843,22 +943,22 @@
       },
       "_dynamicDependencies": {
         "@local.option_1": [
-          "value.0"
+          "value.0.text"
         ],
         "@local.option_2": [
-          "value.1"
+          "value.1.text"
         ],
         "@local.option_3": [
-          "value.2"
+          "value.2.text"
         ],
         "@local.option_4": [
-          "value.3"
+          "value.3.text"
         ],
         "@local.option_5": [
-          "value.4"
+          "value.4.text"
         ],
         "@local.option_6": [
-          "value.5"
+          "value.5.text"
         ],
         "@local.no_of_options": [
           "condition"
@@ -868,75 +968,110 @@
     {
       "name": "answer_list",
       "value": [
-        "name: option_1 | text: @local.option_1",
-        "name: option_2 | text: @local.option_2",
-        "name: option_3 | text: @local.option_3",
-        "name: option_4 | text: @local.option_4",
-        "name: option_5 | text: @local.option_5",
-        "name: option_6 | text: @local.option_6",
-        "name: option_7 | text: @local.option_7"
+        {
+          "name": "option_1",
+          "text": "@local.option_1"
+        },
+        {
+          "name": "option_2",
+          "text": "@local.option_2"
+        },
+        {
+          "name": "option_3",
+          "text": "@local.option_3"
+        },
+        {
+          "name": "option_4",
+          "text": "@local.option_4"
+        },
+        {
+          "name": "option_5",
+          "text": "@local.option_5"
+        },
+        {
+          "name": "option_6",
+          "text": "@local.option_6"
+        },
+        {
+          "name": "option_7",
+          "text": "@local.option_7"
+        }
       ],
       "condition": "@local.no_of_options >= 7",
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name: option_1 | text: @local.option_1",
-              "matchedExpression": "@local.option_1",
-              "type": "local",
-              "fieldName": "option_1"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name: option_2 | text: @local.option_2",
-              "matchedExpression": "@local.option_2",
-              "type": "local",
-              "fieldName": "option_2"
-            }
-          ],
-          "2": [
-            {
-              "fullExpression": "name: option_3 | text: @local.option_3",
-              "matchedExpression": "@local.option_3",
-              "type": "local",
-              "fieldName": "option_3"
-            }
-          ],
-          "3": [
-            {
-              "fullExpression": "name: option_4 | text: @local.option_4",
-              "matchedExpression": "@local.option_4",
-              "type": "local",
-              "fieldName": "option_4"
-            }
-          ],
-          "4": [
-            {
-              "fullExpression": "name: option_5 | text: @local.option_5",
-              "matchedExpression": "@local.option_5",
-              "type": "local",
-              "fieldName": "option_5"
-            }
-          ],
-          "5": [
-            {
-              "fullExpression": "name: option_6 | text: @local.option_6",
-              "matchedExpression": "@local.option_6",
-              "type": "local",
-              "fieldName": "option_6"
-            }
-          ],
-          "6": [
-            {
-              "fullExpression": "name: option_7 | text: @local.option_7",
-              "matchedExpression": "@local.option_7",
-              "type": "local",
-              "fieldName": "option_7"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.option_1",
+                "matchedExpression": "@local.option_1",
+                "type": "local",
+                "fieldName": "option_1"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.option_2",
+                "matchedExpression": "@local.option_2",
+                "type": "local",
+                "fieldName": "option_2"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@local.option_3",
+                "matchedExpression": "@local.option_3",
+                "type": "local",
+                "fieldName": "option_3"
+              }
+            ]
+          },
+          "3": {
+            "text": [
+              {
+                "fullExpression": "@local.option_4",
+                "matchedExpression": "@local.option_4",
+                "type": "local",
+                "fieldName": "option_4"
+              }
+            ]
+          },
+          "4": {
+            "text": [
+              {
+                "fullExpression": "@local.option_5",
+                "matchedExpression": "@local.option_5",
+                "type": "local",
+                "fieldName": "option_5"
+              }
+            ]
+          },
+          "5": {
+            "text": [
+              {
+                "fullExpression": "@local.option_6",
+                "matchedExpression": "@local.option_6",
+                "type": "local",
+                "fieldName": "option_6"
+              }
+            ]
+          },
+          "6": {
+            "text": [
+              {
+                "fullExpression": "@local.option_7",
+                "matchedExpression": "@local.option_7",
+                "type": "local",
+                "fieldName": "option_7"
+              }
+            ]
+          }
         },
         "condition": [
           {
@@ -949,25 +1084,25 @@
       },
       "_dynamicDependencies": {
         "@local.option_1": [
-          "value.0"
+          "value.0.text"
         ],
         "@local.option_2": [
-          "value.1"
+          "value.1.text"
         ],
         "@local.option_3": [
-          "value.2"
+          "value.2.text"
         ],
         "@local.option_4": [
-          "value.3"
+          "value.3.text"
         ],
         "@local.option_5": [
-          "value.4"
+          "value.4.text"
         ],
         "@local.option_6": [
-          "value.5"
+          "value.5.text"
         ],
         "@local.option_7": [
-          "value.6"
+          "value.6.text"
         ],
         "@local.no_of_options": [
           "condition"

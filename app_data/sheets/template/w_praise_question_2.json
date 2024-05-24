@@ -118,9 +118,21 @@
                     {
                       "name": "answer_list",
                       "value": [
-                        "name:happy | image:plh_images/stickers/faces/happy.svg | image_checked:plh_images/stickers/faces/happy.svg",
-                        "name:happier | image:plh_images/stickers/faces/happier.svg | image_checked:plh_images/stickers/faces/happier.svg",
-                        "name:happiest | image:plh_images/stickers/faces/happiest.svg | image_checked:plh_images/stickers/faces/happiest.svg"
+                        {
+                          "name": "happy",
+                          "image": "plh_images/stickers/faces/happy.svg",
+                          "image_checked": "plh_images/stickers/faces/happy.svg"
+                        },
+                        {
+                          "name": "happier",
+                          "image": "plh_images/stickers/faces/happier.svg",
+                          "image_checked": "plh_images/stickers/faces/happier.svg"
+                        },
+                        {
+                          "name": "happiest",
+                          "image": "plh_images/stickers/faces/happiest.svg",
+                          "image_checked": "plh_images/stickers/faces/happiest.svg"
+                        }
                       ],
                       "type": "set_variable",
                       "_nested_name": "question_time.workshop_activity.content_box.combo_box_1.answer_list"
@@ -175,10 +187,22 @@
                     {
                       "name": "answer_list",
                       "value": [
-                        "name:name_1 | text:To get them to do it more often",
-                        "name:name_2 | text:To help her finish her work",
-                        "name:name_3 | text:To make them feel good",
-                        "name:name_4 | text:To make herself feel good"
+                        {
+                          "name": "name_1",
+                          "text": "To get them to do it more often"
+                        },
+                        {
+                          "name": "name_2",
+                          "text": "To help her finish her work"
+                        },
+                        {
+                          "name": "name_3",
+                          "text": "To make them feel good"
+                        },
+                        {
+                          "name": "name_4",
+                          "text": "To make herself feel good"
+                        }
                       ],
                       "type": "set_variable",
                       "_nested_name": "question_time.workshop_activity.content_box.combo_box_2.answer_list"

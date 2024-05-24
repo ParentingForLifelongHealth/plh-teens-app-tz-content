@@ -116,61 +116,81 @@
         {
           "name": "answer_list",
           "value": [
-            "name:myself | text:@local.myself",
-            "name:friend | text: @local.friend",
-            "name:organisation_1 | text: @local.organisation_1",
-            "name:organisation_2 | text: @local.organisation_2"
+            {
+              "name": "myself",
+              "text": "@local.myself"
+            },
+            {
+              "name": "friend",
+              "text": "@local.friend"
+            },
+            {
+              "name": "organisation_1",
+              "text": "@local.organisation_1"
+            },
+            {
+              "name": "organisation_2",
+              "text": "@local.organisation_2"
+            }
           ],
           "type": "set_variable",
           "_nested_name": "organisation_registration.answer_list",
           "_dynamicFields": {
             "value": {
-              "0": [
-                {
-                  "fullExpression": "name:myself | text:@local.myself",
-                  "matchedExpression": "@local.myself",
-                  "type": "local",
-                  "fieldName": "myself"
-                }
-              ],
-              "1": [
-                {
-                  "fullExpression": "name:friend | text: @local.friend",
-                  "matchedExpression": "@local.friend",
-                  "type": "local",
-                  "fieldName": "friend"
-                }
-              ],
-              "2": [
-                {
-                  "fullExpression": "name:organisation_1 | text: @local.organisation_1",
-                  "matchedExpression": "@local.organisation_1",
-                  "type": "local",
-                  "fieldName": "organisation_1"
-                }
-              ],
-              "3": [
-                {
-                  "fullExpression": "name:organisation_2 | text: @local.organisation_2",
-                  "matchedExpression": "@local.organisation_2",
-                  "type": "local",
-                  "fieldName": "organisation_2"
-                }
-              ]
+              "0": {
+                "text": [
+                  {
+                    "fullExpression": "@local.myself",
+                    "matchedExpression": "@local.myself",
+                    "type": "local",
+                    "fieldName": "myself"
+                  }
+                ]
+              },
+              "1": {
+                "text": [
+                  {
+                    "fullExpression": "@local.friend",
+                    "matchedExpression": "@local.friend",
+                    "type": "local",
+                    "fieldName": "friend"
+                  }
+                ]
+              },
+              "2": {
+                "text": [
+                  {
+                    "fullExpression": "@local.organisation_1",
+                    "matchedExpression": "@local.organisation_1",
+                    "type": "local",
+                    "fieldName": "organisation_1"
+                  }
+                ]
+              },
+              "3": {
+                "text": [
+                  {
+                    "fullExpression": "@local.organisation_2",
+                    "matchedExpression": "@local.organisation_2",
+                    "type": "local",
+                    "fieldName": "organisation_2"
+                  }
+                ]
+              }
             }
           },
           "_dynamicDependencies": {
             "@local.myself": [
-              "value.0"
+              "value.0.text"
             ],
             "@local.friend": [
-              "value.1"
+              "value.1.text"
             ],
             "@local.organisation_1": [
-              "value.2"
+              "value.2.text"
             ],
             "@local.organisation_2": [
-              "value.3"
+              "value.3.text"
             ]
           }
         }

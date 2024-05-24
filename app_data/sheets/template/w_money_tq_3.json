@@ -191,61 +191,81 @@
                 {
                   "name": "answer_list",
                   "value": [
-                    "name:name_1 | text:@global.savings_option_1",
-                    "name:name_2 | text:@global.savings_option_2",
-                    "name:name_3 | text:@global.savings_option_3",
-                    "name:name_4 | text:@global.savings_option_4"
+                    {
+                      "name": "name_1",
+                      "text": "@global.savings_option_1"
+                    },
+                    {
+                      "name": "name_2",
+                      "text": "@global.savings_option_2"
+                    },
+                    {
+                      "name": "name_3",
+                      "text": "@global.savings_option_3"
+                    },
+                    {
+                      "name": "name_4",
+                      "text": "@global.savings_option_4"
+                    }
                   ],
                   "type": "set_variable",
                   "_nested_name": "question_alone.workshop_activity.content_box.answer_list",
                   "_dynamicFields": {
                     "value": {
-                      "0": [
-                        {
-                          "fullExpression": "name:name_1 | text:@global.savings_option_1",
-                          "matchedExpression": "@global.savings_option_1",
-                          "type": "global",
-                          "fieldName": "savings_option_1"
-                        }
-                      ],
-                      "1": [
-                        {
-                          "fullExpression": "name:name_2 | text:@global.savings_option_2",
-                          "matchedExpression": "@global.savings_option_2",
-                          "type": "global",
-                          "fieldName": "savings_option_2"
-                        }
-                      ],
-                      "2": [
-                        {
-                          "fullExpression": "name:name_3 | text:@global.savings_option_3",
-                          "matchedExpression": "@global.savings_option_3",
-                          "type": "global",
-                          "fieldName": "savings_option_3"
-                        }
-                      ],
-                      "3": [
-                        {
-                          "fullExpression": "name:name_4 | text:@global.savings_option_4",
-                          "matchedExpression": "@global.savings_option_4",
-                          "type": "global",
-                          "fieldName": "savings_option_4"
-                        }
-                      ]
+                      "0": {
+                        "text": [
+                          {
+                            "fullExpression": "@global.savings_option_1",
+                            "matchedExpression": "@global.savings_option_1",
+                            "type": "global",
+                            "fieldName": "savings_option_1"
+                          }
+                        ]
+                      },
+                      "1": {
+                        "text": [
+                          {
+                            "fullExpression": "@global.savings_option_2",
+                            "matchedExpression": "@global.savings_option_2",
+                            "type": "global",
+                            "fieldName": "savings_option_2"
+                          }
+                        ]
+                      },
+                      "2": {
+                        "text": [
+                          {
+                            "fullExpression": "@global.savings_option_3",
+                            "matchedExpression": "@global.savings_option_3",
+                            "type": "global",
+                            "fieldName": "savings_option_3"
+                          }
+                        ]
+                      },
+                      "3": {
+                        "text": [
+                          {
+                            "fullExpression": "@global.savings_option_4",
+                            "matchedExpression": "@global.savings_option_4",
+                            "type": "global",
+                            "fieldName": "savings_option_4"
+                          }
+                        ]
+                      }
                     }
                   },
                   "_dynamicDependencies": {
                     "@global.savings_option_1": [
-                      "value.0"
+                      "value.0.text"
                     ],
                     "@global.savings_option_2": [
-                      "value.1"
+                      "value.1.text"
                     ],
                     "@global.savings_option_3": [
-                      "value.2"
+                      "value.2.text"
                     ],
                     "@global.savings_option_4": [
-                      "value.3"
+                      "value.3.text"
                     ]
                   }
                 },

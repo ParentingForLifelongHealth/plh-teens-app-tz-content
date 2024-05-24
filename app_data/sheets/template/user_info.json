@@ -187,9 +187,18 @@
     {
       "name": "answer_list",
       "value": [
-        "name:male | text: Man",
-        "name:female | text: Woman",
-        "name:prefer_not_to_say | text: Prefer not to say"
+        {
+          "name": "male",
+          "text": "Man"
+        },
+        {
+          "name": "female",
+          "text": "Woman"
+        },
+        {
+          "name": "prefer_not_to_say",
+          "text": "Prefer not to say"
+        }
       ],
       "type": "set_variable",
       "_nested_name": "answer_list"

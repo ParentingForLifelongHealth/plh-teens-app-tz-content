@@ -91,7 +91,7 @@
             "style": "button_tile",
             "icon_src": "chevron-forward-outline"
           },
-          "_nested_name": "display_group.tile_1",
+          "_nested_name": "display_group_6.tile_1",
           "_dynamicFields": {
             "parameter_list": {
               "first_line_text": [
@@ -129,11 +129,11 @@
             }
           ],
           "exclude_from_translation": true,
-          "_nested_name": "display_group.help_1"
+          "_nested_name": "display_group_6.help_1"
         }
       ],
-      "name": "display_group",
-      "_nested_name": "display_group"
+      "name": "display_group_6",
+      "_nested_name": "display_group_6"
     },
     {
       "type": "display_group",
@@ -164,7 +164,7 @@
             "style": "button_tile",
             "icon_src": "chevron-forward-outline"
           },
-          "_nested_name": "display_group.tile_2",
+          "_nested_name": "display_group_8.tile_2",
           "_dynamicFields": {
             "parameter_list": {
               "first_line_text": [
@@ -202,11 +202,11 @@
             }
           ],
           "exclude_from_translation": true,
-          "_nested_name": "display_group.help_2"
+          "_nested_name": "display_group_8.help_2"
         }
       ],
-      "name": "display_group",
-      "_nested_name": "display_group"
+      "name": "display_group_8",
+      "_nested_name": "display_group_8"
     },
     {
       "type": "dashed_box",

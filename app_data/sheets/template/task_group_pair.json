@@ -210,7 +210,7 @@
           },
           "condition": "@local.first_item",
           "type": "set_variable",
-          "_nested_name": "items.template_1",
+          "_nested_name": "items_9.template_1",
           "_dynamicFields": {
             "value": [
               {
@@ -246,7 +246,7 @@
           },
           "condition": "!@local.first_item",
           "type": "set_variable",
-          "_nested_name": "items.template_2",
+          "_nested_name": "items_9.template_2",
           "_dynamicFields": {
             "value": [
               {
@@ -278,11 +278,11 @@
           "name": "first_item",
           "value": false,
           "type": "set_variable",
-          "_nested_name": "items.first_item"
+          "_nested_name": "items_9.first_item"
         }
       ],
-      "name": "items",
-      "_nested_name": "items",
+      "name": "items_9",
+      "_nested_name": "items_9",
       "_dynamicFields": {
         "value": [
           {

@@ -378,12 +378,30 @@
                 {
                   "name": "answer_list",
                   "value": [
-                    "name: name_1 | text: Showing love to my children",
-                    "name: name_2 | text: Getting up even though I felt tired",
-                    "name: name_3 | text: Smiling at someone",
-                    "name: name_4 | text: Making food to stay strong",
-                    "name: name_5 | text: Spending time with my children",
-                    "name: name_6 | text: Helping my children with schoolwork"
+                    {
+                      "name": "name_1",
+                      "text": "Showing love to my children"
+                    },
+                    {
+                      "name": "name_2",
+                      "text": "Getting up even though I felt tired"
+                    },
+                    {
+                      "name": "name_3",
+                      "text": "Smiling at someone"
+                    },
+                    {
+                      "name": "name_4",
+                      "text": "Making food to stay strong"
+                    },
+                    {
+                      "name": "name_5",
+                      "text": "Spending time with my children"
+                    },
+                    {
+                      "name": "name_6",
+                      "text": "Helping my children with schoolwork"
+                    }
                   ],
                   "type": "set_variable",
                   "_nested_name": "think.workshop_activity.content_box.answer_list"

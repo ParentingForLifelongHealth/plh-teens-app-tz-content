@@ -16,17 +16,17 @@
             }
           },
           "hidden": true,
-          "_nested_name": "display_group.video_title"
+          "_nested_name": "display_group_2.video_title"
         },
         {
           "name": "video_help",
           "hidden": true,
           "type": "set_variable",
-          "_nested_name": "display_group.video_help"
+          "_nested_name": "display_group_2.video_help"
         }
       ],
-      "name": "display_group",
-      "_nested_name": "display_group"
+      "name": "display_group_2",
+      "_nested_name": "display_group_2"
     },
     {
       "name": "subs_src",

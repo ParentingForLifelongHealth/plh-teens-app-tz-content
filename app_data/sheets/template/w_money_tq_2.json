@@ -239,85 +239,115 @@
                 {
                   "name": "answer_list",
                   "value": [
-                    "name:name_1 | text:@global.financial_emergency_1",
-                    "name:name_2 | text:@global.financial_emergency_2",
-                    "name:name_3 | text:@global.financial_emergency_3",
-                    "name:name_4 | text:@global.financial_emergency_4",
-                    "name:name_5 | text:@global.financial_emergency_5",
-                    "name:name_6 | text:@global.financial_emergency_6"
+                    {
+                      "name": "name_1",
+                      "text": "@global.financial_emergency_1"
+                    },
+                    {
+                      "name": "name_2",
+                      "text": "@global.financial_emergency_2"
+                    },
+                    {
+                      "name": "name_3",
+                      "text": "@global.financial_emergency_3"
+                    },
+                    {
+                      "name": "name_4",
+                      "text": "@global.financial_emergency_4"
+                    },
+                    {
+                      "name": "name_5",
+                      "text": "@global.financial_emergency_5"
+                    },
+                    {
+                      "name": "name_6",
+                      "text": "@global.financial_emergency_6"
+                    }
                   ],
                   "type": "set_variable",
                   "_nested_name": "question_alone.workshop_activity.content_box.answer_list",
                   "_dynamicFields": {
                     "value": {
-                      "0": [
-                        {
-                          "fullExpression": "name:name_1 | text:@global.financial_emergency_1",
-                          "matchedExpression": "@global.financial_emergency_1",
-                          "type": "global",
-                          "fieldName": "financial_emergency_1"
-                        }
-                      ],
-                      "1": [
-                        {
-                          "fullExpression": "name:name_2 | text:@global.financial_emergency_2",
-                          "matchedExpression": "@global.financial_emergency_2",
-                          "type": "global",
-                          "fieldName": "financial_emergency_2"
-                        }
-                      ],
-                      "2": [
-                        {
-                          "fullExpression": "name:name_3 | text:@global.financial_emergency_3",
-                          "matchedExpression": "@global.financial_emergency_3",
-                          "type": "global",
-                          "fieldName": "financial_emergency_3"
-                        }
-                      ],
-                      "3": [
-                        {
-                          "fullExpression": "name:name_4 | text:@global.financial_emergency_4",
-                          "matchedExpression": "@global.financial_emergency_4",
-                          "type": "global",
-                          "fieldName": "financial_emergency_4"
-                        }
-                      ],
-                      "4": [
-                        {
-                          "fullExpression": "name:name_5 | text:@global.financial_emergency_5",
-                          "matchedExpression": "@global.financial_emergency_5",
-                          "type": "global",
-                          "fieldName": "financial_emergency_5"
-                        }
-                      ],
-                      "5": [
-                        {
-                          "fullExpression": "name:name_6 | text:@global.financial_emergency_6",
-                          "matchedExpression": "@global.financial_emergency_6",
-                          "type": "global",
-                          "fieldName": "financial_emergency_6"
-                        }
-                      ]
+                      "0": {
+                        "text": [
+                          {
+                            "fullExpression": "@global.financial_emergency_1",
+                            "matchedExpression": "@global.financial_emergency_1",
+                            "type": "global",
+                            "fieldName": "financial_emergency_1"
+                          }
+                        ]
+                      },
+                      "1": {
+                        "text": [
+                          {
+                            "fullExpression": "@global.financial_emergency_2",
+                            "matchedExpression": "@global.financial_emergency_2",
+                            "type": "global",
+                            "fieldName": "financial_emergency_2"
+                          }
+                        ]
+                      },
+                      "2": {
+                        "text": [
+                          {
+                            "fullExpression": "@global.financial_emergency_3",
+                            "matchedExpression": "@global.financial_emergency_3",
+                            "type": "global",
+                            "fieldName": "financial_emergency_3"
+                          }
+                        ]
+                      },
+                      "3": {
+                        "text": [
+                          {
+                            "fullExpression": "@global.financial_emergency_4",
+                            "matchedExpression": "@global.financial_emergency_4",
+                            "type": "global",
+                            "fieldName": "financial_emergency_4"
+                          }
+                        ]
+                      },
+                      "4": {
+                        "text": [
+                          {
+                            "fullExpression": "@global.financial_emergency_5",
+                            "matchedExpression": "@global.financial_emergency_5",
+                            "type": "global",
+                            "fieldName": "financial_emergency_5"
+                          }
+                        ]
+                      },
+                      "5": {
+                        "text": [
+                          {
+                            "fullExpression": "@global.financial_emergency_6",
+                            "matchedExpression": "@global.financial_emergency_6",
+                            "type": "global",
+                            "fieldName": "financial_emergency_6"
+                          }
+                        ]
+                      }
                     }
                   },
                   "_dynamicDependencies": {
                     "@global.financial_emergency_1": [
-                      "value.0"
+                      "value.0.text"
                     ],
                     "@global.financial_emergency_2": [
-                      "value.1"
+                      "value.1.text"
                     ],
                     "@global.financial_emergency_3": [
-                      "value.2"
+                      "value.2.text"
                     ],
                     "@global.financial_emergency_4": [
-                      "value.3"
+                      "value.3.text"
                     ],
                     "@global.financial_emergency_5": [
-                      "value.4"
+                      "value.4.text"
                     ],
                     "@global.financial_emergency_6": [
-                      "value.5"
+                      "value.5.text"
                     ]
                   }
                 },

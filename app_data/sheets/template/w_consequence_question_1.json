@@ -177,61 +177,81 @@
                 {
                   "name": "answer_list",
                   "value": [
-                    "name:name_1 | text:@local.idea_1",
-                    "name:name_2 | text:@local.idea_2",
-                    "name:name_3 | text:@local.idea_3",
-                    "name:name_4 | text:@local.idea_4"
+                    {
+                      "name": "name_1",
+                      "text": "@local.idea_1"
+                    },
+                    {
+                      "name": "name_2",
+                      "text": "@local.idea_2"
+                    },
+                    {
+                      "name": "name_3",
+                      "text": "@local.idea_3"
+                    },
+                    {
+                      "name": "name_4",
+                      "text": "@local.idea_4"
+                    }
                   ],
                   "type": "set_variable",
                   "_nested_name": "question_time.workshop_activity.content_box.answer_list",
                   "_dynamicFields": {
                     "value": {
-                      "0": [
-                        {
-                          "fullExpression": "name:name_1 | text:@local.idea_1",
-                          "matchedExpression": "@local.idea_1",
-                          "type": "local",
-                          "fieldName": "idea_1"
-                        }
-                      ],
-                      "1": [
-                        {
-                          "fullExpression": "name:name_2 | text:@local.idea_2",
-                          "matchedExpression": "@local.idea_2",
-                          "type": "local",
-                          "fieldName": "idea_2"
-                        }
-                      ],
-                      "2": [
-                        {
-                          "fullExpression": "name:name_3 | text:@local.idea_3",
-                          "matchedExpression": "@local.idea_3",
-                          "type": "local",
-                          "fieldName": "idea_3"
-                        }
-                      ],
-                      "3": [
-                        {
-                          "fullExpression": "name:name_4 | text:@local.idea_4",
-                          "matchedExpression": "@local.idea_4",
-                          "type": "local",
-                          "fieldName": "idea_4"
-                        }
-                      ]
+                      "0": {
+                        "text": [
+                          {
+                            "fullExpression": "@local.idea_1",
+                            "matchedExpression": "@local.idea_1",
+                            "type": "local",
+                            "fieldName": "idea_1"
+                          }
+                        ]
+                      },
+                      "1": {
+                        "text": [
+                          {
+                            "fullExpression": "@local.idea_2",
+                            "matchedExpression": "@local.idea_2",
+                            "type": "local",
+                            "fieldName": "idea_2"
+                          }
+                        ]
+                      },
+                      "2": {
+                        "text": [
+                          {
+                            "fullExpression": "@local.idea_3",
+                            "matchedExpression": "@local.idea_3",
+                            "type": "local",
+                            "fieldName": "idea_3"
+                          }
+                        ]
+                      },
+                      "3": {
+                        "text": [
+                          {
+                            "fullExpression": "@local.idea_4",
+                            "matchedExpression": "@local.idea_4",
+                            "type": "local",
+                            "fieldName": "idea_4"
+                          }
+                        ]
+                      }
                     }
                   },
                   "_dynamicDependencies": {
                     "@local.idea_1": [
-                      "value.0"
+                      "value.0.text"
                     ],
                     "@local.idea_2": [
-                      "value.1"
+                      "value.1.text"
                     ],
                     "@local.idea_3": [
-                      "value.2"
+                      "value.2.text"
                     ],
                     "@local.idea_4": [
-                      "value.3"
+                      "value.3.text"
                     ]
                   }
                 },

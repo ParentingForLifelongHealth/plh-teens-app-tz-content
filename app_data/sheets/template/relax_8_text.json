@@ -33,8 +33,8 @@
         "value": {}
       },
       "type": "set_variable",
-      "name": "set_variable",
-      "_nested_name": "set_variable"
+      "name": "set_variable_4",
+      "_nested_name": "set_variable_4"
     }
   ],
   "_xlsxPath": "global/top_templates/parent_centre_templates/databank_relax.xlsx"

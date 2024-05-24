@@ -68,11 +68,11 @@
                     "value": {}
                   },
                   "exclude_from_translation": true,
-                  "_nested_name": "animated_slides.animated_section.display_group.image_1"
+                  "_nested_name": "animated_slides_4.animated_section_1.display_group_1.image_1"
                 }
               ],
-              "name": "display_group",
-              "_nested_name": "animated_slides.animated_section.display_group"
+              "name": "display_group_1",
+              "_nested_name": "animated_slides_4.animated_section_1.display_group_1"
             },
             {
               "type": "text",
@@ -86,11 +86,11 @@
               "parameter_list": {
                 "text_align": "center"
               },
-              "_nested_name": "animated_slides.animated_section.slogan_1"
+              "_nested_name": "animated_slides_4.animated_section_1.slogan_1"
             }
           ],
-          "name": "animated_section",
-          "_nested_name": "animated_slides.animated_section"
+          "name": "animated_section_1",
+          "_nested_name": "animated_slides_4.animated_section_1"
         },
         {
           "type": "animated_section",
@@ -112,11 +112,11 @@
                     "value": {}
                   },
                   "exclude_from_translation": true,
-                  "_nested_name": "animated_slides.animated_section.display_group.image_2"
+                  "_nested_name": "animated_slides_4.animated_section_2.display_group_1.image_2"
                 }
               ],
-              "name": "display_group",
-              "_nested_name": "animated_slides.animated_section.display_group"
+              "name": "display_group_1",
+              "_nested_name": "animated_slides_4.animated_section_2.display_group_1"
             },
             {
               "type": "text",
@@ -130,11 +130,11 @@
               "parameter_list": {
                 "style": "large center"
               },
-              "_nested_name": "animated_slides.animated_section.slogan_2"
+              "_nested_name": "animated_slides_4.animated_section_2.slogan_2"
             }
           ],
-          "name": "animated_section",
-          "_nested_name": "animated_slides.animated_section"
+          "name": "animated_section_2",
+          "_nested_name": "animated_slides_4.animated_section_2"
         },
         {
           "type": "animated_section",
@@ -156,11 +156,11 @@
                     "value": {}
                   },
                   "exclude_from_translation": true,
-                  "_nested_name": "animated_slides.animated_section.display_group.image_3"
+                  "_nested_name": "animated_slides_4.animated_section_3.display_group_1.image_3"
                 }
               ],
-              "name": "display_group",
-              "_nested_name": "animated_slides.animated_section.display_group"
+              "name": "display_group_1",
+              "_nested_name": "animated_slides_4.animated_section_3.display_group_1"
             },
             {
               "type": "text",
@@ -174,7 +174,7 @@
               "parameter_list": {
                 "style": "large center"
               },
-              "_nested_name": "animated_slides.animated_section.slogan_3",
+              "_nested_name": "animated_slides_4.animated_section_3.slogan_3",
               "_dynamicFields": {
                 "value": [
                   {
@@ -192,8 +192,8 @@
               }
             }
           ],
-          "name": "animated_section",
-          "_nested_name": "animated_slides.animated_section"
+          "name": "animated_section_3",
+          "_nested_name": "animated_slides_4.animated_section_3"
         },
         {
           "type": "animated_section",
@@ -206,11 +206,11 @@
               "name": "splash_partners_1",
               "value": "splash_partners_1",
               "rows": [],
-              "_nested_name": "animated_slides.animated_section.splash_partners_1"
+              "_nested_name": "animated_slides_4.animated_section_4.splash_partners_1"
             }
           ],
-          "name": "animated_section",
-          "_nested_name": "animated_slides.animated_section"
+          "name": "animated_section_4",
+          "_nested_name": "animated_slides_4.animated_section_4"
         },
         {
           "type": "animated_section",
@@ -223,11 +223,11 @@
               "name": "splash_partners_2",
               "value": "splash_partners_2",
               "rows": [],
-              "_nested_name": "animated_slides.animated_section.splash_partners_2"
+              "_nested_name": "animated_slides_4.animated_section_5.splash_partners_2"
             }
           ],
-          "name": "animated_section",
-          "_nested_name": "animated_slides.animated_section"
+          "name": "animated_section_5",
+          "_nested_name": "animated_slides_4.animated_section_5"
         },
         {
           "type": "animated_section",
@@ -240,15 +240,15 @@
               "name": "splash_funders",
               "value": "splash_funders",
               "rows": [],
-              "_nested_name": "animated_slides.animated_section.splash_funders"
+              "_nested_name": "animated_slides_4.animated_section_6.splash_funders"
             }
           ],
-          "name": "animated_section",
-          "_nested_name": "animated_slides.animated_section"
+          "name": "animated_section_6",
+          "_nested_name": "animated_slides_4.animated_section_6"
         }
       ],
-      "name": "animated_slides",
-      "_nested_name": "animated_slides",
+      "name": "animated_slides_4",
+      "_nested_name": "animated_slides_4",
       "_dynamicFields": {
         "parameter_list": {
           "skip_text": [

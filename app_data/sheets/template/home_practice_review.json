@@ -15,26 +15,25 @@
     },
     {
       "name": "data_list_row",
-      "value": [
-        "hp_check_in.@local.workshop"
-      ],
+      "value": "hp_check_in.@local.workshop",
+      "_translations": {
+        "value": {}
+      },
       "type": "set_variable",
       "_nested_name": "data_list_row",
       "_dynamicFields": {
-        "value": {
-          "0": [
-            {
-              "fullExpression": "hp_check_in.@local.workshop",
-              "matchedExpression": "@local.workshop",
-              "type": "local",
-              "fieldName": "workshop"
-            }
-          ]
-        }
+        "value": [
+          {
+            "fullExpression": "hp_check_in.@local.workshop",
+            "matchedExpression": "@local.workshop",
+            "type": "local",
+            "fieldName": "workshop"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@local.workshop": [
-          "value.0"
+          "value"
         ]
       }
     },
@@ -88,26 +87,25 @@
     },
     {
       "name": "habit_data_list_row",
-      "value": [
-        "habit.@local.habit_id"
-      ],
+      "value": "habit.@local.habit_id",
+      "_translations": {
+        "value": {}
+      },
       "type": "set_variable",
       "_nested_name": "habit_data_list_row",
       "_dynamicFields": {
-        "value": {
-          "0": [
-            {
-              "fullExpression": "habit.@local.habit_id",
-              "matchedExpression": "@local.habit_id",
-              "type": "local",
-              "fieldName": "habit_id"
-            }
-          ]
-        }
+        "value": [
+          {
+            "fullExpression": "habit.@local.habit_id",
+            "matchedExpression": "@local.habit_id",
+            "type": "local",
+            "fieldName": "habit_id"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@local.habit_id": [
-          "value.0"
+          "value"
         ]
       }
     },

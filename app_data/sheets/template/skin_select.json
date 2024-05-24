@@ -11,8 +11,8 @@
           "tz_sw": true
         }
       },
-      "name": "title",
-      "_nested_name": "title"
+      "name": "title_2",
+      "_nested_name": "title_2"
     },
     {
       "name": "reply_entered",
@@ -255,37 +255,47 @@
         {
           "name": "skins_list",
           "value": [
-            "name: weekly_workshop | text: @local.workshop_skin_text",
-            "name: modular | text: @local.module_skin_text"
+            {
+              "name": "weekly_workshop",
+              "text": "@local.workshop_skin_text"
+            },
+            {
+              "name": "modular",
+              "text": "@local.module_skin_text"
+            }
           ],
           "type": "set_variable",
           "_nested_name": "dg_correct.skins_list",
           "_dynamicFields": {
             "value": {
-              "0": [
-                {
-                  "fullExpression": "name: weekly_workshop | text: @local.workshop_skin_text",
-                  "matchedExpression": "@local.workshop_skin_text",
-                  "type": "local",
-                  "fieldName": "workshop_skin_text"
-                }
-              ],
-              "1": [
-                {
-                  "fullExpression": "name: modular | text: @local.module_skin_text",
-                  "matchedExpression": "@local.module_skin_text",
-                  "type": "local",
-                  "fieldName": "module_skin_text"
-                }
-              ]
+              "0": {
+                "text": [
+                  {
+                    "fullExpression": "@local.workshop_skin_text",
+                    "matchedExpression": "@local.workshop_skin_text",
+                    "type": "local",
+                    "fieldName": "workshop_skin_text"
+                  }
+                ]
+              },
+              "1": {
+                "text": [
+                  {
+                    "fullExpression": "@local.module_skin_text",
+                    "matchedExpression": "@local.module_skin_text",
+                    "type": "local",
+                    "fieldName": "module_skin_text"
+                  }
+                ]
+              }
             }
           },
           "_dynamicDependencies": {
             "@local.workshop_skin_text": [
-              "value.0"
+              "value.0.text"
             ],
             "@local.module_skin_text": [
-              "value.1"
+              "value.1.text"
             ]
           }
         },

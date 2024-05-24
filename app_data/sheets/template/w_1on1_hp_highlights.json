@@ -64,61 +64,81 @@
     {
       "name": "answer_list",
       "value": [
-        "name:choice_1 | text:@local.choice_1",
-        "name:choice_2 | text:@local.choice_2",
-        "name:choice_3 | text:@local.choice_3",
-        "name:choice_none | text:@local.choice_none"
+        {
+          "name": "choice_1",
+          "text": "@local.choice_1"
+        },
+        {
+          "name": "choice_2",
+          "text": "@local.choice_2"
+        },
+        {
+          "name": "choice_3",
+          "text": "@local.choice_3"
+        },
+        {
+          "name": "choice_none",
+          "text": "@local.choice_none"
+        }
       ],
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name:choice_1 | text:@local.choice_1",
-              "matchedExpression": "@local.choice_1",
-              "type": "local",
-              "fieldName": "choice_1"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name:choice_2 | text:@local.choice_2",
-              "matchedExpression": "@local.choice_2",
-              "type": "local",
-              "fieldName": "choice_2"
-            }
-          ],
-          "2": [
-            {
-              "fullExpression": "name:choice_3 | text:@local.choice_3",
-              "matchedExpression": "@local.choice_3",
-              "type": "local",
-              "fieldName": "choice_3"
-            }
-          ],
-          "3": [
-            {
-              "fullExpression": "name:choice_none | text:@local.choice_none",
-              "matchedExpression": "@local.choice_none",
-              "type": "local",
-              "fieldName": "choice_none"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.choice_1",
+                "matchedExpression": "@local.choice_1",
+                "type": "local",
+                "fieldName": "choice_1"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.choice_2",
+                "matchedExpression": "@local.choice_2",
+                "type": "local",
+                "fieldName": "choice_2"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@local.choice_3",
+                "matchedExpression": "@local.choice_3",
+                "type": "local",
+                "fieldName": "choice_3"
+              }
+            ]
+          },
+          "3": {
+            "text": [
+              {
+                "fullExpression": "@local.choice_none",
+                "matchedExpression": "@local.choice_none",
+                "type": "local",
+                "fieldName": "choice_none"
+              }
+            ]
+          }
         }
       },
       "_dynamicDependencies": {
         "@local.choice_1": [
-          "value.0"
+          "value.0.text"
         ],
         "@local.choice_2": [
-          "value.1"
+          "value.1.text"
         ],
         "@local.choice_3": [
-          "value.2"
+          "value.2.text"
         ],
         "@local.choice_none": [
-          "value.3"
+          "value.3.text"
         ]
       }
     },
@@ -370,9 +390,18 @@
         {
           "name": "answer_list_choice_1",
           "value": [
-            "name:choice_1_a | text:Having a specific time to do this helps me to remember.",
-            "name:choice_1_b | text:With a routine, my teen and I can both keep our schedule free.",
-            "name:choice_1_c | text:Spending time with my teen every day helps to build trust with them/him/her."
+            {
+              "name": "choice_1_a",
+              "text": "Having a specific time to do this helps me to remember."
+            },
+            {
+              "name": "choice_1_b",
+              "text": "With a routine, my teen and I can both keep our schedule free."
+            },
+            {
+              "name": "choice_1_c",
+              "text": "Spending time with my teen every day helps to build trust with them/him/her."
+            }
           ],
           "type": "set_variable",
           "_nested_name": "replies_choice_1.answer_list_choice_1"
@@ -482,11 +511,26 @@
         {
           "name": "answer_list_choice_2",
           "value": [
-            "name:choice_2_a | text:Letting my teen choose what to do builds their confidence.",
-            "name:choice_2_b | text:If my teen chooses, s/he is more likely to want to spend time together.",
-            "name:choice_2_c | text:Letting my teen choose shows that I care about his/her interests.",
-            "name:choice_2_d | text:By accepting my teen’s suggestions, I show that I listen to him/her.",
-            "name:choice_2_e | text:Saying something nice about my teen’s choice helps them feel valued."
+            {
+              "name": "choice_2_a",
+              "text": "Letting my teen choose what to do builds their confidence."
+            },
+            {
+              "name": "choice_2_b",
+              "text": "If my teen chooses, s/he is more likely to want to spend time together."
+            },
+            {
+              "name": "choice_2_c",
+              "text": "Letting my teen choose shows that I care about his/her interests."
+            },
+            {
+              "name": "choice_2_d",
+              "text": "By accepting my teen’s suggestions, I show that I listen to him/her."
+            },
+            {
+              "name": "choice_2_e",
+              "text": "Saying something nice about my teen’s choice helps them feel valued."
+            }
           ],
           "type": "set_variable",
           "_nested_name": "replies_choice_2.answer_list_choice_2"
@@ -596,9 +640,18 @@
         {
           "name": "answer_list_choice_3",
           "value": [
-            "name:choice_3_a | text:By preventing interruptions, I show my teen that s/he is most important.",
-            "name:choice_3_b | text:Even if I can’t join my teen’s activity, like sports, I can still cheer them on.",
-            "name:choice_3_c | text:When I pay attention, I can learn so much about my teen’s interests, views and abilities."
+            {
+              "name": "choice_3_a",
+              "text": "By preventing interruptions, I show my teen that s/he is most important."
+            },
+            {
+              "name": "choice_3_b",
+              "text": "Even if I can’t join my teen’s activity, like sports, I can still cheer them on."
+            },
+            {
+              "name": "choice_3_c",
+              "text": "When I pay attention, I can learn so much about my teen’s interests, views and abilities."
+            }
           ],
           "type": "set_variable",
           "_nested_name": "replies_choice_3.answer_list_choice_3"

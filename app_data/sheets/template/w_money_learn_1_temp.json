@@ -206,8 +206,14 @@
                 {
                   "name": "answer_list",
                   "value": [
-                    "name:family | text:My family can join in now!",
-                    "name:alone | text:Let me try it out by myself"
+                    {
+                      "name": "family",
+                      "text": "My family can join in now!"
+                    },
+                    {
+                      "name": "alone",
+                      "text": "Let me try it out by myself"
+                    }
                   ],
                   "type": "set_variable",
                   "_nested_name": "learn.workshop_activity.content_box.answer_list"

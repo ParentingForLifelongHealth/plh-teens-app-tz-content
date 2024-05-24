@@ -14,8 +14,8 @@
       "parameter_list": {
         "style": "large center"
       },
-      "name": "text",
-      "_nested_name": "text",
+      "name": "text_2",
+      "_nested_name": "text_2",
       "_dynamicFields": {
         "value": [
           {

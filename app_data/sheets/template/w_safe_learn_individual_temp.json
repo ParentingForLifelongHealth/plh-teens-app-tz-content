@@ -184,37 +184,47 @@
                     {
                       "name": "answer_list",
                       "value": [
-                        "name:family | text: @local.family",
-                        "name:alone | text: @local.alone"
+                        {
+                          "name": "family",
+                          "text": "@local.family"
+                        },
+                        {
+                          "name": "alone",
+                          "text": "@local.alone"
+                        }
                       ],
                       "type": "set_variable",
                       "_nested_name": "learn.workshop_activity.content_box.box_1.answer_list",
                       "_dynamicFields": {
                         "value": {
-                          "0": [
-                            {
-                              "fullExpression": "name:family | text: @local.family",
-                              "matchedExpression": "@local.family",
-                              "type": "local",
-                              "fieldName": "family"
-                            }
-                          ],
-                          "1": [
-                            {
-                              "fullExpression": "name:alone | text: @local.alone",
-                              "matchedExpression": "@local.alone",
-                              "type": "local",
-                              "fieldName": "alone"
-                            }
-                          ]
+                          "0": {
+                            "text": [
+                              {
+                                "fullExpression": "@local.family",
+                                "matchedExpression": "@local.family",
+                                "type": "local",
+                                "fieldName": "family"
+                              }
+                            ]
+                          },
+                          "1": {
+                            "text": [
+                              {
+                                "fullExpression": "@local.alone",
+                                "matchedExpression": "@local.alone",
+                                "type": "local",
+                                "fieldName": "alone"
+                              }
+                            ]
+                          }
                         }
                       },
                       "_dynamicDependencies": {
                         "@local.family": [
-                          "value.0"
+                          "value.0.text"
                         ],
                         "@local.alone": [
-                          "value.1"
+                          "value.1.text"
                         ]
                       }
                     },

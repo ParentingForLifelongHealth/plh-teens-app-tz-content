@@ -670,7 +670,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "display_group.card_hp_review.workshop_id",
+              "_nested_name": "display_group_25.card_hp_review.workshop_id",
               "_dynamicFields": {
                 "value": [
                   {
@@ -695,10 +695,10 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "display_group.card_hp_review.task_id"
+              "_nested_name": "display_group_25.card_hp_review.task_id"
             }
           ],
-          "_nested_name": "display_group.card_hp_review",
+          "_nested_name": "display_group_25.card_hp_review",
           "_dynamicFields": {
             "condition": [
               {
@@ -730,8 +730,8 @@
           }
         }
       ],
-      "name": "display_group",
-      "_nested_name": "display_group",
+      "name": "display_group_25",
+      "_nested_name": "display_group_25",
       "_dynamicFields": {
         "condition": [
           {

@@ -141,44 +141,44 @@
     },
     {
       "name": "hp_challenge_list",
-      "value": [
-        "_hp_challenge_list"
-      ],
+      "value": "_hp_challenge_list",
+      "_translations": {
+        "value": {}
+      },
       "type": "set_variable",
       "_nested_name": "hp_challenge_list"
     },
     {
       "name": "workshop_hp_challenge_list",
-      "value": [
-        "@local.workshop@local.hp_challenge_list"
-      ],
+      "value": "@local.workshop@local.hp_challenge_list",
+      "_translations": {
+        "value": {}
+      },
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "workshop_hp_challenge_list",
       "_dynamicFields": {
-        "value": {
-          "0": [
-            {
-              "fullExpression": "@local.workshop@local.hp_challenge_list",
-              "matchedExpression": "@local.workshop",
-              "type": "local",
-              "fieldName": "workshop"
-            },
-            {
-              "fullExpression": "@local.workshop@local.hp_challenge_list",
-              "matchedExpression": "@local.hp_challenge_list",
-              "type": "local",
-              "fieldName": "hp_challenge_list"
-            }
-          ]
-        }
+        "value": [
+          {
+            "fullExpression": "@local.workshop@local.hp_challenge_list",
+            "matchedExpression": "@local.workshop",
+            "type": "local",
+            "fieldName": "workshop"
+          },
+          {
+            "fullExpression": "@local.workshop@local.hp_challenge_list",
+            "matchedExpression": "@local.hp_challenge_list",
+            "type": "local",
+            "fieldName": "hp_challenge_list"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@local.workshop": [
-          "value.0"
+          "value"
         ],
         "@local.hp_challenge_list": [
-          "value.0"
+          "value"
         ]
       }
     },
@@ -274,73 +274,98 @@
     {
       "name": "answer_list",
       "value": [
-        "name:challenge_1 | text:@local.text_challenge_1",
-        "name:challenge_2 | text:@local.text_challenge_2",
-        "name:challenge_3 | text:@local.text_challenge_3",
-        "name:challenge_4 | text:@local.text_challenge_4",
-        "name:other_challenge | text: @local.text_other_challenge"
+        {
+          "name": "challenge_1",
+          "text": "@local.text_challenge_1"
+        },
+        {
+          "name": "challenge_2",
+          "text": "@local.text_challenge_2"
+        },
+        {
+          "name": "challenge_3",
+          "text": "@local.text_challenge_3"
+        },
+        {
+          "name": "challenge_4",
+          "text": "@local.text_challenge_4"
+        },
+        {
+          "name": "other_challenge",
+          "text": "@local.text_other_challenge"
+        }
       ],
       "type": "set_variable",
       "_nested_name": "answer_list",
       "_dynamicFields": {
         "value": {
-          "0": [
-            {
-              "fullExpression": "name:challenge_1 | text:@local.text_challenge_1",
-              "matchedExpression": "@local.text_challenge_1",
-              "type": "local",
-              "fieldName": "text_challenge_1"
-            }
-          ],
-          "1": [
-            {
-              "fullExpression": "name:challenge_2 | text:@local.text_challenge_2",
-              "matchedExpression": "@local.text_challenge_2",
-              "type": "local",
-              "fieldName": "text_challenge_2"
-            }
-          ],
-          "2": [
-            {
-              "fullExpression": "name:challenge_3 | text:@local.text_challenge_3",
-              "matchedExpression": "@local.text_challenge_3",
-              "type": "local",
-              "fieldName": "text_challenge_3"
-            }
-          ],
-          "3": [
-            {
-              "fullExpression": "name:challenge_4 | text:@local.text_challenge_4",
-              "matchedExpression": "@local.text_challenge_4",
-              "type": "local",
-              "fieldName": "text_challenge_4"
-            }
-          ],
-          "4": [
-            {
-              "fullExpression": "name:other_challenge | text: @local.text_other_challenge",
-              "matchedExpression": "@local.text_other_challenge",
-              "type": "local",
-              "fieldName": "text_other_challenge"
-            }
-          ]
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.text_challenge_1",
+                "matchedExpression": "@local.text_challenge_1",
+                "type": "local",
+                "fieldName": "text_challenge_1"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.text_challenge_2",
+                "matchedExpression": "@local.text_challenge_2",
+                "type": "local",
+                "fieldName": "text_challenge_2"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@local.text_challenge_3",
+                "matchedExpression": "@local.text_challenge_3",
+                "type": "local",
+                "fieldName": "text_challenge_3"
+              }
+            ]
+          },
+          "3": {
+            "text": [
+              {
+                "fullExpression": "@local.text_challenge_4",
+                "matchedExpression": "@local.text_challenge_4",
+                "type": "local",
+                "fieldName": "text_challenge_4"
+              }
+            ]
+          },
+          "4": {
+            "text": [
+              {
+                "fullExpression": "@local.text_other_challenge",
+                "matchedExpression": "@local.text_other_challenge",
+                "type": "local",
+                "fieldName": "text_other_challenge"
+              }
+            ]
+          }
         }
       },
       "_dynamicDependencies": {
         "@local.text_challenge_1": [
-          "value.0"
+          "value.0.text"
         ],
         "@local.text_challenge_2": [
-          "value.1"
+          "value.1.text"
         ],
         "@local.text_challenge_3": [
-          "value.2"
+          "value.2.text"
         ],
         "@local.text_challenge_4": [
-          "value.3"
+          "value.3.text"
         ],
         "@local.text_other_challenge": [
-          "value.4"
+          "value.4.text"
         ]
       }
     },
@@ -609,9 +634,18 @@
         {
           "name": "answer_list_challenge_2",
           "value": [
-            "name:choice_2_a | text: Think of a time each day that I can spare five minutes or a bit more time.",
-            "name:choice_2_b | text: Find a chore that we could do together in a fun way.",
-            "name:choice_2_c | text: Ask my teen or someone else to help me with a chore, so I have some extra free time."
+            {
+              "name": "choice_2_a",
+              "text": "Think of a time each day that I can spare five minutes or a bit more time."
+            },
+            {
+              "name": "choice_2_b",
+              "text": "Find a chore that we could do together in a fun way."
+            },
+            {
+              "name": "choice_2_c",
+              "text": "Ask my teen or someone else to help me with a chore, so I have some extra free time."
+            }
           ],
           "type": "set_variable",
           "_nested_name": "challenge_2.answer_list_challenge_2"

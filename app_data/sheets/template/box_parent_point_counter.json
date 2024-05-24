@@ -33,7 +33,7 @@
             "icon_src": "plh_images/icons/star.svg",
             "count": "@fields.weekly_parent_point_relax"
           },
-          "_nested_name": "display_group.relax",
+          "_nested_name": "display_group_4.relax",
           "_dynamicFields": {
             "value": [
               {
@@ -85,7 +85,7 @@
             "icon_src": "plh_images/icons/star.svg",
             "count": "@fields.weekly_parent_point_treat_yourself"
           },
-          "_nested_name": "display_group.treat_yourself",
+          "_nested_name": "display_group_4.treat_yourself",
           "_dynamicFields": {
             "value": [
               {
@@ -137,7 +137,7 @@
             "icon_src": "plh_images/icons/star.svg",
             "count": "@fields.weekly_parent_point_praise_yourself"
           },
-          "_nested_name": "display_group.praise_yourself",
+          "_nested_name": "display_group_4.praise_yourself",
           "_dynamicFields": {
             "value": [
               {
@@ -189,7 +189,7 @@
             "icon_src": "plh_images/icons/star.svg",
             "count": "@fields.weekly_parent_point_spend_time"
           },
-          "_nested_name": "display_group.spend_time",
+          "_nested_name": "display_group_4.spend_time",
           "_dynamicFields": {
             "value": [
               {
@@ -241,7 +241,7 @@
             "icon_src": "plh_images/icons/star.svg",
             "count": "@fields.weekly_parent_point_praise_teen"
           },
-          "_nested_name": "display_group.praise_teen",
+          "_nested_name": "display_group_4.praise_teen",
           "_dynamicFields": {
             "value": [
               {
@@ -293,7 +293,7 @@
             "icon_src": "plh_images/icons/star.svg",
             "count": "@fields.weekly_parent_point_instruct_positively"
           },
-          "_nested_name": "display_group.instruct_positively",
+          "_nested_name": "display_group_4.instruct_positively",
           "_dynamicFields": {
             "value": [
               {
@@ -345,7 +345,7 @@
             "icon_src": "plh_images/icons/star.svg",
             "count": "@fields.weekly_parent_point_breathe"
           },
-          "_nested_name": "display_group.breathe",
+          "_nested_name": "display_group_4.breathe",
           "_dynamicFields": {
             "value": [
               {
@@ -397,7 +397,7 @@
             "icon_src": "plh_images/icons/star.svg",
             "count": "@fields.weekly_parent_point_money"
           },
-          "_nested_name": "display_group.money",
+          "_nested_name": "display_group_4.money",
           "_dynamicFields": {
             "value": [
               {
@@ -449,7 +449,7 @@
             "icon_src": "plh_images/icons/star.svg",
             "count": "@fields.weekly_parent_point_consequence"
           },
-          "_nested_name": "display_group.consequence",
+          "_nested_name": "display_group_4.consequence",
           "_dynamicFields": {
             "value": [
               {
@@ -501,7 +501,7 @@
             "icon_src": "plh_images/icons/star.svg",
             "count": "@fields.weekly_parent_point_safe"
           },
-          "_nested_name": "display_group.safe",
+          "_nested_name": "display_group_4.safe",
           "_dynamicFields": {
             "value": [
               {
@@ -541,8 +541,8 @@
           }
         }
       ],
-      "name": "display_group",
-      "_nested_name": "display_group"
+      "name": "display_group_4",
+      "_nested_name": "display_group_4"
     },
     {
       "type": "text",
