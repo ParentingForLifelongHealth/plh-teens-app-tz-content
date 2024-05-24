@@ -32,16 +32,9 @@ config.web.favicon_asset = "global/web/favicon.png";
 config.api.db_name = "plh_teens_tz";
 config.app_data.output_path = "./app_data";
 
-config.firebase = {
-  config: loadEncryptedConfig('firebase.json'),
-  auth:{enabled:true},
-  crashlytics:{enabled:true}
-}
-
 // Override constants
 config.app_config!.APP_LANGUAGES!.default = "tz_sw";
 config.app_config!.APP_SIDEMENU_DEFAULTS!.title = "ParentApp (TZ)";
-config.app_config!.APP_AUTHENTICATION_DEFAULTS!.enforceLogin = true;
 config.error_logging = { dsn: "https://1bfed3b77f4e4a0f9b55b510915c7f1c@app.glitchtip.com/2233" };
 
 export default config;
