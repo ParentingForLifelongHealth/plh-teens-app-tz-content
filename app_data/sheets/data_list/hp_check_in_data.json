@@ -21,7 +21,9 @@
         "reply_happy": {
           "tz_sw": true
         },
-        "reply_ok": {},
+        "reply_ok": {
+          "tz_sw": true
+        },
         "reply_sad": {
           "tz_sw": true
         },
@@ -101,11 +103,15 @@
         "text_goal": {
           "tz_sw": true
         },
-        "reply_no": {},
+        "reply_no": {
+          "tz_sw": true
+        },
         "reply_happy": {
           "tz_sw": true
         },
-        "reply_ok": {},
+        "reply_ok": {
+          "tz_sw": true
+        },
         "reply_sad": {
           "tz_sw": true
         },
@@ -436,7 +442,9 @@
         "text_goal": {
           "tz_sw": true
         },
-        "reply_happy": {},
+        "reply_happy": {
+          "tz_sw": true
+        },
         "reply_ok": {
           "tz_sw": true
         },
