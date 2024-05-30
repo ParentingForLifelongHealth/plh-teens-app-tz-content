@@ -95,7 +95,7 @@
         },
         {
           "name": "button_1_text",
-          "value": "@data.workshop.w_1on1.tools",
+          "value": "@data.tools.w_1on1.title",
           "_translations": {
             "value": {}
           },
@@ -104,15 +104,15 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@data.workshop.w_1on1.tools",
-                "matchedExpression": "@data.workshop.w_1on1.tools",
+                "fullExpression": "@data.tools.w_1on1.title",
+                "matchedExpression": "@data.tools.w_1on1.title",
                 "type": "data",
-                "fieldName": "workshop"
+                "fieldName": "tools"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@data.workshop.w_1on1.tools": [
+            "@data.tools.w_1on1.title": [
               "value"
             ]
           }
