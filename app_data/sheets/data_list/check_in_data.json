@@ -239,7 +239,9 @@
         "reply_ok": {
           "tz_sw": true
         },
-        "reply_sad": {},
+        "reply_sad": {
+          "tz_sw": true
+        },
         "activity_title": {
           "tz_sw": true
         },
@@ -579,7 +581,9 @@
         "reply_ok": {
           "tz_sw": true
         },
-        "reply_sad": {},
+        "reply_sad": {
+          "tz_sw": true
+        },
         "activity_title": {
           "tz_sw": true
         },

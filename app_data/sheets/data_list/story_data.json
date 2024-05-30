@@ -292,7 +292,9 @@
         "intro_text": {
           "tz_sw": true
         },
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
@@ -500,7 +502,9 @@
         "text_2": {
           "tz_sw": true
         },
-        "text_3": {},
+        "text_3": {
+          "tz_sw": true
+        },
         "text_4": {
           "tz_sw": true
         },
@@ -1049,7 +1053,9 @@
         "text_2": {
           "tz_sw": true
         },
-        "text_3": {}
+        "text_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1160,7 +1166,9 @@
         "intro_text": {
           "tz_sw": true
         },
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },

@@ -50,7 +50,9 @@
           "name": "dashed_box_2",
           "value": "This is too far in the future and too harsh as well!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "parameter_list": {
             "icon_src": "plh_images/icons/cross_circle.svg",
