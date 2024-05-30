@@ -558,6 +558,1266 @@
     "note": ""
   },
   {
+    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 2 to 9 years of age. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
+    "text": "@global.app_name ni programu iliyoundwa na IDEMS na Parenting for Lifeling Health kusaidia wazazi na walezi wenye watoto wa umri wa miaka 2 mpaka 9. Maudhui ya humu yanapatikana chini ya leseni huria ya Creative Common International 4.0. Yaliundwa kuwa kushirikiana na washirika muhimu:",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Take a moment to check in with yourself.",
+    "text": "Chukua muda kujiangalia wewe mwenyewe.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Wonderful, I am so happy things are going well.",
+    "text": "Ni jambo la kuvutia sana, ninafurahi sana mambo yanaenda vizuri.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Great! So good to hear you are in a positive space.",
+    "text": "Hongera! ni vizuri sana kusikia uko katika nafasi nzuri",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Things are not always easy. But that is how we can grow and learn every day!",
+    "text": "Mambo si rahisi kila wakati. Lakini hivyo ndivyo tunavyoweza kukua na kujifunza kila siku!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!",
+    "text": "Maisha yanaweza kuwa magumu. Vyovyote unavyohisi, unaweza kujivunia kuwa hapa!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "You matter! Take a moment to check in with yourself.",
+    "text": "Wewe ni wa muhimu! Chukua muda kujiangalia wewe mwenyewe.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Great to hear that you are doing well. You are a wonderful parent!",
+    "text": "Inafurahisha sana kusikia kuwa unaendelea vizuri. Wewe ni mzazi mzuri sana!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry that you are not having the best day. Well done for trying to figure everything out. Nobody has all the answers but you really do your best!",
+    "text": "Pole kwa sababu leo siyo siku nzuri sana kwako. Hongera kwa kujaribu kuelewa kila kitu. Hakuna ajuaye kila kitu, lakini kwa kweli unajitahidi kwa kadri uwezavyo!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!",
+    "text": "Tunasikitika kusikia kwamba leo siyo siku nzuri kwako. Hongera kwa kuamka kila asubuhi na kujaribu tena, hata unapokuwa umechoka. Huo ni ujasiri wa kweli na kujitoa kwa dhati! ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Recognising how you feel helps you care for yourself well. You deserve it.",
+    "text": "Kutambua jinsi unavyohisi husaidia kujijali vizuri. Unastahili.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Wonderful, I am so happy! Keep up the good work.",
+    "text": "Vizuri, nimefurahi sana! Endeleza kazi hiyo nzuri.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!",
+    "text": "Pole kwa mambo kuwa magumu. Familia zote zinapambana. @global.app_name iko hapa kukusaidia!",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!",
+    "text": "Jambo lolote lililoenda 'vibaya' leo, hebu lisahau na ujaribu tena kesho. Itakuwa sawa!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Looking after yourself matters. And how you feel matters too!",
+    "text": "Kujitunza ni muhimu. Na jinsi unavyohisi ni muhimu pia!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone.",
+    "text": "Wakati mwingine mambo huenda vizuri sana. Wakati mwingine hayaendi vizuri sana. Na wakati mwingine hatujui kabisa cha kufanya... na hii ni sawa kabisa! Kumbuka kwamba hauko peke yako.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way.",
+    "text": "Samahani kwamba mambo ni magumu kwa sasa. Unastahili mambo mazuri, na @global.app_name iko hapa kukusaidia kila hatua unayopiga.",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Caring for yourself is so essential. When you know how you feel, you can see what you need.",
+    "text": "Kujijali ni muhimu sana. Unapojua jinsi unavyohisi, unaweza kuona kile unachohitaji.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Wonderful, I am so happy things are going well. Keep up the good work.",
+    "text": "Ni jambo la kuvutia sana, ninafurahi sana mambo kuona yanaenda vizuri. Endeleza kazi hii nzuri.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "We all have better and worse days. The fact that you are here shows courage and commitment!",
+    "text": "Sisi sote tuna siku nzuri na mbaya zaidi. Ukweli ni kwamba uko hapa unaonyesha ujasiri na kujitolea!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Remember that YOU matter! Let’s check in with our emotions first.",
+    "text": "Kumbuka kwamba wewe ni muhimu! Hebu tuangalie hisia zetu kwanza.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!",
+    "text": "Hongera kwa kutambua hisia chanya. Nimefurahi kusikia kwamba unajisikia vizuri leo!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for recognising that you are not feeling great. Be kind to yourself, you deserve it.",
+    "text": "Umefanya vizuri kwa kutambua kuwa hujisikii vizuri. Unastahili kuwa mwema kwako mwenyewe.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you.",
+    "text": "Umefanya vizuri kutambua hisia ngumu. Ni sawa kutokuwa sawa wakati mwingine. Kumbuka @global.app_name iko hapa kukusaidia.",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Self-care is a key parenting tool. It starts with recognising how we feel.",
+    "text": "Kujithamini ni muhimu kwa malezi. Inaanza na kutambua jinsi tunavyohisi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Great. And amazing that you are using this app – it shows your commitment as a parent. Make sure you give yourself credit and praise for what you are doing.",
+    "text": "Safi sana. Na inapendeza sana kuona unatumia programu hii – inaonyesha jinsi unavyojitoa kwa dhati kama mzazi. Hakikisha unajitambua na kujisifia kwa kile unachokifanya.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Every day has its highs and lows. Praise yourself for being here and trying – you are moving forward.",
+    "text": "Kila siku kuna kupanda na kushuka. Jisifie kwa kuwa hapa na kujaribu – unasonga mbele.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry that things are difficult right now. Take a deep breath and know that you are valued.",
+    "text": "Tunasikitika kuona kuwa mambo ni magumu sasa hivi. Vuta pumzi ndefu na ujue kuwa unathaminiwa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Recognising how you feel is key to handling life well. Be real and kind to yourself.",
+    "text": "Kutambua jinsi unavyohisi ni muhimu ili kushughulikia maisha vizuri. Kuwa halisi na mkarimu kwako mwenyewe.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "You are a star. And you are making a real difference. You can be proud of yourself.",
+    "text": "Wewe ni shujaa. Na unaleta mabadiliko ya kweli. Unaweza kujivunia mwenyewe.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Everyone has good and bad days. Well done for using this app. It shows you are a committed parent. Remember to praise yourself for it!",
+    "text": "Kila mtu ana siku nzuri na mbaya. Umefanya vizuri kutumia programu hii. Inaonyesha wewe ni mzazi unayejituma. Kumbuka kujipongeza kwa hilo!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry that things are not easy today. All parents have these days. You are trying and moving forward!",
+    "text": "Pole kama mambo si rahisi leo. Wazazi wote wana siku kama hizi. Unajaribu na kusonga mbele!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel.",
+    "text": "Kuwa mzazi mahiri pia humaanisha kupata wakati wa kujitunza kila siku. Inaanza na kutambua jinsi unavyohisi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "So good to hear you are feeling well today. You are incredible!",
+    "text": "Tunafurahi sana kusikia kuwa unajisikia vizuri leo. Unastaajabisha!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "We all have days where we just don’t know. That is okay! You are here and that is what matters.",
+    "text": "Sisi sote tuna siku ambazo hatuzielewi. Hiyo ni sawa! Uko hapa na hicho ndicho cha muhimu.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!",
+    "text": "Kuwa mzazi inaweza kuwa ngumu. Lakini uko hapa na hiyo inaonyesha kuwa unataka kuendelea kuboresha mambo. Hayo ni mafanikio makubwa tayari!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Taking a moment for YOU makes a big difference for everyone!",
+    "text": "Kuchukua muda kwa ajili yako mwenyewe huleta mabadiliko makubwa kwa kila mtu!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it.",
+    "text": "Ni jambo zuri sana kwamba leo inaenda vizuri! Je, ni jambo gani moja ambalo limeenda vizuri leo? Kumbuka kujisifia kwa hilo.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing.",
+    "text": "Kila siku ina nyakati zake nzuri na ngumu. Jisifu kwa kila kitu ambacho umefanya hadi sasa – wewe unastaajabisha.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family.",
+    "text": "Tunasikitika kusikia kuwa leo unajisikia vibaya. Hongera kwa kutambua hisia hizo, na kujaribu kuwa mtulivu na kuwa mwema kwako mwenyewe. Unaweka mfano mzuri kwa familia yako.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Looking after yourself well starts with noticing how you feel.",
+    "text": "Kujithamini huanza kwa kutambua namna unavyojisikia.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Fantastic! And well done for investing in yourself and your family – you have accomplished a lot.",
+    "text": "Hongera! umefanya vizuri kuwekeza kwako na familia yako – umefanikisha mengi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry that you are not having the best day. Well done for trying to figure everything out. @global.app_name is here to help.",
+    "text": "Pole kwa kutokuwa na siku nzuri zaidi. Umefanya vizuri kwa kujaribu kubaini kila kitu. @global.app_name iko hapa kukusaidia.",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Being a parent can be challenging. Take a deep breath and recognise all you have done for your family – you deserve praise!",
+    "text": "Kuwa mzazi kunaweza kuwa changamoto. Vuta pumzi na tambua yote uliyoifanyia familia yako – unastahili kusifiwa!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Take a moment for yourself first.",
+    "text": "Chukua muda kwa ajili yako mwenyewe kwanza.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "It is great to hear you are feeling positive today. You make a real difference for your family!",
+    "text": "Inafurahisha kusikia unajisikia vizuri leo. Unafanya mabadiliko ya kweli kwa familia yako!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Life has its great and hard moments – that is okay. You are on the right track.",
+    "text": "Maisha yana nyakati ngumu na nzuri - hiyo ni sawa. Uko kwenye njia sahihi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "It is normal to have hard days as a parent. Take a deep breath and know you are not alone!",
+    "text": "Ni kawaida kuwa na siku ngumu kama mzazi. Vuta pumzi ndefu na ujue hauko peke yako!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Take a moment to notice how you are doing.",
+    "text": "Chukua muda kuona jinsi unavyojisikia.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
+    "text": "Safi sana! Tunafurahi sana kusikia kwamba hali yako ni nzuri leo. Furaha iliyoje!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Some days will have their challenges. That is okay. You are on the right path!",
+    "text": "Baadhi ya siku zingine zitakuwa na changamoto zake. Hiyo ni sawa. Uko kwenye njia sahihi!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+    "text": "Tunasikitika kuona kuwa mambo ni magumu sasa. Wakati mwingine ni jambo la kawaida kabisa kupata misukosuko. Kumbuka kwamba hauko peke yako!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There is no right or wrong way to feel. However you are feeling, it is okay.",
+    "text": "Hakuna njia sahihi au mbaya ya kuhisi. Kwa namna yeyote unayojisikia, ni sawa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done for recognising how you feel. Good to hear that you are feeling well today!",
+    "text": "Hongera kwa kutambua unavyojisikia. Nimefurahi kusikia kwamba unajisikia vizuri leo!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "We all have good and hard days. Remember, you are the best parent for your teen and you deserve praise!",
+    "text": "Sisi sote tuna siku nzuri na siku ngumu. Kumbuka, wewe ni mzazi bora kwa kijana wako na unastahili pongezi!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "It can be hard to cope with everything happening in our lives. Remember, you are stronger than you may think!",
+    "text": "Inaweza kuwa vigumu kukabiliana na kila kitu kinachotokea katika maisha yetu. Kumbuka, una nguvu kuliko unavyoweza kufikiria!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
+    "text": "Hebu tuchukue muda kwa ajili YAKO. Kujitunza vizuri huanza na kugundua jinsi unavyohisi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Amazing, life is the best when you're feeling good.",
+    "text": "Ni vyema, maisha ni bora wakati unajisikia vizuri.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you feel better soon.",
+    "text": "Kila mtu ana wakati ambapo hajisikii vizuri. Hii ni kawaida kabisa. Natumaini kwamba utajisikia vizuri punde.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!",
+    "text": "Ni sehemu ya maisha kuwa na siku mbaya. Kumbuka kila wakati, nyakati ngumu kamwe hazidumu na kesho ni siku nyingine!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How are you feeling today?",
+    "text": "Unajisikiaje leo?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This week, we are focusing on the topic of **CONNECTION**.\n\nConnecting with your child and spending quality time together makes a big difference to their development.",
+    "text": "Wiki hii, tutajikita juu ya mada ya **MUUNGANIKO (UKARIBU)**.\n\nKuungana na mtoto wako na kuwa na muda pamoja naye, kunaleta utofauti mkubwa kwenye maendeleo/ukuaji wao.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**CONNECTING** with our children is not always easy!",
+    "text": "**Kuweka ukaribu** na watoto wetu sio rahisi kila wakati!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Listen to the audio to learn more.",
+    "text": "Sikiliza sauti na ujifunze zaidi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "As caregivers, we all spend time doing things with our children, but giving them our full attention is not always easy. We all face distractions and challenges that make it difficult to spend quality time with our children. When we feel stressed or when our children are being difficult, it can be even harder to find the time and energy to connect with them.",
+    "text": "Kama walezi, sisi sote tunachukua muda kufanya mambo pamoja na watoto wetu, lakini kuwapa uangalifu wetu kamili si rahisi nyakati zote. Sote tunakabiliana na usumbufu na changamoto zinazofanya iwe vigumu kutumia vizuri na watoto wetu. Tunapohisi mfadhaiko au wakati watoto wetu wanakuwa wagumu, inaweza kuwa vigumu hata zaidi kupata wakati na nguvu za kuungana nao.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Have you experienced this?",
+    "text": "Je hii imeshawahi kukutokea?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Yes",
+    "text": "Ndiyo",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Many people feel this way. We have some easy activities that could help.",
+    "text": "Watu wengi hujisikia hivi, kuna vitu rahisi vya kufanya ambavyo vinaweza kusaidia.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "No",
+    "text": "Hapana",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "It’s great that you make time to connect with your child. We have some extra ideas you might like.",
+    "text": "Ni vizuri kwamba unatenga mud awa kuwa karibu na mtoto wako. Tuna Mawazo ya ziada ambayo unaweza kuyapenda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to **CONNECT**?\n\nJoin your child in their world!",
+    "text": "Ni kwa jinsi gani unakuwa karibu?\n\nJiunge na mtoto wako katika dunia yake!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Joining your child in their world means giving them your full attention, and letting them lead. You don’t need a lot of time - even 10 minutes a day can make a big difference.\n\nHere’s how to connect with your child: Make time to spend with your child one-on-one.\n\nTry to minimise distractions and interruptions.\n\nJoin your child in their world by getting down on their level. Sit close to them to make it a shared experience.\n\nLet your child decide what to play and how to play. Don’t try to change what they are doing or instruct them. Instead, follow their lead.\n\nDuring the activity, observe and listen. Pay attention to what your child is doing or saying. Be curious about what they might be thinking and feeling.\n\nRespond to what your child is doing with enthusiasm and praise. You could say: I see you are enjoying playing with these blocks. Wow! You are building such a tall and strong wall!\n\nJoining your child in their world and giving them your full attention helps them feel close and connected to you. This helps you build a strong relationship with your child. A strong relationship with you will help them to have healthy relationships with others in the future.",
+    "text": "Kuungana na mtoto wako kwenye dunia yake ni kumuangalia kwa umakini mkubwa na kuwaacha waongoze. Huhitaji muda mwingi - hata dakika kumi tu kwa siku inaleta utofauti. \n\nHivi ni namna unaweza kuungana na mtoto wako: Tenga muda wa kuwa pamoja na mtoto wa pamoja na mtoto wako.\n\nJaribu kupunguza usumbufu na mwingiliano.\n\nJiunge na mtoto wako kwenye dunia yao kwa kujishusha kwenye viwango vyao. Kaa karibu nao ili kufanya mazingira ya kushirikishana uzoefu yawe shirikishi.\n\nAcha mtoto wako aamue nini cha kucheza na jinsi ya kucheza, usijaribu kubadilisha wanachokifanya au kuwaelekeza badala yake fuata muongozo wao.\n\nWakati mchezo unaendelea, angalia kwa umakini na usikilize. Kuwa makini kwa anachokifanya mtoto au anachokisema. Uwe na hamu ya kujua wanachokifikiria na kuhisi.\n\nKwa shauku itikia kile mtoto wako anafanya na msifie. Unaweza kusema. Naona unafurahia kuchezea matofali haya. Wow! Unajenga ukuta mrefu na imara.\n\nKwa kuungana na mtoto wako kwenye dunia yao na kuwa makini nao sana, kunasaidia wajisikie wapo pamoja na wewe. Hii inakusaidia kujenga uhusiano imara na mtoto wako. Kuwa na uhusiano imara na wewe kutawasaidia wawe na uhusiano mzuri na watu wengine hapo baadae.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s see what happens when we don’t let our child take the lead:",
+    "text": "Acha tuone nini kinatokea tusipoacha watoto wetu watuongoze:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s play with the blocks together.",
+    "text": "Ngoja tuchezee matofali pamoja.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Who can build a taller tower?",
+    "text": "Nani anaweza kujenga jengo refu?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "No, you are doing it wrong. Use the big blocks for the bottom and the small blocks for the top.",
+    "text": "Hapana, unakosea. Tumia tofali kubwa chini na matofari madogo juu.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Where are you going? Why don’t you want to play together?",
+    "text": "Unaenda wapi? Kwanini hutaki tucheze pamoja?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s reflect:",
+    "text": "Hembu tutafakari:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Who is leading the activity?",
+    "text": "Nani anaongoza mchezo?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Yes, the mother is choosing what to play and how to play, instead of letting her child take the lead.",
+    "text": "Ndio, ni mama anachagua nini cha kucheza na jinsi ya kucheza. Badala ya kumuacha mtoto aongoze.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Looking at the story, we can see that the mother is actually the one who is choosing what to play and how to play.",
+    "text": "Kwa kuangalia hadithi, tunaona kwamba mama ndiye hasa anachagua nini cha kucheza na jinsi ya kucheza.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How does the child feel when her mother says she is doing it wrong?",
+    "text": "Mtoto anajisikiaje pale mama yake anaposema amekosea?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "She feels unhappy and deflated. She might not want to play together again.",
+    "text": "Anajisikia kutokuwa na furaha na kuvunjwa moyo. Inawezekana hatataka kucheza tena pamoja.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Looking at the story, we can see from the child’s face that she feels unhappy, and then walks away.",
+    "text": "Kwa kuangalia hadithi, tunaweza kuona katika uso wa mtoto hana furaha, na anaondoka.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What could the mother have done differently?",
+    "text": "Mama angeweza kufanya nini cha tofauti?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Good question! She could have let her child lead and used praise instead of criticism.",
+    "text": "Swali zuri! Angeweza kuacha mtoto aongoze na angemsifia badala ya kumkosoa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Listen to learn more.",
+    "text": "Sikiliza kwa ajili ya kujifunza zaidi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Why did the child feel discouraged and why did she walk away? \nBecause the mother was being critical and tried to change what her child was doing. \n\nConnecting with our children is not about telling them how they should be playing or what they are doing wrong. By following your child’s lead, showing that you are paying attention and responding with praise, you make your child feel important and connected to you. This builds their confidence and sets them up for success.",
+    "text": "Kwa nini mtoto alihisi kukatishwa tamaa na kwa nini aliondoka?\nKwa sababu mama alikuwa akichambua na kujaribu kubadilisha kile ambacho mtoto wake alikuwa akifanya.\n\nKuungana na watoto wetu sio kuwaambia jinsi wanapaswa kucheza au kile wanachofanya vibaya. Kwa kufuata mwongozo wa mtoto wako, kuonyesha kwamba unasikiliza na kujibu kwa sifia unamfanya mtoto wako ajisikie muhimu na ameunganishwa na wewe. Hii inawajengea kujiamini na kuwaweka kwenye mafanikio.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Looking for a quick and powerful connection activity? \nA great way to connect with your child is to look at a book together.",
+    "text": "Unatafuta njia ya haraka na yenye nguvu ya kuleta ukaribu?\nNjia nzuri ya kuwa na mtoto wako ni kutazama kitabu kwa pamoja.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Here’s how to connect during book activities:\nAs you go through the book, notice and respond to what your child is interested in.",
+    "text": "Hivi ni namna ya kuwa pamoja wakati wa zoezi la kusoma kitabu:\nUkiwa unapitia kitabu, tambua na ujibu kile mtoto wako anavutiwa nacho.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Listen for an example.",
+    "text": "Sikiliza kwa mfano.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "As you go through the book, notice what your child is interested in and talk about it. So, if your child is looking at the picture of the sandwich, you could say: “Look, he is eating some bread. What do you think is on the bread? What do you like to eat on your bread?”",
+    "text": "Unapopitia kitabu, ona kile mtoto wako anachopenda na uzungumze hicho. Kwa hiyo, ikiwa mtoto wako anatazama picha ya mkate, unaweza kusema: “Tazama, anakula mkate. Unafikiri ni nini kwenye mkate? Unapenda kula nini kwenye mkate wako?\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Let your child set the pace. They might want to spend a long time talking about one page or move on quickly to the next page. Follow their lead.",
+    "text": "Acha mtoto awe na kasi, wanaweza kutumia muda mrefu kwenye ukurasa mmoja au Kwenda ukurasa unaofuata kwa haraka. Fuata muongozo wao.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Always try to respond to what your child is saying in a positive and enthusiastic way.",
+    "text": "Daima jaribu kumuitikia mtoto wako katika mtazamo chanya na kwa shauku kwa kile anachokisema.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Positive responses? What’s that?",
+    "text": "Mwitikio Chanya ni nini?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Instead of saying “no!” or “that’s wrong!”, use praise and positive responses to encourage your child to keep learning.\nIf your child says something that’s wrong (like pointing to an apple and calling it a tomato) you don’t need to say “how can you think that?!” or “that’s wrong!”. \nInstead, you can ignore the mistake and respond with the correct name, saying: \n“That’s an apple. It’s red and round like a tomato, but it’s an apple”. Your child will learn more if they don’t feel criticised or discouraged.",
+    "text": "Badala ya kusema \"hapana!\" au \"hiyo ni makosa!\", Tumia sifa na majibu mazuri ili kumtia moyo mtoto wako kuendelea kujifunza.\nMtoto wako akisema jambo ambalo si sawa (kama vile kunyooshea kidole tofaa au apple na kuliita nyanya) huhitaji kusema \"unawezaje kufikiria hivyo?!\" au \"hiyo ni makosa!\".\nBadala yake, unaweza kupuuza kosa na kujibu kwa jina sahihi, ukisema:\n“Hilo ni tofaa. Ni nyekundu na mviringo kama nyanya, lakini ni tofaha”. Mtoto wako atajifunza zaidi ikiwa hatahisi kukosolewa au kukatishwa tamaa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Here’s how to **CONNECT** with your child using a quick and easy daily activity:",
+    "text": "Hivi ndivyo unaweza **KUUNGANA** na mtoto wako kwa kutumia shughuli za kila siku za haraka na rahisi:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**MINIMISE DISTRACTIONS**",
+    "text": "**PUNGUZA USUMBUFU**",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This helps you to give your full attention to your child.",
+    "text": "Hii inakusaidia kutoa umakini wako kamili kwa mtoto wako.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Giving your child your full attention helps your child to feel connected to you.",
+    "text": "Kuwa makini zaidi na mtoto wako kunamfanya ajisikie kuwa pamoja na wewe.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**FOLLOW YOUR CHILD’S LEAD**",
+    "text": "**FUATA MWONGOZO WA MTOTO WAKO**",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Don’t try to change or control what your child is doing.",
+    "text": "Usijaribu kubadili au kutawala anachofanya mtoto wako.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This helps your child feel important and in control.",
+    "text": "Hii itamsaidia mtoto wako kujisikia muhimu na mwenye mamlaka.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**OBSERVE AND LISTEN**",
+    "text": "**TAZAMA NA SIKILIZA**",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Pay attention to what your child is doing. Be curious about what they might be thinking and feeling. Talk about that.",
+    "text": "Kuwa makini na kile mtoto wako anafanya. Kuwa na hamu ya kujua ambacho wanaweza kufikiri na kujisikia. Zungumza kuhusu hilo.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "More info",
+    "text": "Taarifa zaidi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This shows your child you are interested and helps your child feel connected to you.",
+    "text": "Hii inamuonyesha mtoto wako unavutiwa na inamsaidia kujiskia kuwa yuko pamoja na wewe.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Want to try this at home?\n\n We have lots of books you can share with your child to **CONNECT**.",
+    "text": "Unataka kujaribu hii ukiwa nyumbani?\n\nTuna vitabu vingi unaweza kushirikishana na mtoto wako ili **KUJIWEKA KARIBU NAE**.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "As you go through the book, remember to:\n\n1. Give your child your full attention\n2. Let your child lead the activity\n3. Talk about what interests them\n4. Respond with praise and encouragement",
+    "text": "Kadiri mnavyosoma kitabu, kumbuka:\n\n1. Kuwa makini sana na mtoto wako\n2. Acha mtoto wako aongoze \n3. Zungumza kuhusu yale yanayowavutia\n4. Itikia kwa kumsifia na kumtia moyo",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Watch this video to see how.",
+    "text": "Tazama video hii ili kujua namna ya kufanya.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Learn",
+    "text": "Jifunze",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Review",
+    "text": "Pitia",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Home Activity",
+    "text": "Zoezi la nyumbani",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Picture Books",
+    "text": "Vitabu vya Picha",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Relaxation Activities",
+    "text": "Shughuli za kupumzika",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Test Module",
+    "text": "Kipindi cha majaribio",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This is a sample module for debugging.",
+    "text": "Hichi ni kipindi kwa ajili ya majaribio.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Introduction",
+    "text": "Utangulizi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There are so many pressures of daily life. Parenting is indeed a juggling act. But it's always important to take a pause and connect. Connect with your child and connect with yourself.",
+    "text": "Kuna shinikizo nyingi za maisha ya kila siku. Malezi kwa hakika ni kazi inayochanganya. Lakini daima ni muhimu kuchukua pumziko na kuwa karibu. Ungana na mtoto wako na ujiunge na wewe mwenyewe.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Play",
+    "text": "Cheza",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Talk",
+    "text": "Ongea",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Explore",
+    "text": "Chunguza",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Create",
+    "text": "Tengeneza",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Build",
+    "text": "Jenga",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Summary",
+    "text": "Muhutasari",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Partners",
+    "text": "Washirika",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Donors",
+    "text": "Wafadhili",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Quick pause",
+    "text": "Simama haraka",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sit down, close your eyes and listen to your breath as it goes in and out. \n\nNotice how you feel. \n\nWhen you are ready, open your eyes again.\n\nTry this whenever you are feeling stressed and you need a break to reconnect.",
+    "text": "Kaa chini, fumba macho yako na sikiliza pumzi yako inapoingia na kutoka,\n\nChunguza jinsi unavyohisi.\n\nUnapokuwa tayari, fungua macho yako tena.\n\nJaribu hili wakati wowote unapohisi mfadhaiko na unahitaji mapumziko ili kuwa sawa tena.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Power of three",
+    "text": "Nguvu ya tatu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Close your eyes.\n\nLet's use the magic power of three to stay present and relax.\n\nName three sounds you can hear right now.\nName three smells you can smell right now.\nName your three favourite foods.\n\nWhat are three things you can be grateful for right now? They do not have to be big.\n\nAt the end of a tough day, thinking of three things to be grateful for can help us find the courage to try again tomorrow.",
+    "text": "Fumba macho yako.\n\nHebu tutumie maajabu ya namba tatu ili tuendelee kuwepo na kupumzika.\n\nTaja sauti tatu unazoweza kuzisikia sasa hivi.\nTaja harufu tatu unazoweza kuzinusa sasa hivi.\nTaja vyakula vitatu unavyovipenda.\n\nJe, ni mambo gani matatu unayoshukuru kuwa yapo sasa hivi? Si lazima yawe makubwa.\n\nMwishoni mwa siku ngumu, kufikiria mambo matatu ya kushukuru kunaweza kutusaidia kupata ujasiri wa kujaribu tena kesho.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "One thing today",
+    "text": "Jambo moja leo",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love. \n\nWell done, you are a hero!",
+    "text": "Funga macho yako na ufikirie juu ya siku.\n\nTaja jambo moja ambalo unashukuru.\nTaja jambo moja ambalo ulifanya vizuri.\nTaja kitu kimoja unachokipenda.\n\nUmefanya vizuri, wewe ni shujaa!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Breathe to three",
+    "text": "Vuta pumzi mara tatu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
+    "text": "Fumba macho yako.\n\nTumia maajabu ya namba tatu ili uendelee kuhusiana na kupumzika.\n\nVuta pumzi kwa kuhesabu mara tatu. 1, 2, 3.\nShusha pumzi kwa kuhesabu mara tatu. 1, 2, 3.\nVuta pumzi kwa kuhesabu mara tatu. 1, 2, 3.\nShusha pumzi kwa kuhesabu mara tatu. 1, 2, 3.\n\nJe, unahisi tofauti yoyote? Kupumua kwa kina husaidia mwili na akili zetu zote kutulia.\n\nWewe ni shujaa!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "In and out",
+    "text": "Ndani na nje",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
+    "text": "Funga macho yako.\n\nSikiliza pumzi yako inapoingia na kutoka mara tano.\n\nAngalia jinsi unavyohisi.\n\nUnapokuwa tayari, fungua macho yako tena. Unautulivu!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Think about today",
+    "text": "Fikiria kuhusu leo",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
+    "text": "Fumba macho yako. \n\nTumia dakika moja kufikiria siku ya leo.\n\nFikiria jambo moja chanya au la kufurahisha ulilolifanya.\nJisifie kwa jambo moja ulilolifanya vizuri leo. \nFikiria jambo moja unaloweza kulifanya tofauti kesho.  \n\nFikiria jambo moja unalolishukuru.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Pause to respond",
+    "text": "Simamisha ili ujibu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Close your eyes. \n\nDo your children ever make you feel like screaming? \n\nGive yourself a 10-second pause. Breathe in and out slowly 5 times. \n\nThen try responding in a calmer way.\n\nMillions of parents say this helps – A LOT.",
+    "text": "Fumba macho yako.\n\nJe, watoto wako huwa wanakufanya utake kufoka?\n\nJipumzishe kwa sekunde 10. Vuta pumzi ndani na nje taratibu kwa mara 5.\n\nKisha jaribu kujibu kwa utulivu zaidi.\n\nMamilioni ya wazazi wanasema hii inasaidia - SANA.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Small things",
+    "text": "Vitu vidogo",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!",
+    "text": "Fumba macho yako.\n\nAcha kwa muda kile unachokifanya ili uhusiane na pumzi yako.\n\nJe, ni jambo gani moja unalolishukuru sasa hivi?\nJe, ni jambo gani moja linalokuletea furaha?\nJe, ni jambo gani moja unalolipenda?\n\nSi lazima yawe makubwa. Wakati mwingine mambo madogo maishani ndiyo muhimu zaidi!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Body scan",
+    "text": "Uchunguzi wa mwili",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
+    "text": "Hapa kuna shughuli ya kupumzisha mwili wako:\n\nKaa kwa utulivu halafu ufumbe macho yako ukiweza.\nVuta picha kuwa pete ya dhahabu inauchunguza mwili wako kuanzia unyayoni hadi utosini.\nSikiliza kwa makini pindi inapojongea kwenda juu na chini ya mwili wako. Je, kuna maeneo yoyote yaliyokakamaa? Yaliyo na ganzi? Yaliyo na maumivu?\nTulia kwenye maeneo hayo kwa muda. Vutia pumzi kwenye eneo hilo na, unaposhusha pumzi, jaribu kuachilia hali yoyote ya kukakamaa au ya maumivu.\nFanya hivi kwa kuvuta pumzi kadhaa.\n\nFumbua macho yako. Je, mwili wako unahisije sasa?\n\nUnaweza pia kujaribu hii wakati mwingine unapojikuta umelala kitandani huwezi kupata usingizi!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Feel the ground",
+    "text": "Kuhisi ardhi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
+    "text": "Fumba macho yako.\n\nChunguza uhusiano wako na ardhi iliyo chini yako.\nJe, ni sehemu gani za mwili wako zinagusa ardhi? Je, ni sehemu gani za mwili wako hazigusi ardhi?\nChunguza mahali palipo na joto na mahali palipo na baridi.\nGusa ardhi iliyo chini yako inayokubeba. Acha mwili wako uzame na kubebwa na ardhi.\n\nFanya hivi wakati mwingine unapojisikia mpweke au unafanya shughuli ya kawaida kama kunawa. Inaweza kusaidia kweli!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Counting sounds",
+    "text": "Sauti za kuhesabu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sit down and close your eyes.\nHow many sounds can you hear?  \nListen to the sounds inside and outside the room. Count them on your fingers. \nAfter ten seconds, how many fingers do you have up? What sounds did you hear? \n\nTry again for another ten seconds.  \nDid you hear any new sounds? Did you hear any sounds inside your own body? \nNotice how you feel now.",
+    "text": "Kaa chini na ufumbe macho yako.\nJe, unaweza kusikia sauti ngapi?\nSikiliza sauti za ndani na nje ya chumba. Zihesabu kwa vidole vyako.\nBaada ya sekunde kumi, umefikisha vidole vingapi? Ulisikia sauti zipi?\n\nJaribu tena kwa sekunde kumi.\nJe, umesikia sauti zozote mpya? Je, umesikia sauti zozote ndani ya mwili wako mwenyewe?\nChunguza jinsi unavyohisi sasa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Feel your feelings",
+    "text": "Hisi hisia zako",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Close your eyes.\n\nDo you ever feel something so strongly that you want to run away from it?\n\nInstead of moving away from the feeling, let’s move towards it for a moment.\nIt is ok. Close your eyes if you feel comfortable. Take a deep breath.\n\nBecome curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?\nAsk yourself some questions. What is it telling me? What does it need? How can I be kind to myself right now?",
+    "text": "Fumba macho yako.\n\nJe, huwa unahisi kitu kwa nguvu sana kiasi kwamba huwa unataka kukikimbia?\n\nBadala ya kuikimbia hisia hiyo, hebu tuikimbilie kwa muda.\nSi vibaya. Fumba macho yako kama unajisikia vizuri. Vuta pumzi ndefu.\n\nKuwa mdadisi. Je, unaisikia wapi kwenye mwili wako? Je, ni ya moto au baridi? Je, ni ngumu au laini? Je, imekakamaa au imelegea?\nJiulize maswali kadhaa. Je, inaniambia nini? Je, inahitaji nini? Je, ninawezaje kujitendea wema sasa hivi?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your song",
+    "text": "Wimbo wako",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is something fun to help you let go of stress:   \n\nChoose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?   \n\nMake a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together. \n\nEven a few minutes of movement can be enough to release stress and lift your mood!",
+    "text": "Hapa kuna kitu cha kufurahisha cha kukusaidia kuondokana na msongo wa mawazo:\n\nChagua wimbo unaoendana na kile unachohitaji kwa sasa. Je, unahitaji wimbo wa taratibu ili kuibembeleza nafsi yako iliyochoka au unahitaji wimbo wa kuchangamsha ili kukusaidia kuondoa msongo wa mawazo kwa kiasi fulani?\n\nWeka nafasi na uchezeshe mwili wako kulingana na muziki. Kumbuka kuvuta pumzi unapocheza. Fanya pumzi yako iendane na miondoko yako.\n\nHata dakika chache za kucheza  zinaweza kutosha kuondoa msongo wa mawazo na kuinua hali yako!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Ground & gratitude",
+    "text": "Ardhi & shukrani",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out.",
+    "text": "Fumba macho yako.\n\nTumia muda kuhisi ardhi iliyopo chini ya miguu yako.\nFikiria kuhusu jambo unalolishukuru.\nMakinikia upumuaji wako.\nVuta pumzi na kuzishusha.\n\nVuta na kushusha pumzi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Notice how you feel",
+    "text": "Chunguza unavyohisi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
+    "text": "Habari! Unajisikiaje sasa hivi? Furaha, huzuni, hasira, taharuki, wasiwasi?\n\nChunguza mahali unapohisi hali hiyo kwenye mwili wako. Chunguza ni mawazo yapi yanayohusiana na hisia hiyo. Vuta pumzi ndefu.\n\nJishukuru kwa kuchukua muda wa kuangalia hisia na mawazo yako!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Pause power",
+    "text": "Nguvu ya kutulia",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s practice a calming trick that we call ‘Pause Power’.\n\nPlant your feet on the ground and breathe in and out three times as slowly as you can. Imagine you are smelling a flower or blowing out a candle.\n\nTa-da! Pause Power!\n\nThis is a great trick to use when you are feeling frustrated because it will help to calm you down.",
+    "text": "Hebu tufanye mazoezi ya mbinu ya kutulia tunayoiita ‘Kata Umeme’.\n\nWeka miguu yako kwenye ardhi halafu vuta pumzi nje na ndani mara tatu polepole kadri uwezavyo. Fikiria kama unanusa maua au unazima mshumaa.\n\nTa da! Kata Umeme!\n\nHii ni mbinu nzuri ya kutumia unapohisi kuchanganyikiwa kwa sababu itasaidia kukutuliza.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Praise yourself",
+    "text": "Jisifie",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!",
+    "text": "Kujisifia kunaweza kusaidia sana, hasa kwenye siku zinazotuendea vibaya.\n\nFikiria jinsi wiki ilivyokuendea halafu umalizie tungo ifuatayo: \"Wiki hii, ninajivunia kwa…\" Kinaweza kuwa kitu chochote, siyo mambo ya malezi tu!\n\nFikiria jambo moja ulilofanya vizuri leo. Sasa jifumbate kwa mikono yako mwenyewe halafu UJIKUMBATIE kwa nguvu!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Taking care of yourself",
+    "text": "Kujithamini mwenyewe",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your heart in a kind and gentle way. You may want to place one hand on your heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different.",
+    "text": "Kaa vizuri halafu ufumbe macho yako.\n\nTambua kinachokutokea muda huu. Unafikiria nini? Je, mawazo yako ni chanya au hasi? Je, unahisije? Je, unahisi kufurahi au kutofurahi? Je, mwili wako unahisije? Je, unahisi wasiwasi au umetulia?\n\nHusiana na moyo wako kwa wema na upole. Unaweza kuhitaji kuweka mkono mmoja kwenye moyo wako au kifuani. Sema kimoyomoyo maneno yafuatayo:\n\nNinaomba niwe na amani.\nNinaomba niwe salama.\nNinaomba niwe na afya.\nNinaomba niwe na furaha.\nNa upendo uwe kwenye familia yangu.\nNinaomba nihisi kupendwa.\n\nChukua muda kutafakari uzoefu wako. Angalia ikiwa unahisi tofauti yoyote.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Take a pause",
+    "text": "Tulia",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Step 1. Close your eyes and take a deep breath. \n\nStep 2. Ask yourself, \"What am I thinking?\" Notice if your thoughts are positive or negative.\nNotice how you are feeling emotionally. Notice if your emotions are pleasant or unpleasant. Remind yourself that whatever you feel, it is okay.\nNotice how your body feels. Notice anything that hurts or is tense.\n\nStep 3. Focus on your breath. Feel your breath as it goes in and out. You can put a hand on your stomach and feel it rise and fall with each breath. Do this for about 10 breaths.\n\nStep 4. Expand your awareness to your whole body. Listen to the sounds in the room. \n\nStep 5. Take a moment to reflect on whether you feel any different. When you are ready, open your eyes.\n\nWell done for taking a pause. You can do this anytime you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also take a pause with your children!",
+    "text": "Hatua ya Kwanza. Fumba macho yako halafu uvute pumzi ndefu.\n\nHatua ya Pili. Jiulize, \"Je, ninafikiria nini?\" Chunguza kama mawazo yako ni chanya au hasi.\nAngalia jinsi unavyojihisi. Chunguza kama mihemuko yako ni ya kufurahisha au kutofurahisha. Jikumbushe kwamba chochote unachohisi, si kibaya.\nChunguza jinsi mwili wako unavyohisi. Chunguza kitu chochote kinachoumiza au kinacholeta wasiwasi.\n\nHatua ya Tatu. Makinikia upumuaji wako. Hisi pumzi yako inapoingia na kutoka. Unaweza kuweka mkono kwenye tumbo lako na kuhisi linavyopanda na kushuka kwa kila pumzi. Fanya hivyo kwa mipumuo kama 10.\n\nHatua ya Nne. Panua ufahamu wako kuhusu mwili wako wote. Sikiliza sauti zilizomo chumbani.\n\nHatua ya Tano. Tumia muda kutafakari iwapo unahisi mabadiliko au la. Ukimaliza, fumbua macho yako.\n\nUmefanya vizuri kwa kupumzika. Unaweza kufanya hivyo wakati wowote unapohisi msongo wa mawazo. Inakupa nafasi ya kuwa mtulivu. Hata pumzi chache za kina au kuunganishwa na ardhi chini yako kunaweza kuleta mabadiliko. Unaweza pia kuchukua pumziko na watoto wako!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Physical activity",
+    "text": "Shughuli ya kutumia nguvu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stand up and stretch your arms up to the sky. Push away any clouds and let the sun shine down on you. Stretch to both sides. Stretch to the front and to the back.\n\nLet your hands hang by your side. Squeeze your shoulders tightly up to your ears as you breathe in, scrunch your eyes, and hold your breath. Release your shoulders as you relax your body.\n\nRelax your arms and let them swing sideways while you turn your upper body. Your arms should gently hit your back as you twist from side to side.\n\nPlace one foot in front of the other and make small circles from your ankles – remember to turn to both sides. Do each foot with four circles in each direction.\n\nNow shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!\n\nClose your eyes and raise your arms slowly above your head as you breathe in. Lower your arms slowly to your side as you breathe out.\n\nTake a moment to reflect on your experience.\n\nWell done! You can do this activity at any time whenever you feel like you need to release stress and energise your mind and body.",
+    "text": "Simama na unyooshe mikono yako juu angani. Sukuma mawingu yote na uache jua likuangazie. Jinyooshe kwenda kulia na kushoto. Jinyooshe kwenda mbele na nyuma.\n\nAcha mikono yako ining'inie ubavuni mwako. Kaza mabega yako na kuyapandisha hadi kwenye masikio yako huku ukipumua, bana macho yako, na ushikilie pumzi yako. Legeza mabega yako wakati unapolegeza mwili wako.\n\nLegeza mikono yako na uibembeze ubavuni, wakati unabinua upande wa juu wa kiwiliwili chako. Mikono yako inapaswa kupiga polepole mgongo wako unapojigeuza kutoka upande mmoja hadi mwingine.\n\nWeka mguu mmoja mbele ya mwingine na fanya miduara midogo kwa kutumia vifundo vya miguu - kumbuka kugeukia pande zote mbili. Kila mguu ufanye miduara minne kwa kila upande.\n\nSasa tikisa mwili wako wote haraka kadri uwezavyo. Tikisa upande wa juu kabisa! Tikisa upande wa chini kabisa! Tikisa mwili wote!\n\nFumba macho yako na uinue mikono yako polepole kuzidi kichwa chako huku ukivuta pumzi. Teremsha mikono yako polepole kuelekea ubavuni mwako huku ukishusha pumzi.\n\nTumia muda kutafakari hali uliyoipitia.\n\nUmefanya vizuri! Unaweza kufanya shughuli hii wakati wowote unapohisi kama unahitaji kutoa msongo wa mawazo na kutia nguvu akili na mwili wako.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "List of things",
+    "text": "Orodha ya vitu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Make a list of healthy activities that you like to do. Here are some suggestions:\n* Listening to your favourite music\n* Going for a walk (if possible)\n* Doing some exercise\n* Drinking a cup of tea by yourself\n* Calling up a friend\n* Singing, dancing, praying, or reading\n* Sitting in the sun with your eyes closed\n* Watching your favourite TV show\n\nPick one and do it today!",
+    "text": "Tengeneza orodha ya shughuli zinazoleta afya unazopenda kufanya. Hizi ni baadhi ya mapendekezo:\n* Kusikiliza muziki unaoupenda\n* Kwenda matembezini (kama inawezekana)\n* Kufanya mazoezi\n* Kunywa kikombe cha chai peke yako\n* Kumpigia rafiki simu\n* Kuimba, kucheza, kusali, au kusoma\n* Kuketi juani huku umefumba macho\n* Kutazama kipindi cha runinga unachokipenda\n\nChagua shughuli moja na uifanye leo!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Connect",
+    "text": "Unganisha",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When you take care of yourself, you take care of your children. We all need to connect. Try to talk to friends, family, and other support networks every day. If it has been a while since you reached out to someone, do it now!",
+    "text": "Unapojitunza wewe mwenyewe, unawatunza watoto wako. Sisi sote tunahitaji kuhusiana. Kila siku, jaribu kuzungumza na marafiki, familia, na mitandao mingine inayosaidia. Kama umepita muda tangu ulipowasiliana na mtu fulani, fanya hivyo sasa!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Prevent anger",
+    "text": "Zuia hasira",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Think about what makes you angry. When does it happen? How do you normally react?\n\nPrevent anger from starting in the first place. Get some sleep or rest when you are tired. Try to eat something when you are hungry. Ask someone for support when you are feeling alone.",
+    "text": "Jambo linalokukasirisha. Je, linatokea wakati gani? Je, kwa kawaida, mwitikio wako huwa ni upi?\n\nZuia hasira kabla hata haijapanda. Unapokuwa umechoka, lala usingizi au pumzika. Unapokuwa na njaa, jaribu kula kitu. Unapokuwa mpweke, omba msaada kwa mtu.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Angry? Take a break",
+    "text": "Je, umekasirika? Pumzika",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!",
+    "text": "Kudhibiti hasira kunaweza kuwa kugumu. Pumzika unapohisi unawakasirikia watoto wako au mtu mwingine.\n\nNenda mahali pengine kwa dakika 5 ili uweze kudhibiti tena hisia zako. Kama una mahali salama nje, nenda nje. Una uwezo wa kulimaliza jambo hili!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "5 March 2024",
+    "text": "5 Machi 2024",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Language",
+    "text": "Lugha",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Tap and type",
+    "text": "Bofya na uandike",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Tap and select",
+    "text": "Bofya na uchague",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "About @global.app_name",
+    "text": "Kuhusu @global.app_name",
+    "type": "global",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Library",
+    "text": "Maktaba",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "All Topics",
+    "text": "Maada zote",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Developer mode",
+    "text": "Mtengenezaji wa programu",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Exit developer mode",
+    "text": "Unatoka kwenye ukurasa wa mtengenezaji",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Open feedback",
+    "text": "Fungua maoni",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Close feedback",
+    "text": "Funga maoni",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Templates",
+    "text": "Kiolezo",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Reset app",
+    "text": "Weka upya programu",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
+    "text": "@global.app_name imesasishwa. Tafadhali anzisha tena programu tumishi kumalizia kuiweka sawa.",
+    "type": "template",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Restart",
+    "text": "Anzisha upya tena",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Read the transcript",
+    "text": "Soma nakala",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Submit",
+    "text": "Tuma",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Enter developer mode",
+    "text": "Unaingia kwenye ukurasa wa mtengenezaji",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "To launch the app in developer mode, enter your developer code in the box below and press @local.submit.",
+    "text": "Ili kuzindua programu katika hali ya kubuni, weka msimbo wako wa kubuni kwenye kisanduku kilicho hapa chini na ubonyeze @local.submit.",
+    "type": "template",
+    "note": "The string @local.submit should not be translated."
+  },
+  {
+    "SourceText": "You have successfully entered developer mode.",
+    "text": "Umefanikiwa kuingia kwenye njia ya msanidi wa programu.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "You have entered an incorrect code.",
+    "text": "Umeingiza kodi isiyo sahihi.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Connect module",
+    "text": "Kipindi cha kuungana",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "List of articles",
+    "text": "Orodha ya makala",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Articles flow",
+    "text": "Mtiririko wa makala",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "List of categories",
+    "text": "Orodha ya makundi",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue",
+    "text": "Endelea",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Previous",
+    "text": "Iliyopita",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Next",
+    "text": "Inayofuata",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Copy code",
+    "text": "Nakili msimbo",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Copied!",
+    "text": "Imenakiliwa!",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "You may be asked to share this code with people who will support your @global.parent_app journey.",
+    "text": "Unaweza kuombwa kuwaonyesha namba hii watu watakaokusaidia katika safari yako ya @global.parent_app.",
+    "type": "template",
+    "note": "The string @global.parent_app should not be translated."
+  },
+  {
+    "SourceText": "Last sync at: @local.sync_latest",
+    "text": "Imelandanishwa mara ya mwisho saa: @local.sync_latest",
+    "type": "template",
+    "note": "The string @local.sync_latest should not be translated."
+  },
+  {
+    "SourceText": "This device has never been synced. Sync to reveal your code.",
+    "text": "Kifaa hiki hakijawahi kulandanishwa. Landanisha kuonesha msimbo wako.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Sync now",
+    "text": "Landanisha sasa",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Syncing...",
+    "text": "Landanisha...",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Everyday activities",
     "text": "Shughuli za kila siku",
     "type": "data_list",
@@ -714,7 +1974,7 @@
     "note": ""
   },
   {
-    "SourceText": "Sorry that things are hard right now. You deserve good things, and @global.parent_app is here to support you every step of the way.",
+    "SourceText": "Sorry that things are hard right now. You deserve good things and @global.parent_app is here to support you every step of the way.",
     "text": "Samahani kwamba mambo ni magumu kwa sasa. Unastahili mambo mazuri, na @global.parent_app iko hapa kukusaidia kila hatua unayopiga.",
     "type": "data_list",
     "note": "The string @global.parent_app should not be translated."
@@ -852,7 +2112,7 @@
     "note": ""
   },
   {
-    "SourceText": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions, and trying to be calm and kind to yourself. You are setting a great example for your family.",
+    "SourceText": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family.",
     "text": "Tunasikitika kusikia kuwa leo unajisikia vibaya. Hongera kwa kutambua hisia hizo, na kujaribu kuwa mtulivu na kuwa mwema kwako mwenyewe. Unaweka mfano mzuri kwa familia yako.",
     "type": "data_list",
     "note": ""
@@ -1225,7 +2485,7 @@
   },
   {
     "SourceText": "Make one of these good money choices:\n* Spend money according to your family budget. \n* Save extra money this week.\n* Respond well to a crisis that involves money.\n* Help a family member stick to your family budget.\n* Recognise something is a 'want' instead of a 'need'.",
-    "text": "Fanya mojawapo ya maamuzi haya mazuri ya kifedha: \n*Tumia fedha kulingana na bajeti ya familia yako.\n*Tunza fedha ya ziada wiki hii.\n*Itikia vyema katika changamoto zinazohusu fedha. \n*Msaidie mwana familia kuzingatia bajeti ya familia. \n*Tambua kitu ni 'tamanio' badala ya 'hitaji'.",
+    "text": "Fanya mojawapo ya maamuzi haya mazuri ya kifedha: \n* Tumia fedha kulingana na bajeti ya familia yako.\n* Tunza fedha ya ziada wiki hii.\n* Itikia vyema katika changamoto zinazohusu fedha. \n* Msaidie mwana familia kuzingatia bajeti ya familia. \n* Tambua kitu ni 'tamanio' badala ya 'hitaji'.",
     "type": "data_list",
     "note": ""
   },
@@ -1386,6 +2646,12 @@
     "note": ""
   },
   {
+    "SourceText": "Starting a new thing is always difficult at first. Give yourselves some time to get used to it and keep showing a good example by observing and sharing your feelings. Over time, your teen will learn to do the same, and they will feel even more loved and cared for!",
+    "text": "Kuanza kitu kipya mara zote ni vigumu. Jipe muda wa kuzoea na endelea kuonyesha mfano mzuri kwa kutambua hisia zako na kuwashirikisha wengine. Baada ya muda, kijana wako atajifunza kufanya hivyohivyo, na atahisi kupendwa na kutunzwa mno!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "I was too stressed or angry to try sharing my feelings – I prefer to be alone when I feel like that.",
     "text": "Nilikuwa na hasira mno au msongo mkubwa wa mawazo kuweza kujaribu kuelezea hisia zangu – ninapendelea kuwa peke yangu ninapohisi hivyo.",
     "type": "data_list",
@@ -1404,10 +2670,10 @@
     "note": ""
   },
   {
-    "SourceText": "You do not have to reveal the exact amount you earn; you could give an estimate. You could say, “In this household, we have @global.currency@global.monthly_income_estimate every month” rather than, “I make @global.currency@global.monthly_income_precise”.",
-    "text": "Sio lazima kuwaambia kiwango halisi cha kipato chako; unaweza kuwaambia makadirio. Unaweza kusema, \"Katika kaya hii, tunapata @global.currency@global.monthly_income_estimate kila mwezi\" badala ya, \"Ninapata @global.currency@global.monthly_income_precise\".",
+    "SourceText": "You do not have to reveal the exact amount you earn; you could give an estimate. You could say, “In this household, we have @global.currency@global.monthly_income_estimate every month” rather than, “I make @global.currency@global.monthly_income_precise.”",
+    "text": "Sio lazima kuwaambia kiwango halisi cha kipato chako; unaweza kuwaambia makadirio. Unaweza kusema, \"Katika kaya hii, tunapata @global.currency@global.monthly_income_estimate kila mwezi\" badala ya, \"Ninapata @global.currency@global.monthly_income_precise.\"",
     "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.currency@global.monthly_income_estimate\n@global.currency@global.monthly_income_precise”."
+    "note": "The following strings should not be translated:\n@global.currency@global.monthly_income_estimate\n@global.currency@global.monthly_income_precise.”"
   },
   {
     "SourceText": "When budgeting, we could not agree on what should fall under needs and what should fall under wants.",
@@ -1416,8 +2682,8 @@
     "note": ""
   },
   {
-    "SourceText": "People’s wants and needs are different sometimes. Talking about them together can help you and your teen to understand each other, respect your differences, and see where you can compromise.",
-    "text": "Wakati mwingine, matamanio na mahitaji ya watu hutofautiana. Kuyazungumzia pamoja hukusaidia wewe na kijana wako kuelewana, kuheshimu tofauti zenu, na kutafuta mnapoweza kuafikiana.",
+    "SourceText": "People’s wants and needs are different sometimes. Talking about them together can help you and your teen to understand each other, respect your differences and see where you can compromise.",
+    "text": "Wakati mwingine, matamanio na mahitaji ya watu hutofautiana. Kuyazungumzia pamoja hukusaidia wewe na kijana wako kuelewana, kuheshimu tofauti zenu na kutafuta mnapoweza kuafikiana.",
     "type": "data_list",
     "note": ""
   },
@@ -1458,8 +2724,8 @@
     "note": ""
   },
   {
-    "SourceText": "Think about whether the rule is reasonable. Can your teen follow it? When making rules as a family, it helps to think about your teen, how old they are, and what is important to them.",
-    "text": "Fikiria kama sheria ina mantiki. Kijana wako anaweza kuifuata? Mnapotunga sheria kama familia, ni vizuri ukafikiria kuhusu kijana wako, umri wao, na nini ambacho ni muhimu kwao.",
+    "SourceText": "Think about whether the rule is reasonable. Can your teen follow it? When making rules as a family, it helps to think about your teen, how old they are and what is important to them.",
+    "text": "Fikiria kama sheria ina mantiki. Kijana wako anaweza kuifuata? Mnapotunga sheria kama familia, ni vizuri ukafikiria kuhusu kijana wako, umri wao na nini ambacho ni muhimu kwao.",
     "type": "data_list",
     "note": ""
   },
@@ -1542,8 +2808,8 @@
     "note": ""
   },
   {
-    "SourceText": "When your teen gets angry, you might need to walk away until you are both calm.\n\nCheck to make sure your consequence is fair and reasonable. Listen to your teen’s explanation, and react calmly as you agreed if they used the “@global.safety_word” or broke a rule in order to stay safe.",
-    "text": "Kijana wako anapokasirika, unaweza kuhitaji kuondoka karibu nae hadi nyote mtakapokuwa mmetulia.\n\nTazama ili kuhakikisha kuwa adhabu ni ya kawaida na ya busara. Sikiliza maelezo ya kijana wako, na hakikisha unatoa \"@global.safety_word” au kama alivunja sheria ili kuwa salama.",
+    "SourceText": "When your teen gets angry, you might need to walk away until you are both calm.\n\nCheck to make sure your consequence is fair and reasonable. Listen to your teen’s explanation and react calmly as you agreed if they used the “@global.safety_word” or broke a rule in order to stay safe.",
+    "text": "Kijana wako anapokasirika, unaweza kuhitaji kuondoka karibu nae hadi nyote mtakapokuwa mmetulia.\n\nTazama ili kuhakikisha kuwa adhabu ni ya kawaida na ya busara. Sikiliza maelezo ya kijana wako na hakikisha unatoa \"@global.safety_word” au kama alivunja sheria ili kuwa salama.",
     "type": "data_list",
     "note": "The string “@global.safety_word” should not be translated."
   },
@@ -1554,8 +2820,8 @@
     "note": ""
   },
   {
-    "SourceText": "Can you make a consequence for if this happens again? When we establish a consequence together with our teens, the consequence will be more realistic, and our teens will be more willing and able to follow the rule.",
-    "text": "Je, unaweza kuweka athari kwa ajili ya jambo hili likitokea tena? Tunapoweka athari pamoja na vijana wetu, athari hizi zitakuwa na uwezekano mkubwa wa kutekelezeka, na vijana wetu watakuwa tayari zaidi na watakuwa na uwezo zaidi wa kufuata sheria hiyo.",
+    "SourceText": "Can you make a consequence for if this happens again? When we establish a consequence together with our teens, the consequence will be more realistic and our teens will be more willing and able to follow the rule.",
+    "text": "Je, unaweza kuweka athari kwa ajili ya jambo hili likitokea tena? Tunapoweka athari pamoja na vijana wetu, athari hizi zitakuwa na uwezekano mkubwa wa kutekelezeka na vijana wetu watakuwa tayari zaidi na watakuwa na uwezo zaidi wa kufuata sheria hiyo.",
     "type": "data_list",
     "note": ""
   },
@@ -1590,8 +2856,8 @@
     "note": ""
   },
   {
-    "SourceText": "It can be difficult to think of positive consequences sometimes. Positive consequences will encourage your teen to take more responsibility, and you will see the difference!",
-    "text": "Wakati mwingine ni vigumu kufikiria athari chanya. Athari zitamchochea kijana wako kuwajibika zaidi, na utaona mabadiliko!",
+    "SourceText": "It can be difficult to think of positive consequences sometimes. Positive consequences will encourage your teen to take more responsibility and you will see the difference!",
+    "text": "Wakati mwingine ni vigumu kufikiria athari chanya. Athari zitamchochea kijana wako kuwajibika zaidi na utaona mabadiliko!",
     "type": "data_list",
     "note": ""
   },
@@ -1650,8 +2916,8 @@
     "note": ""
   },
   {
-    "SourceText": "Sometimes it can be difficult to agree with everyone in the family, especially if everyone is not yet calm. You could agree to try one solution first, and then another. Also, if you get stuck, try to get together later to agree on the solution together.",
-    "text": "Wakati mwingine inaweza kuwa vigumu kukubaliana na kila mtu katika familia, hasa kama kila mtu bado hajatulia. Mnaweza kukubaliana kujaribu suluhisho moja kwanza, na kisha mjaribu suluhisho lingine. Pia, kama mtakwama, jaribuni kukutana baadaye ili mkubaliane pamoja kuhusu suluhisho hilo.",
+    "SourceText": "Sometimes it can be difficult to agree with everyone in the family, especially if everyone is not yet calm. You could agree to try one solution first and then another. Also, if you get stuck, try to get together later to agree on the solution together.",
+    "text": "Wakati mwingine inaweza kuwa vigumu kukubaliana na kila mtu katika familia, hasa kama kila mtu bado hajatulia. Mnaweza kukubaliana kujaribu suluhisho moja kwanza na kisha mjaribu suluhisho lingine. Pia, kama mtakwama, jaribuni kukutana baadaye ili mkubaliane pamoja kuhusu suluhisho hilo.",
     "type": "data_list",
     "note": ""
   },
@@ -1674,7 +2940,7 @@
     "note": ""
   },
   {
-    "SourceText": "Your teen might be too overwhelmed to deal with the problem right away. Recognise and name their emotions, and create a time later in the day or week to discuss and solve the problem together. By giving your teen time, the problem can be solved well.",
+    "SourceText": "Your teen might be too overwhelmed to deal with the problem right away. Recognise and name their emotions and create a time later in the day or week to discuss and solve the problem together. By giving your teen time, the problem can be solved well.",
     "text": "Kijana wako anaweza kushindwa kabisa kushughulikia tatizo mara moja. Zitambue na kuzipa majina hisia zake, halafu tafuta muda baadaye siku hiyo au wiki hiyo mjadili na kutatua tatizo hilo pamoja. Unapotenga muda kwa ajili ya kijana wako, tatizo linaweza kutatuliwa vizuri.",
     "type": "data_list",
     "note": ""
@@ -1704,8 +2970,8 @@
     "note": ""
   },
   {
-    "SourceText": "It is shocking to learn that people who are close to us and who we trust may be a danger to our teens. Remember to take a pause when you are upset, and try to listen calmly to your teen. Find someone you can talk to about this, perhaps a friend or support service, so you can get the support you need.",
-    "text": "Ni jambo la kushtua kujua kwamba watu walio karibu nasi na tunaowaamini wanaweza kuwa hatari kwa vijana wetu. Kumbuka kuchukua pumziko unapokuwa umekasirika, na jaribu kumsikiliza kijana wako kwa utulivu. Tafuta mtu unayeweza kuzungumza naye kuhusu jambo hili, labda rafiki au huduma ya msaada, ili uweze kupata msaada unaohitaji.",
+    "SourceText": "It is shocking to learn that people who are close to us and who we trust may be a danger to our teens. Remember to take a pause when you are upset and try to listen calmly to your teen. Find someone you can talk to about this, perhaps a friend or support service, so you can get the support you need.",
+    "text": "Ni jambo la kushtua kujua kwamba watu walio karibu nasi na tunaowaamini wanaweza kuwa hatari kwa vijana wetu. Kumbuka kuchukua pumziko unapokuwa umekasirika na jaribu kumsikiliza kijana wako kwa utulivu. Tafuta mtu unayeweza kuzungumza naye kuhusu jambo hili, labda rafiki au huduma ya msaada, ili uweze kupata msaada unaohitaji.",
     "type": "data_list",
     "note": ""
   },
@@ -1716,7 +2982,7 @@
     "note": ""
   },
   {
-    "SourceText": "This can be very frustrating. To find a solution, your teen needs to feel heard – so listen calmly to your teen's reasons, and only then share your own thoughts. Then, think together about a rule that allows them to have fun but stay safe.",
+    "SourceText": "This can be very frustrating. To find a solution, your teen needs to feel heard – so listen calmly to your teen's reasons and only then share your own thoughts. Then, think together about a rule that allows them to have fun but stay safe.",
     "text": "Jambo hili linaweza kukatisha tamaa sana. Ili kupata suluhisho, kijana wako anahitaji kuhisi kuwa anasikilizwa – kwa hiyo, sikiliza kwa utulivu sababu za kijana wako, halafu ndipo umshirikishe maoni yako. Kisha, shirikianeni kuweka sheria inayomruhusu kufurahi huku akiwa salama.",
     "type": "data_list",
     "note": ""
@@ -1770,7 +3036,7 @@
     "note": ""
   },
   {
-    "SourceText": "Praise your teen for telling you; that is not easy to do! Remember, you can use all the skills you picked from your toolbox: Take a pause, use the four steps of problem solving, and reach out to get the support you and your teen need!",
+    "SourceText": "Praise your teen for telling you; that is not easy to do! Remember, you can use all the skills you picked from your toolbox: Take a pause, use the four steps of problem solving and reach out to get the support you and your teen need!",
     "text": "Msifie kijana wako kwa kukuambia; kufanya hivyo si jambo rahisi! Kumbuka, unaweza kutumia ujuzi wote uliojifunza kwenye kivungezana: Pumzika kidogo, tumia hatua nne za kutatua matatizo, halafu tafuta msaada unaouhitaji wewe na kijana wako!",
     "type": "data_list",
     "note": ""
@@ -1938,8 +3204,8 @@
     "note": ""
   },
   {
-    "SourceText": "Starting a new thing is always difficult at first. Give yourselves some time to get used to it and keep showing a good example by observing and sharing your feelings. Over time, your teen will learn to do the same, and they will feel even more loved and cared for!",
-    "text": "Kuanza kitu kipya mara zote ni vigumu. Jipe muda wa kuzoea na endelea kuonyesha mfano mzuri kwa kutambua hisia zako na kuwashirikisha wengine. Baada ya muda, kijana wako atajifunza kufanya hivyohivyo, na atahisi kupendwa na kutunzwa mno!",
+    "SourceText": "Starting a new thing is always difficult at first. Give yourselves some time to get used to it and keep showing a good example by observing and sharing your feelings. Over time, your teen will learn to do the same and they will feel even more loved and cared for!",
+    "text": "Kuanza kitu kipya mara zote ni vigumu. Jipe muda wa kuzoea na endelea kuonyesha mfano mzuri kwa kutambua hisia zako na kuwashirikisha wengine. Baada ya muda, kijana wako atajifunza kufanya hivyohivyo na atahisi kupendwa na kutunzwa mno!",
     "type": "data_list",
     "note": ""
   },
@@ -1980,8 +3246,8 @@
     "note": ""
   },
   {
-    "SourceText": "Sometimes it will be easy and fun to spend time with your teens, and sometimes it will be more challenging. Spending time together will definitely improve your relationship!",
-    "text": "Wakati mwingine ni rahisi na inafurahisha kutumia muda pamoja na vijana wako, na wakati mwingi inakuwa ina changamoto zaidi. Kutumia muda pamoja itaboresha mahusiano yenu!",
+    "SourceText": "Sometimes it will be easy and fun to spend time with your teens and sometimes it will be more challenging. Spending time together will definitely improve your relationship!",
+    "text": "Wakati mwingine ni rahisi na inafurahisha kutumia muda pamoja na vijana wako na wakati mwingi inakuwa ina changamoto zaidi. Kutumia muda pamoja itaboresha mahusiano yenu!",
     "type": "data_list",
     "note": ""
   },
@@ -1998,8 +3264,8 @@
     "note": ""
   },
   {
-    "SourceText": "It can sometimes be hard to remember to praise our teens. Next time you spend one-on-one time with your teen, try and think of one thing you can praise them for. You can even say, “Thank you for spending time with me!”.",
-    "text": "Muda mwingine inaweza kuwa vigumu kukumbuka kuwasifia vijana wetu. Wakati mwingine ukiwa unatumia muda wa pamoja na kijana wako, jaribu na fikiria kitu kimoja unachoweza kumsifia. Unaweza hata ukasema, “ Asante kwa kutumia muda pamoja na mimi!”.",
+    "SourceText": "It can sometimes be hard to remember to praise our teens. Next time you spend one-on-one time with your teen, try and think of one thing you can praise them for. You can even say, “Thank you for spending time with me!”",
+    "text": "Muda mwingine inaweza kuwa vigumu kukumbuka kuwasifia vijana wetu. Wakati mwingine ukiwa unatumia muda wa pamoja na kijana wako, jaribu na fikiria kitu kimoja unachoweza kumsifia. Unaweza hata ukasema, “ Asante kwa kutumia muda pamoja na mimi!”",
     "type": "data_list",
     "note": ""
   },
@@ -2010,8 +3276,8 @@
     "note": ""
   },
   {
-    "SourceText": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference, you will see.",
-    "text": "Wakati mwingine inachukua muda kidogo kuanza kusifia, lakini huleta mabadiliko makubwa, utaona.",
+    "SourceText": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference – you will see.",
+    "text": "Wakati mwingine inachukua muda kidogo kuanza kusifia, lakini huleta mabadiliko makubwa - utaona.",
     "type": "data_list",
     "note": ""
   },
@@ -2090,6 +3356,12 @@
   {
     "SourceText": "Your goal was to make ONE rule with your teen.",
     "text": "Lengo lako ilikuwa kutengeneza sheria moja na kijana wako.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Great to hear it went well! Consistent rules help make our teens feel secure and keep them safe!",
+    "text": "Inafurahisha sana kusikia kuwa mambo yalienda vizuri! Sheria thabiti husaidia kuwafanya vijana wetu kujisikia salama na kuwaweka salama!",
     "type": "data_list",
     "note": ""
   },
@@ -2647,7 +3919,7 @@
   },
   {
     "SourceText": "* Use technology: Bring along your smartphone to take pictures of interesting things you see on the walk. Let your teen take photos and talk about it!\n* Make it regular: Schedule regular walks and explore new locations to keep the activity fresh and fun.",
-    "text": "* Tumia teknolojia: Tembea na simu janja yako kwa ajili ya kupiga picha ya vitu vinavyovutia unavyoviona wakati unatembea. Acha kijana wako apige picha na kuziongelea!\n*Fanya kitu cha mara kwa mara: Pangeni matembezi ya mara kwa mara na tafuta maeneo mapya kufanya zoezi kuwa jipya na shirikishi.",
+    "text": "* Tumia teknolojia: Tembea na simu janja yako kwa ajili ya kupiga picha ya vitu vinavyovutia unavyoviona wakati unatembea. Acha kijana wako apige picha na kuziongelea!\n* Fanya kitu cha mara kwa mara: Pangeni matembezi ya mara kwa mara na tafuta maeneo mapya kufanya zoezi kuwa jipya na shirikishi.",
     "type": "data_list",
     "note": ""
   },
@@ -2743,7 +4015,7 @@
   },
   {
     "SourceText": "* Take turns acting different roles. You can also swap roles to see how it changes the situation.\n* Keep the activity fun. It doesn’t always have to be role play about something real. \n* Ask your teen to act as their favourite hero. Ask what they would do if they had super powers for a day.",
-    "text": "* Peaneni zamu ya kuigiza nafasi tofauti. Unaweza kubadilisha nafasi na kuangalia namna gani inaweza kubadilisha hali.\n*Fanya zoezi lile la kufurahisha. Sio lazima iwe igizo kuhusu kitu halisi.\n*Muambie kijana wako aigize kama shujaa. Waambie watafanya nini kama wangelikuwa na nguvu kwa siku.",
+    "text": "* Peaneni zamu ya kuigiza nafasi tofauti. Unaweza kubadilisha nafasi na kuangalia namna gani inaweza kubadilisha hali.\n* Fanya zoezi lile la kufurahisha. Sio lazima iwe igizo kuhusu kitu halisi.\n* Muambie kijana wako aigize kama shujaa. Waambie watafanya nini kama wangelikuwa na nguvu kwa siku.",
     "type": "data_list",
     "note": ""
   },
@@ -2935,7 +4207,7 @@
   },
   {
     "SourceText": "* Let your teen choose their own goal.\n* Make sure the goal is small enough for them to do in one week. Teens are more likely to set more goals if they complete their last goal. \n* Praise your teen for trying! They will put more effort in if they see that you care about their goal.",
-    "text": "*Acha kijana wako achague malengo yake mwenyewe. \n*Hakikisha lengo laweza kufanyika ndani ya wiki moja. vijana wanauwezo wa kuweka malengo zaidi kama watakamilisha malengo lililopita.\n*Msifu kijana wako kwa kujaribu! ataongeza juhudi zaidi ikiwa anaona unajali malengo yake.",
+    "text": "* Acha kijana wako achague malengo yake mwenyewe. \n* Hakikisha lengo laweza kufanyika ndani ya wiki moja. vijana wanauwezo wa kuweka malengo zaidi kama watakamilisha malengo lililopita.\n* Msifu kijana wako kwa kujaribu! ataongeza juhudi zaidi ikiwa anaona unajali malengo yake.",
     "type": "data_list",
     "note": ""
   },
@@ -2983,7 +4255,7 @@
   },
   {
     "SourceText": "* Let your teen come up with an idea for what they think should be cleaned or organised.\n* Take breaks and take your time. Remember to keep things fun. The goal is to spend time with your teen and teach them about being tidy and organised.",
-    "text": "* Acha kijana wako atoe wazo la kile anachofikiri kinafaa kusafishwa au kupangwa.\n*Pumzika kwa muda. Kumbuka kufanya mambo ya kufurahisha. Lengo ni kutumia muda na kijana wako na kuwafundisha kuhusu kuwa nadhifu na kupangwa.",
+    "text": "* Acha kijana wako atoe wazo la kile anachofikiri kinafaa kusafishwa au kupangwa.\n* Pumzika kwa muda. Kumbuka kufanya mambo ya kufurahisha. Lengo ni kutumia muda na kijana wako na kuwafundisha kuhusu kuwa nadhifu na kupangwa.",
     "type": "data_list",
     "note": ""
   },
@@ -3553,7 +4825,7 @@
   },
   {
     "SourceText": "Ask @global.w_grief_teen_girl_1 to share more about how she feels.",
-    "text": "Kumuuliza @global.w_grief_teen_girl_1 amshirikishe zaidi kuhusu jinsi anavyohisi.",
+    "text": "Muuliza @global.w_grief_teen_girl_1 amshirikishe zaidi kuhusu jinsi anavyohisi.",
     "type": "data_list",
     "note": "The string @global.w_grief_teen_girl_1 should not be translated."
   },
@@ -4297,7 +5569,7 @@
   },
   {
     "SourceText": "The friend does not listen to @global.w_svp_teen_girl_2.",
-    "text": "Rafiki yake  @global.w_svp_teen_girl_2.hamsikilizi",
+    "text": "Rafiki yake @global.w_svp_teen_girl_2 hamsikilizi.",
     "type": "data_list",
     "note": "The string @global.w_svp_teen_girl_2. should not be translated."
   },
@@ -4837,7 +6109,7 @@
   },
   {
     "SourceText": "@global.w_instruct_teen_girl: “Okay, @global.w_instruct_female_caregiver!”",
-    "text": "@Je, @global.w_instruct_teen_girl na @global.w_instruct_female_caregiver walijisikiaje!”",
+    "text": "Je, @global.w_instruct_teen_girl na @global.w_instruct_female_caregiver walijisikiaje!”",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@global.w_instruct_teen_girl:\n@global.w_instruct_female_caregiver!”"
   },
@@ -4944,7 +6216,7 @@
     "note": "The following strings should not be translated:\n@global.w_stress_teen_boy_2\n@global.w_stress_teen_girl!"
   },
   {
-    "SourceText": "@global.w_stress_teen_boy_2: \"Don’t tell the adults, but I am going to bar with my friends tonight\" \n\n@global.w_stress_teen_girl: \"Have fun! I have told them I am staying with my girlfriend, but I am actually going to a cool party.\"",
+    "SourceText": "@global.w_stress_teen_boy_2: \"Don’t tell the adults, but I am going to bar with my friends tonight.\" \n\n@global.w_stress_teen_girl: \"Have fun! I have told them I am staying with my girlfriend, but I am actually going to a cool party.\"",
     "text": "@global.w_stress_teen_boy_2: \"Usiwaambie wakubwa, leo usiku nitaenda baa na marafiki zangu.\"\n\n@global.w_stress_teen_girl: \"Nenda ukale raha! Mimi nimewaambia nitakuwa na shoga yangu, lakini ninaenda kwenye bonge la sherehe.\"",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@global.w_stress_teen_boy_2:\n@global.w_stress_teen_girl:"
@@ -5094,8 +6366,8 @@
     "note": "The following strings should not be translated:\n@global.w_rules_female_caregiver_1\n@global.w_rules_teen_boy\n@global.w_rules_female_caregiver_1:\n@global.w_rules_teen_boy,\n@global.w_rules_teen_boy:"
   },
   {
-    "SourceText": "@global.w_rules_female_caregiver_1: “That is right, and it is also not safe in this area to be outside after sunset. What do you think would be a good time for you to be home?”",
-    "text": "@global.w_rules_female_caregiver_1: \"Hiyo ni kweli, na vilevile sio salama kwenye eneo hili kuwa huko nje baada ya jua kuzama. Unafikiri ni muda gani mzuri kwako kurudi nyumbani?”",
+    "SourceText": "@global.w_rules_female_caregiver_1: “That is right. It is also not safe in this area to be outside after sunset. What do you think would be a good time for you to be home?”",
+    "text": "@global.w_rules_female_caregiver_1: \"Hiyo ni kweli. Vilevile sio salama kwenye eneo hili kuwa huko nje baada ya jua kuzama. Unafikiri ni muda gani mzuri kwako kurudi nyumbani?”",
     "type": "data_list",
     "note": "The string @global.w_rules_female_caregiver_1: should not be translated."
   },
@@ -5472,7 +6744,7 @@
     "note": "The string @global.w_safe_female_caregiver: should not be translated."
   },
   {
-    "SourceText": "@global.w_safe_female_caregiver: \"Sometimes people are not who they say they are online – he could say he is your age but be a 50 year old man. Or when they break up, he could send those photos to everyone and your friend would feel awful.\"",
+    "SourceText": "@global.w_safe_female_caregiver: \"Sometimes people are not who they say they are online – he could say he is your age but be a 50-year-old man. Or when they break up, he could send those photos to everyone and your friend would feel awful.\"",
     "text": "@global.w_safe_female_caregiver: \"Wakati mwingine watu wanadanganya mtandaoni – anaweza kusema ni wa rika lako kumbe ni mwanaume wa miaka 50. Au wakivunja mahusiano, anaweza kutuma picha hizo kwa kila mtu na rafiki yako akajisikia vibaya sana.\"",
     "type": "data_list",
     "note": "The string @global.w_safe_female_caregiver: should not be translated."
@@ -5538,7 +6810,7 @@
     "note": ""
   },
   {
-    "SourceText": "@global.w_crisis_male_caregiver_1: \"@global.w_crisis_teen_boy_1, you look worried since yesterday. What is wrong?\"",
+    "SourceText": "@global.w_crisis_male_caregiver_1: \"@global.w_crisis_teen_boy_1, you've looked worried since yesterday. What is wrong?\"",
     "text": "@global.w_crisis_male_caregiver_1: \"@global.w_crisis_teen_boy_1, unaonekana una wasiwasi tangu jana. Kuna tatizo gani?\"",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@global.w_crisis_male_caregiver_1:\n\"@global.w_crisis_teen_boy_1,"
@@ -5773,7 +7045,7 @@
   },
   {
     "SourceText": "15 minutes later…\n\n@global.w_learn_teen_girl_1: “I am glad we have this time together. I actually wanted to tell you about a problem I had at school today.”\n\n@global.w_learn_female_caregiver_1: “Thank you for telling me. I am sure we can come up with a solution together.”",
-    "text": "Baada ya dakika 15...\n\n@global.w_learn_teen_girl_1: “Nimefurahi kuwa pamoja nawe muda huu. Kwa kweli nilitaka kukwambia kuhusu tatizo nililopata leo shuleni.”\n\n@global.w_learn_female_caregiver_1: “Asante kwa kuniambia. Nina hakika tunaweza kupata suluhu pamoja.”",
+    "text": "Baada ya dakika 15...\n\n@global.w_learn_teen_girl_1: “Nimefurahi kuwa pamoja nawe muda huu. Kwa kweli nilitaka kukwambia kuhusu tatizo nililopata shuleni leo.”\n\n@global.w_learn_female_caregiver_1: “Asante kwa kuniambia. Nina hakika tunaweza kupata suluhisho kwa pamoja.”",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@global.w_learn_teen_girl_1:\n@global.w_learn_female_caregiver_1:"
   },
@@ -6480,8 +7752,8 @@
     "note": ""
   },
   {
-    "SourceText": "Look for anything your teen does that is helpful or good, and praise them for it. They may not show it, but you will see them doing that good thing again. It will also reassure them that you notice and care.",
-    "text": "Tafuta kitu chochote anachofanya kijana wako kwa ajili ya kusaidia au kilicho kizuri, na umsifie kwa kitu hicho. Anaweza asioneshe furaha yake, lakini utamwona akifanya tena kitu hicho kizuri. Pia itamthibitishia kuwa unatambua anachokifanya na unajali.",
+    "SourceText": "Look for anything your teen does that is helpful or good and praise them for it. They may not show it, but you will see them doing that good thing again. It will also reassure them that you notice and care.",
+    "text": "Tafuta kitu chochote anachofanya kijana wako kwa ajili ya kusaidia au kilicho kizuri na umsifie kwa kitu hicho. Anaweza asioneshe furaha yake, lakini utamwona akifanya tena kitu hicho kizuri. Pia itamthibitishia kuwa unatambua anachokifanya na unajali.",
     "type": "data_list",
     "note": ""
   },
@@ -6534,8 +7806,8 @@
     "note": ""
   },
   {
-    "SourceText": "Smile, look them in the eye, and use positive words. Praise them as soon as they start to do what you ask!",
-    "text": "Tabasamu, mwangalie machoni, na tumia maneno chanya. Msifie mara tu anapoanza kufanya kile unachotaka!",
+    "SourceText": "Smile, look them in the eye and use positive words. Praise them as soon as they start to do what you ask!",
+    "text": "Tabasamu, mwangalie machoni na tumia maneno chanya. Msifie mara tu anapoanza kufanya kile unachotaka!",
     "type": "data_list",
     "note": ""
   },
@@ -6744,8 +8016,8 @@
     "note": ""
   },
   {
-    "SourceText": "Household rules help keep our teenagers safe, and understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them.",
-    "text": "Sheria za kaya husaidia kuwaweka vijana wetu salama, na kuelewa kinachotarajiwa kutoka kwao. Unapomhusisha kijana katika kutengeneza sheria, anakuwa na uwezekano mkubwa wa kuzifuata.",
+    "SourceText": "Household rules help to keep our teenagers safe and to understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them.",
+    "text": "Sheria za kaya husaidia kuwaweka vijana wetu salama na kuelewa kinachotarajiwa kutoka kwao. Unapomhusisha kijana katika kutengeneza sheria, anakuwa na uwezekano mkubwa wa kuzifuata.",
     "type": "data_list",
     "note": ""
   },
@@ -6906,8 +8178,8 @@
     "note": ""
   },
   {
-    "SourceText": "Stay calm. Ask yourself \"What does my teen need right now?\"",
-    "text": "Tulia. Jiulize \"Kijana wangu anahitaji nini sasa hivi?\"",
+    "SourceText": "Stay calm. Ask yourself, \"What does my teen need right now?\"",
+    "text": "Tulia. Jiulize, \"Kijana wangu anahitaji nini sasa hivi?\"",
     "type": "data_list",
     "note": ""
   },
@@ -6930,7 +8202,7 @@
     "note": ""
   },
   {
-    "SourceText": "Talk with your teen. What might help the situation? You might need to make immediate plans now, and then long-term plans later.",
+    "SourceText": "Talk with your teen. What might help the situation? You might need to make immediate plans now and then long-term plans later.",
     "text": "Zungumza na kijana wako. Kitu gani kinaweza kusaidia kwenye hali hiyo? Unaweza kutakiwa kupanga mipango ya haraka sasa, halafu mipango ya muda mrefu baadaye.",
     "type": "data_list",
     "note": ""
@@ -7260,8 +8532,8 @@
     "note": ""
   },
   {
-    "SourceText": "Greetings, greetings everyone.\n\nToday our topic is positive instructions. \n\nIt is important to give positive instructions to our children, because when we give them positive instructions they know and understand what we are expecting them to do, and they do it the way we want them to do it. \n\nSo, at the end it keeps everyone happy.",
-    "text": "Habari zenu?\n\nLeo mada yetu inahusu maelekezo chanya.\n\nNi muhimu kutoa maelekezo chanya kwa watoto wetu, kwa sababu tunapowapa maelekezo chanya, wanajua na kuelewa kile tunachotarajia wakifanye, na wanakifanya kwa namna tunavyotaka wakifanye.\n\nKwa hiyo, mwishowe kila mtu hufurahi.",
+    "SourceText": "Greetings, greetings everyone.\n\nToday our topic is positive instructions. \n\nIt is important to give positive instructions to our children, because when we give them positive instructions they know and understand what we are expecting them to do and they do it the way we want them to do it.\n\nSo, at the end it keeps everyone happy.",
+    "text": "Habari zenu?\n\nLeo mada yetu inahusu maelekezo chanya.\n\nNi muhimu kutoa maelekezo chanya kwa watoto wetu, kwa sababu tunapowapa maelekezo chanya, wanajua na kuelewa kile tunachotarajia wakifanye na wanakifanya kwa namna tunavyotaka wakifanye.\n\nKwa hiyo, mwishowe kila mtu hufurahi.",
     "type": "data_list",
     "note": ""
   },
@@ -7314,8 +8586,8 @@
     "note": ""
   },
   {
-    "SourceText": "Greetings, everyone. \n\nToday's topic is family budgeting. \n\nIt is important to create a budget, but it is even more important to create a budget involving the entire family. \n\nDoing it together helps increase the level of understanding of how you spend money as a family and how much you save for the family, and you can even come up with plans of how you can save as a family.",
-    "text": "Habari zenu?\n\nMada ya leo inahusu kutengeneza bajeti ya familia.\n\nKutengeneza bajeti ni muhimu, lakini kutengeneza bajeti kwa kuhusisha familia nzima ni muhimu zaidi.\n\nKufanya hivyo pamoja husaidia kuongeza uelewa kuhusu jinsi mnavyotumia pesa kama familia na kiasi mnachoweka akiba kwa ajili ya familia, na mnaweza hata kubuni mipango ya kuweka akiba kama familia.",
+    "SourceText": "Greetings, everyone. \n\nToday's topic is family budgeting. \n\nIt is important to create a budget, but it is even more important to create a budget involving the entire family. \n\nDoing it together helps increase the level of understanding of how you spend money as a family and how much you save for the family and you can even come up with plans of how you can save as a family.",
+    "text": "Habari zenu?\n\nMada ya leo inahusu kutengeneza bajeti ya familia.\n\nKutengeneza bajeti ni muhimu, lakini kutengeneza bajeti kwa kuhusisha familia nzima ni muhimu zaidi.\n\nKufanya hivyo pamoja husaidia kuongeza uelewa kuhusu jinsi mnavyotumia pesa kama familia na kiasi mnachoweka akiba kwa ajili ya familia na mnaweza hata kubuni mipango ya kuweka akiba kama familia.",
     "type": "data_list",
     "note": ""
   },
@@ -7350,7 +8622,7 @@
     "note": ""
   },
   {
-    "SourceText": "Greetings, everyone. \n\nToday's topic is calm consequences.\n\nIt is important that when we introduce consequences to our teenagers we involve them, but also important that we are calm when we introduce consequences.\n\nThat will assist in us to agree on introducing calm consequences to our teenagers and our teenagers will easily remember them when they are involved and that will make them responsible.",
+    "SourceText": "Greetings, everyone. \n\nToday's topic is calm consequences.\n\nIt is important that when we introduce consequences to our teenagers we involve them, but also important that we are calm when we introduce consequences.\n\nThat will assist us to agree on introducing calm consequences to our teenagers and our teenagers will easily remember them when they are involved and that will make them responsible.",
     "text": "Habari, kila mmoja.\n\nMaada ya leo ni adhabu tulivu.\n\nNi muhimu kwamba tunapotambulisha adhabu kwa vijana wetu tuwahusishe, lakini pia ni muhimu kwamba sisi ni watulivu tunapotambulisha adhabu.\n\nHiyo itatusaidia kukubaliana kwenye kutambulisha adhabu tulivu kwa vijana wetu na vijana wetu watazikumbuka kirahisi wakiwa wameshirikishwa na kwamba itawafanya kuwa wawajibikaji.",
     "type": "data_list",
     "note": ""
@@ -7386,8 +8658,8 @@
     "note": ""
   },
   {
-    "SourceText": "Greetings, everyone.\n\nToday's topic is dealing with crises.\n\nCrises may occur anywhere. Crises may occur anytime. Therefore, it is important as a family to have plans in place should any family member find themselves in a crisis situation. \n\nIt is important to have plans so that every family member may feel protected. \n\nWhen we are dealing with crises, remember to take a pause, breathe, and keep yourself calm. That will help you to deal with crises better.",
-    "text": "Habari zenu?\n\nMada ya leo inahusu kushughulikia hali ya hatari.\n\nHali ya hatari inaweza kutokea mahali popote. Hali ya hatari inaweza kutokea wakati wowote. Kwa hiyo, kama familia, ni muhimu kuwa na mipango ya kukabiliana na hatari kwa ajili ya mwanafamilia yeyote atakayejikuta kwenye hali ya hatari.\n\nNi muhimu kuwa na mipango ili kila mwanafamilia ahisi kulindwa.\n\nUnaposhughulikia hali ya hatari, kumbuka kupumzika, kupumua, na kutulia. Kufanya hivyo kutakusaidia kushughulikia hali ya hatari vizuri zaidi.",
+    "SourceText": "Greetings, everyone.\n\nToday's topic is dealing with crises.\n\nCrises may occur anywhere. Crises may occur anytime. Therefore, it is important as a family to have plans in place should any family member find themselves in a crisis situation. \n\nIt is important to have plans so that every family member may feel protected. \n\nWhen we are dealing with crises, remember to take a pause, breathe and keep yourself calm. That will help you to deal with crises better.",
+    "text": "Habari zenu?\n\nMada ya leo inahusu kushughulikia hali ya hatari.\n\nHali ya hatari inaweza kutokea mahali popote. Hali ya hatari inaweza kutokea wakati wowote. Kwa hiyo, kama familia, ni muhimu kuwa na mipango ya kukabiliana na hatari kwa ajili ya mwanafamilia yeyote atakayejikuta kwenye hali ya hatari.\n\nNi muhimu kuwa na mipango ili kila mwanafamilia ahisi kulindwa.\n\nUnaposhughulikia hali ya hatari, kumbuka kupumzika, kupumua na kutulia. Kufanya hivyo kutakusaidia kushughulikia hali ya hatari vizuri zaidi.",
     "type": "data_list",
     "note": ""
   },
@@ -7404,8 +8676,8 @@
     "note": ""
   },
   {
-    "SourceText": "CONGRATULATIONS! You have done it! You have built 11 important parenting skills. \n\nThis is a huge achievement. It shows such care for your family. \n\nLet’s celebrate you, and plan your future @global.parent_app support.",
-    "text": "HONGERA! Umefaulu! Umejifunza stadi 11 muhimu za malezi.\n\nHaya ni mafanikio makubwa. Inaonyesha unavyoijali sana familia yako.\n\nNgoja tukusherehekee, na tupange tutakavyokusaidia baadaye kwenye @global.parent_app.",
+    "SourceText": "CONGRATULATIONS! You have done it! You have built 11 important parenting skills. \n\nThis is a huge achievement. It shows such care for your family. \n\nLet’s celebrate you and plan your future @global.parent_app support.",
+    "text": "HONGERA! Umefaulu! Umejifunza stadi 11 muhimu za malezi.\n\nHaya ni mafanikio makubwa. Inaonyesha unavyoijali sana familia yako.\n\nNgoja tukusherehekee na tupange tutakavyokusaidia baadaye kwenye @global.parent_app.",
     "type": "data_list",
     "note": "The string @global.parent_app should not be translated."
   },
@@ -7494,6 +8766,12 @@
     "note": "The string @data.workshop.w_learn.lower_case_title? should not be translated."
   },
   {
+    "SourceText": "This @global.workshop includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.",
+    "text": "@global.workshop_capital hiki kinajumuisha maudhui ambayo yanaweza kuwa nyeti. Unaweza kuiangalia peke yako kwanza. Kufanya hivyo itakuandaa vyema ili kumshirikisha kijana wako hayo maudhui na pia watu wengine baadaye.",
+    "type": "data_list",
+    "note": "The string @global.workshop should not be translated."
+  },
+  {
     "SourceText": "Welcome and Self-Care",
     "text": "Makaribisho na Kujithamini",
     "type": "data_list",
@@ -7554,14 +8832,14 @@
     "note": ""
   },
   {
-    "SourceText": "When I first heard I had to spend One-on-One Time with my teen, it was hard for me. I did not know when to do it or what to say. I did not want to spoil my teen so that he thinks we have to do everything together. \n\nBut I really wanted to build my relationship with my teen and I wanted him to open up about what was troubling him. So we tried the One-on-One Time. \n\nFirst, it felt weird, but it turned out to be fun! Now we watch his TV programme together and we chat about it. And we can even talk about how my son is changing into adolescence, and even about girlfriends and those things!",
-    "text": "Niliposikia kwa mara ya kwanza ninatakiwa kuwa na muda wa pamoja na kijana wangu, ilikuwa vigumu kwangu. Sikujua wakati gani wa kufanya au nini cha kusema. Sikutaka kumharibu kijana wangu ili kwamba ajue tunatakiwa kufanya kila kitu pamoja.\n\nLakini nilitaka sana kujenga uhusiano wangu na kijana wangu na nilitaka awe muwazi kuhusu nini kinachomsumbua. Hivyo tulijaribu muda wa pamoja.\n\nMwanzo, ilionekana ajabu, lakini ilibadilika na kuwa ya kufurahisha! Sasa hivi tunaangalia pamoja vipindi vyake vya TV na tunaviongelea. Na tunaweza hata tukaongea kuhusu jinsi mtoto wangu wa kiume anavyobadilika, na hata kuhusu marafiki wa kike na vitu hivyo!",
+    "SourceText": "When I first heard I had to spend One-on-One Time with my teen, it was hard for me. I did not know when to do it or what to say. I did not want to spoil my teen so that he thinks we have to do everything together. \n\nBut I really wanted to build my relationship with my teen and I wanted him to open up about what was troubling him. So we tried the One-on-One Time. \n\nFirst, it felt weird, but it turned out to be fun! Now we watch his TV programme together and we chat about it. And we can even talk about how my son is changing into adolescence and even about girlfriends and those things!",
+    "text": "Niliposikia kwa mara ya kwanza ninatakiwa kuwa na muda wa pamoja na kijana wangu, ilikuwa vigumu kwangu. Sikujua wakati gani wa kufanya au nini cha kusema. Sikutaka kumharibu kijana wangu kwa kumfanya afikiri tunatakiwa kufanya kila kitu pamoja.\n\nLakini nilitaka sana kujenga uhusiano wangu na kijana wangu na nilitaka awe muwazi kuhusu nini kinachomsumbua. Hivyo tulijaribu muda wa pamoja.\n\nMwanzo, ilionekana ajabu, lakini ilibadilika na kuwa ya kufurahisha! Sasa hivi tunaangalia pamoja vipindi vyake vya TV na tunaviongelea. Na tunaweza hata tukaongea kuhusu jinsi mtoto wangu wa kiume anavyobadilika na hata kuhusu marafiki wa kike na vitu hivyo!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "When my mother asked to spend time with me, I thought “Maybe something is wrong, maybe she is sick”. But she said “No, I just want to spend time.” I was sceptical, but I accepted. \n\nShe asked me what I like doing. It was strange and I was not comfortable, because she never ever spent time with me on my own. \n\nThe more she kept on trying and we spent this time together, it felt really nice. She got to share her own childhood with me, things I never heard before. That helped me to also share what is going on in my life. We even talk about boyfriends and about problems I have. I know I can talk to my mother now.",
-    "text": "Mama yangu alipoomba kutumia muda na mimi, niliwaza \" Labda kitu flani hakiko sawa, labda anaumwa\". Lakini alisema \"Hapana, nahitaji tu kutumia muda. \"Nilikuwa na mashaka, lakini nilikubali.\n\nAliniuliza nini ninapenda kufanya. Kilikuwa kitu kigeni na sikuwa huru, kwa sababu hajawahi kutumia muda pamoja na mimi kwa ajili yangu.\n\nKadri alivyoendelea kujaribu na tulitumia muda pamoja, ilikuwa safi sana. Aliweza kinishirikisha utoto wake, vitu ambavyo sikuwa kusikia kabla. Hiyo ilinisaidia pia kusema kinachoendelea katika maisha yangu. Tuliongea hata kuhusu marafiki zangu wa kiume na kuhusu matatizo. Najua ninaweza kuongea na mama yangu sasa hivi.",
+    "SourceText": "When my mother asked to spend time with me, I thought “Maybe something is wrong, maybe she is sick.” But she said “No, I just want to spend time.” I was sceptical, but I accepted. \n\nShe asked me what I like doing. It was strange and I was not comfortable, because she never ever spent time with me on my own. \n\nThe more she kept on trying and we spent this time together, it felt really nice. She got to share her own childhood with me, things I never heard before. That helped me to also share what is going on in my life. We even talk about boyfriends and about problems I have. I know I can talk to my mother now.",
+    "text": "Mama yangu alipoomba kutumia muda na mimi, niliwaza \" Labda kitu flani hakiko sawa, labda anaumwa.\" Lakini alisema \"Hapana, nahitaji tu kutumia muda.\" Nilikuwa na mashaka, lakini nilikubali.\n\nAliniuliza nini ninapenda kufanya. Kilikuwa kitu kigeni na sikuwa huru, kwa sababu hajawahi kutumia muda pamoja na mimi kwa ajili yangu.\n\nKadri alivyoendelea kujaribu na tulitumia muda pamoja, ilikuwa safi sana. Aliweza kunishirikisha utoto wake, vitu ambavyo sikuwahi kusikia kabla. Hiyo ilinisaidia pia kusema kinachoendelea katika maisha yangu. Tuliongea hata kuhusu marafiki zangu wa kiume na kuhusu matatizo. Najua ninaweza kuongea na mama yangu sasa hivi.",
     "type": "data_list",
     "note": ""
   },
@@ -7662,13 +8940,13 @@
     "note": ""
   },
   {
-    "SourceText": "Life is tough sometimes. Before I joined @global.parent_app, I used to be grumpy at all times. I would take out my anger on everyone at home, not only my teens but even my husband as well. They would run away when I came home, because they knew I would start yelling at them. \n\nLearning to take a pause and breathe was difficult at first, but every time I tried it, it helped me to calm down. Now my teens are no longer running away when I come home, and they actually listen better than when I used to shout at them!",
-    "text": "Maisha ni magumu wakati mwingine. Kabla sijajiunga na @global.parent_app, Nilikuwa mwenye hasira wakati wote. Nilitoa hasira zangu kwa watu wote katika familia, si kwa vijana wangu tu bali hata kwa Mume wangu pia. Walikuwa wakikimbia pindi niliporudi nyumbani, kwa sababu walijua nitaanza kuwafokea.\n\nKujifunza kupumzika na kuvuta pumzi awali ilikuwa ngumu, lakini wakati mwingi nilijaribu, Ilinisaidia kutulia. Sasa Vijana wangu hawakimbii tena pindi ninaporudi nyumbani, na wanasikiliza vizuri zaidi kuliko nilipokuwa nikiwafokea awali!",
+    "SourceText": "Life is tough sometimes. Before I joined @global.parent_app, I used to be grumpy at all times. I would take out my anger on everyone at home, not only my teens but even my husband as well. They would run away when I came home because they knew I would start yelling at them. \n\nLearning to take a pause and breathe was difficult at first. But every time I tried it, it helped me to calm down. Now my teens are no longer running away when I come home and they actually listen better than when I used to shout at them!",
+    "text": "Maisha ni magumu wakati mwingine. Kabla sijajiunga na @global.parent_app, nilikuwa mwenye hasira wakati wote. Nilitoa hasira zangu kwa watu wote katika familia, si kwa vijana wangu tu bali hata kwa Mume wangu pia. Walikuwa wakikimbia pindi niliporudi nyumbani, kwa sababu walijua nitaanza kuwafokea.\n\nKujifunza kupumzika na kuvuta pumzi awali ilikuwa ngumu. Lakini wakati mwingi nilijaribu, ilinisaidia kutulia. Sasa Vijana wangu hawakimbii tena pindi ninaporudi nyumbani na wanasikiliza vizuri zaidi kuliko nilipokuwa nikiwafokea awali!",
     "type": "data_list",
     "note": "The string @global.parent_app, should not be translated."
   },
   {
-    "SourceText": "Whenever I would do something wrong, my father would get so angry at me and beat me. He would not even listen to me, and I would get so angry as well at him and everyone else. \n\nNow, when he gets angry, he first takes a few deep breaths before he responds. It makes everyone calm down instead of causing a big fight.\n\nIt really helped me at home and at school, because even me I am no longer slashing everyone and I am no longer this moody person. When I feel really angry or stressed, I also take deep breaths like my father does. I am a different person.",
+    "SourceText": "Whenever I would do something wrong, my father would get so angry at me and beat me. He would not even listen to me and I would get so angry as well at him and everyone else. \n\nNow, when he gets angry, he first takes a few deep breaths before he responds. It makes everyone calm down instead of causing a big fight.\n\nIt really helped me at home and at school, because even me I am no longer slashing everyone and I am no longer this moody person. When I feel really angry or stressed, I also take deep breaths like my father does. I am a different person.",
     "text": "Pindi nilipofanya kitu kibaya, Baba yangu alinikasirikia sana na kunipiga. Alikuwa hanisikilizi na hii ilinifanya kumkasirikia yeye pamoja na watu wengine.\n\nSasa, pindi anapokuwa na hasira, anachukua dakika chache kuvuta pumzi ndefu kabla hajajibu chochote. Inafanya kila mtu kutulia badala ya kusababisha ugomvi mkubwa.\n\nHii inanisaidia sana nyumbani na hata shuleni, hata Mimi sasa siwakasirikii wengine na si mtu wa hisia kali. Pindi ninapojihisi hasira au mwenye msongo wa mawazo, Navuta pumzi ndefu kama Baba yangu anavyofanya. Nimekuwa mtu tofauti.",
     "type": "data_list",
     "note": ""
@@ -7770,8 +9048,8 @@
     "note": ""
   },
   {
-    "SourceText": "My teenagers always just disappeared. I did not know where they were, and I would get so worried and angry with them. I used to say “this is my house, and these are my rules, if you do not want to follow them you can leave and stay in your own place.” \n\nWhen we learnt in @global.parent_app about rules, I learnt that there are rules for teens and for adults and for everyone. If we follow the rules as parents, our teens will follow our example.\n\nI explained my worry and we all agreed: We all follow the rule and say where we are going when we leave the house. Coming up with rules together helped us a lot, as my teens do not see me anymore as that annoying parent that just makes up unnecessary rules.",
-    "text": "Vijana wangu mara nyingi hutoweka. Sijui wanakuwa wapi, huwa napata wasiwasi na hasira nao. Nilikuwa nikisema \"hii ni nyumba yangu, na hizi ni sheria zangu, ikiwa hutaki kuzifuata unaweza kuondoka na kukaa mahali pako.\"\n\nTulipojifunza katika @global.parent_app kuhusu sheria, nilijifunza kwamba kuna sheria za vijana na za watu wazima na kwa kila mtu. Tukifuata sheria tukiwa wazazi, vijana wetu watafuata mfano wetu.\n\nNilielezea wasiwasi wangu na sote tukakubaliana: Sote tunafuata sheria na kusema tunapotoka nyumbani. Kutunga sheria pamoja kulitusaidia sana, kwa kuwa vijana wangu hawanioni tena kuwa mzazi huyo mwenye kuudhi anayetunga tu sheria zisizo za lazima.",
+    "SourceText": "My teenagers always just disappeared. I did not know where they were and I would get so worried and angry with them. I used to say, “This is my house, and these are my rules, if you do not want to follow them you can leave and stay in your own place.” \n\nWhen we learnt in @global.parent_app about rules, I learnt that there are rules for teens and for adults and for everyone. If we follow the rules as parents, our teens will follow our example.\n\nI explained my worry and we all agreed: We all follow the rule and say where we are going when we leave the house. Coming up with rules together helped us a lot, as my teens do not see me anymore as that annoying parent that just makes up unnecessary rules.",
+    "text": "Vijana wangu mara nyingi hutoweka. Sijui wanakuwa wapi, huwa napata wasiwasi na hasira nao. Nilikuwa nikisema, \"Hii ni nyumba yangu, na hizi ni sheria zangu, ikiwa hutaki kuzifuata unaweza kuondoka na kukaa mahali pako.\"\n\nTulipojifunza katika @global.parent_app kuhusu sheria, nilijifunza kwamba kuna sheria za vijana na za watu wazima na kwa kila mtu. Tukifuata sheria tukiwa wazazi, vijana wetu watafuata mfano wetu.\n\nNilielezea wasiwasi wangu na sote tukakubaliana: Sote tunafuata sheria na kusema tunapotoka nyumbani. Kutunga sheria pamoja kulitusaidia sana, kwa kuwa vijana wangu hawanioni tena kuwa mzazi huyo mwenye kuudhi anayetunga tu sheria zisizo za lazima.",
     "type": "data_list",
     "note": "The string @global.parent_app should not be translated."
   },
@@ -7884,8 +9162,8 @@
     "note": "The string @global.parent_app, should not be translated."
   },
   {
-    "SourceText": "Two years ago, I was raped by my uncle who stayed in our yard. I did not tell my mother, because I was afraid she would hit me, shout at me, or even throw me out of the house. I did not have anywhere else to go. \n\nWhen my mother started with @global.parent_app, she started spending more time together. I was still afraid, but in the end I shared it with my mother. My mom did not shout, but she listened and told me it is not my fault. We went to the police and the clinic together. I am so grateful I do not have to carry this secret anymore.",
-    "text": "Miaka miwili iliyopita, nilibakwa na mjomba wangu aliyekuwa anaishi nyumbani kwetu. Sikumwambia mama yangu, kwa sababu niliogopa angenipiga, kunifokea, au hata kunifukuza ndani ya nyumba. Sikuwa na mahali popote pengine pa kwenda.\n\nWakati mama yangu alipoanza @global.parent_app, alianza kutumia muda zaidi pamoja. Nilikuwa bado naogopa, lakini mwisho nilimshirikisha mama yangu.Mama yangu hakufoka, lakini alinisikiliza na kuniambia siyo kosa langu. Tulienda polisi na kliniki pamoja. Ninashukuru sana sihitaji kutunza zaidi siri hii.",
+    "SourceText": "Two years ago, I was raped by my uncle who stayed in our yard. I did not tell my mother, because I was afraid she would hit me, shout at me, or even throw me out of the house. I did not have anywhere else to go. \n\nWhen my mother started with @global.parent_app, we started spending more time together. I was still afraid, but in the end I shared it with my mother. My mom did not shout, but she listened and told me it is not my fault. We went to the police and the clinic together. I am so grateful I do not have to carry this secret anymore.",
+    "text": "Miaka miwili iliyopita, nilibakwa na mjomba wangu aliyekuwa anaishi nyumbani kwetu. Sikumwambia mama yangu, kwa sababu niliogopa angenipiga, kunifokea, au hata kunifukuza ndani ya nyumba. Sikuwa na mahali popote pengine pa kwenda.\n\nWakati mama yangu alipoanza @global.parent_app, alianza kutumia muda zaidi pamoja na mimi. Nilikuwa bado naogopa, lakini mwisho nilimshirikisha mama yangu. Mama yangu hakufoka, lakini alinisikiliza na kuniambia siyo kosa langu. Tulienda polisi na kliniki pamoja. Ninashukuru sana sihitaji kutunza zaidi siri hii.",
     "type": "data_list",
     "note": "The string @global.parent_app, should not be translated."
   },
@@ -7944,8 +9222,8 @@
     "note": ""
   },
   {
-    "SourceText": "As teens, we hear all these things about sex from others at school and on the internet. I thought all those things were true, and I was doing a lot of things secretly, because my friends were pushing me and I was afraid of what my mother would say.\n\nWhen I did this app together with my mother, I realised that so many things I learnt were not true. I learnt I can get better information and I learnt others should never push me to do things I do not want to do. My mother and I can talk about these things now. I wish we could have done that when I was younger, because it would have helped me a lot, but I am still glad we can talk today. Whenever I have a question or problem now, I know I can ask my mother and she will help me think of answers and solutions together",
-    "text": "Kama vijana, tunasikia mambo mengi kuhusu ngono kutoka kwa wengine shuleni na mtandaoni. Nilidhani yote hayo ni kweli, na nilikuwa nafanya mengi kwa usiri, kwa sababu marafiki zangu walikuwa wananishawishi na nilikuwa naogopa kwamba mama yangu atasema nini.\n\nNilipopitia programu hii pamoja na mama, niligundua kwamba mengi niliyojifunza yalikuwa sio kweli. Nilijifunza naweza kupata taarifa nzuri zaidi na nilijifunza wengine wasinisukume kufanya jambo ambalo nisilotaka kufanya. Mimi na mama yangu tunaweza kuongelea haya mambo kwa sasa. Nilitamani tungeweza fanya haya nilipokuwa mtoto, kwa sababu ingenisaidia sana, lakini bado ninafurahi tunaweza kuzungumza leo. Kila ninapokuwa na swali au tatizo sasa, ninajua naweza kumuuliza mama yangu na atanisaidia kufikiria majibu na suluhisho kwa pamoja",
+    "SourceText": "As teens, we hear all these things about sex from others at school and on the internet. I thought all those things were true, and I was doing a lot of things secretly, because my friends were pushing me and I was afraid of what my mother would say.\n\nWhen I did this app together with my mother, I realised that so many things I learnt were not true. I learnt I can get better information and I learnt others should never push me to do things I do not want to do. My mother and I can talk about these things now. I wish we could have done that when I was younger, because it would have helped me a lot, but I am still glad we can talk today. Whenever I have a question or problem now, I know I can ask my mother and she will help me think of answers and solutions together.",
+    "text": "Kama vijana, tunasikia mambo mengi kuhusu ngono kutoka kwa wengine shuleni na mtandaoni. Nilidhani yote hayo ni kweli, na nilikuwa nafanya mengi kwa usiri, kwa sababu marafiki zangu walikuwa wananishawishi na nilikuwa naogopa kwamba mama yangu atasema nini.\n\nNilipopitia programu hii pamoja na mama, niligundua kwamba mengi niliyojifunza yalikuwa sio kweli. Nilijifunza naweza kupata taarifa nzuri zaidi na nilijifunza wengine wasinisukume kufanya jambo ambalo nisilotaka kufanya. Mimi na mama yangu tunaweza kuongelea haya mambo kwa sasa. Nilitamani tungeweza fanya haya nilipokuwa mtoto, kwa sababu ingenisaidia sana, lakini bado ninafurahi tunaweza kuzungumza leo. Kila ninapokuwa na swali au tatizo sasa, ninajua naweza kumuuliza mama yangu na atanisaidia kufikiria majibu na suluhisho kwa pamoja.",
     "type": "data_list",
     "note": ""
   },
@@ -10188,8 +11466,20 @@
     "note": ""
   },
   {
+    "SourceText": "Yes",
+    "text": "Ndiyo",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "No",
+    "text": "Hapana",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Sit with your teen and choose:\n* How could a person feel when someone they love passes away?\n* How do you feel now?",
-    "text": "Kaa na kijana wako na mchague:\n* Mtu anaweza kujisikiaje endapo mtu anayempenda anapofariki?\n*Unajisikiaje sasa?",
+    "text": "Kaa na kijana wako na mchague:\n* Mtu anaweza kujisikiaje endapo mtu anayempenda anapofariki?\n* Unajisikiaje sasa?",
     "type": "template",
     "note": ""
   },
@@ -10728,8 +12018,8 @@
     "note": ""
   },
   {
-    "SourceText": "Raising teens can be hard, and we all struggle sometimes.",
-    "text": "Kulea vijana kunaweza kuwa kugumu, na wakati mwingine sisi sote tunahangaika.",
+    "SourceText": "Raising teens can be hard and we all struggle sometimes.",
+    "text": "Kulea vijana kunaweza kuwa kugumu na wakati mwingine sisi sote tunahangaika.",
     "type": "template",
     "note": ""
   },
@@ -10854,8 +12144,8 @@
     "note": ""
   },
   {
-    "SourceText": "It is not easy to look after our families. We all have challenges sometimes, but we hope this app will help you navigate them well. @global.parent_app is based on ten years of experience running parenting programmes in South Africa, and thousands of parents have found that the tips that are shared help with many parenting challenges. We hope this app will help you and your family too.\n\nHere are some of the key proven tips for you:",
-    "text": "Si rahisi kutunza familia zetu. Wakati mwingine, sisi sote tuna changamoto, lakini tunatumaini programu hii itakusaidia kuzikabili vizuri. @global.parent_app inatokana na uzoefu wa miaka kumi wa kuendesha programu za malezi huko Afrika Kusini, na maelfu ya wazazi wamegundua kuwa vidokezo vinavyotolewa husaidia kukabiliana na changamoto nyingi za malezi. Tunatumaini programu hii itakusaidia wewe na familia yako pia.\n\nHapa kuna vidokezo muhimu kwako:",
+    "SourceText": "It is not easy to look after our families. We all have challenges sometimes, but we hope this app will help you navigate them well. @global.parent_app is based on ten years of experience running parenting programmes in South Africa and thousands of parents have found that the tips that are shared help with many parenting challenges. We hope this app will help you and your family too.\n\nHere are some of the key proven tips for you:",
+    "text": "Si rahisi kutunza familia zetu. Wakati mwingine, sisi sote tuna changamoto, lakini tunatumaini programu hii itakusaidia kuzikabili vizuri. @global.parent_app inatokana na uzoefu wa miaka kumi wa kuendesha programu za malezi huko Afrika Kusini na maelfu ya wazazi wamegundua kuwa vidokezo vinavyotolewa husaidia kukabiliana na changamoto nyingi za malezi. Tunatumaini programu hii itakusaidia wewe na familia yako pia.\n\nHapa kuna vidokezo muhimu kwako:",
     "type": "template",
     "note": "The string @global.parent_app should not be translated."
   },
@@ -11262,8 +12552,8 @@
     "note": ""
   },
   {
-    "SourceText": "Close your eyes.\n\nDo you every feel something so strongly that you want to run away from it?\n\nInstead of moving away from the feeling, let’s move towards it for a moment.\nIt is ok. Close your eyes if you feel comfortable. Take a deep breath.\n\nBecome curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?\nAsk yourself some questions. What is it telling me? What does it need? How can I be kind to myself right now?",
-    "text": "Fumba macho yako.\n\nJe, huwa unahisi kitu kwa nguvu sana kiasi kwamba huwa unataka kukikimbia?\n\nBadala ya kuikimbia hisia hiyo, hebu tuikimbilie kwa muda.\nSi vibaya. Fumba macho yako kama unajisikia raha mustarehe. Vuta pumzi ndefu.\n\nKuwa mdadisi. Je, unaisikia wapi kwenye mwili wako? Je, ni ya moto au baridi? Je, ni ngumu au laini? Je, imekakamaa au imelegea?\nJiulize maswali kadhaa. Je, inaniambia nini? Je, inahitaji nini? Je, ninawezaje kujitendea wema sasa hivi?",
+    "SourceText": "Close your eyes.\n\nDo you ever feel something so strongly that you want to run away from it?\n\nInstead of moving away from the feeling, let’s move towards it for a moment.\nIt is ok. Close your eyes if you feel comfortable. Take a deep breath.\n\nBecome curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?\nAsk yourself some questions. What is it telling me? What does it need? How can I be kind to myself right now?",
+    "text": "Fumba macho yako.\n\nJe, huwa unahisi kitu kwa nguvu sana kiasi kwamba huwa unataka kukikimbia?\n\nBadala ya kuikimbia hisia hiyo, hebu tuikimbilie kwa muda.\nSi vibaya. Fumba macho yako kama unajisikia vizuri. Vuta pumzi ndefu.\n\nKuwa mdadisi. Je, unaisikia wapi kwenye mwili wako? Je, ni ya moto au baridi? Je, ni ngumu au laini? Je, imekakamaa au imelegea?\nJiulize maswali kadhaa. Je, inaniambia nini? Je, inahitaji nini? Je, ninawezaje kujitendea wema sasa hivi?",
     "type": "template",
     "note": ""
   },
@@ -11476,12 +12766,6 @@
     "text": "Anza",
     "type": "template",
     "note": ""
-  },
-  {
-    "SourceText": "This @global.workshop includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.",
-    "text": "@global.workshop_capital hiki kinajumuisha maudhui ambayo yanaweza kuwa nyeti. Unaweza kuiangalia peke yako kwanza. Kufanya hivyo itakuandaa vyema ili kumshirikisha kijana wako hayo maudhui na pia watu wengine baadaye.",
-    "type": "template",
-    "note": "The string @global.workshop should not be translated."
   },
   {
     "SourceText": "Go to @global.workshop",
@@ -12078,12 +13362,6 @@
     "note": ""
   },
   {
-    "SourceText": "Prefer not to say",
-    "text": "Ningependa nisiseme",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Watch Together",
     "text": "Angalia Pamoja",
     "type": "template",
@@ -12182,18 +13460,6 @@
   {
     "SourceText": "Are you a woman or a man?",
     "text": "Je, wewe ni mwanamke au mwanaume?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Woman",
-    "text": "Mwanamke",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Man",
-    "text": "Mwanaume",
     "type": "template",
     "note": ""
   },
@@ -12444,6 +13710,12 @@
     "note": ""
   },
   {
+    "SourceText": "Perfect! Even spending 5 minutes makes a big difference and if you do it at the same time every day (like at breakfast or before bed) it will be easier to keep it up!",
+    "text": "Safi sana! Hata kutumia dakika 5 kunaleta mabadiliko na ukifanya hivyo kwa muda uleule kila siku (kama vile wakati wa kifungua kinywa au kabla ya kwenda kulala) itakuwa rahisi zaidi kuendelea kufanya hivyo!",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Wonderful! By sharing responsibilities, you will have more time to do something fun with your teen – it’s so important!",
     "text": "Vizuri sana! Kwa kushirikiana kutekeleza majukumu, utakuwa na muda zaidi wa kufanya jambo la kufurahisha na kijana wako – ni muhimu sana!",
     "type": "template",
@@ -12456,31 +13728,13 @@
     "note": ""
   },
   {
-    "SourceText": "Think of a time when my teen is more open to me, like in the morning or right before bedtime.",
-    "text": "Fikiria muda ambao kijana wangu anakuwa wazi zaidi kwangu, kama vile asubuhi au muda mfupi kabla ya kwenda kulala.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Sit next to my teen when they are doing something they enjoy and show interest in what they like.",
-    "text": "Kukaa karibu na kijana wangu anapofanya kitu anachofurahia na kuonesha kuvutiwa na kile anachopenda.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Do something fun with the whole family.",
-    "text": "Fanya kitu cha kufurahisha na familia yote.",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Great! Picking a time when your teen is more talkative will help them to respond well to your attempt to connect.",
     "text": "Vizuri sana! Kuchagua muda ambao kijana wako anapenda kuzungumza kutamsaidia kuitikia vizuri jitihada zako za kuwasiliana naye.",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Nice! Watching your teen’s favourite T.V. show or sports match together will show them that you care. Just be patient; they will open up to you over time!",
+    "SourceText": "Nice! Watching your teen’s favourite TV show or sports match together will show them that you care. Just be patient; they will open up to you over time!",
     "text": "Safi! Kuangalia pamoja kipindi cha runinga au mechi inayopendwa na kijana wako kutamuonesha kuwa unamjali. Vumilia tu; baada ya muda ataanza kuwa wazi kwako!",
     "type": "template",
     "note": ""
@@ -12492,26 +13746,8 @@
     "note": ""
   },
   {
-    "SourceText": "Sorry that you had that challenge. Children often want to spend time watching T.V. or playing with a gadget. Well done for being patient with your teen!",
+    "SourceText": "Sorry that you had that challenge. Children often want to spend time watching TV or playing with a gadget. Well done for being patient with your teen!",
     "text": "Tunasikitika kusikia kuwa ulipata changamoto hiyo. Mara nyingi watoto wanapenda kutumia muda wao wakitazama runinga au kuchezea vifaa vya kielektroniki. Hongera kwa kumvumilia kijana wako!",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Suggest fun things my teen and I could do together.",
-    "text": "Pendekeza vitu vya kufurahisha ambavyo mimi na kijana wangu tunaweza kuvifanya pamoja.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Find something educational to do with my teen on the gadget.",
-    "text": "Tafuta kitu cha kuelimisha cha kufanya na kijana wangu kwenye kifaa cha kielektroniki.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Ask my teen to show me how their phone/gadget works.",
-    "text": "Kumuomba kijana wangu anioneshe jinsi simu yake au kifaa chake cha kielektroniki kinavyofanya kazi.",
     "type": "template",
     "note": ""
   },
@@ -12522,8 +13758,8 @@
     "note": ""
   },
   {
-    "SourceText": "Wonderful!  There are lots of fun and educational apps on phones that you can explore together. Ask questions, show interest, and remember to say something nice.",
-    "text": "Safi sana! Kuna programu nyingi sana kwenye simu zinazoelimisha na kufurahisha mnazoweza kuzitafuta pamoja. Uliza maswali, onyesha shauku, na kumbuka kusema kitu fulani vizuri.",
+    "SourceText": "Wonderful!  There are lots of fun and educational apps on phones that you can explore together. Ask questions, show interest and remember to say something nice.",
+    "text": "Safi sana! Kuna programu nyingi sana kwenye simu zinazoelimisha na kufurahisha mnazoweza kuzitafuta pamoja. Uliza maswali, onyesha shauku na kumbuka kusema kitu fulani vizuri.",
     "type": "template",
     "note": ""
   },
@@ -12534,20 +13770,8 @@
     "note": ""
   },
   {
-    "SourceText": "You are not alone here. Many parents sometimes have this challenge, too. One-on-one time should always be safe, and it does not have to cost a thing!",
-    "text": "Hauko peke yako hapa. Wakati mwingine, wazazi wengi wanakabiliwa pia na changamoto hii. Kila mara, muda wa kuzungumza wawili unapaswa kuwa salama, na haulazimiki kugharimu chochote!",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Explain to my teen why their suggestion is not safe or possible and ask them for other ideas.",
-    "text": "Kuwaelezea vijana wangu kwa nini pendekezo lake sio salama au linawezekana, na kumuomba mawazo mengine.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Suggest other fun activities that we could do together.",
-    "text": "Pendekeza shughuli nyingine za kufurahisha tunazoweza kufanya pamoja.",
+    "SourceText": "You are not alone here. Many parents sometimes have this challenge, too. One-on-one time should always be safe and it does not have to cost a thing!",
+    "text": "Hauko peke yako hapa. Wakati mwingine, wazazi wengi wanakabiliwa pia na changamoto hii. Kila mara, muda wa kuzungumza wawili unapaswa kuwa salama na haulazimiki kugharimu chochote!",
     "type": "template",
     "note": ""
   },
@@ -12570,18 +13794,6 @@
     "note": ""
   },
   {
-    "SourceText": "Watch my teen do the activity and cheer them on.",
-    "text": "Kumwangalia kijana wangu akifanya shughuli na kumshabikia.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Suggest other fun activities we can do together.",
-    "text": "Pendekeza shughuli nyingine za kufurahisha tunazoweza kufanya pamoja.",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Wonderful! Even if you are watching instead of doing the activity together, you can show your interest by describing and praising what your teen is doing!",
     "text": "Vizuri sana! Hata kama unatazama badala ya kufanya shughuli pamoja, unaweza kuonesha kuvutiwa kwa kuelezea na kusifia anachokifanya kijana wako!",
     "type": "template",
@@ -12596,18 +13808,6 @@
   {
     "SourceText": "This sometimes happens! Competitive games can be challenging for teens (and adults!) if they have difficulty with losing.",
     "text": "Wakati mwingine hii hutokea! Michezo ya kushindana inaweza kuwa na changamoto kwa vijana (na watu wazima) kama wanashindwa kupokea kushindwa.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Suggest other activities that we can do together instead of against each other.",
-    "text": "Pendekeza shughuli nyingine tunazoweza kufanya pamoja badala ya kushindana.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Play the activity in teams, so I can encourage my teen if our team loses.",
-    "text": "Cheza mchezo katika timu, ili niweze kumtia moyo kijana wangu kama timu yetu itashindwa.",
     "type": "template",
     "note": ""
   },
@@ -12630,24 +13830,6 @@
     "note": ""
   },
   {
-    "SourceText": "Say to my teen, “We have one minute before the end of one-on-one time today”, so my teen is prepared.",
-    "text": "Sema kwa kijana wangu, \"Tuna dakika moja kabla ya kufikia mwisho wa muda wa pamoja leo\", ili kijana ajiandae.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Inform my teen of how much time I have for one-on-one time and ask them to keep track on a clock or watch.",
-    "text": "Nimjulishe kijana wangu kuhusu muda kiasi ninao kwa ajili ya kutumia pamoja, halafu nimuombe aufuatilie kwenye saa.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Plan one-on-one time right before another activity that my teen enjoys.",
-    "text": "Pangilia kutumia muda pamoja na kijana muda mfupi kabla ya shughuli nyingine ambayo kijana wangu anaifurahia.",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Wonderful! By giving your teen a heads-up, the end of one-on-one time will not come as a surprise. Also, you can remind your teen that you will spend time together again tomorrow.",
     "text": "Vizuri sana! Kwa kumjulisha mapema kijana wako, mwisho wa muda wa pamoja hatukuja kwa kushtukiza. Pia, unaweza kumkumbusha kijana wako kwamba utatumia muda pamoja naye tena kesho.",
     "type": "template",
@@ -12660,32 +13842,14 @@
     "note": ""
   },
   {
-    "SourceText": "Wonderful! If you spend time together right before dinner, you can happily say, “one-on-one time is over. Let’s get ready for dinner with the rest of the family!”",
-    "text": "Vizuri sana! Kama mtatumia muda wa pamoja muda mfupi kabla ya chakula cha usiku, unaweza kusema kwa furaha, \"muda wetu wa pamoja umeisha. Tujiandae kwa chakula cha usiku pamoja na familia nzima!\"",
+    "SourceText": "Wonderful! If you spend time together right before dinner, you can happily say, “One-on-one time is over. Let’s get ready for dinner with the rest of the family!”",
+    "text": "Vizuri sana! Kama mtatumia muda wa pamoja muda mfupi kabla ya chakula cha usiku, unaweza kusema kwa furaha, \"Muda wetu wa pamoja umeisha. Tujiandae kwa chakula cha usiku pamoja na familia nzima!\"",
     "type": "template",
     "note": ""
   },
   {
     "SourceText": "Many parents face this. It can be difficult to spend one-on-one time with our teens when we have more than one child.",
     "text": "Wazazi wengi hukabiliwa na hali hii. Inaweza kuwa vigumu kutumia muda wa pamoja na vijana wetu mmojammoja kama tuna watoto zaidi ya mmoja.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Ask another adult or older sibling to look after the younger children during the one-on-one time with my teen.",
-    "text": "Muombe mtu mzima mwingine au ndugu mkubwa kuwaangalia watoto wadogo wakati wa kutumia muda wa pamoja na kijana wangu tukiwa wawili.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Think of a time when the other children are not around and spend time with my teen then.",
-    "text": "Tafuta wakati ambao watoto wengine hawapo karibu halafu tumia muda wa pamoja na kijana wangu.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Plan one-on-one time in a place other than at home.",
-    "text": "Panga kutumia muda wa pamoja mahali pengine pasipokuwa nyumbani.",
     "type": "template",
     "note": ""
   },
@@ -12750,80 +13914,14 @@
     "note": "The string @local.choice_3 should not be translated."
   },
   {
-    "SourceText": "Having a specific time to do this helps me to remember.",
-    "text": "Kuwa na muda maalum wa kufanya jambo hili hunisaidia kukumbuka.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "With a routine, my teen and I can both keep our schedule free.",
-    "text": "Kwa kuweka utaratibu, mimi na kijana wangu tunaweza kupata muda wa ziada kwenye ratiba zetu.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Spending time with my teen every day helps to build trust with them/him/her.",
-    "text": "Kutumia muda pamoja na kijana wangu kila siku, husaidia kujenga kuaminiana.",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Ah yes, even 10 minutes together makes a big difference – that makes it easy to schedule it in, next to your work and chores!",
     "text": "Naam, hata dakika 10 tu za kuwa pamoja huleta mabadiliko makubwa – kufanya hivyo hurahisisha kulipangia ratiba, sambamba na kazi yako na shughuli zako za nyumbani!",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Letting my teen choose what to do builds their confidence.",
-    "text": "Kuwaruhusu vijana wangu wachague kitu cha kufanya huwajengea kujiamini.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "If my teen chooses, s/he is more likely to want to spend time together.",
-    "text": "Kama kijana wangu akichagua kitu cha kufanya, kuna uwezekano mkubwa akataka tutumie muda pamoja.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Letting my teen choose shows that I care about his/her interests.",
-    "text": "Kumwacha kijana wangu achague kunaonyesha kuwa ninajali mambo anayoyapenda.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "By accepting my teen’s suggestions, I show that I listen to him/her.",
-    "text": "Kukubali maoni ya kijana wangu, kunaonyesha kuwa ninamsikiliza.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Saying something nice about my teen’s choice helps them feel valued.",
-    "text": "Kusema vizuri kuhusu chaguo la kijana wangu kunamsaidia kuhisi kuwa anathaminiwa.",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "So true! And if our teens choose, they are encouraged to also take responsibility in other areas of their lives.",
     "text": "Kweli kabisa! Na vijana wetu wakichagua, wanahamasika pia kuwajibika kwenye nyanja nyingine za maisha yao.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "By preventing interruptions, I show my teen that s/he is most important.",
-    "text": "Kwa kuacha kuingilia anapoongea, ninamuonyesha kijana wangu kuwa yeye ni muhimu zaidi.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Even if I can’t join my teen’s activity, like sports, I can still cheer them on.",
-    "text": "Hata kama siwezi kujiunga na shughuli ya kijana wangu, kama michezo, bado ninaweza kumshabikia.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "When I pay attention, I can learn so much about my teen’s interests, views and abilities.",
-    "text": "Ninapokuwa makini, ninajifunza mengi mno kuhusu mtazamo, uwezo na mambo anayoyapendelea kijana wangu.",
     "type": "template",
     "note": ""
   },
@@ -13284,8 +14382,8 @@
     "note": ""
   },
   {
-    "SourceText": "This is too far in the future, and too harsh as well!",
-    "text": "Hii ni mbali sana, na ni ukatili mno!",
+    "SourceText": "This is too far in the future and too harsh as well!",
+    "text": "Hii ni mbali sana na ni ukatili mno!",
     "type": "template",
     "note": ""
   },
@@ -13578,24 +14676,6 @@
     "note": ""
   },
   {
-    "SourceText": "Think of a time each day that I can spare five minutes or a bit more time.",
-    "text": "Fikiria kutenga muda wa dakika tano au zaidi kila siku.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Find a chore that we could do together in a fun way.",
-    "text": "Tafuta kazi ya nyumbani ambayo tunaweza kufanya pamoja kwa namna ya kufurahisha.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Ask my teen or someone else to help me with a chore, so I have some extra free time.",
-    "text": "Namuomba kijana wangu au mtu mwingine kunisaidia kuifanya kazi ya nyumbani, ili niwe na muda kidogo wa ziada.",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Perfect! Even spending 5 minutes makes a big difference, and if you do it at the same time every day (like at breakfast or before bed), it will be easier to keep it up!",
     "text": "Safi sana! Hata kutumia dakika 5 kunaleta mabadiliko, na ukifanya hivyo kwa muda uleule kila siku (kama vile wakati wa kifungua kinywa au kabla ya kwenda kulala), itakuwa rahisi zaidi kuendelea kufanya hivyo!",
     "type": "template",
@@ -13872,8 +14952,8 @@
     "note": ""
   },
   {
-    "SourceText": "That’s right! Positive, clear instructions help teens focus on what they should be doing. \n\nTeens will also feel more respected this way, and are more likely to listen.",
-    "text": "Hapo sawa! Maelekezo chanya na bayana huwasaidia vijana kuzingatia kile wanachopaswa kufanya.\n\nKwa njia hiyo, vijana pia watahisi kuheshimiwa zaidi, na wana uwezekano mkubwa wa kusikiliza.",
+    "SourceText": "That’s right! Positive, clear instructions help teens focus on what they should be doing. \n\nTeens will also feel more respected this way and are more likely to listen.",
+    "text": "Hapo sawa! Maelekezo chanya na bayana huwasaidia vijana kuzingatia kile wanachopaswa kufanya.\n\nKwa njia hiyo, vijana pia watahisi kuheshimiwa zaidi na wana uwezekano mkubwa wa kusikiliza.",
     "type": "template",
     "note": ""
   },
@@ -14034,12 +15114,6 @@
     "note": ""
   },
   {
-    "SourceText": "* Write down what your income is for the month.\n* Take some stones or beans or anything with lots of bits - this is your income for the month. \n(For example: If your income is @global.currency@local.monthly_income, and you have @local.number_of_beans beans, each bean is @global.currency@local.bean_value.)\n* Decide what you will spend on what, and put the stones/objects on that image. \n\nNot sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That is totally fine!",
-    "text": "* Andikeni kipato chenu kwa mwezi.\n* Chukueni hindi au maharage kadhaa au kitu chochote cha chembechembe – hicho ndicho kipato chenu kwa mwezi.\n(Kwa mfano: Kama kipato chenu ni @global.currency@local.monthly_income, na mna maharage @local.number_of_beans, kila harage ni @global.currency@local.bean_value.)\n* Amueni mtatumia kiasi gani kwenye kitu gani, na muweke hindi /vitu kwenye picha hiyo.\n\nHamna hakika kuhusu maamuzi yenu? Mnasumbuka kuamua \"mahitaji\" ni yapi na \"matamanio\" ni yapi? Hakuna shida kabisa!",
-    "type": "template",
-    "note": "The following strings should not be translated:\n@global.currency\n@local.monthly_income\n@local.number_of_beans\n@global.currency\n@local.bean_value"
-  },
-  {
     "SourceText": "Make a budget as one big family!",
     "text": "Tengeneza bajeti kama familia moja kubwa!",
     "type": "template",
@@ -14064,8 +15138,8 @@
     "note": ""
   },
   {
-    "SourceText": "* Write down what your income is for the month.\n* Take some stones or beans or anything with lots of bits - this is your income for the month. \n(For example: If your income is @global.currency@local.monthly_income, and you have @local.number_of_beans beans, each bean is @global.currency@local.bean_value.)\n* Decide what you will spend on what, and put the stones/objects on that image. \n\nNot sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine!",
-    "text": "* Andikeni kipato chenu kwa mwezi.\n* Chukueni hindi au maharage kadhaa au kitu chochote cha chembechembe – hicho ndicho kipato chenu kwa mwezi.\n(Kwa mfano: Kama kipato chenu ni @global.currency@local.monthly_income, na mna maharage @local.number_of_beans, kila harage ni @global.currency@local.bean_value.)\n* Amueni mtatumia kiasi gani kwenye kitu gani, na muweke hindi /vitu kwenye picha hiyo.\n\nHamna hakika kuhusu maamuzi yenu? Mnasumbuka kuamua \"mahitaji\" ni yapi na \"matamanio\" ni yapi? Hakuna shida kabisa!",
+    "SourceText": "* Write down what your income is for the month.\n* Take some stones or beans or anything with lots of bits - this is your income for the month. \n(For example: If your income is @global.currency@local.monthly_income and you have @local.number_of_beans beans, each bean is @global.currency@local.bean_value.)\n* Decide what you will spend on what, and put the stones/objects on that image. \n\nNot sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine!",
+    "text": "* Andikeni kipato chenu kwa mwezi.\n* Chukueni hindi au maharage kadhaa au kitu chochote cha chembechembe – hicho ndicho kipato chenu kwa mwezi.\n(Kwa mfano: Kama kipato chenu ni @global.currency@local.monthly_income, na mna maharage @local.number_of_beans, kila harage ni @global.currency@local.bean_value.)\n* Amueni mtatumia kiasi gani kwenye kitu gani na muweke hindi /vitu kwenye picha hiyo.\n\nHamna hakika kuhusu maamuzi yenu? Mnasumbuka kuamua \"mahitaji\" ni yapi na \"matamanio\" ni yapi? Hakuna shida kabisa!",
     "type": "template",
     "note": "The following strings should not be translated:\n@global.currency\n@local.monthly_income\n@local.number_of_beans\n@global.currency\n@local.bean_value"
   },
@@ -14100,8 +15174,8 @@
     "note": ""
   },
   {
-    "SourceText": "CONGRATULATIONS!!! You have made your budget – remember to do this exercise again with your other family members - if you agree on a plan together it will make a huge difference!",
-    "text": "HONGERA!!! Umetengeneza bajeti yako – kumbuka kufanya zoezi hili tena na wanafamilia wengine – kama mtakubaliana kuhusu mpango fulani pamoja, mpango huo utaleta mabadiliko makubwa!",
+    "SourceText": "CONGRATULATIONS!!! You have made your budget! Remember to do this exercise again with your other family members - if you agree on a plan together it will make a huge difference!",
+    "text": "HONGERA!!! Umetengeneza bajeti yako! Kumbuka kufanya zoezi hili tena na wanafamilia wengine – kama mtakubaliana kuhusu mpango fulani pamoja, mpango huo utaleta mabadiliko makubwa!",
     "type": "template",
     "note": ""
   },
@@ -14328,6 +15402,12 @@
     "note": "The following strings should not be translated:\n@local.workshop_data.in_text_title\n@global.workshop"
   },
   {
+    "SourceText": "Tired",
+    "text": "Uchovu",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Think about the last time someone thanked you, or said you did something great.",
     "text": "Kumbuka mara ya mwisho mtu alipokushukuru, au kusema umefanya jambo zuri sana.",
     "type": "template",
@@ -14352,12 +15432,6 @@
     "note": ""
   },
   {
-    "SourceText": "Tired",
-    "text": "Uchovu",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Your teen can feel this way too. That's what makes this week's parenting tool simple but important: Praise them for what they do right.",
     "text": "Kijana wako anaweza pia kujisikia hivyo. Hicho ndicho kinachofanya nyenzo ya malezi ya wiki hii iwe rahisi lakini muhimu: Msifie anapofanya vizuri.",
     "type": "template",
@@ -14372,30 +15446,6 @@
   {
     "SourceText": "Why did she praise them?",
     "text": "Kwa nini aliwasifia?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "To get them to do it more often",
-    "text": "Ili kuwafanya wazidi kufanya hivyo mara nyingi",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "To help her finish her work",
-    "text": "Kumsaidia amalize kazi yake",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "To make them feel good",
-    "text": "Ili kuwafanya wajisikie vizuri",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "To make herself feel good",
-    "text": "Ili yeye mwenyewe ajisikie vizuri",
     "type": "template",
     "note": ""
   },
@@ -14606,18 +15656,6 @@
   {
     "SourceText": "That is right, making clear rules together in a calm and positive way works so well!",
     "text": "Hiyo ni kweli, kuweka sheria zilizo wazi kwa kushirikiana na kwa njia ya utulivu na chanya huleta mafanikio makubwa!",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "She praised him",
-    "text": "Alimsifia",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "She rewarded him when he followed the rule",
-    "text": "Alimzawadia alipofuata sheria",
     "type": "template",
     "note": ""
   },
@@ -15140,42 +16178,6 @@
   {
     "SourceText": "\"Well done to me for...\"",
     "text": "\"Ninajipongeza kwa...\"",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Showing love to my children",
-    "text": "Kuonyesha upendo kwa watoto wangu",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Getting up even though I felt tired",
-    "text": "Kuamka hata kama nilijisikia uchovu",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Smiling at someone",
-    "text": "Kutabasamu",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Making food to stay strong",
-    "text": "Kupika chakula cha kunipa nguvu",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Spending time with my children",
-    "text": "Kutumia muda kukaa na watoto wangu",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Helping my children with schoolwork",
-    "text": "Kuwasaidia watoto wangu kazi za shule",
     "type": "template",
     "note": ""
   },
@@ -15842,18 +16844,6 @@
   {
     "SourceText": "Could a boy use his voice to get away?",
     "text": "Je, mvulana anaweza kutumia sauti yake kutoroka?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Yes",
-    "text": "Ndiyo",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "No",
-    "text": "Hapana",
     "type": "template",
     "note": ""
   },
