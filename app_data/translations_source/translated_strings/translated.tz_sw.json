@@ -16060,5 +16060,11 @@
     "text": "<p> Bonyeza hapa kubadili jina la kikundi chako. </p>",
     "type": "tour",
     "note": ""
+  },
+  {
+    "SourceText": "None of them",
+    "text": "Hakuna hata mmoja wao",
+    "type": "template",
+    "note": ""
   }
 ]

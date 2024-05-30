@@ -54,9 +54,11 @@
     },
     {
       "name": "choice_none",
-      "value": "None",
+      "value": "None of them",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "choice_none"
@@ -388,23 +390,99 @@
       },
       "rows": [
         {
+          "name": "choice_1_a",
+          "value": "Having a specific time to do this helps me to remember.",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "replies_choice_1.choice_1_a"
+        },
+        {
+          "name": "choice_1_b",
+          "value": "With a routine, my teen and I can both keep our schedule free.",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "replies_choice_1.choice_1_b"
+        },
+        {
+          "name": "choice_1_c",
+          "value": "Spending time with my teen every day helps to build trust with them/him/her",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "replies_choice_1.choice_1_c"
+        },
+        {
           "name": "answer_list_choice_1",
           "value": [
             {
               "name": "choice_1_a",
-              "text": "Having a specific time to do this helps me to remember."
+              "text": "@local.choice_1_a"
             },
             {
               "name": "choice_1_b",
-              "text": "With a routine, my teen and I can both keep our schedule free."
+              "text": "@local.choice_1_b"
             },
             {
               "name": "choice_1_c",
-              "text": "Spending time with my teen every day helps to build trust with them/him/her."
+              "text": "@local.choice_1_c"
             }
           ],
           "type": "set_variable",
-          "_nested_name": "replies_choice_1.answer_list_choice_1"
+          "_nested_name": "replies_choice_1.answer_list_choice_1",
+          "_dynamicFields": {
+            "value": {
+              "0": {
+                "text": [
+                  {
+                    "fullExpression": "@local.choice_1_a",
+                    "matchedExpression": "@local.choice_1_a",
+                    "type": "local",
+                    "fieldName": "choice_1_a"
+                  }
+                ]
+              },
+              "1": {
+                "text": [
+                  {
+                    "fullExpression": "@local.choice_1_b",
+                    "matchedExpression": "@local.choice_1_b",
+                    "type": "local",
+                    "fieldName": "choice_1_b"
+                  }
+                ]
+              },
+              "2": {
+                "text": [
+                  {
+                    "fullExpression": "@local.choice_1_c",
+                    "matchedExpression": "@local.choice_1_c",
+                    "type": "local",
+                    "fieldName": "choice_1_c"
+                  }
+                ]
+              }
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.choice_1_a": [
+              "value.0.text"
+            ],
+            "@local.choice_1_b": [
+              "value.1.text"
+            ],
+            "@local.choice_1_c": [
+              "value.2.text"
+            ]
+          }
         },
         {
           "type": "combo_box",
@@ -509,31 +587,155 @@
       },
       "rows": [
         {
+          "name": "choice_2_a",
+          "value": "Letting my teen choose what to do builds their confidence.",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "replies_choice_2.choice_2_a"
+        },
+        {
+          "name": "choice_2_b",
+          "value": "If my teen chooses, s/he is more likely to want to spend time together.",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "replies_choice_2.choice_2_b"
+        },
+        {
+          "name": "choice_2_c",
+          "value": "Letting my teen choose shows that I care about his/her interests.",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "replies_choice_2.choice_2_c"
+        },
+        {
+          "name": "choice_2_d",
+          "value": "By accepting my teen’s suggestions, I show that I listen to him/her.",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "replies_choice_2.choice_2_d"
+        },
+        {
+          "name": "choice_2_e",
+          "value": "Saying something nice about my teen’s choice helps them feel valued",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "replies_choice_2.choice_2_e"
+        },
+        {
           "name": "answer_list_choice_2",
           "value": [
             {
               "name": "choice_2_a",
-              "text": "Letting my teen choose what to do builds their confidence."
+              "text": "@local.choice_2_a"
             },
             {
               "name": "choice_2_b",
-              "text": "If my teen chooses, s/he is more likely to want to spend time together."
+              "text": "@local.choice_2_b"
             },
             {
               "name": "choice_2_c",
-              "text": "Letting my teen choose shows that I care about his/her interests."
+              "text": "@local.choice_2_c"
             },
             {
               "name": "choice_2_d",
-              "text": "By accepting my teen’s suggestions, I show that I listen to him/her."
+              "text": "@local.choice_2_d"
             },
             {
               "name": "choice_2_e",
-              "text": "Saying something nice about my teen’s choice helps them feel valued."
+              "text": "@local.choice_2_e"
             }
           ],
           "type": "set_variable",
-          "_nested_name": "replies_choice_2.answer_list_choice_2"
+          "_nested_name": "replies_choice_2.answer_list_choice_2",
+          "_dynamicFields": {
+            "value": {
+              "0": {
+                "text": [
+                  {
+                    "fullExpression": "@local.choice_2_a",
+                    "matchedExpression": "@local.choice_2_a",
+                    "type": "local",
+                    "fieldName": "choice_2_a"
+                  }
+                ]
+              },
+              "1": {
+                "text": [
+                  {
+                    "fullExpression": "@local.choice_2_b",
+                    "matchedExpression": "@local.choice_2_b",
+                    "type": "local",
+                    "fieldName": "choice_2_b"
+                  }
+                ]
+              },
+              "2": {
+                "text": [
+                  {
+                    "fullExpression": "@local.choice_2_c",
+                    "matchedExpression": "@local.choice_2_c",
+                    "type": "local",
+                    "fieldName": "choice_2_c"
+                  }
+                ]
+              },
+              "3": {
+                "text": [
+                  {
+                    "fullExpression": "@local.choice_2_d",
+                    "matchedExpression": "@local.choice_2_d",
+                    "type": "local",
+                    "fieldName": "choice_2_d"
+                  }
+                ]
+              },
+              "4": {
+                "text": [
+                  {
+                    "fullExpression": "@local.choice_2_e",
+                    "matchedExpression": "@local.choice_2_e",
+                    "type": "local",
+                    "fieldName": "choice_2_e"
+                  }
+                ]
+              }
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.choice_2_a": [
+              "value.0.text"
+            ],
+            "@local.choice_2_b": [
+              "value.1.text"
+            ],
+            "@local.choice_2_c": [
+              "value.2.text"
+            ],
+            "@local.choice_2_d": [
+              "value.3.text"
+            ],
+            "@local.choice_2_e": [
+              "value.4.text"
+            ]
+          }
         },
         {
           "type": "combo_box",
@@ -638,23 +840,101 @@
       },
       "rows": [
         {
+          "name": "choice_3_a",
+          "value": "By preventing interruptions, I show my teen that s/he is most important.",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "replies_choice_3.choice_3_a"
+        },
+        {
+          "name": "choice_3_b",
+          "value": "Even if I can’t join my teen’s activity, like sports, I can still cheer them on.",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "replies_choice_3.choice_3_b"
+        },
+        {
+          "name": "choice_3_c",
+          "value": "When I pay attention, I can learn so much about my teen’s interests, views and abilities.",
+          "_translations": {
+            "value": {
+              "tz_sw": true
+            }
+          },
+          "type": "set_variable",
+          "_nested_name": "replies_choice_3.choice_3_c"
+        },
+        {
           "name": "answer_list_choice_3",
           "value": [
             {
               "name": "choice_3_a",
-              "text": "By preventing interruptions, I show my teen that s/he is most important."
+              "text": "@local.choice_3_a"
             },
             {
               "name": "choice_3_b",
-              "text": "Even if I can’t join my teen’s activity, like sports, I can still cheer them on."
+              "text": "@local.choice_3_b"
             },
             {
               "name": "choice_3_c",
-              "text": "When I pay attention, I can learn so much about my teen’s interests, views and abilities."
+              "text": "@local.choice_3_c"
             }
           ],
           "type": "set_variable",
-          "_nested_name": "replies_choice_3.answer_list_choice_3"
+          "_nested_name": "replies_choice_3.answer_list_choice_3",
+          "_dynamicFields": {
+            "value": {
+              "0": {
+                "text": [
+                  {
+                    "fullExpression": "@local.choice_3_a",
+                    "matchedExpression": "@local.choice_3_a",
+                    "type": "local",
+                    "fieldName": "choice_3_a"
+                  }
+                ]
+              },
+              "1": {
+                "text": [
+                  {
+                    "fullExpression": "@local.choice_3_b",
+                    "matchedExpression": "@local.choice_3_b",
+                    "type": "local",
+                    "fieldName": "choice_3_b"
+                  }
+                ]
+              },
+              "2": {
+                "text": [
+                  {
+                    "fullExpression": "@local.choice_3_c",
+                    "matchedExpression": "@local.choice_3_c",
+                    "type": "local",
+                    "fieldName": "choice_3_c"
+                  }
+                ]
+              }
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.choice_3_a": [
+              "value.0.text"
+            ],
+            "@local.choice_3_b": [
+              "value.1.text"
+            ],
+            "@local.choice_3_c": [
+              "value.2.text"
+            ]
+          }
         },
         {
           "type": "combo_box",
