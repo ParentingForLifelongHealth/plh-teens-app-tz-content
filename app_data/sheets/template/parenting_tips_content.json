@@ -823,10 +823,10 @@
                   "trigger": "click",
                   "action_id": "go_to",
                   "args": [
-                    "w_praise_tools"
+                    "lib_act_w_praise"
                   ],
-                  "_raw": "click | go_to: w_praise_tools",
-                  "_cleaned": "click | go_to: w_praise_tools"
+                  "_raw": "click | go_to: lib_act_w_praise",
+                  "_cleaned": "click | go_to: lib_act_w_praise"
                 }
               ],
               "hidden": false,

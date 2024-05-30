@@ -26,7 +26,7 @@
             },
             {
               "name": "button_1",
-              "value": "@data.workshop.w_money.tools",
+              "value": "@data.tools.w_money.title",
               "_translations": {
                 "value": {}
               },
@@ -47,15 +47,15 @@
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@data.workshop.w_money.tools",
-                    "matchedExpression": "@data.workshop.w_money.tools",
+                    "fullExpression": "@data.tools.w_money.title",
+                    "matchedExpression": "@data.tools.w_money.title",
                     "type": "data",
-                    "fieldName": "workshop"
+                    "fieldName": "tools"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@data.workshop.w_money.tools": [
+                "@data.tools.w_money.title": [
                   "value"
                 ]
               }

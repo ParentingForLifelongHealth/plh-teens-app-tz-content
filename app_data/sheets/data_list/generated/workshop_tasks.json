@@ -713,9 +713,7 @@
         "caregiver_testimonial_script": {
           "tz_sw": true
         },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
+        "teen_testimonial_script": {},
         "in_text_title": {
           "tz_sw": true
         }
@@ -734,7 +732,7 @@
           "eng": "Thanks to the app, I can now talk to my son about all these changes that he is going through with his body and emotions and relationships. We were both not comfortable bringing it up before, but the practical examples in the app made it possible for us to start talking. And I was really surprised by how many questions and experiences my son already has, even though he is only 14!\n\nNow he can come to me if there is something happening at school or if he is not sure how to handle something. The other day he even told me that some of his friends were making fun of him because he does not have a girlfriend yet, so we talked about it and I could explain to him that it is important to focus on school first and that it is never okay for someone to pressure him to have a relationship."
         },
         "teen_testimonial_script": {
-          "eng": "As teens, we hear all these things about sex from others at school and on the internet. I thought all those things were true, and I was doing a lot of things secretly, because my friends were pushing me and I was afraid of what my mother would say.\n\nWhen I did this app together with my mother, I realised that so many things I learnt were not true. I learnt I can get better information and I learnt others should never push me to do things I do not want to do. My mother and I can talk about these things now. I wish we could have done that when I was younger, because it would have helped me a lot, but I am still glad we can talk today. Whenever I have a question or problem now, I know I can ask my mother and she will help me think of answers and solutions together"
+          "eng": "As teens, we hear all these things about sex from others at school and on the internet. I thought all those things were true, and I was doing a lot of things secretly, because my friends were pushing me and I was afraid of what my mother would say.\n\nWhen I did this app together with my mother, I realised that so many things I learnt were not true. I learnt I can get better information and I learnt others should never push me to do things I do not want to do. My mother and I can talk about these things now. I wish we could have done that when I was younger, because it would have helped me a lot, but I am still glad we can talk today. Whenever I have a question or problem now, I know I can ask my mother and she will help me think of answers and solutions together."
         },
         "in_text_title": {
           "eng": "**Body Changes and Intimate Relationships** @global.workshop"
@@ -743,7 +741,7 @@
       "lower_case_title": "body changes and intimate relationships",
       "description": "Open discussions help your teen understand changes and make healthy choices.",
       "caregiver_testimonial_script": "Thanks to the app, I can now talk to my son about all these changes that he is going through with his body and emotions and relationships. We were both not comfortable bringing it up before, but the practical examples in the app made it possible for us to start talking. And I was really surprised by how many questions and experiences my son already has, even though he is only 14!\n\nNow he can come to me if there is something happening at school or if he is not sure how to handle something. The other day he even told me that some of his friends were making fun of him because he does not have a girlfriend yet, so we talked about it and I could explain to him that it is important to focus on school first and that it is never okay for someone to pressure him to have a relationship.",
-      "teen_testimonial_script": "As teens, we hear all these things about sex from others at school and on the internet. I thought all those things were true, and I was doing a lot of things secretly, because my friends were pushing me and I was afraid of what my mother would say.\n\nWhen I did this app together with my mother, I realised that so many things I learnt were not true. I learnt I can get better information and I learnt others should never push me to do things I do not want to do. My mother and I can talk about these things now. I wish we could have done that when I was younger, because it would have helped me a lot, but I am still glad we can talk today. Whenever I have a question or problem now, I know I can ask my mother and she will help me think of answers and solutions together",
+      "teen_testimonial_script": "As teens, we hear all these things about sex from others at school and on the internet. I thought all those things were true, and I was doing a lot of things secretly, because my friends were pushing me and I was afraid of what my mother would say.\n\nWhen I did this app together with my mother, I realised that so many things I learnt were not true. I learnt I can get better information and I learnt others should never push me to do things I do not want to do. My mother and I can talk about these things now. I wish we could have done that when I was younger, because it would have helped me a lot, but I am still glad we can talk today. Whenever I have a question or problem now, I know I can ask my mother and she will help me think of answers and solutions together.",
       "in_text_title": "**Body Changes and Intimate Relationships** @global.workshop",
       "something_fun_data": "@data.something_fun.friendly_chat",
       "completed_field": "task_w_srh_completed",
