@@ -2695,5 +2695,6 @@
   "<p> This shows the day of the week that your new @global.weekly_workshop becomes available. </p>\n\n<p> If you want to change it, just press it. </p>": "<p> Hii inaonesha siku ya wiki ambayo @global.weekly_workshop mpya itakuwa tayari kwa ajili yako. </p>\n\n<p> Ukitaka kuibadilisha, bonyeza tu kitufe. </p>",
   "<p> This shows the @global.weekly_workshop that you're currently on. </p>": "<p> Hii inaonesha @global.weekly_workshop unayojifunza sasa. </p>",
   "<p> You can change here whether you want to do your @global.weekly_workshops as a group or by yourself. </p>": "<p> Kama unataka kufanya @global.weekly_workshops kama kikundi au peke yako, unaweza kubadilisha hapa. </p>",
-  "<p> Tap here to change your group name. </p>": "<p> Bonyeza hapa kubadili jina la kikundi chako. </p>"
+  "<p> Tap here to change your group name. </p>": "<p> Bonyeza hapa kubadili jina la kikundi chako. </p>",
+  "None of them": "Hakuna hata mmoja wao"
 }
