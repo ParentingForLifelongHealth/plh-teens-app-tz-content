@@ -7,7 +7,9 @@
       "name": "name_1",
       "value": "Showing love to my children",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "name_1"
@@ -16,7 +18,9 @@
       "name": "name_2",
       "value": "Getting up even though I felt tired",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "name_2"
@@ -25,7 +29,9 @@
       "name": "name_3",
       "value": "Smiling at someone",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "name_3"
@@ -34,7 +40,9 @@
       "name": "name_4",
       "value": "Making food to stay strong",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "name_4"
@@ -43,7 +51,9 @@
       "name": "name_5",
       "value": "Spending time with my children",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "name_5"
@@ -52,7 +62,9 @@
       "name": "name_6",
       "value": "Helping my children with schoolwork",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "name_6"
