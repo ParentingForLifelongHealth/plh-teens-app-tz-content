@@ -188,7 +188,9 @@
       "name": "man",
       "value": "Man",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "man"
@@ -197,7 +199,9 @@
       "name": "woman",
       "value": "Woman",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "woman"
@@ -206,7 +210,9 @@
       "name": "prefer_not_to_say",
       "value": "Prefer not to say",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "prefer_not_to_say"
