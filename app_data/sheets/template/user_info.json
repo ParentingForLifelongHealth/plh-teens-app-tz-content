@@ -185,23 +185,95 @@
       "_nested_name": "gender"
     },
     {
+      "name": "man",
+      "value": "Man",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "man"
+    },
+    {
+      "name": "woman",
+      "value": "Woman",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "woman"
+    },
+    {
+      "name": "prefer_not_to_say",
+      "value": "Prefer not to say",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "prefer_not_to_say"
+    },
+    {
       "name": "answer_list",
       "value": [
         {
           "name": "male",
-          "text": "Man"
+          "text": "@local.man"
         },
         {
           "name": "female",
-          "text": "Woman"
+          "text": "@local.woman"
         },
         {
           "name": "prefer_not_to_say",
-          "text": "Prefer not to say"
+          "text": "@local.prefer_not_to_say"
         }
       ],
       "type": "set_variable",
-      "_nested_name": "answer_list"
+      "_nested_name": "answer_list",
+      "_dynamicFields": {
+        "value": {
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.man",
+                "matchedExpression": "@local.man",
+                "type": "local",
+                "fieldName": "man"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.woman",
+                "matchedExpression": "@local.woman",
+                "type": "local",
+                "fieldName": "woman"
+              }
+            ]
+          },
+          "2": {
+            "text": [
+              {
+                "fullExpression": "@local.prefer_not_to_say",
+                "matchedExpression": "@local.prefer_not_to_say",
+                "type": "local",
+                "fieldName": "prefer_not_to_say"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.man": [
+          "value.0.text"
+        ],
+        "@local.woman": [
+          "value.1.text"
+        ],
+        "@local.prefer_not_to_say": [
+          "value.2.text"
+        ]
+      }
     },
     {
       "type": "combo_box",

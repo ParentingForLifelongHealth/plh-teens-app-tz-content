@@ -393,9 +393,7 @@
           "name": "choice_1_a",
           "value": "Having a specific time to do this helps me to remember.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "replies_choice_1.choice_1_a"
@@ -404,9 +402,7 @@
           "name": "choice_1_b",
           "value": "With a routine, my teen and I can both keep our schedule free.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "replies_choice_1.choice_1_b"
@@ -590,9 +586,7 @@
           "name": "choice_2_a",
           "value": "Letting my teen choose what to do builds their confidence.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "replies_choice_2.choice_2_a"
@@ -601,9 +595,7 @@
           "name": "choice_2_b",
           "value": "If my teen chooses, s/he is more likely to want to spend time together.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "replies_choice_2.choice_2_b"
@@ -612,9 +604,7 @@
           "name": "choice_2_c",
           "value": "Letting my teen choose shows that I care about his/her interests.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "replies_choice_2.choice_2_c"
@@ -623,9 +613,7 @@
           "name": "choice_2_d",
           "value": "By accepting my teen’s suggestions, I show that I listen to him/her.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "replies_choice_2.choice_2_d"
@@ -843,9 +831,7 @@
           "name": "choice_3_a",
           "value": "By preventing interruptions, I show my teen that s/he is most important.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "replies_choice_3.choice_3_a"
@@ -854,9 +840,7 @@
           "name": "choice_3_b",
           "value": "Even if I can’t join my teen’s activity, like sports, I can still cheer them on.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "replies_choice_3.choice_3_b"
@@ -865,9 +849,7 @@
           "name": "choice_3_c",
           "value": "When I pay attention, I can learn so much about my teen’s interests, views and abilities.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "replies_choice_3.choice_3_c"
