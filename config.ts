@@ -16,16 +16,16 @@ config.translations.translated_strings_path = "./app_data/translations_source/tr
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.1.18",
+  content_tag_latest: "1.1.19",
 };
 
 config.android = {
   app_id:'international.idems.plh_teens_tz',
   app_name:'PLH Teens TZ',
-  splash_asset_path: "./app_data/assets/android/splash.png",
-  icon_asset_path: "./app_data/assets/android/icon.png",
-  icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
-  icon_asset_background_path: "./app_data/assets/android/icon-background.png",
+  splash_asset_path: "./app_data/global/assets/android/splash.png",
+  icon_asset_path: "./app_data/global/assets/android/icon.png",
+  icon_asset_foreground_path: "./app_data/global/assets/android/icon-foreground.png",
+  icon_asset_background_path: "./app_data/global/assets/android/icon-background.png",
 };
 
 config.web.favicon_asset = "global/web/favicon.png";
