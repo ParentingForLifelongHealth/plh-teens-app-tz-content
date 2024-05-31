@@ -11466,18 +11466,6 @@
     "note": ""
   },
   {
-    "SourceText": "Yes",
-    "text": "Ndiyo",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "No",
-    "text": "Hapana",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "Sit with your teen and choose:\n* How could a person feel when someone they love passes away?\n* How do you feel now?",
     "text": "Kaa na kijana wako na mchague:\n* Mtu anaweza kujisikiaje endapo mtu anayempenda anapofariki?\n* Unajisikiaje sasa?",
     "type": "template",
@@ -13362,6 +13350,24 @@
     "note": ""
   },
   {
+    "SourceText": "Man",
+    "text": "Mwanaume",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Woman",
+    "text": "Mwanamke",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Prefer not to say",
+    "text": "Ningependa nisiseme",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Watch Together",
     "text": "Angalia Pamoja",
     "type": "template",
@@ -13710,6 +13716,24 @@
     "note": ""
   },
   {
+    "SourceText": "Think of a time each day that I can spare five minutes or a bit more time.",
+    "text": "Fikiria kutenga muda wa dakika tano au zaidi kila siku.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Find a chore that we could do together in a fun way.",
+    "text": "Tafuta kazi ya nyumbani ambayo tunaweza kufanya pamoja kwa namna ya kufurahisha.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Ask my teen or someone else to help me with a chore, so I have some extra free time.",
+    "text": "Namuomba kijana wangu au mtu mwingine kunisaidia kuifanya kazi ya nyumbani, ili niwe na muda kidogo wa ziada.",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Perfect! Even spending 5 minutes makes a big difference and if you do it at the same time every day (like at breakfast or before bed) it will be easier to keep it up!",
     "text": "Safi sana! Hata kutumia dakika 5 kunaleta mabadiliko na ukifanya hivyo kwa muda uleule kila siku (kama vile wakati wa kifungua kinywa au kabla ya kwenda kulala) itakuwa rahisi zaidi kuendelea kufanya hivyo!",
     "type": "template",
@@ -13724,6 +13748,24 @@
   {
     "SourceText": "Sorry that you struggled with that. It can make us feel bad if our children do not want to spend one-on-one time with us.",
     "text": "Tunasikitika kwamba jambo hilo lilikusumbua. Inaweza kutufanya tujisikie vibaya kama watoto wetu hawataki kutumia muda wa pamoja na sisi.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Think of a time when my teen is more open to me, like in the morning or right before bedtime.",
+    "text": "Fikiria muda ambao kijana wangu anakuwa wazi zaidi kwangu, kama vile asubuhi au muda mfupi kabla ya kwenda kulala.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Sit next to my teen when they are doing something they enjoy and show interest in what they like.",
+    "text": "Kukaa karibu na kijana wangu anapofanya kitu anachofurahia na kuonesha kuvutiwa na kile anachopenda.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Do something fun with the whole family.",
+    "text": "Fanya kitu cha kufurahisha na familia yote.",
     "type": "template",
     "note": ""
   },
@@ -13752,6 +13794,24 @@
     "note": ""
   },
   {
+    "SourceText": "Suggest fun things my teen and I could do together.",
+    "text": "Pendekeza vitu vya kufurahisha ambavyo mimi na kijana wangu tunaweza kuvifanya pamoja.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Find something educational to do with my teen on the gadget.",
+    "text": "Tafuta kitu cha kuelimisha cha kufanya na kijana wangu kwenye kifaa cha kielektroniki.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Ask my teen to show me how their phone/gadget works.",
+    "text": "Kumuomba kijana wangu anioneshe jinsi simu yake au kifaa chake cha kielektroniki kinavyofanya kazi.",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "That's perfect! If you need inspiration, here are some ideas from other families of what you could do together. Remember, let your teen choose.",
     "text": "Hiyo ni nzuri sana! Kama unahitaji hamasa, haya hapa mawazo kutoka familia nyingine kuhusu mambo mnayoweza kufanya pamoja. Kumbuka, mwachie kijana wako achague.",
     "type": "template",
@@ -13776,6 +13836,18 @@
     "note": ""
   },
   {
+    "SourceText": "Explain to my teen why their suggestion is not safe or possible and ask them for other ideas.",
+    "text": "Kuwaelezea vijana wangu kwa nini pendekezo lake sio salama au linawezekana, na kumuomba mawazo mengine.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Suggest other fun activities that we could do together.",
+    "text": "Pendekeza shughuli nyingine za kufurahisha tunazoweza kufanya pamoja.",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Awesome! It is very important that your teen understands why you cannot do the activity that they suggested. Ask them for other ideas!",
     "text": "Vizuri! Ni muhimu sana kijana wako aelewe kwa nini huwezi kufanya shughuli aliyoipendekeza. Muombe atoe mawazo mengine!",
     "type": "template",
@@ -13790,6 +13862,18 @@
   {
     "SourceText": "Sorry to hear this. Our teens may be disappointed if we cannot do what they want to do, like playing sports or doing other physically demanding activities. But remember, what is most important is that we spend time with them. That looks different for everyone!",
     "text": "Tunasikitika kusikia hivyo. Vijana wetu wanaweza kusikitika tusipoweza kufanya kile wanachotaka, kama vile kucheza michezo au kufanya shughuli nyingine zinazohitaji kutumia nguvu nyingi za mwili. Lakini kumbuka, kilicho muhimu zaidi ni kwamba tunatumia muda pamoja nao. Kufanya hivyo kunaleta mabadiliko kwa kila mtu!",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Watch my teen do the activity and cheer them on.",
+    "text": "Kumwangalia kijana wangu akifanya shughuli na kumshabikia.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Suggest other fun activities we can do together.",
+    "text": "Pendekeza shughuli nyingine za kufurahisha tunazoweza kufanya pamoja.",
     "type": "template",
     "note": ""
   },
@@ -13812,6 +13896,18 @@
     "note": ""
   },
   {
+    "SourceText": "Suggest other activities that we can do together instead of against each other.",
+    "text": "Pendekeza shughuli nyingine tunazoweza kufanya pamoja badala ya kushindana.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Play the activity in teams, so I can encourage my teen if our team loses.",
+    "text": "Cheza mchezo katika timu, ili niweze kumtia moyo kijana wangu kama timu yetu itashindwa.",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Remember, let your teen choose! You can find suggestions for activities you could do with your teen in the @global.parent_centre, if you need it.",
     "text": "Kumbuka, muache kijana wako achague! Unaweza kutafuta mapendekezo ya shughuli unazoweza kufanya na kijana wako @global.parent_centre, kama utahitaji.",
     "type": "template",
@@ -13826,6 +13922,24 @@
   {
     "SourceText": "Yes, the end of one-on-one time can sometimes be difficult.",
     "text": "Ndiyo, kufikia mwisho wa muda wa pamoja kunaweza kuwa mgumu.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Say to my teen, “We have one minute before the end of one-on-one time today”, so my teen is prepared.",
+    "text": "Sema kwa kijana wangu, \"Tuna dakika moja kabla ya kufikia mwisho wa muda wa pamoja leo\", ili kijana ajiandae.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Inform my teen of how much time I have for one-on-one time and ask them to keep track on a clock or watch.",
+    "text": "Nimjulishe kijana wangu kuhusu muda kiasi ninao kwa ajili ya kutumia pamoja, halafu nimuombe aufuatilie kwenye saa.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Plan one-on-one time right before another activity that my teen enjoys.",
+    "text": "Pangilia kutumia muda pamoja na kijana muda mfupi kabla ya shughuli nyingine ambayo kijana wangu anaifurahia.",
     "type": "template",
     "note": ""
   },
@@ -13850,6 +13964,24 @@
   {
     "SourceText": "Many parents face this. It can be difficult to spend one-on-one time with our teens when we have more than one child.",
     "text": "Wazazi wengi hukabiliwa na hali hii. Inaweza kuwa vigumu kutumia muda wa pamoja na vijana wetu mmojammoja kama tuna watoto zaidi ya mmoja.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Ask another adult or older sibling to look after the younger children during the one-on-one time with my teen.",
+    "text": "Muombe mtu mzima mwingine au ndugu mkubwa kuwaangalia watoto wadogo wakati wa kutumia muda wa pamoja na kijana wangu tukiwa wawili.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Think of a time when the other children are not around and spend time with my teen then.",
+    "text": "Tafuta wakati ambao watoto wengine hawapo karibu halafu tumia muda wa pamoja na kijana wangu.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Plan one-on-one time in a place other than at home.",
+    "text": "Panga kutumia muda wa pamoja mahali pengine pasipokuwa nyumbani.",
     "type": "template",
     "note": ""
   },
@@ -13890,6 +14022,12 @@
     "note": ""
   },
   {
+    "SourceText": "None of them",
+    "text": "Hakuna hata mmoja wao",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Why was this tip helpful for you?",
     "text": "Kwa nini kidokezo hiki kilikufaa?",
     "type": "template",
@@ -13914,14 +14052,80 @@
     "note": "The string @local.choice_3 should not be translated."
   },
   {
+    "SourceText": "Having a specific time to do this helps me to remember.",
+    "text": "Kuwa na muda maalum wa kufanya jambo hili hunisaidia kukumbuka.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "With a routine, my teen and I can both keep our schedule free.",
+    "text": "Kwa kuweka utaratibu, mimi na kijana wangu tunaweza kupata muda wa ziada kwenye ratiba zetu.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Spending time with my teen every day helps to build trust with them/him/her",
+    "text": "Kutumia muda pamoja na kijana wangu kila siku, husaidia kujenga kuaminiana",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Ah yes, even 10 minutes together makes a big difference – that makes it easy to schedule it in, next to your work and chores!",
     "text": "Naam, hata dakika 10 tu za kuwa pamoja huleta mabadiliko makubwa – kufanya hivyo hurahisisha kulipangia ratiba, sambamba na kazi yako na shughuli zako za nyumbani!",
     "type": "template",
     "note": ""
   },
   {
+    "SourceText": "Letting my teen choose what to do builds their confidence.",
+    "text": "Kuwaruhusu vijana wangu wachague kitu cha kufanya huwajengea kujiamini.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "If my teen chooses, s/he is more likely to want to spend time together.",
+    "text": "Kama kijana wangu akichagua kitu cha kufanya, kuna uwezekano mkubwa akataka tutumie muda pamoja.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Letting my teen choose shows that I care about his/her interests.",
+    "text": "Kumwacha kijana wangu achague kunaonyesha kuwa ninajali mambo anayoyapenda.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "By accepting my teen’s suggestions, I show that I listen to him/her.",
+    "text": "Kukubali maoni ya kijana wangu, kunaonyesha kuwa ninamsikiliza.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Saying something nice about my teen’s choice helps them feel valued",
+    "text": "Kusema vizuri kuhusu chaguo la kijana wangu kunamsaidia kuhisi kuwa anathaminiwa",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "So true! And if our teens choose, they are encouraged to also take responsibility in other areas of their lives.",
     "text": "Kweli kabisa! Na vijana wetu wakichagua, wanahamasika pia kuwajibika kwenye nyanja nyingine za maisha yao.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "By preventing interruptions, I show my teen that s/he is most important.",
+    "text": "Kwa kuacha kuingilia anapoongea, ninamuonyesha kijana wangu kuwa yeye ni muhimu zaidi.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Even if I can’t join my teen’s activity, like sports, I can still cheer them on.",
+    "text": "Hata kama siwezi kujiunga na shughuli ya kijana wangu, kama michezo, bado ninaweza kumshabikia.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "When I pay attention, I can learn so much about my teen’s interests, views and abilities.",
+    "text": "Ninapokuwa makini, ninajifunza mengi mno kuhusu mtazamo, uwezo na mambo anayoyapendelea kijana wangu.",
     "type": "template",
     "note": ""
   },
@@ -16146,6 +16350,42 @@
     "note": "The following strings should not be translated:\n@global.parent_app\n@global.parent_app\n@global.workshops"
   },
   {
+    "SourceText": "Showing love to my children",
+    "text": "Kuonyesha upendo kwa watoto wangu",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Getting up even though I felt tired",
+    "text": "Kuamka hata kama nilijisikia uchovu",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Smiling at someone",
+    "text": "Kutabasamu",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Making food to stay strong",
+    "text": "Kupika chakula cha kunipa nguvu",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Spending time with my children",
+    "text": "Kutumia muda kukaa na watoto wangu",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Helping my children with schoolwork",
+    "text": "Kuwasaidia watoto wangu kazi za shule",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Paying attention to what we do well helps us to focus on the positive. \n\nLet’s take a moment to praise ourselves. We’ll show you how.",
     "text": "Kumakinikia kile tunachokifanya vizuri hutusaidia kuzingatia mambo chanya.\n\nHebu tutumie muda kujisifia. Tutakuonyesha jinsi ya kujisifia.",
     "type": "template",
@@ -16830,6 +17070,18 @@
     "note": "The string @data.workshop.w_svp.in_text_title should not be translated."
   },
   {
+    "SourceText": "Yes",
+    "text": "Ndiyo",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "No",
+    "text": "Hapana",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Let’s think back of @global.w_svp_teen_girl_2’s dangerous situation:",
     "text": "Hebu tufikirie mwanzo hali ya hatari ya @global.w_svp_teen_girl_2:",
     "type": "template",
@@ -17049,12 +17301,6 @@
     "SourceText": "<p> Tap here to change your group name. </p>",
     "text": "<p> Bonyeza hapa kubadili jina la kikundi chako. </p>",
     "type": "tour",
-    "note": ""
-  },
-  {
-    "SourceText": "None of them",
-    "text": "Hakuna hata mmoja wao",
-    "type": "template",
     "note": ""
   }
 ]

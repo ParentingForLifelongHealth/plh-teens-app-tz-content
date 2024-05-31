@@ -53,9 +53,11 @@
     },
     {
       "name": "choice_none",
-      "value": "None",
+      "value": "None of them",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "choice_none"
