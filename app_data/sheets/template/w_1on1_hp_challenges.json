@@ -727,9 +727,7 @@
           "name": "choice_1_a",
           "value": "Think of a time each day that I can spare five minutes or a bit more time.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_1.choice_1_a"
@@ -738,9 +736,7 @@
           "name": "choice_1_b",
           "value": "Find a chore that we could do together in a fun way.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_1.choice_1_b"
@@ -749,9 +745,7 @@
           "name": "choice_1_c",
           "value": "Ask my teen or someone else to help me with a chore, so I have some extra free time.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_1.choice_1_c"
@@ -1018,9 +1012,7 @@
           "name": "choice_2_a",
           "value": "Think of a time when my teen is more open to me, like in the morning or right before bedtime.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_2.choice_2_a"
@@ -1029,9 +1021,7 @@
           "name": "choice_2_b",
           "value": "Sit next to my teen when they are doing something they enjoy and show interest in what they like.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_2.choice_2_b"
@@ -1040,9 +1030,7 @@
           "name": "choice_2_c",
           "value": "Do something fun with the whole family.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_2.choice_2_c"
@@ -1308,9 +1296,7 @@
         {
           "value": "Suggest fun things my teen and I could do together.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "name": "set_variable_3",
@@ -1319,9 +1305,7 @@
         {
           "value": "Find something educational to do with my teen on the gadget.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "name": "set_variable_4",
@@ -1330,9 +1314,7 @@
         {
           "value": "Ask my teen to show me how their phone/gadget works.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "name": "set_variable_5",
@@ -1647,9 +1629,7 @@
           "name": "choice_4_a",
           "value": "Explain to my teen why their suggestion is not safe or possible and ask them for other ideas.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_4.choice_4_a"
@@ -1658,9 +1638,7 @@
           "name": "choice_4_b",
           "value": "Suggest other fun activities that we could do together.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_4.choice_4_b"
@@ -1894,9 +1872,7 @@
           "name": "choice_5_a",
           "value": "Watch my teen do the activity and cheer them on.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_5.choice_5_a"
@@ -1905,9 +1881,7 @@
           "name": "choice_5_b",
           "value": "Suggest other fun activities we can do together.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_5.choice_5_b"
@@ -2141,9 +2115,7 @@
           "name": "choice_6_a",
           "value": "Suggest other activities that we can do together instead of against each other.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_6.choice_6_a"
@@ -2152,9 +2124,7 @@
           "name": "choice_6_b",
           "value": "Play the activity in teams, so I can encourage my teen if our team loses.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_6.choice_6_b"
@@ -2388,9 +2358,7 @@
           "name": "choice_7_a",
           "value": "Say to my teen, “We have one minute before the end of one-on-one time today”, so my teen is prepared.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_7.choice_7_a"
@@ -2399,9 +2367,7 @@
           "name": "choice_7_b",
           "value": "Inform my teen of how much time I have for one-on-one time and ask them to keep track on a clock or watch.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_7.choice_7_b"
@@ -2410,9 +2376,7 @@
           "name": "choice_7_c",
           "value": "Plan one-on-one time right before another activity that my teen enjoys.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_7.choice_7_c"
@@ -2679,9 +2643,7 @@
           "name": "choice_8_a",
           "value": "Ask another adult or older sibling to look after the younger children during the one-on-one time with my teen.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_8.choice_8_a"
@@ -2690,9 +2652,7 @@
           "name": "choice_8_b",
           "value": "Think of a time when the other children are not around and spend time with my teen then.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_8.choice_8_b"
@@ -2701,9 +2661,7 @@
           "name": "choice_8_c",
           "value": "Plan one-on-one time in a place other than at home.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "challenge_8.choice_8_c"

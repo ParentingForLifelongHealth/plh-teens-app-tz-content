@@ -4,6 +4,60 @@
   "status": "released",
   "rows": [
     {
+      "name": "name_1",
+      "value": "Showing love to my children",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "name_1"
+    },
+    {
+      "name": "name_2",
+      "value": "Getting up even though I felt tired",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "name_2"
+    },
+    {
+      "name": "name_3",
+      "value": "Smiling at someone",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "name_3"
+    },
+    {
+      "name": "name_4",
+      "value": "Making food to stay strong",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "name_4"
+    },
+    {
+      "name": "name_5",
+      "value": "Spending time with my children",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "name_5"
+    },
+    {
+      "name": "name_6",
+      "value": "Helping my children with schoolwork",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "name_6"
+    },
+    {
       "type": "template",
       "name": "think",
       "value": "think_temp",
@@ -380,31 +434,115 @@
                   "value": [
                     {
                       "name": "name_1",
-                      "text": "Showing love to my children"
+                      "text": "@local.name_1"
                     },
                     {
                       "name": "name_2",
-                      "text": "Getting up even though I felt tired"
+                      "text": "@local.name_2"
                     },
                     {
                       "name": "name_3",
-                      "text": "Smiling at someone"
+                      "text": "@local.name_3"
                     },
                     {
                       "name": "name_4",
-                      "text": "Making food to stay strong"
+                      "text": "@local.name_4"
                     },
                     {
                       "name": "name_5",
-                      "text": "Spending time with my children"
+                      "text": "@local.name_5"
                     },
                     {
                       "name": "name_6",
-                      "text": "Helping my children with schoolwork"
+                      "text": "@local.name_6"
                     }
                   ],
                   "type": "set_variable",
-                  "_nested_name": "think.workshop_activity.content_box.answer_list"
+                  "_nested_name": "think.workshop_activity.content_box.answer_list",
+                  "_dynamicFields": {
+                    "value": {
+                      "0": {
+                        "text": [
+                          {
+                            "fullExpression": "@local.name_1",
+                            "matchedExpression": "@local.name_1",
+                            "type": "local",
+                            "fieldName": "name_1"
+                          }
+                        ]
+                      },
+                      "1": {
+                        "text": [
+                          {
+                            "fullExpression": "@local.name_2",
+                            "matchedExpression": "@local.name_2",
+                            "type": "local",
+                            "fieldName": "name_2"
+                          }
+                        ]
+                      },
+                      "2": {
+                        "text": [
+                          {
+                            "fullExpression": "@local.name_3",
+                            "matchedExpression": "@local.name_3",
+                            "type": "local",
+                            "fieldName": "name_3"
+                          }
+                        ]
+                      },
+                      "3": {
+                        "text": [
+                          {
+                            "fullExpression": "@local.name_4",
+                            "matchedExpression": "@local.name_4",
+                            "type": "local",
+                            "fieldName": "name_4"
+                          }
+                        ]
+                      },
+                      "4": {
+                        "text": [
+                          {
+                            "fullExpression": "@local.name_5",
+                            "matchedExpression": "@local.name_5",
+                            "type": "local",
+                            "fieldName": "name_5"
+                          }
+                        ]
+                      },
+                      "5": {
+                        "text": [
+                          {
+                            "fullExpression": "@local.name_6",
+                            "matchedExpression": "@local.name_6",
+                            "type": "local",
+                            "fieldName": "name_6"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "_dynamicDependencies": {
+                    "@local.name_1": [
+                      "value.0.text"
+                    ],
+                    "@local.name_2": [
+                      "value.1.text"
+                    ],
+                    "@local.name_3": [
+                      "value.2.text"
+                    ],
+                    "@local.name_4": [
+                      "value.3.text"
+                    ],
+                    "@local.name_5": [
+                      "value.4.text"
+                    ],
+                    "@local.name_6": [
+                      "value.5.text"
+                    ]
+                  }
                 },
                 {
                   "name": "reply",
