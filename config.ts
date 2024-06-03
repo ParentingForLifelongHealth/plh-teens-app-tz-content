@@ -35,6 +35,6 @@ config.app_data.output_path = "./app_data";
 // Override constants
 config.app_config!.APP_LANGUAGES!.default = "tz_sw";
 config.app_config!.APP_SIDEMENU_DEFAULTS!.title = "ParentApp (TZ)";
-config.error_logging = { dsn: "https://ec0c55288bdc40bf800bedb83742924f@app.glitchtip.com/2800" };
+config.error_logging = { dsn: "https://a2fb8833a9814e349432edb70448da40@app.glitchtip.com/6888" };
 
 export default config;
