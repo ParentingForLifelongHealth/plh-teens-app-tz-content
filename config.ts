@@ -16,7 +16,7 @@ config.translations.translated_strings_path = "./app_data/translations_source/tr
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.1.21",
+  content_tag_latest: "1.1.22",
 };
 
 config.android = {
@@ -35,6 +35,6 @@ config.app_data.output_path = "./app_data";
 // Override constants
 config.app_config!.APP_LANGUAGES!.default = "tz_sw";
 config.app_config!.APP_SIDEMENU_DEFAULTS!.title = "ParentApp (TZ)";
-config.error_logging = { dsn: "https://1bfed3b77f4e4a0f9b55b510915c7f1c@app.glitchtip.com/2233" };
+config.error_logging = { dsn: "https://ec0c55288bdc40bf800bedb83742924f@app.glitchtip.com/2800" };
 
 export default config;
