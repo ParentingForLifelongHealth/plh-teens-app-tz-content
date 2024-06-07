@@ -65,8 +65,68 @@
     },
     {
       "lifecycle_event": "app_start",
-      "id": "app_start_splash_screens",
+      "id": "app_start_unlock_post_rct",
       "priority": 4,
+      "condition_list": [
+        "!@fields.post_rct_access"
+      ],
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "post_rct_access",
+            true
+          ],
+          "_raw": "set_field: post_rct_access: true",
+          "_cleaned": "click | set_field: post_rct_access: true"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "task_w_srh_skipped",
+            false
+          ],
+          "_raw": "set_field: task_w_srh_skipped: false",
+          "_cleaned": "click | set_field: task_w_srh_skipped: false"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "task_w_svp_skipped",
+            false
+          ],
+          "_raw": "set_field: task_w_svp_skipped: false",
+          "_cleaned": "click | set_field: task_w_svp_skipped: false"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "task_w_grief_skipped",
+            false
+          ],
+          "_raw": "set_field: task_w_grief_skipped: false",
+          "_cleaned": "click | set_field: task_w_grief_skipped: false"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "task_w_learn_skipped",
+            false
+          ],
+          "_raw": "set_field: task_w_learn_skipped: false",
+          "_cleaned": "click | set_field: task_w_learn_skipped: false"
+        }
+      ]
+    },
+    {
+      "lifecycle_event": "app_start",
+      "id": "app_start_splash_screens",
+      "priority": 5,
       "condition_list": [
         "!@fields.splash_screens_viewed && @fields.user_mode"
       ],
@@ -99,7 +159,7 @@
     {
       "lifecycle_event": "app_start",
       "id": "app_start_language_select",
-      "priority": 5,
+      "priority": 6,
       "condition_list": [
         "!@fields.language_selected && @fields.user_mode"
       ],
@@ -132,7 +192,7 @@
     {
       "lifecycle_event": "app_start",
       "id": "app_start_accept_terms",
-      "priority": 6,
+      "priority": 7,
       "condition_list": [
         "!@fields.terms_v20230301_accepted && @fields.user_mode"
       ],
@@ -155,7 +215,7 @@
     {
       "lifecycle_event": "app_start",
       "id": "app_start_user_info",
-      "priority": 7,
+      "priority": 8,
       "condition_list": [
         "!@fields.user_info_submitted && @fields.user_mode"
       ],
@@ -188,7 +248,7 @@
     {
       "lifecycle_event": "app_start",
       "id": "app_start_home_screen_tour",
-      "priority": 8,
+      "priority": 9,
       "condition_list": [
         "!@fields.home_screen_tour_viewed && @fields._app_skin ==\"weekly_workshop\" && @fields.user_mode"
       ],
@@ -217,7 +277,7 @@
     {
       "lifecycle_event": "app_start",
       "id": "app_start_home_screen_tour",
-      "priority": 9,
+      "priority": 10,
       "condition_list": [
         "!@fields.home_screen_modular_tour_viewed && @fields._app_skin ==\"modular\" && @fields.user_mode"
       ],
@@ -246,7 +306,7 @@
     {
       "lifecycle_event": "app_start",
       "id": "app_start_update_prompt",
-      "priority": 10,
+      "priority": 11,
       "action_list": [
         {
           "trigger": "click",
