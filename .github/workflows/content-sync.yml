@@ -20,4 +20,7 @@ jobs:
     with:
       pr-title: ${{ inputs.pr-title }}
       pr-body: ${{ inputs.pr-body }}
-    secrets: inherit
+    secrets:
+      GDRIVE_CREDENTIALS: ${{ secrets.GDRIVE_CREDENTIALS }}
+      GDRIVE_TOKEN: ${{ secrets.GDRIVE_TOKEN }}
+      PAT: ${{ secrets.PAT }}
