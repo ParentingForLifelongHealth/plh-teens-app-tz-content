@@ -16,7 +16,7 @@ config.translations.translated_strings_path = "./app_data/translations_source/tr
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.1.24",
+  content_tag_latest: "1.1.25",
 };
 
 config.android = {
@@ -26,6 +26,11 @@ config.android = {
   icon_asset_path: "./app_data/assets/android/icon.png",
   icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
   icon_asset_background_path: "./app_data/assets/android/icon-background.png",
+};
+
+config.ios = {
+  app_id: "international.idems.plh-teens-tz",
+  app_name: "PLH Teens TZ",
 };
 
 config.api.db_name = "plh";
