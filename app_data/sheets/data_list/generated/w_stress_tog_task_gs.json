@@ -21,8 +21,7 @@
         }
       },
       "template": "w_stress_care_together",
-      "completed_field": "task_gp_w_stress_care_together_completed",
-      "completed": "@fields.task_gp_w_stress_care_together_completed"
+      "completed_field": "task_gp_w_self_care_care_together_completed"
     },
     {
       "id": "relax",
@@ -41,8 +40,7 @@
         }
       },
       "template": "w_stress_relax",
-      "completed_field": "task_gp_w_stress_relax_completed",
-      "completed": "@fields.task_gp_w_stress_relax_completed"
+      "completed_field": "task_gp_w_self_care_relax_completed"
     },
     {
       "id": "reflect_together",
@@ -60,8 +58,7 @@
         }
       },
       "template": "w_stress_reflect_together",
-      "completed_field": "task_gp_w_stress_reflect_together_completed",
-      "completed": "@fields.task_gp_w_stress_reflect_together_completed"
+      "completed_field": "task_gp_w_self_care_reflect_together_completed"
     },
     {
       "id": "intro",
@@ -80,8 +77,7 @@
         }
       },
       "template": "w_stress_intro",
-      "completed_field": "task_gp_w_stress_intro_completed",
-      "completed": "@fields.task_gp_w_stress_intro_completed"
+      "completed_field": "task_gp_w_self_care_intro_completed"
     },
     {
       "id": "tools_activity",
@@ -100,8 +96,7 @@
         }
       },
       "template": "w_stress_tools_activity",
-      "completed_field": "task_gp_w_stress_tools_activity_completed",
-      "completed": "@fields.task_gp_w_stress_tools_activity_completed"
+      "completed_field": "task_gp_w_self_care_tools_activity_completed"
     },
     {
       "id": "home_practice",
@@ -120,8 +115,7 @@
         }
       },
       "template": "w_stress_home_practice",
-      "completed_field": "task_gp_w_stress_home_practice_completed",
-      "completed": "@fields.task_gp_w_stress_home_practice_completed"
+      "completed_field": "task_gp_w_self_care_home_practice_completed"
     },
     {
       "id": "ending",
@@ -142,8 +136,7 @@
         }
       },
       "template": "w_stress_ending",
-      "completed_field": "task_gp_w_stress_ending_completed",
-      "completed": "@fields.task_gp_w_stress_ending_completed"
+      "completed_field": "task_gp_w_self_care_ending_completed"
     },
     {
       "id": "hp_review",
@@ -162,8 +155,7 @@
         }
       },
       "template": "w_stress_hp_review",
-      "completed_field": "task_gp_w_stress_hp_review_completed",
-      "completed": "@fields.task_gp_w_stress_hp_review_completed"
+      "completed_field": "task_gp_w_self_care_hp_review_completed"
     },
     {
       "id": "read_1",
@@ -182,8 +174,7 @@
         }
       },
       "story_id": "ignore_emotions",
-      "completed_field": "task_gp_w_stress_read_1_completed",
-      "completed": "@fields.task_gp_w_stress_read_1_completed"
+      "completed_field": "task_gp_w_self_care_read_1_completed"
     },
     {
       "id": "read_2",
@@ -203,8 +194,7 @@
       },
       "template": "w_stress_read_2",
       "story_id": "acknowledge_emotions",
-      "completed_field": "task_gp_w_stress_read_2_completed",
-      "completed": "@fields.task_gp_w_stress_read_2_completed"
+      "completed_field": "task_gp_w_self_care_read_2_completed"
     },
     {
       "id": "read_3",
@@ -223,8 +213,21 @@
         }
       },
       "story_id": "safety_amnesty",
-      "completed_field": "task_gp_w_stress_read_3_completed",
-      "completed": "@fields.task_gp_w_stress_read_3_completed"
+      "completed_field": "task_gp_w_self_care_read_3_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "number"
+    },
+    "has_single_task": {
+      "type": "boolean"
+    }
+  }
 }

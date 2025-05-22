@@ -111,5 +111,16 @@
       "together": true,
       "template": "w_rules_try"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "rel_priority": {
+      "type": "number"
+    }
+  }
 }

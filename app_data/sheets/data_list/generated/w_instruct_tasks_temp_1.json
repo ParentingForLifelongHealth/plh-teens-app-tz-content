@@ -128,5 +128,16 @@
       "together": true,
       "template": "w_instruct_try"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "rel_priority": {
+      "type": "number"
+    }
+  }
 }

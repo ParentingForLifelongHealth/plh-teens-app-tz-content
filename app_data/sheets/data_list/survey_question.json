@@ -4732,5 +4732,26 @@
       "parent_text": false
     }
   ],
-  "_xlsxPath": "global/data/survey_data_list.xlsx"
+  "_xlsxPath": "global/data/survey_data_list.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES",
+  "_metadata": {
+    "parent_app": {
+      "type": "boolean"
+    },
+    "part_no": {
+      "type": "number"
+    },
+    "range_min": {
+      "type": "number"
+    },
+    "range_max": {
+      "type": "number"
+    },
+    "threshold": {
+      "type": "number"
+    },
+    "parent_text": {
+      "type": "boolean"
+    }
+  }
 }

@@ -22,8 +22,7 @@
         }
       },
       "template": "w_safe_welcome_individual",
-      "completed_field": "task_gp_w_safe_welcome_individual_completed",
-      "completed": "@fields.task_gp_w_safe_welcome_individual_completed"
+      "completed_field": "task_gp_w_self_care_welcome_individual_completed"
     },
     {
       "id": "care_together",
@@ -43,8 +42,7 @@
         }
       },
       "template": "w_safe_care_together",
-      "completed_field": "task_gp_w_safe_care_together_completed",
-      "completed": "@fields.task_gp_w_safe_care_together_completed"
+      "completed_field": "task_gp_w_self_care_care_together_completed"
     },
     {
       "id": "relax",
@@ -63,8 +61,7 @@
         }
       },
       "template": "w_safe_relax",
-      "completed_field": "task_gp_w_safe_relax_completed",
-      "completed": "@fields.task_gp_w_safe_relax_completed"
+      "completed_field": "task_gp_w_self_care_relax_completed"
     },
     {
       "id": "reflect_together",
@@ -82,8 +79,7 @@
         }
       },
       "template": "w_safe_reflect_together",
-      "completed_field": "task_gp_w_safe_reflect_together_completed",
-      "completed": "@fields.task_gp_w_safe_reflect_together_completed"
+      "completed_field": "task_gp_w_self_care_reflect_together_completed"
     },
     {
       "id": "intro",
@@ -102,8 +98,7 @@
         }
       },
       "template": "w_safe_intro",
-      "completed_field": "task_gp_w_safe_intro_completed",
-      "completed": "@fields.task_gp_w_safe_intro_completed"
+      "completed_field": "task_gp_w_self_care_intro_completed"
     },
     {
       "id": "tools_activity",
@@ -122,8 +117,7 @@
         }
       },
       "template": "w_safe_tools_activity",
-      "completed_field": "task_gp_w_safe_tools_activity_completed",
-      "completed": "@fields.task_gp_w_safe_tools_activity_completed"
+      "completed_field": "task_gp_w_self_care_tools_activity_completed"
     },
     {
       "id": "home_practice",
@@ -142,8 +136,7 @@
         }
       },
       "template": "w_safe_home_practice",
-      "completed_field": "task_gp_w_safe_home_practice_completed",
-      "completed": "@fields.task_gp_w_safe_home_practice_completed"
+      "completed_field": "task_gp_w_self_care_home_practice_completed"
     },
     {
       "id": "ending",
@@ -164,8 +157,7 @@
         }
       },
       "template": "w_safe_ending",
-      "completed_field": "task_gp_w_safe_ending_completed",
-      "completed": "@fields.task_gp_w_safe_ending_completed"
+      "completed_field": "task_gp_w_self_care_ending_completed"
     },
     {
       "id": "hp_review",
@@ -184,8 +176,7 @@
         }
       },
       "template": "w_safe_hp_review",
-      "completed_field": "task_gp_w_safe_hp_review_completed",
-      "completed": "@fields.task_gp_w_safe_hp_review_completed"
+      "completed_field": "task_gp_w_self_care_hp_review_completed"
     },
     {
       "id": "read_1",
@@ -204,8 +195,7 @@
         }
       },
       "story_id": "sugar_daddy",
-      "completed_field": "task_gp_w_safe_read_1_completed",
-      "completed": "@fields.task_gp_w_safe_read_1_completed"
+      "completed_field": "task_gp_w_self_care_read_1_completed"
     },
     {
       "id": "read_2",
@@ -224,8 +214,7 @@
         }
       },
       "story_id": "online_contact",
-      "completed_field": "task_gp_w_safe_read_2_completed",
-      "completed": "@fields.task_gp_w_safe_read_2_completed"
+      "completed_field": "task_gp_w_self_care_read_2_completed"
     },
     {
       "id": "learn_ind",
@@ -246,8 +235,7 @@
         }
       },
       "template": "w_safe_learn_individual_temp",
-      "completed_field": "task_gp_w_safe_learn_ind_completed",
-      "completed": "@fields.task_gp_w_safe_learn_ind_completed"
+      "completed_field": "task_gp_w_self_care_learn_ind_completed"
     },
     {
       "id": "learn_tog",
@@ -268,8 +256,21 @@
         }
       },
       "template": "w_safe_learn_together_temp",
-      "completed_field": "task_gp_w_safe_learn_tog_completed",
-      "completed": "@fields.task_gp_w_safe_learn_tog_completed"
+      "completed_field": "task_gp_w_self_care_learn_tog_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "number"
+    },
+    "has_single_task": {
+      "type": "boolean"
+    }
+  }
 }

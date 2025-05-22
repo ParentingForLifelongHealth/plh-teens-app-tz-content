@@ -10,8 +10,7 @@
       "together": true,
       "template": "w_money_read_3",
       "rel_priority": 1,
-      "completed_field": "task_w_money_read_3_completed",
-      "completed": "@fields.task_w_money_read_3_completed"
+      "completed_field": "task_w_money_read_3_completed"
     },
     {
       "id": "question_2",
@@ -20,8 +19,7 @@
       "together": false,
       "template": "w_money_tq_2",
       "rel_priority": 2,
-      "completed_field": "task_w_money_question_2_completed",
-      "completed": "@fields.task_w_money_question_2_completed"
+      "completed_field": "task_w_money_question_2_completed"
     },
     {
       "id": "question_3",
@@ -30,8 +28,18 @@
       "together": false,
       "template": "w_money_tq_3",
       "rel_priority": 4,
-      "completed_field": "task_w_money_question_3_completed",
-      "completed": "@fields.task_w_money_question_3_completed"
+      "completed_field": "task_w_money_question_3_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "rel_priority": {
+      "type": "number"
+    }
+  }
 }

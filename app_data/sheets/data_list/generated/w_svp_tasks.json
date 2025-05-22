@@ -9,8 +9,7 @@
       "individual": true,
       "together": false,
       "template": "w_svp_welcome_individual",
-      "completed_field": "task_w_svp_welcome_individual_completed",
-      "completed": "@fields.task_w_svp_welcome_individual_completed"
+      "completed_field": "task_w_svp_welcome_individual_completed"
     },
     {
       "id": "care_together",
@@ -18,8 +17,7 @@
       "individual": false,
       "together": true,
       "template": "w_svp_care_together",
-      "completed_field": "task_w_svp_care_together_completed",
-      "completed": "@fields.task_w_svp_care_together_completed"
+      "completed_field": "task_w_svp_care_together_completed"
     },
     {
       "id": "relax",
@@ -27,8 +25,7 @@
       "individual": true,
       "together": true,
       "template": "w_svp_relax",
-      "completed_field": "task_w_svp_relax_completed",
-      "completed": "@fields.task_w_svp_relax_completed"
+      "completed_field": "task_w_svp_relax_completed"
     },
     {
       "id": "reflect_together",
@@ -36,8 +33,7 @@
       "individual": false,
       "together": true,
       "template": "w_svp_reflect_together",
-      "completed_field": "task_w_svp_reflect_together_completed",
-      "completed": "@fields.task_w_svp_reflect_together_completed"
+      "completed_field": "task_w_svp_reflect_together_completed"
     },
     {
       "id": "intro",
@@ -45,8 +41,7 @@
       "individual": true,
       "together": true,
       "template": "w_svp_intro",
-      "completed_field": "task_w_svp_intro_completed",
-      "completed": "@fields.task_w_svp_intro_completed"
+      "completed_field": "task_w_svp_intro_completed"
     },
     {
       "id": "tools_activity",
@@ -54,8 +49,7 @@
       "individual": true,
       "together": true,
       "template": "w_svp_tools_activity",
-      "completed_field": "task_w_svp_tools_activity_completed",
-      "completed": "@fields.task_w_svp_tools_activity_completed"
+      "completed_field": "task_w_svp_tools_activity_completed"
     },
     {
       "id": "home_practice",
@@ -63,8 +57,7 @@
       "individual": true,
       "together": true,
       "template": "w_svp_home_practice",
-      "completed_field": "task_w_svp_home_practice_completed",
-      "completed": "@fields.task_w_svp_home_practice_completed"
+      "completed_field": "task_w_svp_home_practice_completed"
     },
     {
       "id": "ending",
@@ -72,8 +65,7 @@
       "individual": true,
       "together": true,
       "template": "w_svp_ending",
-      "completed_field": "task_w_svp_ending_completed",
-      "completed": "@fields.task_w_svp_ending_completed"
+      "completed_field": "task_w_svp_ending_completed"
     },
     {
       "id": "hp_review",
@@ -81,8 +73,7 @@
       "individual": true,
       "together": true,
       "template": "w_svp_hp_review",
-      "completed_field": "task_w_svp_hp_review_completed",
-      "completed": "@fields.task_w_svp_hp_review_completed"
+      "completed_field": "task_w_svp_hp_review_completed"
     },
     {
       "id": "learn_warning_signs",
@@ -90,8 +81,7 @@
       "individual": true,
       "together": true,
       "template": "w_svp_learn_warning_signs",
-      "completed_field": "task_w_svp_learn_warning_signs_completed",
-      "completed": "@fields.task_w_svp_learn_warning_signs_completed"
+      "completed_field": "task_w_svp_learn_warning_signs_completed"
     },
     {
       "id": "learn_use_voice",
@@ -99,8 +89,7 @@
       "individual": true,
       "together": true,
       "template": "w_svp_learn_use_voice",
-      "completed_field": "task_w_svp_learn_use_voice_completed",
-      "completed": "@fields.task_w_svp_learn_use_voice_completed"
+      "completed_field": "task_w_svp_learn_use_voice_completed"
     },
     {
       "id": "learn_use_body",
@@ -108,8 +97,15 @@
       "individual": true,
       "together": true,
       "template": "w_svp_learn_use_body",
-      "completed_field": "task_w_svp_learn_use_body_completed",
-      "completed": "@fields.task_w_svp_learn_use_body_completed"
+      "completed_field": "task_w_svp_learn_use_body_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    }
+  }
 }

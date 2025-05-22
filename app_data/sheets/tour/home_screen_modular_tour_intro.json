@@ -142,5 +142,6 @@
       "route": "template/home_screen"
     }
   ],
-  "_xlsxPath": "global_modular/tours/home_screen_modular_tour.xlsx"
+  "_xlsxPath": "global_modular/tours/home_screen_modular_tour.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES"
 }

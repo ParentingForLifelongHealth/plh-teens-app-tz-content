@@ -10,8 +10,7 @@
       "together": true,
       "template": "w_consequence_read_1",
       "rel_priority": 1,
-      "completed_field": "task_w_consequence_read_1_completed",
-      "completed": "@fields.task_w_consequence_read_1_completed"
+      "completed_field": "task_w_consequence_read_1_completed"
     },
     {
       "id": "talk_1",
@@ -20,8 +19,18 @@
       "together": true,
       "template": "w_consequence_talk_1",
       "rel_priority": 3,
-      "completed_field": "task_w_consequence_talk_1_completed",
-      "completed": "@fields.task_w_consequence_talk_1_completed"
+      "completed_field": "task_w_consequence_talk_1_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "rel_priority": {
+      "type": "number"
+    }
+  }
 }

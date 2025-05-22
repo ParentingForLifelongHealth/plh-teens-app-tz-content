@@ -21,8 +21,7 @@
         }
       },
       "template": "w_srh_care_together",
-      "completed_field": "task_gp_w_srh_care_together_completed",
-      "completed": "@fields.task_gp_w_srh_care_together_completed"
+      "completed_field": "task_gp_w_self_care_care_together_completed"
     },
     {
       "id": "relax",
@@ -41,8 +40,7 @@
         }
       },
       "template": "w_srh_relax",
-      "completed_field": "task_gp_w_srh_relax_completed",
-      "completed": "@fields.task_gp_w_srh_relax_completed"
+      "completed_field": "task_gp_w_self_care_relax_completed"
     },
     {
       "id": "reflect_together",
@@ -60,8 +58,7 @@
         }
       },
       "template": "w_srh_reflect_together",
-      "completed_field": "task_gp_w_srh_reflect_together_completed",
-      "completed": "@fields.task_gp_w_srh_reflect_together_completed"
+      "completed_field": "task_gp_w_self_care_reflect_together_completed"
     },
     {
       "id": "intro",
@@ -80,8 +77,7 @@
         }
       },
       "template": "w_srh_intro",
-      "completed_field": "task_gp_w_srh_intro_completed",
-      "completed": "@fields.task_gp_w_srh_intro_completed"
+      "completed_field": "task_gp_w_self_care_intro_completed"
     },
     {
       "id": "tools_activity",
@@ -100,8 +96,7 @@
         }
       },
       "template": "w_srh_tools_activity",
-      "completed_field": "task_gp_w_srh_tools_activity_completed",
-      "completed": "@fields.task_gp_w_srh_tools_activity_completed"
+      "completed_field": "task_gp_w_self_care_tools_activity_completed"
     },
     {
       "id": "home_practice",
@@ -120,8 +115,7 @@
         }
       },
       "template": "w_srh_home_practice",
-      "completed_field": "task_gp_w_srh_home_practice_completed",
-      "completed": "@fields.task_gp_w_srh_home_practice_completed"
+      "completed_field": "task_gp_w_self_care_home_practice_completed"
     },
     {
       "id": "ending",
@@ -142,8 +136,7 @@
         }
       },
       "template": "w_srh_ending",
-      "completed_field": "task_gp_w_srh_ending_completed",
-      "completed": "@fields.task_gp_w_srh_ending_completed"
+      "completed_field": "task_gp_w_self_care_ending_completed"
     },
     {
       "id": "hp_review",
@@ -162,8 +155,7 @@
         }
       },
       "template": "w_srh_hp_review",
-      "completed_field": "task_gp_w_srh_hp_review_completed",
-      "completed": "@fields.task_gp_w_srh_hp_review_completed"
+      "completed_field": "task_gp_w_self_care_hp_review_completed"
     },
     {
       "id": "read_sex_talk",
@@ -182,8 +174,7 @@
         }
       },
       "story_id": "sex_talk",
-      "completed_field": "task_gp_w_srh_read_sex_talk_completed",
-      "completed": "@fields.task_gp_w_srh_read_sex_talk_completed"
+      "completed_field": "task_gp_w_self_care_read_sex_talk_completed"
     },
     {
       "id": "read_new_boyfriend",
@@ -202,8 +193,7 @@
         }
       },
       "story_id": "new_boyfriend",
-      "completed_field": "task_gp_w_srh_read_new_boyfriend_completed",
-      "completed": "@fields.task_gp_w_srh_read_new_boyfriend_completed"
+      "completed_field": "task_gp_w_self_care_read_new_boyfriend_completed"
     },
     {
       "id": "learn_sex_talk",
@@ -222,8 +212,21 @@
         }
       },
       "template": "w_srh_learn_sex_talk",
-      "completed_field": "task_gp_w_srh_learn_sex_talk_completed",
-      "completed": "@fields.task_gp_w_srh_learn_sex_talk_completed"
+      "completed_field": "task_gp_w_self_care_learn_sex_talk_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "number"
+    },
+    "has_single_task": {
+      "type": "boolean"
+    }
+  }
 }

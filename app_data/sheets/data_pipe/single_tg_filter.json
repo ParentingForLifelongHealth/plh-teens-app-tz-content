@@ -382,5 +382,218 @@
       ]
     }
   ],
-  "_xlsxPath": "global/data/workshop_data/workshop_task_groups_data_pipes.xlsx"
+  "_xlsxPath": "global/data/workshop_data/workshop_task_groups_data_pipes.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES",
+  "_output_flows": [
+    {
+      "flow_name": "tg_w_praise_read_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_praise_read_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_instruct_read_1_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_instruct_read_1_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_instruct_read_2_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_instruct_read_2_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_stress_read_1_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_stress_read_1_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_stress_read_3_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_stress_read_3_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_money_read_2_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_money_read_2_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_money_read_3_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_money_read_3_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_rules_read_1_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_rules_read_1_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_consequence_read_1_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_consequence_read_1_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_consequence_read_2_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_consequence_read_2_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_solve_read_2_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_solve_read_2_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_safe_read_1_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_safe_read_1_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_safe_read_2_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_safe_read_2_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_crisis_read_1_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_crisis_read_1_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_crisis_read_2_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_crisis_read_2_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_srh_read_sex_talk_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_srh_read_sex_talk_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_srh_read_new_boyfriend_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_srh_read_new_boyfriend_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_grief_read_grief_conflict_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_grief_read_grief_conflict_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_grief_read_grief_support_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_grief_read_grief_support_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_learn_read_learn_conflict_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_learn_read_learn_conflict_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_learn_read_learn_support_ind",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
+    {
+      "flow_name": "tg_w_learn_read_learn_support_tog",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
 }

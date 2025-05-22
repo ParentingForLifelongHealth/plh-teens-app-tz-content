@@ -10,8 +10,18 @@
       "together": true,
       "template": "w_srh_read_sex_talk",
       "rel_priority": 1,
-      "completed_field": "task_w_srh_read_sex_talk_completed",
-      "completed": "@fields.task_w_srh_read_sex_talk_completed"
+      "completed_field": "task_w_srh_read_sex_talk_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "rel_priority": {
+      "type": "number"
+    }
+  }
 }

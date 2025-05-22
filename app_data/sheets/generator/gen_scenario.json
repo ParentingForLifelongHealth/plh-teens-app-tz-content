@@ -56,5 +56,23 @@
       ]
     }
   ],
-  "_xlsxPath": "global/top_templates/workshop_templates/workshop_learn.xlsx"
+  "_xlsxPath": "global/top_templates/workshop_templates/workshop_learn.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES",
+  "_output_flows": [
+    {
+      "flow_name": "w_learn_learn_activity_ideas_tell_stories",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_learn_learn_activity_ideas_walk",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_learn_learn_activity_ideas_cook",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
 }

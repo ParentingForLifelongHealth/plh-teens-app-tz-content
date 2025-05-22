@@ -284,5 +284,19 @@
       },
       "template": "w_consequence_try"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "number"
+    },
+    "has_single_task": {
+      "type": "boolean"
+    }
+  }
 }

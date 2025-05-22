@@ -10,8 +10,7 @@
       "together": true,
       "template": "w_stress_read_1",
       "rel_priority": 1,
-      "completed_field": "task_w_stress_read_1_completed",
-      "completed": "@fields.task_w_stress_read_1_completed"
+      "completed_field": "task_w_stress_read_1_completed"
     },
     {
       "id": "talk",
@@ -20,8 +19,18 @@
       "together": true,
       "template": "w_stress_talk",
       "rel_priority": 3,
-      "completed_field": "task_w_stress_talk_completed",
-      "completed": "@fields.task_w_stress_talk_completed"
+      "completed_field": "task_w_stress_talk_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "rel_priority": {
+      "type": "number"
+    }
+  }
 }

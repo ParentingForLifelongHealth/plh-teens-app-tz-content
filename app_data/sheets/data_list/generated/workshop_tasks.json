@@ -939,5 +939,13 @@
       "completed": "@fields.task_w_learn_completed",
       "skipped_field": "task_w_learn_skipped"
     }
-  ]
+  ],
+  "_metadata": {
+    "number": {
+      "type": "number"
+    },
+    "sensitive_content": {
+      "type": "boolean"
+    }
+  }
 }

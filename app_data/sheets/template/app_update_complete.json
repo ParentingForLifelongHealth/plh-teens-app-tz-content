@@ -52,5 +52,6 @@
       "_nested_name": "button"
     }
   ],
-  "_xlsxPath": "global/core_templates/app_update.xlsx"
+  "_xlsxPath": "global/should be coming from general library/app_update.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES"
 }

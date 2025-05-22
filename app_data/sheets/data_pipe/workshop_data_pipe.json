@@ -14,5 +14,13 @@
       "output_target": "workshop_tasks"
     }
   ],
-  "_xlsxPath": "global/data/workshop_data/workshop_data_pipes.xlsx"
+  "_xlsxPath": "global/data/workshop_data/workshop_data_pipes.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES",
+  "_output_flows": [
+    {
+      "flow_name": "workshop_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
 }

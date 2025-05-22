@@ -11,8 +11,7 @@
       "template": "w_praise_read",
       "priority": 12,
       "rel_priority": 1,
-      "completed_field": "task_w_praise_read_completed",
-      "completed": "@fields.task_w_praise_read_completed"
+      "completed_field": "task_w_praise_read_completed"
     },
     {
       "id": "talk_2",
@@ -22,8 +21,21 @@
       "template": "w_praise_talk_2",
       "priority": 13,
       "rel_priority": 3,
-      "completed_field": "task_w_praise_talk_2_completed",
-      "completed": "@fields.task_w_praise_talk_2_completed"
+      "completed_field": "task_w_praise_talk_2_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "number"
+    },
+    "rel_priority": {
+      "type": "number"
+    }
+  }
 }

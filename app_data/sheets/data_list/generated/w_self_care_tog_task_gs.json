@@ -20,8 +20,7 @@
         }
       },
       "template": "w_self_care_intro",
-      "completed_field": "task_gp_w_self_care_intro_completed",
-      "completed": "@fields.task_gp_w_self_care_intro_completed"
+      "completed_field": "task_gp_w_self_care_intro_completed"
     },
     {
       "id": "tools_activity",
@@ -40,8 +39,7 @@
         }
       },
       "template": "w_self_care_tools_activity",
-      "completed_field": "task_gp_w_self_care_tools_activity_completed",
-      "completed": "@fields.task_gp_w_self_care_tools_activity_completed"
+      "completed_field": "task_gp_w_self_care_tools_activity_completed"
     },
     {
       "id": "home_practice",
@@ -60,8 +58,7 @@
         }
       },
       "template": "w_self_care_home_practice",
-      "completed_field": "task_gp_w_self_care_home_practice_completed",
-      "completed": "@fields.task_gp_w_self_care_home_practice_completed"
+      "completed_field": "task_gp_w_self_care_home_practice_completed"
     },
     {
       "id": "ending",
@@ -82,8 +79,7 @@
         }
       },
       "template": "w_self_care_ending",
-      "completed_field": "task_gp_w_self_care_ending_completed",
-      "completed": "@fields.task_gp_w_self_care_ending_completed"
+      "completed_field": "task_gp_w_self_care_ending_completed"
     },
     {
       "id": "relax",
@@ -104,8 +100,7 @@
         }
       },
       "template": "w_self_care_relax",
-      "completed_field": "task_gp_w_self_care_relax_completed",
-      "completed": "@fields.task_gp_w_self_care_relax_completed"
+      "completed_field": "task_gp_w_self_care_relax_completed"
     },
     {
       "id": "recognise",
@@ -126,8 +121,7 @@
         }
       },
       "template": "w_self_care_recognise",
-      "completed_field": "task_gp_w_self_care_recognise_completed",
-      "completed": "@fields.task_gp_w_self_care_recognise_completed"
+      "completed_field": "task_gp_w_self_care_recognise_completed"
     },
     {
       "id": "reward",
@@ -148,8 +142,21 @@
         }
       },
       "template": "w_self_care_reward",
-      "completed_field": "task_gp_w_self_care_reward_completed",
-      "completed": "@fields.task_gp_w_self_care_reward_completed"
+      "completed_field": "task_gp_w_self_care_reward_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "number"
+    },
+    "has_single_task": {
+      "type": "boolean"
+    }
+  }
 }

@@ -10,8 +10,7 @@
       "together": true,
       "template": "w_rules_read_1",
       "rel_priority": 1,
-      "completed_field": "task_w_rules_read_1_completed",
-      "completed": "@fields.task_w_rules_read_1_completed"
+      "completed_field": "task_w_rules_read_1_completed"
     },
     {
       "id": "question",
@@ -20,8 +19,18 @@
       "together": false,
       "template": "w_rules_question",
       "rel_priority": 2,
-      "completed_field": "task_w_rules_question_completed",
-      "completed": "@fields.task_w_rules_question_completed"
+      "completed_field": "task_w_rules_question_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "rel_priority": {
+      "type": "number"
+    }
+  }
 }

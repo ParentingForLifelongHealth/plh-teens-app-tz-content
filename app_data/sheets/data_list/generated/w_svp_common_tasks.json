@@ -66,5 +66,13 @@
       "together": true,
       "template": "w_svp_hp_review"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    }
+  }
 }
