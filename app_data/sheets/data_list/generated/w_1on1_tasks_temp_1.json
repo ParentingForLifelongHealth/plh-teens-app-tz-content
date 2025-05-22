@@ -73,5 +73,13 @@
       "together": true,
       "template": "w_1on1_talk"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    }
+  }
 }

@@ -689,5 +689,11 @@
       "text": "@fields.user_name, you deserve to celebrate and be celebrated! Tap the @data.workshop.w_celebrate.in_text_title to reflect on your journey and get ideas for how you can continue to invest in yourself and your family."
     }
   ],
-  "_xlsxPath": "global/campaigns/notifications_inactive.xlsx"
+  "_xlsxPath": "global/notifications.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES",
+  "_metadata": {
+    "priority": {
+      "type": "number"
+    }
+  }
 }

@@ -10,8 +10,18 @@
       "together": true,
       "template": "w_srh_read_new_boyfriend",
       "rel_priority": 1,
-      "completed_field": "task_w_srh_read_new_boyfriend_completed",
-      "completed": "@fields.task_w_srh_read_new_boyfriend_completed"
+      "completed_field": "task_w_srh_read_new_boyfriend_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "rel_priority": {
+      "type": "number"
+    }
+  }
 }

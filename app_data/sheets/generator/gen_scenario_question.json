@@ -41,5 +41,43 @@
       ]
     }
   ],
-  "_xlsxPath": "global/top_templates/workshop_templates/workshop_svp.xlsx"
+  "_xlsxPath": "global/top_templates/workshop_templates/workshop_svp.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES",
+  "_output_flows": [
+    {
+      "flow_name": "w_svp_learn_warning_signs_pushy_boyfriend",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_svp_learn_warning_signs_controlling_boyfriend",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_svp_learn_warning_signs_catcalling",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_svp_learn_warning_signs_pushy_friend",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_svp_learn_warning_signs_nude_pic",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_svp_learn_warning_signs_private_tutoring",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_svp_learn_warning_signs_rejected_ride",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
 }

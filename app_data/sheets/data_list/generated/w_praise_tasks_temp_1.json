@@ -117,5 +117,19 @@
       "template": "w_praise_try",
       "priority": 71
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "number"
+    },
+    "rel_priority": {
+      "type": "number"
+    }
+  }
 }

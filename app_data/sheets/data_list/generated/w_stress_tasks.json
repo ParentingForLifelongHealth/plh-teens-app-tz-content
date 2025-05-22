@@ -9,8 +9,7 @@
       "individual": true,
       "together": false,
       "template": "w_stress_welcome_individual",
-      "completed_field": "task_w_stress_welcome_individual_completed",
-      "completed": "@fields.task_w_stress_welcome_individual_completed"
+      "completed_field": "task_w_stress_welcome_individual_completed"
     },
     {
       "id": "care_together",
@@ -18,8 +17,7 @@
       "individual": false,
       "together": true,
       "template": "w_stress_care_together",
-      "completed_field": "task_w_stress_care_together_completed",
-      "completed": "@fields.task_w_stress_care_together_completed"
+      "completed_field": "task_w_stress_care_together_completed"
     },
     {
       "id": "relax",
@@ -27,8 +25,7 @@
       "individual": true,
       "together": true,
       "template": "w_stress_relax",
-      "completed_field": "task_w_stress_relax_completed",
-      "completed": "@fields.task_w_stress_relax_completed"
+      "completed_field": "task_w_stress_relax_completed"
     },
     {
       "id": "reflect_together",
@@ -36,8 +33,7 @@
       "individual": false,
       "together": true,
       "template": "w_stress_reflect_together",
-      "completed_field": "task_w_stress_reflect_together_completed",
-      "completed": "@fields.task_w_stress_reflect_together_completed"
+      "completed_field": "task_w_stress_reflect_together_completed"
     },
     {
       "id": "intro",
@@ -45,8 +41,7 @@
       "individual": true,
       "together": true,
       "template": "w_stress_intro",
-      "completed_field": "task_w_stress_intro_completed",
-      "completed": "@fields.task_w_stress_intro_completed"
+      "completed_field": "task_w_stress_intro_completed"
     },
     {
       "id": "tools_activity",
@@ -54,8 +49,7 @@
       "individual": true,
       "together": true,
       "template": "w_stress_tools_activity",
-      "completed_field": "task_w_stress_tools_activity_completed",
-      "completed": "@fields.task_w_stress_tools_activity_completed"
+      "completed_field": "task_w_stress_tools_activity_completed"
     },
     {
       "id": "home_practice",
@@ -63,8 +57,7 @@
       "individual": true,
       "together": true,
       "template": "w_stress_home_practice",
-      "completed_field": "task_w_stress_home_practice_completed",
-      "completed": "@fields.task_w_stress_home_practice_completed"
+      "completed_field": "task_w_stress_home_practice_completed"
     },
     {
       "id": "ending",
@@ -72,8 +65,7 @@
       "individual": true,
       "together": true,
       "template": "w_stress_ending",
-      "completed_field": "task_w_stress_ending_completed",
-      "completed": "@fields.task_w_stress_ending_completed"
+      "completed_field": "task_w_stress_ending_completed"
     },
     {
       "id": "hp_review",
@@ -81,8 +73,7 @@
       "individual": true,
       "together": true,
       "template": "w_stress_hp_review",
-      "completed_field": "task_w_stress_hp_review_completed",
-      "completed": "@fields.task_w_stress_hp_review_completed"
+      "completed_field": "task_w_stress_hp_review_completed"
     },
     {
       "id": "read_1",
@@ -91,8 +82,7 @@
       "together": true,
       "template": "w_stress_read_1",
       "rel_priority": 1,
-      "completed_field": "task_w_stress_read_1_completed",
-      "completed": "@fields.task_w_stress_read_1_completed"
+      "completed_field": "task_w_stress_read_1_completed"
     },
     {
       "id": "question",
@@ -101,8 +91,7 @@
       "together": false,
       "template": "w_stress_question",
       "rel_priority": 2,
-      "completed_field": "task_w_stress_question_completed",
-      "completed": "@fields.task_w_stress_question_completed"
+      "completed_field": "task_w_stress_question_completed"
     },
     {
       "id": "talk",
@@ -111,8 +100,7 @@
       "together": true,
       "template": "w_stress_talk",
       "rel_priority": 3,
-      "completed_field": "task_w_stress_talk_completed",
-      "completed": "@fields.task_w_stress_talk_completed"
+      "completed_field": "task_w_stress_talk_completed"
     },
     {
       "id": "read_2",
@@ -120,8 +108,7 @@
       "individual": true,
       "together": true,
       "template": "w_stress_read_2",
-      "completed_field": "task_w_stress_read_2_completed",
-      "completed": "@fields.task_w_stress_read_2_completed"
+      "completed_field": "task_w_stress_read_2_completed"
     },
     {
       "id": "read_3",
@@ -129,8 +116,7 @@
       "individual": true,
       "together": true,
       "template": "w_stress_read_3",
-      "completed_field": "task_w_stress_read_3_completed",
-      "completed": "@fields.task_w_stress_read_3_completed"
+      "completed_field": "task_w_stress_read_3_completed"
     },
     {
       "id": "question_2",
@@ -139,8 +125,18 @@
       "together": false,
       "template": "w_stress_question_2",
       "rel_priority": 2,
-      "completed_field": "task_w_stress_question_2_completed",
-      "completed": "@fields.task_w_stress_question_2_completed"
+      "completed_field": "task_w_stress_question_2_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "rel_priority": {
+      "type": "number"
+    }
+  }
 }

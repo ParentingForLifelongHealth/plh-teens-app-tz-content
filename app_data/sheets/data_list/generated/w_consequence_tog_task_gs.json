@@ -21,8 +21,7 @@
         }
       },
       "template": "w_consequence_care_together",
-      "completed_field": "task_gp_w_consequence_care_together_completed",
-      "completed": "@fields.task_gp_w_consequence_care_together_completed"
+      "completed_field": "task_gp_w_self_care_care_together_completed"
     },
     {
       "id": "relax",
@@ -41,8 +40,7 @@
         }
       },
       "template": "w_consequence_relax",
-      "completed_field": "task_gp_w_consequence_relax_completed",
-      "completed": "@fields.task_gp_w_consequence_relax_completed"
+      "completed_field": "task_gp_w_self_care_relax_completed"
     },
     {
       "id": "reflect_together",
@@ -60,8 +58,7 @@
         }
       },
       "template": "w_consequence_reflect_together",
-      "completed_field": "task_gp_w_consequence_reflect_together_completed",
-      "completed": "@fields.task_gp_w_consequence_reflect_together_completed"
+      "completed_field": "task_gp_w_self_care_reflect_together_completed"
     },
     {
       "id": "intro",
@@ -80,8 +77,7 @@
         }
       },
       "template": "w_consequence_intro",
-      "completed_field": "task_gp_w_consequence_intro_completed",
-      "completed": "@fields.task_gp_w_consequence_intro_completed"
+      "completed_field": "task_gp_w_self_care_intro_completed"
     },
     {
       "id": "tools_activity",
@@ -100,8 +96,7 @@
         }
       },
       "template": "w_consequence_tools_activity",
-      "completed_field": "task_gp_w_consequence_tools_activity_completed",
-      "completed": "@fields.task_gp_w_consequence_tools_activity_completed"
+      "completed_field": "task_gp_w_self_care_tools_activity_completed"
     },
     {
       "id": "home_practice",
@@ -120,8 +115,7 @@
         }
       },
       "template": "w_consequence_home_practice",
-      "completed_field": "task_gp_w_consequence_home_practice_completed",
-      "completed": "@fields.task_gp_w_consequence_home_practice_completed"
+      "completed_field": "task_gp_w_self_care_home_practice_completed"
     },
     {
       "id": "ending",
@@ -142,8 +136,7 @@
         }
       },
       "template": "w_consequence_ending",
-      "completed_field": "task_gp_w_consequence_ending_completed",
-      "completed": "@fields.task_gp_w_consequence_ending_completed"
+      "completed_field": "task_gp_w_self_care_ending_completed"
     },
     {
       "id": "hp_review",
@@ -162,8 +155,7 @@
         }
       },
       "template": "w_consequence_hp_review",
-      "completed_field": "task_gp_w_consequence_hp_review_completed",
-      "completed": "@fields.task_gp_w_consequence_hp_review_completed"
+      "completed_field": "task_gp_w_self_care_hp_review_completed"
     },
     {
       "id": "read_1",
@@ -182,8 +174,7 @@
         }
       },
       "story_id": "neg_consequence",
-      "completed_field": "task_gp_w_consequence_read_1_completed",
-      "completed": "@fields.task_gp_w_consequence_read_1_completed"
+      "completed_field": "task_gp_w_self_care_read_1_completed"
     },
     {
       "id": "learn_1",
@@ -204,8 +195,7 @@
         }
       },
       "template": "w_consequence_learn_1_temp",
-      "completed_field": "task_gp_w_consequence_learn_1_completed",
-      "completed": "@fields.task_gp_w_consequence_learn_1_completed"
+      "completed_field": "task_gp_w_self_care_learn_1_completed"
     },
     {
       "id": "talk_2",
@@ -225,8 +215,7 @@
         }
       },
       "template": "w_consequence_talk_2",
-      "completed_field": "task_gp_w_consequence_talk_2_completed",
-      "completed": "@fields.task_gp_w_consequence_talk_2_completed"
+      "completed_field": "task_gp_w_self_care_talk_2_completed"
     },
     {
       "id": "read_2",
@@ -245,8 +234,7 @@
         }
       },
       "story_id": "pos_consequence",
-      "completed_field": "task_gp_w_consequence_read_2_completed",
-      "completed": "@fields.task_gp_w_consequence_read_2_completed"
+      "completed_field": "task_gp_w_self_care_read_2_completed"
     },
     {
       "id": "try",
@@ -267,8 +255,21 @@
         }
       },
       "template": "w_consequence_try",
-      "completed_field": "task_gp_w_consequence_try_completed",
-      "completed": "@fields.task_gp_w_consequence_try_completed"
+      "completed_field": "task_gp_w_self_care_try_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "number"
+    },
+    "has_single_task": {
+      "type": "boolean"
+    }
+  }
 }

@@ -62,5 +62,20 @@
       }
     }
   ],
-  "_xlsxPath": "global/data/workshop_data/workshop_task_groups.xlsx"
+  "_xlsxPath": "global/data/workshop_data/workshop_task_groups.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES",
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "number"
+    },
+    "has_single_task": {
+      "type": "boolean"
+    }
+  }
 }

@@ -5183,5 +5183,17 @@
       "unlock_greater_equal": false
     }
   ],
-  "_xlsxPath": "global/data/survey_data_list.xlsx"
+  "_xlsxPath": "global/data/survey_data_list.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES",
+  "_metadata": {
+    "unlock_universal": {
+      "type": "boolean"
+    },
+    "unlock_less": {
+      "type": "boolean"
+    },
+    "unlock_greater_equal": {
+      "type": "boolean"
+    }
+  }
 }

@@ -55,5 +55,20 @@
       "template": "w_praise_try"
     }
   ],
-  "_xlsxPath": "global/data/workshop_data/workshop_tasks.xlsx"
+  "_xlsxPath": "global/data/workshop_data/workshop_tasks.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES",
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "number"
+    },
+    "rel_priority": {
+      "type": "number"
+    }
+  }
 }

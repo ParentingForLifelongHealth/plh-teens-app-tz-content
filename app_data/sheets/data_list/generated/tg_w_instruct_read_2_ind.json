@@ -10,8 +10,7 @@
       "together": true,
       "template": "w_instruct_read_2",
       "rel_priority": 1,
-      "completed_field": "task_w_instruct_read_2_completed",
-      "completed": "@fields.task_w_instruct_read_2_completed"
+      "completed_field": "task_w_instruct_read_2_completed"
     },
     {
       "id": "question_2",
@@ -20,8 +19,18 @@
       "together": false,
       "template": "w_instruct_question_2",
       "rel_priority": 2,
-      "completed_field": "task_w_instruct_question_2_completed",
-      "completed": "@fields.task_w_instruct_question_2_completed"
+      "completed_field": "task_w_instruct_question_2_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "rel_priority": {
+      "type": "number"
+    }
+  }
 }

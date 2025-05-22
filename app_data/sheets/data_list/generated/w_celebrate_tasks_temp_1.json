@@ -73,5 +73,13 @@
       "together": true,
       "template": "w_celebrate_talk_2"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    }
+  }
 }

@@ -157,5 +157,6 @@
       "_nested_name": "dg_buttons"
     }
   ],
-  "_xlsxPath": "global/core_templates/feature_feedback.xlsx"
+  "_xlsxPath": "global/should be coming from general library/feature_feedback.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES"
 }

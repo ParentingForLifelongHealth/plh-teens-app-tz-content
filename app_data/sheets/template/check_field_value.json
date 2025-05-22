@@ -10,6 +10,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "_nested_name": "title"
     },
     {
@@ -19,11 +20,13 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "_nested_name": "text"
     },
     {
       "type": "text_box",
       "name": "field_name",
+      "exclude_from_translation": true,
       "_nested_name": "field_name"
     },
     {
@@ -33,6 +36,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "_nested_name": "text",
       "_dynamicFields": {
         "value": [
@@ -64,6 +68,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "_nested_name": "title"
     },
     {
@@ -73,11 +78,13 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "_nested_name": "text"
     },
     {
       "type": "text_box",
       "name": "field_value",
+      "exclude_from_translation": true,
       "_nested_name": "field_value"
     },
     {
@@ -99,6 +106,7 @@
           "_cleaned": "click | set_field: @local.field_name: @local.field_value"
         }
       ],
+      "exclude_from_translation": true,
       "_nested_name": "button",
       "_dynamicFields": {
         "action_list": {
@@ -166,5 +174,6 @@
       }
     }
   ],
-  "_xlsxPath": "library_field_values.xlsx"
+  "_xlsxPath": "library_field_values.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo"
 }

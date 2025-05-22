@@ -87,5 +87,13 @@
       "together": true,
       "template": "w_svp_learn_use_body"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    }
+  }
 }

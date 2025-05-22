@@ -805,5 +805,11 @@
       "text": "Wow, your teen is so lucky to have you as a parent. Learn more about parenting your teen with @global.parent_app."
     }
   ],
-  "_xlsxPath": "global/campaigns/notifications_inactive.xlsx"
+  "_xlsxPath": "global/notifications.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES",
+  "_metadata": {
+    "priority": {
+      "type": "number"
+    }
+  }
 }

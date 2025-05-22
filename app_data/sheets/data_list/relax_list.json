@@ -12,7 +12,6 @@
       "favourite_field": "relax_1_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_1_completed",
-      "completed": "@fields.relax_1_completed",
       "title": "Quick pause",
       "_translations": {
         "title": {
@@ -34,7 +33,6 @@
       "favourite_field": "relax_2_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_2_completed",
-      "completed": "@fields.relax_2_completed",
       "title": "Power of three",
       "_translations": {
         "title": {
@@ -56,7 +54,6 @@
       "favourite_field": "relax_3_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_3_completed",
-      "completed": "@fields.relax_3_completed",
       "title": "One thing today",
       "_translations": {
         "title": {
@@ -78,7 +75,6 @@
       "favourite_field": "relax_4_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_4_completed",
-      "completed": "@fields.relax_4_completed",
       "title": "Breathe to three",
       "_translations": {
         "title": {
@@ -100,7 +96,6 @@
       "favourite_field": "relax_5_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_5_completed",
-      "completed": "@fields.relax_5_completed",
       "title": "In and out",
       "_translations": {
         "title": {
@@ -121,7 +116,6 @@
       "favourite_field": "relax_6_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_6_completed",
-      "completed": "@fields.relax_6_completed",
       "title": "Think about today",
       "_translations": {
         "title": {
@@ -143,7 +137,6 @@
       "favourite_field": "relax_7_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_7_completed",
-      "completed": "@fields.relax_7_completed",
       "title": "Pause to respond",
       "_translations": {
         "title": {
@@ -165,7 +158,6 @@
       "favourite_field": "relax_8_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_8_completed",
-      "completed": "@fields.relax_8_completed",
       "title": "Small things",
       "_translations": {
         "title": {
@@ -187,7 +179,6 @@
       "favourite_field": "relax_9_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_9_completed",
-      "completed": "@fields.relax_9_completed",
       "title": "Body scan",
       "_translations": {
         "title": {
@@ -209,7 +200,6 @@
       "favourite_field": "relax_10_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_10_completed",
-      "completed": "@fields.relax_10_completed",
       "title": "Feel the ground",
       "_translations": {
         "title": {
@@ -231,7 +221,6 @@
       "favourite_field": "relax_11_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_11_completed",
-      "completed": "@fields.relax_11_completed",
       "title": "Counting sounds",
       "_translations": {
         "title": {
@@ -253,7 +242,6 @@
       "favourite_field": "relax_12_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_12_completed",
-      "completed": "@fields.relax_12_completed",
       "title": "Feel your feelings",
       "_translations": {
         "title": {
@@ -275,7 +263,6 @@
       "favourite_field": "relax_13_favourite",
       "type": "relax_active",
       "completed_field": "relax_13_completed",
-      "completed": "@fields.relax_13_completed",
       "title": "Your song",
       "_translations": {
         "title": {
@@ -297,7 +284,6 @@
       "favourite_field": "relax_14_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_14_completed",
-      "completed": "@fields.relax_14_completed",
       "title": "Ground & gratitude",
       "_translations": {
         "title": {
@@ -318,7 +304,6 @@
       "favourite_field": "relax_15_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_15_completed",
-      "completed": "@fields.relax_15_completed",
       "title": "Notice how you feel",
       "_translations": {
         "title": {
@@ -339,7 +324,6 @@
       "favourite_field": "relax_16_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_16_completed",
-      "completed": "@fields.relax_16_completed",
       "title": "Pause power",
       "_translations": {
         "title": {
@@ -360,7 +344,6 @@
       "favourite_field": "relax_17_favourite",
       "type": "relax_passive_short",
       "completed_field": "relax_17_completed",
-      "completed": "@fields.relax_17_completed",
       "title": "Praise yourself",
       "_translations": {
         "title": {
@@ -381,7 +364,6 @@
       "favourite_field": "relax_18_favourite",
       "type": "relax_passive_long",
       "completed_field": "relax_18_completed",
-      "completed": "@fields.relax_18_completed",
       "title": "Taking care of yourself",
       "_translations": {
         "title": {
@@ -402,7 +384,6 @@
       "favourite_field": "relax_19_favourite",
       "type": "relax_passive_long",
       "completed_field": "relax_19_completed",
-      "completed": "@fields.relax_19_completed",
       "title": "Take a pause",
       "_translations": {
         "title": {
@@ -423,7 +404,6 @@
       "favourite_field": "relax_20_favourite",
       "type": "relax_active",
       "completed_field": "relax_20_completed",
-      "completed": "@fields.relax_20_completed",
       "title": "Physical activity",
       "_translations": {
         "title": {
@@ -444,7 +424,6 @@
       "favourite_field": "relax_21_favourite",
       "type": "relax_active",
       "completed_field": "relax_21_completed",
-      "completed": "@fields.relax_21_completed",
       "title": "List of things",
       "_translations": {
         "title": {
@@ -465,7 +444,6 @@
       "favourite_field": "relax_22_favourite",
       "type": "relax_active",
       "completed_field": "relax_22_completed",
-      "completed": "@fields.relax_22_completed",
       "title": "Connect",
       "_translations": {
         "title": {
@@ -486,7 +464,6 @@
       "favourite_field": "relax_23_favourite",
       "type": "relax_active",
       "completed_field": "relax_23_completed",
-      "completed": "@fields.relax_23_completed",
       "title": "Prevent anger",
       "_translations": {
         "title": {
@@ -507,7 +484,6 @@
       "favourite_field": "relax_24_favourite",
       "type": "relax_active",
       "completed_field": "relax_24_completed",
-      "completed": "@fields.relax_24_completed",
       "title": "Angry? Take a break",
       "_translations": {
         "title": {
@@ -521,5 +497,6 @@
       }
     }
   ],
-  "_xlsxPath": "global/data/relax_data_list.xlsx"
+  "_xlsxPath": "global/data/relax_data_list.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES"
 }

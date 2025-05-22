@@ -22,8 +22,7 @@
         }
       },
       "template": "w_1on1_welcome_individual",
-      "completed_field": "task_gp_w_1on1_welcome_individual_completed",
-      "completed": "@fields.task_gp_w_1on1_welcome_individual_completed"
+      "completed_field": "task_gp_w_self_care_welcome_individual_completed"
     },
     {
       "id": "care_together",
@@ -43,8 +42,7 @@
         }
       },
       "template": "w_1on1_care_together",
-      "completed_field": "task_gp_w_1on1_care_together_completed",
-      "completed": "@fields.task_gp_w_1on1_care_together_completed"
+      "completed_field": "task_gp_w_self_care_care_together_completed"
     },
     {
       "id": "relax",
@@ -63,8 +61,7 @@
         }
       },
       "template": "w_1on1_relax",
-      "completed_field": "task_gp_w_1on1_relax_completed",
-      "completed": "@fields.task_gp_w_1on1_relax_completed"
+      "completed_field": "task_gp_w_self_care_relax_completed"
     },
     {
       "id": "intro",
@@ -83,8 +80,7 @@
         }
       },
       "template": "w_1on1_intro",
-      "completed_field": "task_gp_w_1on1_intro_completed",
-      "completed": "@fields.task_gp_w_1on1_intro_completed"
+      "completed_field": "task_gp_w_self_care_intro_completed"
     },
     {
       "id": "tools_activity",
@@ -103,8 +99,7 @@
         }
       },
       "template": "w_1on1_tools_activity",
-      "completed_field": "task_gp_w_1on1_tools_activity_completed",
-      "completed": "@fields.task_gp_w_1on1_tools_activity_completed"
+      "completed_field": "task_gp_w_self_care_tools_activity_completed"
     },
     {
       "id": "home_practice",
@@ -123,8 +118,7 @@
         }
       },
       "template": "w_1on1_home_practice",
-      "completed_field": "task_gp_w_1on1_home_practice_completed",
-      "completed": "@fields.task_gp_w_1on1_home_practice_completed"
+      "completed_field": "task_gp_w_self_care_home_practice_completed"
     },
     {
       "id": "ending",
@@ -145,8 +139,7 @@
         }
       },
       "template": "w_1on1_ending",
-      "completed_field": "task_gp_w_1on1_ending_completed",
-      "completed": "@fields.task_gp_w_1on1_ending_completed"
+      "completed_field": "task_gp_w_self_care_ending_completed"
     },
     {
       "id": "hp_review",
@@ -165,8 +158,7 @@
         }
       },
       "template": "w_1on1_hp_review",
-      "completed_field": "task_gp_w_1on1_hp_review_completed",
-      "completed": "@fields.task_gp_w_1on1_hp_review_completed"
+      "completed_field": "task_gp_w_self_care_hp_review_completed"
     },
     {
       "id": "question",
@@ -187,8 +179,7 @@
         }
       },
       "template": "w_1on1_question",
-      "completed_field": "task_gp_w_1on1_question_completed",
-      "completed": "@fields.task_gp_w_1on1_question_completed"
+      "completed_field": "task_gp_w_self_care_question_completed"
     },
     {
       "id": "talk",
@@ -208,8 +199,21 @@
         }
       },
       "template": "w_1on1_talk",
-      "completed_field": "task_gp_w_1on1_talk_completed",
-      "completed": "@fields.task_gp_w_1on1_talk_completed"
+      "completed_field": "task_gp_w_self_care_talk_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "number"
+    },
+    "has_single_task": {
+      "type": "boolean"
+    }
+  }
 }

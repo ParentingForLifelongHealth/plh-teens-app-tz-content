@@ -59,5 +59,13 @@
       "together": true,
       "template": "w_learn_ending"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    }
+  }
 }

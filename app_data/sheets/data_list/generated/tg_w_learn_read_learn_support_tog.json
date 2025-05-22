@@ -10,8 +10,18 @@
       "together": true,
       "template": "w_learn_read_learn_support",
       "rel_priority": 1,
-      "completed_field": "task_w_learn_read_learn_support_completed",
-      "completed": "@fields.task_w_learn_read_learn_support_completed"
+      "completed_field": "task_w_learn_read_learn_support_completed"
     }
-  ]
+  ],
+  "_metadata": {
+    "individual": {
+      "type": "boolean"
+    },
+    "together": {
+      "type": "boolean"
+    },
+    "rel_priority": {
+      "type": "number"
+    }
+  }
 }

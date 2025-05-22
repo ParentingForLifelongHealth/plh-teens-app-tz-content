@@ -41,5 +41,28 @@
       ]
     }
   ],
-  "_xlsxPath": "global/top_templates/workshop_templates/workshop_svp.xlsx"
+  "_xlsxPath": "global/top_templates/workshop_templates/workshop_svp.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1_r77FxTtub64tbHL1EgF2CZDkQShxaES",
+  "_output_flows": [
+    {
+      "flow_name": "w_svp_learn_suggestions_use_voice",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_svp_learn_suggestions_first_targets",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_svp_learn_suggestions_second_targets",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_svp_learn_suggestions_defence_moves",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
 }
