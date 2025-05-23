@@ -110,6 +110,7 @@
           "_cleaned": "completed | emit: completed"
         }
       ],
+      "condition": "!!@local.combo_box",
       "rows": [
         {
           "name": "display_back",
@@ -175,13 +176,24 @@
               }
             ]
           }
-        }
+        },
+        "condition": [
+          {
+            "fullExpression": "!!@local.combo_box",
+            "matchedExpression": "!@local.combo_box",
+            "type": "local",
+            "fieldName": "combo_box"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@local.combo_box": [
           "action_list.0.args.1",
           "action_list.0._raw",
           "action_list.0._cleaned"
+        ],
+        "!@local.combo_box": [
+          "condition"
         ]
       }
     }
