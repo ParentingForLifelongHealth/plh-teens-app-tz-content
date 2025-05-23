@@ -6,11 +6,15 @@ const config = extendDeploymentConfig({ name: "plh_teens_tz", parent: "plh_teens
 
 config.google_drive = {
   sheets_folder_ids: [
-    "1_r77FxTtub64tbHL1EgF2CZDkQShxaES", // Scale Up
+    "1n221Zv9LYuwxmjhiboq8vhQg67_K9L5f", // RCT
+ //   "1_r77FxTtub64tbHL1EgF2CZDkQShxaES", // Scale Up
     "1e8-inTLEHkdskV3OAtes7QNsiL7Rwr5v", // Facebook Ad Campaign
     "1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo" // Library field values
   ],
-  assets_folder_ids: ["1bT13rBBqxkzAw-kl_T5rbijT6rysLfLB"], // Scale Up
+  assets_folder_ids: [
+    "1dp9QAQ84m8pm0IBQTSPXe1ramyynKPNn", // RCT
+ //   "1bT13rBBqxkzAw-kl_T5rbijT6rysLfLB" // Scale Up
+  ], 
 };
 
 

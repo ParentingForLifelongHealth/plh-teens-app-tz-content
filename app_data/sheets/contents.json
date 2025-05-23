@@ -1142,7 +1142,7 @@
       "flow_type": "data_list",
       "flow_subtype": "lifecycle_actions",
       "flow_name": "launch_actions",
-      "_xlsxPath": "global/core_templates/core_templates_app_launch.xlsx"
+      "_xlsxPath": "app_launch user_referral_source.xlsx"
     },
     "mode_data": {
       "flow_type": "data_list",
@@ -1281,6 +1281,11 @@
       "flow_name": "topic_intro_data",
       "data_list_name": "topic_intro",
       "_xlsxPath": "global/data/workshop_data/workshop_data_list.xlsx"
+    },
+    "user_referral_sources": {
+      "flow_type": "data_list",
+      "flow_name": "user_referral_sources",
+      "_xlsxPath": "app_launch user_referral_source.xlsx"
     },
     "w_1on1_specific_task_gs": {
       "flow_type": "data_list",
@@ -1826,6 +1831,11 @@
       "override_target": "localised_names",
       "override_condition": "@fields._deployment_name == \"plh_teens_za\"",
       "_xlsxPath": "za/data/localisation_globals_za.xlsx"
+    },
+    "misc_global": {
+      "flow_type": "global",
+      "flow_name": "misc_global",
+      "_xlsxPath": "app_launch user_referral_source.xlsx"
     },
     "names_of_characters": {
       "flow_type": "global",
@@ -4459,6 +4469,11 @@
       "flow_type": "template",
       "flow_name": "user_info",
       "_xlsxPath": "global/core_templates/core_templates_settings.xlsx"
+    },
+    "user_referral_source": {
+      "flow_type": "template",
+      "flow_name": "user_referral_source",
+      "_xlsxPath": "app_launch user_referral_source.xlsx"
     },
     "w_1on1_care_together": {
       "flow_type": "template",
