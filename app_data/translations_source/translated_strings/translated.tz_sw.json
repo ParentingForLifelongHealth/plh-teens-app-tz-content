@@ -17302,5 +17302,47 @@
     "text": "<p> Bonyeza hapa kubadili jina la kikundi chako. </p>",
     "type": "tour",
     "note": ""
+  },
+    {
+    "SourceText": "How did you hear about @global.parent_app?",
+    "text": "Umesikia wapi kuhusu @global.parent_app?",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Through a facilitator in a parenting session",
+    "text": "Kupitia kwenye mafunzo ya malezi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "From a friend or family member",
+    "text": "Kupitia rafiki au mwanafamilia",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Social media (e.g., Facebook, Instagram, Twitter/X)",
+    "text": "Mitandao ya kijamii (Facebook, Instagram, Twitter/X n.k)",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "By searching online (e.g., Google, Play Store, App Store)",
+    "text": "Nilitafuta mtandaoni (Google, Play Store, App Store n.k)",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Other",
+    "text": "Mengineyo",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+  "SourceText": "New message from ParentApp",
+  "text": "Ujumbe mpya kutoka ParentApp",
+  "type": "global",
+  "note": ""
   }
 ]
