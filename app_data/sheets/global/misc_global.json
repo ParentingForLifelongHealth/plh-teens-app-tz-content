@@ -1,0 +1,28 @@
+{
+  "flow_type": "global",
+  "flow_name": "misc_global",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "referral_source_question",
+      "value": "How did you hear about @global.parent_app?",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "default_notification_title",
+      "value": "New message from ParentApp",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "app_launch user_referral_source.xlsx"
+}
