@@ -33,6 +33,159 @@
       }
     },
     {
+      "name": "answer_list",
+      "value": [
+        {
+          "name": "@data.user_referral_sources.facilitator.name",
+          "text": "@data.user_referral_sources.facilitator.text"
+        },
+        {
+          "name": "@data.user_referral_sources.friend_family.name",
+          "text": "@data.user_referral_sources.friend_family.text"
+        },
+        {
+          "name": "@data.user_referral_sources.social_media.name",
+          "text": "@data.user_referral_sources.social_media.text"
+        },
+        {
+          "name": "@data.user_referral_sources.online_search.name",
+          "text": "@data.user_referral_sources.online_search.text"
+        },
+        {
+          "name": "@data.user_referral_sources.other.name",
+          "text": "@data.user_referral_sources.other.text"
+        }
+      ],
+      "type": "set_variable",
+      "_nested_name": "answer_list",
+      "_dynamicFields": {
+        "value": {
+          "0": {
+            "name": [
+              {
+                "fullExpression": "@data.user_referral_sources.facilitator.name",
+                "matchedExpression": "@data.user_referral_sources.facilitator.name",
+                "type": "data",
+                "fieldName": "user_referral_sources"
+              }
+            ],
+            "text": [
+              {
+                "fullExpression": "@data.user_referral_sources.facilitator.text",
+                "matchedExpression": "@data.user_referral_sources.facilitator.text",
+                "type": "data",
+                "fieldName": "user_referral_sources"
+              }
+            ]
+          },
+          "1": {
+            "name": [
+              {
+                "fullExpression": "@data.user_referral_sources.friend_family.name",
+                "matchedExpression": "@data.user_referral_sources.friend_family.name",
+                "type": "data",
+                "fieldName": "user_referral_sources"
+              }
+            ],
+            "text": [
+              {
+                "fullExpression": "@data.user_referral_sources.friend_family.text",
+                "matchedExpression": "@data.user_referral_sources.friend_family.text",
+                "type": "data",
+                "fieldName": "user_referral_sources"
+              }
+            ]
+          },
+          "2": {
+            "name": [
+              {
+                "fullExpression": "@data.user_referral_sources.social_media.name",
+                "matchedExpression": "@data.user_referral_sources.social_media.name",
+                "type": "data",
+                "fieldName": "user_referral_sources"
+              }
+            ],
+            "text": [
+              {
+                "fullExpression": "@data.user_referral_sources.social_media.text",
+                "matchedExpression": "@data.user_referral_sources.social_media.text",
+                "type": "data",
+                "fieldName": "user_referral_sources"
+              }
+            ]
+          },
+          "3": {
+            "name": [
+              {
+                "fullExpression": "@data.user_referral_sources.online_search.name",
+                "matchedExpression": "@data.user_referral_sources.online_search.name",
+                "type": "data",
+                "fieldName": "user_referral_sources"
+              }
+            ],
+            "text": [
+              {
+                "fullExpression": "@data.user_referral_sources.online_search.text",
+                "matchedExpression": "@data.user_referral_sources.online_search.text",
+                "type": "data",
+                "fieldName": "user_referral_sources"
+              }
+            ]
+          },
+          "4": {
+            "name": [
+              {
+                "fullExpression": "@data.user_referral_sources.other.name",
+                "matchedExpression": "@data.user_referral_sources.other.name",
+                "type": "data",
+                "fieldName": "user_referral_sources"
+              }
+            ],
+            "text": [
+              {
+                "fullExpression": "@data.user_referral_sources.other.text",
+                "matchedExpression": "@data.user_referral_sources.other.text",
+                "type": "data",
+                "fieldName": "user_referral_sources"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.user_referral_sources.facilitator.name": [
+          "value.0.name"
+        ],
+        "@data.user_referral_sources.facilitator.text": [
+          "value.0.text"
+        ],
+        "@data.user_referral_sources.friend_family.name": [
+          "value.1.name"
+        ],
+        "@data.user_referral_sources.friend_family.text": [
+          "value.1.text"
+        ],
+        "@data.user_referral_sources.social_media.name": [
+          "value.2.name"
+        ],
+        "@data.user_referral_sources.social_media.text": [
+          "value.2.text"
+        ],
+        "@data.user_referral_sources.online_search.name": [
+          "value.3.name"
+        ],
+        "@data.user_referral_sources.online_search.text": [
+          "value.3.text"
+        ],
+        "@data.user_referral_sources.other.name": [
+          "value.4.name"
+        ],
+        "@data.user_referral_sources.other.text": [
+          "value.4.text"
+        ]
+      }
+    },
+    {
       "type": "combo_box",
       "name": "combo_box",
       "value": "@fields.user_referral_source",
@@ -40,7 +193,7 @@
         "value": {}
       },
       "parameter_list": {
-        "answer_list": "@data.user_referral_sources\nplaceholder",
+        "answer_list": "@local.answer_list\nplaceholder",
         "input_allowed": "false"
       },
       "_nested_name": "combo_box",
@@ -56,10 +209,10 @@
         "parameter_list": {
           "answer_list": [
             {
-              "fullExpression": "@data.user_referral_sources\nplaceholder",
-              "matchedExpression": "@data.user_referral_sources",
-              "type": "data",
-              "fieldName": "user_referral_sources"
+              "fullExpression": "@local.answer_list\nplaceholder",
+              "matchedExpression": "@local.answer_list",
+              "type": "local",
+              "fieldName": "answer_list"
             }
           ]
         }
@@ -68,7 +221,7 @@
         "@fields.user_referral_source": [
           "value"
         ],
-        "@data.user_referral_sources": [
+        "@local.answer_list": [
           "parameter_list.answer_list"
         ]
       }
