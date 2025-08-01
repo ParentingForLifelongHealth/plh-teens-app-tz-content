@@ -13,7 +13,7 @@ config.google_drive.sheets_folder_ids = [
   "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU", // kids_global
   "1GnKk8luhnYcWobeeEfbR23ZSoZakcNF9", // kids_teens_global
   "1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR", // library PLH onboarding
-  "1Bzlnwts9mkoLRhDy-SN5O1A3bUlBOynI" // kids_teens_za
+  "1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY" // teens_tz (GT)
 ];
 config.google_drive.assets_folder_ids = [
   "13COzYq0iK7sXXZYekPgkwloWtuGoxBNt", // kids_teens_global
