@@ -1,37 +1,28 @@
-import { extendDeploymentConfig } from "scripts";
-import { loadEncryptedConfig } from "scripts";
+import { extendDeploymentConfig, loadEncryptedConfig } from "scripts";
 
-/** TZ config extends the default config **/
-const config = extendDeploymentConfig({ name: "plh_teens_tz", parent: "plh_teens" });
-
-config.google_drive = {
-  sheets_folder_ids: [
-    "1n221Zv9LYuwxmjhiboq8vhQg67_K9L5f", // RCT
- //   "1_r77FxTtub64tbHL1EgF2CZDkQShxaES", // Scale Up
-    "1e8-inTLEHkdskV3OAtes7QNsiL7Rwr5v", // Facebook Ad Campaign
-    "1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo" // Library field values
-  ],
-  assets_folder_ids: [
-    "1dp9QAQ84m8pm0IBQTSPXe1ramyynKPNn", // RCT
- //   "1bT13rBBqxkzAw-kl_T5rbijT6rysLfLB" // Scale Up
-  ], 
-};
-
-
-config.app_data!.sheets_filter_function = (flow) =>
-  !["debug", "component_demo", "example_hardcoded", "campaign_rows_debug"].includes(
-    flow.flow_subtype!
-  );
-
-config.translations!.filter_language_codes = ["tz_en", "tz_sw"];
-
-// Hacky fix to point extended deployment to translations within its own repo
-config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
+const config = extendDeploymentConfig({ name: "plh_teens_tz", parent: "plh_kids" });
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
   content_tag_latest: "1.2.1",
 };
+
+config.google_drive.sheets_folder_ids = [
+  "19wSspWYMbRc75een-kS0q0aq24--75u8", // library_app_menu
+  "1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo", // library_field_values
+  "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU", // kids_global
+  "1GnKk8luhnYcWobeeEfbR23ZSoZakcNF9", // kids_teens_global
+  "1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR", // library PLH onboarding
+  "1Bzlnwts9mkoLRhDy-SN5O1A3bUlBOynI" // kids_teens_za
+];
+config.google_drive.assets_folder_ids = [
+  "13COzYq0iK7sXXZYekPgkwloWtuGoxBNt", // kids_teens_global
+  "1T93qsaSBbYa-lCF6ChPkfoX85PLugJCZ" // kids_teens_za
+];
+
+config.firebase = {
+  config: loadEncryptedConfig('firebase.json'),
+}
 
 config.android = {
   app_id:'international.idems.plh_teens_tz',
@@ -47,13 +38,32 @@ config.ios = {
   app_name: "PLH Teens TZ",
 };
 
-config.api.db_name = "plh";
-config.web.favicon_asset = "./app_data/assets/web/favicon.png";
-config.app_data.output_path = "./app_data";
+config.auth = {
+  provider: 'firebase',
+}
 
-// Override constants
-config.app_config!.APP_LANGUAGES!.default = "tz_sw";
-config.app_config!.APP_SIDEMENU_DEFAULTS!.title = "ParentApp (TZ)";
+// Hacky fix to point extended deployment to translations within its own repo
+config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
+
+// To reduce app size, exclude uncompressed assets and unused
+config.app_data.assets_filter_function = (fileEntry) =>
+  !fileEntry.relativePath.includes("uncompressed") &&
+
+config.api.db_name = "plh_teens_tz";
+config.app_data.output_path = "./app_data";
+config.web.favicon_asset = "./app_data/assets/web/favicon.png";
+
+config.app_config.APP_LANGUAGES.default = "tz_sw";
+config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Teens TZ";
+config.app_config.APP_HEADER_DEFAULTS.title = "ParentApp for Teens TZ";
+config.app_config.APP_HEADER_DEFAULTS.hidden = true;
+config.app_config.APP_FOOTER_DEFAULTS.template = "footer";
+config.app_config.APP_FOOTER_DEFAULTS.background = "none";
+config.app_config.NOTIFICATION_DEFAULTS.title = "New message from ParentApp for Teens TZ";
+config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from ParentApp for Teens TZ";
+config.app_config.APP_THEMES.available = ["plh_kids_kw"];
+config.app_config.APP_THEMES.defaultThemeName = "plh_kids_kw";
 config.error_logging = { dsn: "https://a2fb8833a9814e349432edb70448da40@app.glitchtip.com/6888" };
+
 
 export default config;
