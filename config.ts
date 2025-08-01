@@ -47,7 +47,7 @@ config.translations.translated_strings_path = "./app_data/translations_source/tr
 
 // To reduce app size, exclude uncompressed assets and unused
 config.app_data.assets_filter_function = (fileEntry) =>
-  !fileEntry.relativePath.includes("uncompressed") &&
+  !fileEntry.relativePath.includes("uncompressed")
 
 config.api.db_name = "plh_teens_tz";
 config.app_data.output_path = "./app_data";

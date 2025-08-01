@@ -4,31 +4,201 @@
   "status": "released",
   "rows": [
     {
+      "name": "home",
+      "value": "@global.home",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "home",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.home",
+            "matchedExpression": "@global.home",
+            "type": "global",
+            "fieldName": "home"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.home": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "settings",
+      "value": "@global.settings",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "settings",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.settings",
+            "matchedExpression": "@global.settings",
+            "type": "global",
+            "fieldName": "settings"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.settings": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "rewards",
+      "value": "@global.rewards",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "rewards",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.rewards",
+            "matchedExpression": "@global.rewards",
+            "type": "global",
+            "fieldName": "rewards"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.rewards": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "library",
+      "value": "@global.library",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "library",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.library",
+            "matchedExpression": "@global.library",
+            "type": "global",
+            "fieldName": "library"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.library": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "button_list",
       "value": [
         {
-          "image": "plh_images/icons/house_white.svg",
+          "name": "home_button",
+          "label": "@local.home",
+          "icon": "images/icons/home.svg",
+          "active_icon": "images/icons/home_active.svg",
           "target_template": "home_screen"
         },
         {
-          "image": "plh_images/icons/star_white.svg",
-          "target_template": "parent_points"
+          "name": "rewards_button",
+          "label": "@local.rewards",
+          "icon": "images/icons/trophy_footer.svg",
+          "active_icon": "images/icons/trophy_footer_active.svg",
+          "target_template": "activity_library"
         },
         {
-          "image": "plh_images/icons/book_white.svg",
-          "target_template": "parent_centre"
+          "name": "library_button",
+          "label": "@local.library",
+          "icon": "images/icons/local_library.svg",
+          "active_icon": "images/icons/local_library_active.svg",
+          "target_template": "library"
+        },
+        {
+          "name": "settings_button",
+          "label": "@local.settings",
+          "icon": "images/icons/settings.svg",
+          "active_icon": "images/icons/settings_active.svg",
+          "target_template": "settings"
         }
       ],
       "type": "set_variable",
-      "_nested_name": "button_list"
+      "_nested_name": "button_list",
+      "_dynamicFields": {
+        "value": {
+          "0": {
+            "label": [
+              {
+                "fullExpression": "@local.home",
+                "matchedExpression": "@local.home",
+                "type": "local",
+                "fieldName": "home"
+              }
+            ]
+          },
+          "1": {
+            "label": [
+              {
+                "fullExpression": "@local.rewards",
+                "matchedExpression": "@local.rewards",
+                "type": "local",
+                "fieldName": "rewards"
+              }
+            ]
+          },
+          "2": {
+            "label": [
+              {
+                "fullExpression": "@local.library",
+                "matchedExpression": "@local.library",
+                "type": "local",
+                "fieldName": "library"
+              }
+            ]
+          },
+          "3": {
+            "label": [
+              {
+                "fullExpression": "@local.settings",
+                "matchedExpression": "@local.settings",
+                "type": "local",
+                "fieldName": "settings"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.home": [
+          "value.0.label"
+        ],
+        "@local.rewards": [
+          "value.1.label"
+        ],
+        "@local.library": [
+          "value.2.label"
+        ],
+        "@local.settings": [
+          "value.3.label"
+        ]
+      }
     },
     {
-      "type": "navigation_bar",
+      "type": "plh_bottom_nav",
       "parameter_list": {
         "button_list": "@local.button_list"
       },
-      "name": "navigation_bar_3",
-      "_nested_name": "navigation_bar_3",
+      "name": "plh_bottom_nav_7",
+      "_nested_name": "plh_bottom_nav_7",
       "_dynamicFields": {
         "parameter_list": {
           "button_list": [
@@ -48,5 +218,6 @@
       }
     }
   ],
-  "_xlsxPath": "global_modular/core_templates/footer.xlsx"
+  "_xlsxPath": "templates/ZA app_navigation.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Bzlnwts9mkoLRhDy-SN5O1A3bUlBOynI"
 }

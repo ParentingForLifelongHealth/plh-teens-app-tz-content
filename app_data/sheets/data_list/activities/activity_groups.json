@@ -1,0 +1,61 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "activity_groups",
+  "data_list_name": "activity_groups",
+  "status": "released",
+  "flow_subtype": "activities",
+  "rows": [
+    {
+      "id": "quick",
+      "title": "Quick",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick"
+        }
+      }
+    },
+    {
+      "id": "group",
+      "title": "Group",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group"
+        }
+      }
+    },
+    {
+      "id": "active",
+      "title": "Active",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Active"
+        }
+      }
+    },
+    {
+      "id": "calm",
+      "title": "Calm",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Calm"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/ZA activities.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Bzlnwts9mkoLRhDy-SN5O1A3bUlBOynI"
+}

@@ -5,8 +5,8 @@
   "rows": [
     {
       "type": "template",
-      "name": "lib_act_something_fun",
-      "value": "lib_act_something_fun",
+      "name": "activity",
+      "value": "activity",
       "action_list": [
         {
           "trigger": "completed",
@@ -14,8 +14,17 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit:completed",
-          "_cleaned": "completed | emit:completed"
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
         }
       ],
       "rows": [
@@ -26,10 +35,10 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "lib_act_something_fun.activity_id"
+          "_nested_name": "activity.activity_id"
         }
       ],
-      "_nested_name": "lib_act_something_fun"
+      "_nested_name": "activity"
     }
   ]
 }
