@@ -284,8 +284,8 @@
       },
       {
         "assets": "unused",
-        "KB": "75833 KB",
-        "MB": "75.8 MB"
+        "KB": "73332 KB",
+        "MB": "73.3 MB"
       }
     ]
   },
@@ -306,38 +306,6 @@
       {
         "path": "android/splash.png",
         "size_kb": 239
-      },
-      {
-        "path": "audio/modules/connect/intro_connect_child.m4a",
-        "size_kb": 281.3
-      },
-      {
-        "path": "audio/modules/connect/learn_11.m4a",
-        "size_kb": 426.4
-      },
-      {
-        "path": "audio/modules/connect/learn_7.m4a",
-        "size_kb": 367.9
-      },
-      {
-        "path": "audio/modules/connect/learn_9.m4a",
-        "size_kb": 233.4
-      },
-      {
-        "path": "audio/modules/connect/man/intro_connect_child.m4a",
-        "size_kb": 262.7
-      },
-      {
-        "path": "audio/modules/connect/man/learn_11.m4a",
-        "size_kb": 393.4
-      },
-      {
-        "path": "audio/modules/connect/man/learn_7.m4a",
-        "size_kb": 335
-      },
-      {
-        "path": "audio/modules/connect/man/learn_9.m4a",
-        "size_kb": 196.8
       },
       {
         "path": "audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3",
@@ -433,7 +401,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 9.6
+        "size_kb": 5.9
       },
       {
         "path": "images/activities/act_animal.svg",

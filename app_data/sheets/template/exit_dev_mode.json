@@ -8,9 +8,7 @@
       "name": "title",
       "value": "Exit developer mode",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "_nested_name": "title"

@@ -11,9 +11,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1FFkho-7gOPLNo29UNuV2z-bGpJ5_2Q8jGSKcC1Mou38",
       "title": "Relax",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -52,9 +50,7 @@
       "icon_asset": "images/icons/magnifying_glass.svg",
       "title": "Explore",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -67,9 +63,7 @@
       "icon_asset": "images/icons/thought_bubble.svg",
       "title": "Review",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -95,9 +89,7 @@
       "icon_asset": "images/icons/parent_child_heart.svg",
       "title": "Home Activity",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {

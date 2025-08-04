@@ -85,7 +85,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 59014 KB | 59 MB |
-| unused | 75833 KB | 75.8 MB |
+| unused | 73332 KB | 73.3 MB |
 </details>
 
 <details open>
@@ -99,14 +99,6 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| audio/modules/connect/intro_connect_child.m4a | 281.3 |
-| audio/modules/connect/learn_11.m4a | 426.4 |
-| audio/modules/connect/learn_7.m4a | 367.9 |
-| audio/modules/connect/learn_9.m4a | 233.4 |
-| audio/modules/connect/man/intro_connect_child.m4a | 262.7 |
-| audio/modules/connect/man/learn_11.m4a | 393.4 |
-| audio/modules/connect/man/learn_7.m4a | 335 |
-| audio/modules/connect/man/learn_9.m4a | 196.8 |
 | audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3 | 132.8 |
 | audio/teen/topic_intros/celebrate_intro_t.mp3 | 665.6 |
 | audio/teen/topic_intros/workshops_reflection_t.mp3 | 258.6 |
@@ -130,7 +122,7 @@ Assets that appear in app-data but do not have references within sheets
 | audio/yc/rules_audio_2.mp3 | 742.7 |
 | audio/yc/solve_audio_1.mp3 | 983.4 |
 | audio/yc/solve_audio_2.mp3 | 468.1 |
-| contents.json | 9.6 |
+| contents.json | 5.9 |
 | images/activities/act_animal.svg | 135.4 |
 | images/activities/act_animal_infant.svg | 111.5 |
 | images/activities/act_emotions.svg | 106.6 |

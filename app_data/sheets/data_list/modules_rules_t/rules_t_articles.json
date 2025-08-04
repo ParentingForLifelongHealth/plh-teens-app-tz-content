@@ -212,39 +212,21 @@
       "category_id": "explore",
       "text_1_facilitator": "Let's think about what happened in this story.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_4": {},
         "quiz_2_question": {},
         "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
+        "quiz_2_feedback_1": {},
         "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        }
+        "quiz_2_feedback_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -317,24 +299,12 @@
       "text_1_facilitator": "Here are this week’s takeaway skills to help learn how to set rules with your teen!",
       "_translations": {
         "text_1_facilitator": {},
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
-        "section_2_title": {
-          "tz_sw": true
-        },
-        "section_2_text": {
-          "tz_sw": true
-        },
-        "section_3_title": {
-          "tz_sw": true
-        },
-        "section_3_text": {
-          "tz_sw": true
-        }
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -484,15 +454,11 @@
         "text_1_facilitator": {},
         "text_2": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {}
       },
       "_translatedFields": {

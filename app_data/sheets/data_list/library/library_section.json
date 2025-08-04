@@ -10,12 +10,8 @@
       "image": "images/icons/question_mark_blue.svg",
       "title": "Support Contacts",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "introduction": {
-          "tz_sw": true
-        }
+        "title": {},
+        "introduction": {}
       },
       "_translatedFields": {
         "title": {
@@ -32,9 +28,7 @@
       "image": "images/icons/star_outline_blue.svg",
       "title": "Essential Tools",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {

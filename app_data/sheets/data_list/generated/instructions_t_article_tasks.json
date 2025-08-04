@@ -65,28 +65,14 @@
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
       "text_1": "Recognising how you feel is key to handling life well. Be real and kind to yourself.",
       "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        }
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "You are a star. And you are making a real difference. You can be proud of yourself.",
       "quiz_1_feedback_2": "Everyone has good and bad days. Well done for using this app. It shows you are a committed parent. Remember to praise yourself for it!",
@@ -345,15 +331,9 @@
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
         "quiz_2_question": {},
         "quiz_2_option_1_text": {},
@@ -524,13 +504,9 @@
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_2_question": {},
         "quiz_2_option_1_text": {},
         "quiz_2_feedback_1": {},
@@ -583,21 +559,11 @@
       "text_1_facilitator": "Here are some tips to help you give your teen clear and positive instructions!",
       "_translations": {
         "text_1_facilitator": {},
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
-        "section_2_title": {
-          "tz_sw": true
-        },
-        "section_2_text": {
-          "tz_sw": true
-        },
-        "section_3_title": {
-          "tz_sw": true
-        },
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
         "section_3_text": {}
       },
       "section_1_icon_asset": "images/icons/clock_blue.png",
@@ -670,13 +636,9 @@
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
         "text_2": {},
         "quiz_2_question": {},

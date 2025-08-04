@@ -13,28 +13,14 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "text_goal": "Your goal was to spend one-on-one time with your teen.",
       "_translations": {
-        "text_goal": {
-          "tz_sw": true
-        },
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
-        "reply_sad": {
-          "tz_sw": true
-        },
+        "text_goal": {},
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "reply_no": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        },
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -84,26 +70,14 @@
       "text_goal": "Your goal was to praise your teen once a day.",
       "_translations": {
         "text_goal": {},
-        "reply_no": {
-          "tz_sw": true
-        },
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
-        "reply_sad": {
-          "tz_sw": true
-        },
+        "reply_no": {},
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "outro_text": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        }
+        "question_done": {},
+        "question_how": {}
       },
       "_translatedFields": {
         "text_goal": {
@@ -152,25 +126,13 @@
       "text_goal": "Your goal was to try and resolve a problem together with your teen using the four steps of problem-solving: Know It, Solve It, Try It, Test It.",
       "_translations": {
         "text_goal": {},
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
-        "reply_sad": {
-          "tz_sw": true
-        },
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "reply_no": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        },
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -224,15 +186,9 @@
         "reply_ok": {},
         "reply_sad": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "reply_no": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        },
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -282,25 +238,13 @@
       "text_goal": "Your home practice was to give your teen positive instructions.",
       "_translations": {
         "text_goal": {},
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
-        "reply_sad": {
-          "tz_sw": true
-        },
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "reply_no": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        },
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -350,25 +294,13 @@
       "text_goal": "This week, your goal was to respond calmly and talk to your teen about how you both felt in a stressful situation.\n\nYour other goal was to pick a Safety Word together.",
       "_translations": {
         "text_goal": {},
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
-        "reply_sad": {
-          "tz_sw": true
-        },
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "reply_no": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        },
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -418,28 +350,14 @@
       "text_goal": "Your goal was to set one rule together with your teen.",
       "_translations": {
         "text_goal": {},
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
-        "reply_sad": {
-          "tz_sw": true
-        },
-        "outro_text": {
-          "tz_sw": true
-        },
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
+        "outro_text": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "reply_no": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        }
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {}
       },
       "_translatedFields": {
         "text_goal": {
@@ -488,25 +406,13 @@
       "text_goal": "Your goal was to introduce one POSITIVE consequence (for your teen taking good actions) and one NEGATIVE consequence (for your teen breaking a household rule).",
       "_translations": {
         "text_goal": {},
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
-        "reply_sad": {
-          "tz_sw": true
-        },
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "reply_no": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        },
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -556,25 +462,13 @@
       "text_goal": "Your goal was to make two maps with your teen of safe and unsafe places – both in your community and online.",
       "_translations": {
         "text_goal": {},
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
-        "reply_sad": {
-          "tz_sw": true
-        },
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "reply_no": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        },
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -624,23 +518,13 @@
       "text_goal": "Your goal was to discuss a possible crisis situation with your teen and make a plan for how you could respond together.",
       "_translations": {
         "text_goal": {},
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
+        "reply_happy": {},
+        "reply_ok": {},
         "reply_sad": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "reply_no": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        },
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -690,26 +574,14 @@
       "text_goal": "Your goal was to make a family budget.",
       "_translations": {
         "text_goal": {},
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
-        "reply_sad": {
-          "tz_sw": true
-        },
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "outro_text": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "reply_no": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        }
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {}
       },
       "_translatedFields": {
         "text_goal": {
@@ -758,28 +630,14 @@
       "text_goal": "Your goal was to look at the stories in this module together with your teen and use them to start a conversation about body changes and relationships.",
       "_translations": {
         "text_goal": {},
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
-        "reply_sad": {
-          "tz_sw": true
-        },
-        "outro_text": {
-          "tz_sw": true
-        },
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
+        "outro_text": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "reply_no": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        }
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {}
       },
       "_translatedFields": {
         "text_goal": {
@@ -828,25 +686,13 @@
       "text_goal": "Your goal was to discuss the Staying Safe module with your teen.",
       "_translations": {
         "text_goal": {},
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
-        "reply_sad": {
-          "tz_sw": true
-        },
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "reply_no": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        },
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -896,25 +742,13 @@
       "text_goal": "This week, your goal was to share with your teen how you feel, and ask them to also name their feelings.",
       "_translations": {
         "text_goal": {},
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
-        "reply_sad": {
-          "tz_sw": true
-        },
+        "reply_happy": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "reply_no": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        },
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -968,15 +802,9 @@
         "reply_ok": {},
         "reply_sad": {},
         "activity_title": {},
-        "question_done": {
-          "tz_sw": true
-        },
-        "reply_no": {
-          "tz_sw": true
-        },
-        "question_how": {
-          "tz_sw": true
-        },
+        "question_done": {},
+        "reply_no": {},
+        "question_how": {},
         "outro_text": {}
       },
       "_translatedFields": {

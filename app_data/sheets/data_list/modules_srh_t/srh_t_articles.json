@@ -64,9 +64,7 @@
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_transcript": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -186,9 +184,7 @@
       "category_id": "explore",
       "text_1_facilitator": "Let's think about what happened in this story.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
@@ -391,21 +387,13 @@
       "quiz_3_option_3_image_asset": "images/faces/happiest.svg",
       "text_1_facilitator": "Let's think about what happened in this story.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {},
         "quiz_2_question": {},
         "quiz_2_option_1_text": {},
@@ -420,19 +408,11 @@
         "quiz_2_feedback_5": {},
         "quiz_3_question": {},
         "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_3_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_2": {
-          "tz_sw": true
-        },
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
+        "quiz_3_feedback_2": {},
         "quiz_3_option_3_text": {},
-        "quiz_3_feedback_3": {
-          "tz_sw": true
-        }
+        "quiz_3_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -550,13 +530,9 @@
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_feedback_1_id": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "quiz_1_feedback_2_id": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3_id": {}
       },
       "_translatedFields": {
@@ -649,21 +625,13 @@
       "_translations": {
         "text_2": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1_id": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "quiz_1_feedback_2_id": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3_id": {},
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_4_id": {}
       },
       "_translatedFields": {
@@ -775,21 +743,13 @@
       "_translations": {
         "text_2": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1_id": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "quiz_1_feedback_2_id": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3_id": {},
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_4_id": {},
         "quiz_1_option_5_text": {},
         "quiz_1_feedback_5_id": {}
@@ -926,13 +886,9 @@
       "_translations": {
         "text_2": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1_id": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "quiz_1_feedback_2_id": {},
         "quiz_1_option_3_text": {},
         "quiz_1_feedback_3_id": {}
@@ -1025,19 +981,11 @@
       "text_1_facilitator": "Discussing body changes and intimate relationships can be uncomfortable, but it is so important in order to keep your teen happy, healthy and safe. \n\nHere are some skills to help you get started.",
       "_translations": {
         "text_1_facilitator": {},
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
-        "section_2_title": {
-          "tz_sw": true
-        },
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
         "section_2_text": {},
-        "section_3_title": {
-          "tz_sw": true
-        },
+        "section_3_title": {},
         "section_3_text": {}
       },
       "_translatedFields": {
@@ -1077,15 +1025,11 @@
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
@@ -1131,9 +1075,7 @@
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_transcript": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {

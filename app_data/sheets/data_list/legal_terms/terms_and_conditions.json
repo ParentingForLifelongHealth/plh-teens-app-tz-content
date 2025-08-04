@@ -79,9 +79,7 @@
       "title": "Submissions",
       "_translations": {
         "title": {},
-        "text": {
-          "tz_sw": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {

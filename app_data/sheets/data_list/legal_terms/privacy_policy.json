@@ -147,9 +147,7 @@
       "title": "Removing the App",
       "_translations": {
         "title": {},
-        "text": {
-          "tz_sw": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {

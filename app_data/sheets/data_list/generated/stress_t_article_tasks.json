@@ -64,28 +64,14 @@
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
       "text_1": "Looking after yourself matters. And how you feel matters too!",
       "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        }
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
       "quiz_1_feedback_2": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone.",
@@ -162,9 +148,7 @@
       "category_id": "explore",
       "text_1_facilitator": "Let’s look at an example of how stress can sometimes just get too much, for all of us:",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "text_2": {}
       },
       "image_asset": "/images/teen_modules/stress/stress1_t_1.svg",
@@ -351,45 +335,25 @@
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {},
         "quiz_2_question": {},
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_2_option_1_text": {},
         "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_2_option_2_text": {},
         "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_2_option_3_text": {},
         "quiz_2_feedback_3": {},
-        "quiz_2_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_2_option_4_text": {},
         "quiz_2_feedback_4": {},
         "quiz_3_question": {},
         "quiz_3_option_1_text": {},
         "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_3_option_2_text": {},
         "quiz_3_feedback_2": {},
         "quiz_3_option_3_text": {},
         "quiz_3_feedback_3": {},
@@ -716,28 +680,14 @@
       "text_1_facilitator": "Here are a few skills to help you manage stress that you can use with your teens!",
       "_translations": {
         "text_1_facilitator": {},
-        "section_1_title": {
-          "tz_sw": true
-        },
+        "section_1_title": {},
         "section_1_text": {},
-        "section_2_title": {
-          "tz_sw": true
-        },
-        "section_2_text": {
-          "tz_sw": true
-        },
-        "section_3_title": {
-          "tz_sw": true
-        },
-        "section_3_text": {
-          "tz_sw": true
-        },
-        "section_4_title": {
-          "tz_sw": true
-        },
-        "section_4_text": {
-          "tz_sw": true
-        }
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
       },
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/single_speech_blue.png",
@@ -791,13 +741,9 @@
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
         "text_2": {}
       },

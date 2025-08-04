@@ -8,9 +8,7 @@
       "id": "partners",
       "name": "Partners",
       "_translations": {
-        "name": {
-          "tz_sw": true
-        }
+        "name": {}
       },
       "_translatedFields": {
         "name": {
@@ -22,9 +20,7 @@
       "id": "funders",
       "name": "Donors",
       "_translations": {
-        "name": {
-          "tz_sw": true
-        }
+        "name": {}
       },
       "_translatedFields": {
         "name": {

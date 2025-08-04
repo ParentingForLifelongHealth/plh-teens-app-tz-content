@@ -108,9 +108,7 @@
       "name": "question_user_gender",
       "value": "What is your gender?",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {

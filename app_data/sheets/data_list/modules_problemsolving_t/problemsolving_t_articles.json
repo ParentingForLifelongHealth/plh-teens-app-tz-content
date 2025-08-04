@@ -139,30 +139,14 @@
       "text_1_facilitator": "When you face a problem, take a few deep breaths to help you stay calm. \nThen, try to handle the problem using these four steps!",
       "_translations": {
         "text_1_facilitator": {},
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
-        "section_2_title": {
-          "tz_sw": true
-        },
-        "section_2_text": {
-          "tz_sw": true
-        },
-        "section_3_title": {
-          "tz_sw": true
-        },
-        "section_3_text": {
-          "tz_sw": true
-        },
-        "section_4_title": {
-          "tz_sw": true
-        },
-        "section_4_text": {
-          "tz_sw": true
-        }
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -625,15 +609,11 @@
         "text_1_facilitator": {},
         "text_2": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {}
       },
       "_translatedFields": {

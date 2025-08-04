@@ -64,28 +64,14 @@
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
       "text_1": "Caring for yourself is so essential. When you know how you feel, you can see what you need.",
       "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        }
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "Wonderful, I am so happy things are going well. Keep up the good work.",
       "quiz_1_feedback_2": "We all have better and worse days. The fact that you are here shows courage and commitment!",
@@ -218,9 +204,7 @@
         "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "text_1_facilitator": {},
         "text_2": {}
       },
@@ -460,24 +444,16 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "Whatever savings plan you choose, it will really help your family move forward!",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
         "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        }
+        "quiz_1_feedback_4": {}
       },
       "quiz_1_feedback_2": "Whatever savings plan you choose, it will really help your family move forward!",
       "quiz_1_feedback_3": "Whatever savings plan you choose, it will really help your family move forward!",
@@ -530,20 +506,12 @@
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {}
       },
       "quiz_1_feedback_2": "Such a great goal!\n\nBy making a good budget and saving plan, you can achieve it and feel proud of yourself!",
@@ -616,33 +584,19 @@
       "text_1_facilitator": "Here are this week’s takeaway skills to help you budget and save!",
       "_translations": {
         "text_1_facilitator": {},
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
+        "section_1_title": {},
+        "section_1_text": {},
         "section_1_button_text": {},
         "section_1_extra_text": {},
-        "section_2_title": {
-          "tz_sw": true
-        },
-        "section_2_text": {
-          "tz_sw": true
-        },
+        "section_2_title": {},
+        "section_2_text": {},
         "section_2_button_text": {},
         "section_2_extra_text": {},
-        "section_3_title": {
-          "tz_sw": true
-        },
-        "section_3_text": {
-          "tz_sw": true
-        },
+        "section_3_title": {},
+        "section_3_text": {},
         "section_3_button_text": {},
         "section_3_extra_text": {},
-        "section_4_title": {
-          "tz_sw": true
-        },
+        "section_4_title": {},
         "section_4_text": {},
         "section_4_button_text": {},
         "section_4_extra_text": {}
@@ -707,13 +661,9 @@
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
         "text_2": {}
       },

@@ -36,9 +36,7 @@
       "check_in_id": "check_in_2",
       "title": "One-on-One Time",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -57,9 +55,7 @@
       "check_in_id": "check_in_3",
       "title": "Praise",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -78,9 +74,7 @@
       "check_in_id": "check_in_9",
       "title": "Positive Instructions",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -99,9 +93,7 @@
       "check_in_id": "check_in_5",
       "title": "Managing Stress",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -139,9 +131,7 @@
       "check_in_id": "check_in_6",
       "title": "Family Budgets",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -160,9 +150,7 @@
       "check_in_id": "check_in_15",
       "title": "Rules",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -181,9 +169,7 @@
       "check_in_id": "check_in_8",
       "title": "Calm Consequences",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -202,9 +188,7 @@
       "check_in_id": "check_in_10",
       "title": "Teen Safety",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -242,9 +226,7 @@
       "check_in_id": "check_in_1",
       "title": "Body Changes and Intimate Relationships",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -263,9 +245,7 @@
       "check_in_id": "check_in_10",
       "title": "Staying Safe",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -284,9 +264,7 @@
       "check_in_id": "check_in_1",
       "title": "Coping with Grief",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
@@ -305,9 +283,7 @@
       "check_in_id": "check_in_2",
       "title": "Helping Your Teen Learn",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {

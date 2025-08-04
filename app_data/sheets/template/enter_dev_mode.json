@@ -7,9 +7,7 @@
       "name": "submit",
       "value": "Submit",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "submit"
@@ -18,9 +16,7 @@
       "name": "text_box_placeholder",
       "value": "Tap and type",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "text_box_placeholder"
@@ -36,9 +32,7 @@
       "name": "title",
       "value": "Enter developer mode",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },
@@ -47,9 +41,7 @@
       "name": "text_1",
       "value": "To launch the app in developer mode, enter your developer code in the box below and press @local.submit.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "_nested_name": "text_1",
       "_dynamicFields": {
@@ -141,9 +133,7 @@
           "name": "incorrect",
           "value": "You have entered an incorrect code.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "condition": "!(@local.text_box == @global.dev_mode_code || @local.text_box == @global.test_mode_code)",
           "_nested_name": "dg_reply_entered.incorrect",
@@ -210,9 +200,7 @@
               "name": "button_enter_dev",
               "value": "Enter developer mode",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "action_list": [
                 {

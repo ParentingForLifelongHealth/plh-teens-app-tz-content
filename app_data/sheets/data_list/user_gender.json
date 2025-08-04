@@ -9,9 +9,7 @@
       "name": "man",
       "text": "Man",
       "_translations": {
-        "text": {
-          "tz_sw": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
@@ -24,9 +22,7 @@
       "name": "woman",
       "text": "Woman",
       "_translations": {
-        "text": {
-          "tz_sw": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
@@ -39,9 +35,7 @@
       "name": "opt_out",
       "text": "Prefer not to say",
       "_translations": {
-        "text": {
-          "tz_sw": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {

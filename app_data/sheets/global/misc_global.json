@@ -24,9 +24,7 @@
       "name": "module",
       "value": "Module",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -42,9 +40,7 @@
       "name": "home",
       "value": "Home",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -52,9 +48,7 @@
       "name": "library",
       "value": "Library",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -62,9 +56,7 @@
       "name": "rewards",
       "value": "Play",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -72,9 +64,7 @@
       "name": "settings",
       "value": "Settings",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -106,9 +96,7 @@
       "name": "continue",
       "value": "Continue",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -116,9 +104,7 @@
       "name": "restart",
       "value": "Restart",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -454,9 +440,7 @@
       "name": "about_dayem",
       "value": "About @global.app_name",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -464,9 +448,7 @@
       "name": "developer_mode",
       "value": "Developer Mode",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -482,9 +464,7 @@
       "name": "submit",
       "value": "Submit",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -492,9 +472,7 @@
       "name": "save",
       "value": "Save",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -502,9 +480,7 @@
       "name": "language",
       "value": "Language",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -552,9 +528,7 @@
       "name": "tap_and_type",
       "value": "Tap and type",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     }
   ],

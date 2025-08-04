@@ -64,28 +64,14 @@
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
       "text_1": "Taking a moment for YOU makes a big difference for everyone!",
       "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        }
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it.",
       "quiz_1_feedback_2": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing.",
@@ -352,23 +338,13 @@
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_5_text": {},
         "quiz_1_feedback_5": {}
       },
       "quiz_1_feedback_2": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!",
@@ -397,9 +373,7 @@
       "category_id": "explore",
       "text_1_facilitator": "Another problem that many parents are worried about is violence and crime. Let’s look at an example together.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "character_1_text": {}
       },
       "image_asset": "/images/teen_modules/crisis/crisis2_t_1.svg",
@@ -542,21 +516,13 @@
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_5_text": {},
         "quiz_1_feedback_5": {}
       },
       "quiz_1_feedback_2": "That's right! \n\nAll these skills can help in a crisis.",
@@ -606,29 +572,15 @@
       "category_id": "practical_tips",
       "section_1_title": "BREATHE",
       "_translations": {
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
+        "section_1_title": {},
+        "section_1_text": {},
         "text_1_facilitator": {},
-        "section_2_title": {
-          "tz_sw": true
-        },
-        "section_2_text": {
-          "tz_sw": true
-        },
-        "section_3_title": {
-          "tz_sw": true
-        },
-        "section_3_text": {
-          "tz_sw": true
-        },
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
         "section_3_button_text": {},
-        "section_3_extra_text": {
-          "tz_sw": true
-        }
+        "section_3_extra_text": {}
       },
       "section_1_text": "Stay calm. Ask yourself, \"What does my teen need right now?\"",
       "text_1_facilitator": "Crisis can make us feel angry or helpless. But this is when our teens really need us to breathe, listen and think. \n\nHere are some tips to help you deal with a crisis!",
@@ -800,13 +752,9 @@
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
         "text_2": {}
       },

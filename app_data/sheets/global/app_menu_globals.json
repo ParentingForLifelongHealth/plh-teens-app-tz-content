@@ -47,9 +47,7 @@
       "name": "about_this_app",
       "value": "About @global.app_name",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -57,9 +55,7 @@
       "name": "language",
       "value": "Language",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -87,9 +83,7 @@
       "name": "skip",
       "value": "Skip",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -97,9 +91,7 @@
       "name": "continue",
       "value": "Continue",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     }
   ],

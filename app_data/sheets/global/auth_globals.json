@@ -37,9 +37,7 @@
       "name": "login_google",
       "value": "Sign in with Google",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -95,9 +93,7 @@
       "name": "yes",
       "value": "Yes",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -105,9 +101,7 @@
       "name": "no",
       "value": "No",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {

@@ -16,9 +16,7 @@
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_transcript": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -67,29 +65,17 @@
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_5_text": {},
         "quiz_1_feedback_5": {},
-        "quiz_1_option_6_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_6_text": {},
         "quiz_1_feedback_6": {}
       },
       "_translatedFields": {
@@ -157,33 +143,17 @@
       "text_1_facilitator": "Treating ourselves well is another way of looking after ourselves.\n\nYou can give yourself a small reward every day, and it does not have to cost a thing!",
       "_translations": {
         "text_1_facilitator": {},
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_3": {},
         "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_4": {},
         "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {
-          "tz_sw": true
-        }
+        "quiz_1_feedback_5": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -244,23 +214,15 @@
       "text_1_facilitator": "Here are some tips to help you take care of yourself.",
       "_translations": {
         "text_1_facilitator": {},
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
+        "section_1_title": {},
+        "section_1_text": {},
         "section_1_button_text": {},
         "section_1_extra_text": {},
-        "section_2_title": {
-          "tz_sw": true
-        },
+        "section_2_title": {},
         "section_2_text": {},
         "section_2_button_text": {},
         "section_2_extra_text": {},
-        "section_3_title": {
-          "tz_sw": true
-        },
+        "section_3_title": {},
         "section_3_text": {},
         "section_3_button_text": {},
         "section_3_extra_text": {}
@@ -326,15 +288,11 @@
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {}
       },
       "_translatedFields": {

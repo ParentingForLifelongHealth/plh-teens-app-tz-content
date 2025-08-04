@@ -101,9 +101,7 @@
       "name": "button",
       "value": "Save",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "action_list": [
         {

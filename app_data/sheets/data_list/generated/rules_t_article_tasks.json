@@ -65,28 +65,14 @@
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
       "text_1": "There is no right or wrong way to feel. However you are feeling, it is okay.",
       "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        }
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "Well done for recognising how you feel. Good to hear that you are feeling well today!",
       "quiz_1_feedback_2": "We all have good and hard days. Remember, you are the best parent for your teen and you deserve praise!",
@@ -359,39 +345,21 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "That is right, making clear rules together in a calm and positive way works so well!",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
         "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_4": {},
         "quiz_2_question": {},
         "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
+        "quiz_2_feedback_1": {},
         "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        }
+        "quiz_2_feedback_2": {}
       },
       "quiz_1_feedback_2": "That is right, making clear rules together in a calm and positive way works so well!",
       "quiz_1_feedback_3": "That is right, making clear rules together in a calm and positive way works so well!",
@@ -438,24 +406,12 @@
       "text_1_facilitator": "Here are this week’s takeaway skills to help learn how to set rules with your teen!",
       "_translations": {
         "text_1_facilitator": {},
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
-        "section_2_title": {
-          "tz_sw": true
-        },
-        "section_2_text": {
-          "tz_sw": true
-        },
-        "section_3_title": {
-          "tz_sw": true
-        },
-        "section_3_text": {
-          "tz_sw": true
-        }
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
       },
       "section_1_icon_asset": "images/icons/trophy_blue.png",
       "section_2_icon_asset": "images/icons/diamond_blue.png",
@@ -622,13 +578,9 @@
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
         "text_2": {}
       },

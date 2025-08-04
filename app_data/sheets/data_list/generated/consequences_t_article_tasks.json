@@ -64,28 +64,14 @@
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
       "text_1": "Self-care is a key parenting tool. It starts with recognising how we feel.",
       "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        }
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "Great. And amazing that you are using this app – it shows your commitment as a parent. Make sure you give yourself credit and praise for what you are doing.",
       "quiz_1_feedback_2": "Every day has its highs and lows. Praise yourself for being here and trying – you are moving forward.",
@@ -267,30 +253,16 @@
       "category_id": "explore",
       "quiz_1_feedback_1": "Yes, a strong reaction like that just made everyone more angry and upset.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {}
       },
       "quiz_1_feedback_2": "Yes, a strong reaction like that just made everyone more angry and upset.",
       "quiz_1_feedback_3": "Yes, a strong reaction like that just made everyone more angry and upset.",
@@ -339,12 +311,8 @@
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!",
@@ -401,22 +369,12 @@
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_5_text": {},
         "quiz_1_feedback_5": {}
       },
       "quiz_1_feedback_2": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
@@ -478,14 +436,10 @@
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_5_text": {},
         "quiz_1_feedback_5": {}
       },
       "quiz_1_feedback_2": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too.",
@@ -548,25 +502,15 @@
       "text_1_facilitator": "Here are some tips to help you with calm consequences:",
       "_translations": {
         "text_1_facilitator": {},
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
+        "section_1_title": {},
+        "section_1_text": {},
         "section_1_button_text": {},
         "section_1_extra_text": {},
-        "section_2_title": {
-          "tz_sw": true
-        },
-        "section_2_text": {
-          "tz_sw": true
-        },
+        "section_2_title": {},
+        "section_2_text": {},
         "section_2_button_text": {},
         "section_2_extra_text": {},
-        "section_3_title": {
-          "tz_sw": true
-        },
+        "section_3_title": {},
         "section_3_text": {},
         "section_3_button_text": {},
         "section_3_extra_text": {}
@@ -836,22 +780,14 @@
         "quiz_1_feedback_1": {},
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_5_text": {},
         "quiz_1_feedback_5": {}
       },
       "quiz_1_feedback_2": "Exactly! Consequences work best when they are set calmly, agreed on together, and followed through with care. By listening to your teen and staying firm but kind, you are correcting behaviour AND building trust and helping them learn responsibility.",
@@ -936,15 +872,11 @@
         "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {},
         "quiz_2_question": {},
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_2_option_1_text": {},
         "quiz_2_feedback_1": {},
         "quiz_2_option_2_text": {},
         "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_2_option_3_text": {},
         "quiz_2_feedback_3": {}
       },
       "quiz_1_feedback_2": "Negative Consequence: Write a letter of apology.",
@@ -1003,13 +935,9 @@
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
         "text_2": {}
       },
@@ -1043,9 +971,7 @@
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_transcript": {}
       },
       "media_title": "Tap play to hear how @data.characters.media_daughter_6.name learned to appreciate calm consequences",
       "media_transcript": "My mom and dad would always punish me when they were angry with me. They would shout at me and I would also get angry. I often did not follow the rules, because they were too harsh, I did not understand what they were saying, or I would not even bother listening to them, because we were all angry.\n\nOne day, they asked me: Let's think together what the consequence should be for not coming home in time. It was great to give my view – before something happens that makes us all angry. We are all calm and agree first. It is easier for me to follow the rules now because I know I agreed on the rule and on the consequence if I do not follow the rule.",

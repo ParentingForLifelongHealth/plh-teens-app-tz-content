@@ -213,25 +213,15 @@
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_5_text": {},
         "quiz_1_feedback_5": {}
       },
       "_translatedFields": {
@@ -291,9 +281,7 @@
       "character_1_id": "f1_father",
       "text_1_facilitator": "Another problem that many parents are worried about is violence and crime. Let’s look at an example together.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "character_1_text": {}
       },
       "_translatedFields": {
@@ -397,23 +385,15 @@
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_5_text": {},
         "quiz_1_feedback_5": {}
       },
       "_translatedFields": {
@@ -475,28 +455,14 @@
       "text_1_facilitator": "Crisis can make us feel angry or helpless. But this is when our teens really need us to breathe, listen and think. \n\nHere are some tips to help you deal with a crisis!",
       "_translations": {
         "text_1_facilitator": {},
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
-        "section_2_title": {
-          "tz_sw": true
-        },
-        "section_2_text": {
-          "tz_sw": true
-        },
-        "section_3_title": {
-          "tz_sw": true
-        },
-        "section_3_text": {
-          "tz_sw": true
-        },
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
         "section_3_button_text": {},
-        "section_3_extra_text": {
-          "tz_sw": true
-        }
+        "section_3_extra_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -657,15 +623,11 @@
         "text_1_facilitator": {},
         "text_2": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {}
       },
       "_translatedFields": {

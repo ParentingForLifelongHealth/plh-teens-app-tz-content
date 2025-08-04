@@ -59,9 +59,7 @@
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_transcript": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -141,28 +139,14 @@
       "quiz_1_option_3_image_asset": "images/icons/faces/angry.svg",
       "text_1_facilitator": "Let's think about what happened in this story.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
         "quiz_2_question": {},
         "quiz_2_option_1_text": {},
         "quiz_2_feedback_1": {},
@@ -319,21 +303,13 @@
       "category_id": "explore",
       "text_1_facilitator": "Let's think about what happened in this story.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {},
         "quiz_2_question": {},
         "quiz_2_option_1_text": {},
@@ -414,19 +390,11 @@
       "text_1_facilitator": "Here are some tips to help you and your family through times of grief:",
       "_translations": {
         "text_1_facilitator": {},
-        "section_1_title": {
-          "tz_sw": true
-        },
+        "section_1_title": {},
         "section_1_text": {},
-        "section_2_title": {
-          "tz_sw": true
-        },
-        "section_2_text": {
-          "tz_sw": true
-        },
-        "section_3_title": {
-          "tz_sw": true
-        },
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
         "section_3_text": {}
       },
       "_translatedFields": {
@@ -466,29 +434,17 @@
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_5_text": {},
         "quiz_1_feedback_5": {},
-        "quiz_1_option_6_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_6_text": {},
         "quiz_1_feedback_6": {}
       },
       "_translatedFields": {
@@ -556,15 +512,11 @@
       "_translations": {
         "text_1_facilitator": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
@@ -610,9 +562,7 @@
       "_translations": {
         "text_1_facilitator": {},
         "media_title": {},
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_transcript": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {

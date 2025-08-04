@@ -34,9 +34,7 @@
       "id": "active",
       "title": "Active",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {

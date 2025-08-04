@@ -64,28 +64,14 @@
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
       "text_1": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
       "_translations": {
-        "text_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        }
+        "quiz_1_option_3_text": {}
       },
       "quiz_1_feedback_1": "Great! So good to hear you are in a positive space.",
       "quiz_1_feedback_2": "Things are not always easy. But that is how we can grow and learn every day!",
@@ -293,9 +279,7 @@
         "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {},
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_2_question": {},
         "quiz_2_option_1_text": {},
         "quiz_2_feedback_1": {},
@@ -502,53 +486,27 @@
       "quiz_1_option_3_image_asset": "images/faces/tired.svg",
       "quiz_1_feedback_1": "Yes, both of them had long, hard days.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
         "quiz_2_question": {},
         "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
+        "quiz_2_feedback_1": {},
         "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        },
+        "quiz_2_feedback_2": {},
         "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_2_feedback_3": {},
         "quiz_2_option_4_text": {},
-        "quiz_2_feedback_4": {
-          "tz_sw": true
-        },
+        "quiz_2_feedback_4": {},
         "quiz_3_question": {},
-        "quiz_3_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_3_option_1_text": {},
         "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_3_option_2_text": {},
         "quiz_3_feedback_2": {},
         "quiz_3_option_3_text": {},
         "quiz_3_feedback_3": {}
@@ -629,24 +587,12 @@
       "text_1_facilitator": "Here are some skills you can use to help your teen learn!",
       "_translations": {
         "text_1_facilitator": {},
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
-        "section_2_title": {
-          "tz_sw": true
-        },
-        "section_2_text": {
-          "tz_sw": true
-        },
-        "section_3_title": {
-          "tz_sw": true
-        },
-        "section_3_text": {
-          "tz_sw": true
-        }
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
       },
       "section_1_icon_asset": "images/icons/speech_bubble_blue.png",
       "section_2_icon_asset": "images/icons/heart_filled_blue.png",
@@ -697,13 +643,9 @@
         "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {},
         "quiz_1_question": {},
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {},
         "text_2": {}
       },
