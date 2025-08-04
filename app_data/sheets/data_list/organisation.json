@@ -1,0 +1,22 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "organisation",
+  "status": "released",
+  "data_list_name": "organisation",
+  "rows": [
+    {
+      "id": "organisation_1",
+      "name": "PLH",
+      "image_asset": "images/logos/plh.jpg",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_2",
+      "name": "IDEMS",
+      "image_asset": "images/logos/IDEMS.png",
+      "group": "partners"
+    }
+  ],
+  "_xlsxPath": "data/deployment_data_tz.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+}

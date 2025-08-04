@@ -1,0 +1,736 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "activities",
+  "data_list_name": "activities",
+  "status": "released",
+  "flow_subtype": "activities",
+  "rows": [
+    {
+      "id": "friendly_chat",
+      "image_asset": "images/activities/talk_6.svg",
+      "activity_group_list": [
+        "quick",
+        "calm"
+      ],
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1LMcjvNTlrz9vAHMMGK_LuIMfFf7WHVs4uUeKarGWtas",
+      "title": "A friendly chat",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A friendly chat"
+        },
+        "intro_text": {
+          "eng": "Want to connect with your teen? Start by talking about what they care about! 😃\n\nThese small chats can lead to stronger connections and bigger conversations down the road.👂❤️"
+        },
+        "steps_text": {
+          "eng": "⚽ An easy way to start talking to your teen is to ask them about something they are interested in. For example, you could talk about sports, books, movies, friends, music, celebrities, or school."
+        },
+        "tips_text": {
+          "eng": "👂 You may not find everything your teen shares to be interesting, but it’s important to show enthusiasm and an eagerness to learn."
+        }
+      },
+      "intro_text": "Want to connect with your teen? Start by talking about what they care about! 😃\n\nThese small chats can lead to stronger connections and bigger conversations down the road.👂❤️",
+      "steps_text": "⚽ An easy way to start talking to your teen is to ask them about something they are interested in. For example, you could talk about sports, books, movies, friends, music, celebrities, or school.",
+      "tips_text": "👂 You may not find everything your teen shares to be interesting, but it’s important to show enthusiasm and an eagerness to learn."
+    },
+    {
+      "id": "reflect_positive",
+      "image_asset": "images/activities/talk_7.svg",
+      "activity_group_list": [
+        "calm",
+        "quick"
+      ],
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Reflect on the positive",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Reflect on the positive"
+        },
+        "intro_text": {
+          "eng": "Looking for a simple way to boost your mood and connect as a family? Try this quick daily check-in! 🌈\n\nSharing positive moments - big or small - helps everyone feel more grateful and supported."
+        },
+        "steps_text": {
+          "eng": "💡 Together, take a minute to think about all the things you did today. \n\n☀️ Take turns sharing one positive or fun thing that happened. This could be something small, like feeling good because you cleaned the house, or something big, like spending time with family and friends. \n\n⏰ Try doing this every day - even more on the days it feels like you have not done anything special."
+        }
+      },
+      "intro_text": "Looking for a simple way to boost your mood and connect as a family? Try this quick daily check-in! 🌈\n\nSharing positive moments - big or small - helps everyone feel more grateful and supported.",
+      "steps_text": "💡 Together, take a minute to think about all the things you did today. \n\n☀️ Take turns sharing one positive or fun thing that happened. This could be something small, like feeling good because you cleaned the house, or something big, like spending time with family and friends. \n\n⏰ Try doing this every day - even more on the days it feels like you have not done anything special."
+    },
+    {
+      "id": "dance_moves",
+      "image_asset": "images/activities/dance.svg",
+      "activity_group_list": [
+        "quick",
+        "active",
+        "group"
+      ],
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Dance moves",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Dance moves"
+        },
+        "intro_text": {
+          "eng": "Let's get moving! 👋 Dancing is a great way to exercise, have fun, and bond with your teen at the same time!  🎵"
+        },
+        "steps_text": {
+          "eng": "This game can be played in pairs or a group with everyone taking turns being the leader:\n\n📱 Let your teen choose a song they like and create a set of dance moves.\n👀 First person does a dance move and everyone else copies it.\n☀️ Don’t worry about perfecting the dance moves, it’s all about having fun together!\n💡 If you want to, you can perform your dance for the household!"
+        }
+      },
+      "intro_text": "Let's get moving! 👋 Dancing is a great way to exercise, have fun, and bond with your teen at the same time!  🎵",
+      "steps_text": "This game can be played in pairs or a group with everyone taking turns being the leader:\n\n📱 Let your teen choose a song they like and create a set of dance moves.\n👀 First person does a dance move and everyone else copies it.\n☀️ Don’t worry about perfecting the dance moves, it’s all about having fun together!\n💡 If you want to, you can perform your dance for the household!"
+    },
+    {
+      "id": "checkin_chat",
+      "image_asset": "images/activities/talk_3.svg",
+      "activity_group_list": [
+        "quick",
+        "calm"
+      ],
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Check-in chat",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "steps_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Check-in chat"
+        },
+        "intro_text": {
+          "eng": "Actively checking in on one another helps to keep relationships healthy! ⭐"
+        },
+        "steps_text": {
+          "eng": "Ask each other questions: \n👂🏾 “What made you happy today?” \n💛 “What was difficult today?”  \n🫶🏾 “How can I help you?”"
+        },
+        "tips_text": {
+          "eng": "Go easy on yourself if your teen does not want to share their problems with you. 💙 \n\nOften, teens are afraid to share as they are scared they will get in trouble. Getting upset with them won’t help - keep showing you love them and give them time! 🌷"
+        }
+      },
+      "intro_text": "Actively checking in on one another helps to keep relationships healthy! ⭐",
+      "steps_text": "Ask each other questions: \n👂🏾 “What made you happy today?” \n💛 “What was difficult today?”  \n🫶🏾 “How can I help you?”",
+      "tips_text": "Go easy on yourself if your teen does not want to share their problems with you. 💙 \n\nOften, teens are afraid to share as they are scared they will get in trouble. Getting upset with them won’t help - keep showing you love them and give them time! 🌷"
+    },
+    {
+      "id": "express_yourself",
+      "image_asset": "images/activities/dance.svg",
+      "activity_group_list": [
+        "quick",
+        "active",
+        "group"
+      ],
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Express Yourself",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Express Yourself"
+        },
+        "intro_text": {
+          "eng": "This playful dance game is a great way to get moving and boost everyone’s mood! 💃🕺\n\nIt encourages creativity, memory, and teamwork - all while having fun as a family. 🎶"
+        },
+        "steps_text": {
+          "eng": "🌈 This game can be played in pairs or as a group - stand facing each other or in a circle.\n🎵 Together, choose a fun and upbeat song to play and a person to start the game by creating one dance move.\n👀 The person to their right must copy that dance move and add their own move to it.\n✨ Go around the circle, each person adding their own dance move to the full song.\n🔄 The first one who forgets someone's dance moves or does it in the wrong order chooses the next song and starts the game again.\n🎉 Try new dance moves with this game and have fun!"
+        }
+      },
+      "intro_text": "This playful dance game is a great way to get moving and boost everyone’s mood! 💃🕺\n\nIt encourages creativity, memory, and teamwork - all while having fun as a family. 🎶",
+      "steps_text": "🌈 This game can be played in pairs or as a group - stand facing each other or in a circle.\n🎵 Together, choose a fun and upbeat song to play and a person to start the game by creating one dance move.\n👀 The person to their right must copy that dance move and add their own move to it.\n✨ Go around the circle, each person adding their own dance move to the full song.\n🔄 The first one who forgets someone's dance moves or does it in the wrong order chooses the next song and starts the game again.\n🎉 Try new dance moves with this game and have fun!"
+    },
+    {
+      "id": "setting_goal",
+      "image_asset": "images/activities/short_term_goal.svg",
+      "activity_group_list": [
+        "calm"
+      ],
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Weekly Goal Setting",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Weekly Goal Setting"
+        },
+        "intro_text": {
+          "eng": "Setting goals together is a great way to build confidence and stay motivated! ⭐\n\nWeekly goals are small steps that help you and your teen grow - one week at a time. 🎉"
+        },
+        "steps_text": {
+          "eng": "1. ⭐ At the start of the week, help your teen set one specific and achievable goal.\n2. 🤝 Share your own goal too - support each other throughout the week.\n3. 🎉 Praise your teen’s effort and celebrate their progress.\n4. 💬 If they don’t reach their goal, talk about what happened and how to try again next time."
+        },
+        "tips_text": {
+          "eng": "🔁 Make this a weekly habit to build confidence and success step by step!"
+        }
+      },
+      "intro_text": "Setting goals together is a great way to build confidence and stay motivated! ⭐\n\nWeekly goals are small steps that help you and your teen grow - one week at a time. 🎉",
+      "steps_text": "1. ⭐ At the start of the week, help your teen set one specific and achievable goal.\n2. 🤝 Share your own goal too - support each other throughout the week.\n3. 🎉 Praise your teen’s effort and celebrate their progress.\n4. 💬 If they don’t reach their goal, talk about what happened and how to try again next time.",
+      "tips_text": "🔁 Make this a weekly habit to build confidence and success step by step!"
+    },
+    {
+      "id": "role_play",
+      "image_asset": "images/activities/role_play.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Role play",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Role play"
+        },
+        "intro_text": {
+          "eng": "Let’s start acting! ⭐\n\nRole-playing is when you pretend to be someone in a certain situation, and act out how you think things will go. \n\nThis is a fun way to help your teen understand how others might act or feel, and for you to learn more about how your teen thinks and feels. ✨"
+        },
+        "steps_text": {
+          "eng": "1. 😊 Ask your teen if they’d like to try a fun “role-playing” game with you.\n2. 🎭 Let them choose a situation to act out - it could be something from school or even social media. For example, playing a teacher and student, or a teen being offered a drink at a party.\n3. 🎬 Let your teen decide who plays each role, and act it out together!\n4. 💬 After the role-play, talk about what you both learned. Ask questions like, “How did that feel?” or “What did you notice about the situation?” This helps your teen understand different perspectives and emotions."
+        }
+      },
+      "intro_text": "Let’s start acting! ⭐\n\nRole-playing is when you pretend to be someone in a certain situation, and act out how you think things will go. \n\nThis is a fun way to help your teen understand how others might act or feel, and for you to learn more about how your teen thinks and feels. ✨",
+      "steps_text": "1. 😊 Ask your teen if they’d like to try a fun “role-playing” game with you.\n2. 🎭 Let them choose a situation to act out - it could be something from school or even social media. For example, playing a teacher and student, or a teen being offered a drink at a party.\n3. 🎬 Let your teen decide who plays each role, and act it out together!\n4. 💬 After the role-play, talk about what you both learned. Ask questions like, “How did that feel?” or “What did you notice about the situation?” This helps your teen understand different perspectives and emotions."
+    },
+    {
+      "id": "fun_housework",
+      "image_asset": "images/activities/clean.svg",
+      "activity_group_list": [
+        "active",
+        "group"
+      ],
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Make Housework Fun",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Make Housework Fun"
+        },
+        "intro_text": {
+          "eng": "Turn your chores into games! 🏆 \n\nMaking housework fun is a good way to teach your teen to be responsible and to rely on themselves. ☀️"
+        },
+        "steps_text": {
+          "eng": "📝 Together, make a list of all the chores that must be done in your home. \n\n💡 Make sure the tasks are fair and things your teen can do. For example, washing up, sweeping, mopping, making the beds, and laundry.\n\n🔄 Each week, let a different person in the family choose a chore first.\n\n🎵 Play some music or turn on the radio. Music is a great way to make a boring task fun!\n\n✅ Tick off the tasks when they are done so you can see your progress as a family. \n📺 You could offer small rewards as motivation to complete activities. For example, you could let your teen watch more TV or have something sweet if they do their chores in a fair amount of time."
+        },
+        "tips_text": {
+          "eng": "❓ If your child does not complete a chore, ask them why, and come up with a fair consequence together."
+        }
+      },
+      "intro_text": "Turn your chores into games! 🏆 \n\nMaking housework fun is a good way to teach your teen to be responsible and to rely on themselves. ☀️",
+      "steps_text": "📝 Together, make a list of all the chores that must be done in your home. \n\n💡 Make sure the tasks are fair and things your teen can do. For example, washing up, sweeping, mopping, making the beds, and laundry.\n\n🔄 Each week, let a different person in the family choose a chore first.\n\n🎵 Play some music or turn on the radio. Music is a great way to make a boring task fun!\n\n✅ Tick off the tasks when they are done so you can see your progress as a family. \n📺 You could offer small rewards as motivation to complete activities. For example, you could let your teen watch more TV or have something sweet if they do their chores in a fair amount of time.",
+      "tips_text": "❓ If your child does not complete a chore, ask them why, and come up with a fair consequence together."
+    },
+    {
+      "id": "walk",
+      "image_asset": "images/activities/walk.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Walking together",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Walking together"
+        },
+        "intro_text": {
+          "eng": "Walking together is a fun, healthy way to connect and help your teen learn more about their community. 🚶‍♂️🌿"
+        },
+        "steps_text": {
+          "eng": "🗓️ Plan together: Choose a time and place to walk - a park, market, or anywhere nearby. If you’re going out, invite your teen to join!\n\n👀 Explore: Encourage your teen to ask questions about what they see - people, nature, or buildings.\n\n💬 Share: Tell them fun facts or memories about the area, like who lives nearby or how things looked before."
+        }
+      },
+      "intro_text": "Walking together is a fun, healthy way to connect and help your teen learn more about their community. 🚶‍♂️🌿",
+      "steps_text": "🗓️ Plan together: Choose a time and place to walk - a park, market, or anywhere nearby. If you’re going out, invite your teen to join!\n\n👀 Explore: Encourage your teen to ask questions about what they see - people, nature, or buildings.\n\n💬 Share: Tell them fun facts or memories about the area, like who lives nearby or how things looked before."
+    },
+    {
+      "id": "garden",
+      "image_asset": "images/activities/garden.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Gardening",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Gardening"
+        },
+        "intro_text": {
+          "eng": "Gardening is a fun way to bond with your teen while teaching them how to grow food and care for nature. 🌿"
+        },
+        "steps_text": {
+          "eng": "🌿 Choose plants: Let your teen pick veggies or herbs to grow - they’ll love being involved and can help cook them later!\n\n🪴 Get creative: No garden? No problem! Use old buckets, cans, or bottles as plant pots.\n\n🎉 Plant together: Turn planting into a fun “planting party” - take turns putting seeds in the soil.\n\n💧 Care routine: Make a watering schedule and let your teen take charge of their plants.\n\n📏 Track growth: Each week, have your teen note the changes and see how much the plants have grown!"
+        }
+      },
+      "intro_text": "Gardening is a fun way to bond with your teen while teaching them how to grow food and care for nature. 🌿",
+      "steps_text": "🌿 Choose plants: Let your teen pick veggies or herbs to grow - they’ll love being involved and can help cook them later!\n\n🪴 Get creative: No garden? No problem! Use old buckets, cans, or bottles as plant pots.\n\n🎉 Plant together: Turn planting into a fun “planting party” - take turns putting seeds in the soil.\n\n💧 Care routine: Make a watering schedule and let your teen take charge of their plants.\n\n📏 Track growth: Each week, have your teen note the changes and see how much the plants have grown!"
+    },
+    {
+      "id": "charades",
+      "image_asset": "images/activities/charades.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Charades",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "steps_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Charades"
+        },
+        "intro_text": {
+          "eng": "Charades is an easy, fun game that will teach your teen to think quickly, work together and be bold. 🎭"
+        },
+        "steps_text": {
+          "eng": "1. 🤫 One person quietly thinks of a word but doesn’t say it out loud to anyone.\n\n2. 🎭 That person then acts out the word using only actions - no speaking, sounds, or pointing to objects.\n\n3. 🧹 Others try to guess what the word is! You can choose fun everyday actions like sweeping, eating, playing football, or brushing teeth.\n\n4. ✅ When someone guesses correctly, it becomes their turn to think of a new word and act it out. Keep taking turns and enjoy the game!"
+        },
+        "tips_text": {
+          "eng": "* Make sure everyone gets a turn to act out words or phrases.  \n* Remember to praise your teen for trying. \n* If your teen is struggling to guess, give them hints on what it could be.\n* If the game is too easy, try more difficult words. \n* Remember to have fun and support each other!"
+        }
+      },
+      "intro_text": "Charades is an easy, fun game that will teach your teen to think quickly, work together and be bold. 🎭",
+      "steps_text": "1. 🤫 One person quietly thinks of a word but doesn’t say it out loud to anyone.\n\n2. 🎭 That person then acts out the word using only actions - no speaking, sounds, or pointing to objects.\n\n3. 🧹 Others try to guess what the word is! You can choose fun everyday actions like sweeping, eating, playing football, or brushing teeth.\n\n4. ✅ When someone guesses correctly, it becomes their turn to think of a new word and act it out. Keep taking turns and enjoy the game!",
+      "tips_text": "* Make sure everyone gets a turn to act out words or phrases.  \n* Remember to praise your teen for trying. \n* If your teen is struggling to guess, give them hints on what it could be.\n* If the game is too easy, try more difficult words. \n* Remember to have fun and support each other!"
+    },
+    {
+      "id": "cook",
+      "image_asset": "images/activities/cook_traditional.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Cooking",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "steps_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Cooking"
+        },
+        "intro_text": {
+          "eng": "Cooking with your teen is a fun way to spend time together while teaching helpful life skills. 🍳👨‍🍳"
+        },
+        "steps_text": {
+          "eng": "🗓️ Pick a time and day to cook together - planning ahead makes it easier.\n🥬 Show your teen the recipe and ingredients, and let them help with measuring.\n🍲 Give them a task like fetching water, chopping, or stirring.\n🍽️ Eat together with the family and let your teen feel proud for helping make the meal!"
+        },
+        "tips_text": {
+          "eng": "- Let your teen help choose the recipe or ingredients.\n- Involve them in different things, like washing, measuring, cutting, and mixing.\n- Praise their effort, even if the food isn’t perfect."
+        }
+      },
+      "intro_text": "Cooking with your teen is a fun way to spend time together while teaching helpful life skills. 🍳👨‍🍳",
+      "steps_text": "🗓️ Pick a time and day to cook together - planning ahead makes it easier.\n🥬 Show your teen the recipe and ingredients, and let them help with measuring.\n🍲 Give them a task like fetching water, chopping, or stirring.\n🍽️ Eat together with the family and let your teen feel proud for helping make the meal!",
+      "tips_text": "- Let your teen help choose the recipe or ingredients.\n- Involve them in different things, like washing, measuring, cutting, and mixing.\n- Praise their effort, even if the food isn’t perfect."
+    },
+    {
+      "id": "tell_stories",
+      "image_asset": "images/activities/tell_stories.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Storytelling",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "steps_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Storytelling"
+        },
+        "intro_text": {
+          "eng": "Storytelling is a wonderful way to help your teen feel more connected with you, as well as with their family, history and culture. 💬✨"
+        },
+        "steps_text": {
+          "eng": "📅 Choose a time and place where you and your teen can talk comfortably - like after dinner, before bed, or during a walk.\n\n🗣️ Begin by sharing a story of your own. It might be something from today, a childhood memory, or a special moment.\n\n❓ When you’re done, invite your teen to ask questions or share a story of their own.\n\n👂 Listen with interest, ask questions, and show you care about what they say.\n\n💡 If they’re unsure, ask something like “What’s your favourite childhood memory?” or “What’s a family tradition you enjoy?” They can even make up a story just for fun!"
+        },
+        "tips_text": {
+          "eng": "- Create a safe space for your teen to share their stories. They will share more with you if they feel like you won’t be upset with them."
+        }
+      },
+      "intro_text": "Storytelling is a wonderful way to help your teen feel more connected with you, as well as with their family, history and culture. 💬✨",
+      "steps_text": "📅 Choose a time and place where you and your teen can talk comfortably - like after dinner, before bed, or during a walk.\n\n🗣️ Begin by sharing a story of your own. It might be something from today, a childhood memory, or a special moment.\n\n❓ When you’re done, invite your teen to ask questions or share a story of their own.\n\n👂 Listen with interest, ask questions, and show you care about what they say.\n\n💡 If they’re unsure, ask something like “What’s your favourite childhood memory?” or “What’s a family tradition you enjoy?” They can even make up a story just for fun!",
+      "tips_text": "- Create a safe space for your teen to share their stories. They will share more with you if they feel like you won’t be upset with them."
+    },
+    {
+      "id": "dance",
+      "image_asset": "images/activities/dance.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Music and dance",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "steps_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Music and dance"
+        },
+        "intro_text": {
+          "eng": "Dancing is a fun way to get exercise, and a great way to learn about your teen’s interests. 🎶"
+        },
+        "steps_text": {
+          "eng": "🎶 Ask your teen what music they like - show real interest by asking where they heard it and what they enjoy about it.\n\n💃 Teach each other your favourite dance moves or learn new ones together.\n\n🎉 Once you’ve got some moves down, practise them together and just have fun!"
+        },
+        "tips_text": {
+          "eng": "- Let your teen show you their music and dance moves.\n- Don't take it too seriously, be silly and have fun together."
+        }
+      },
+      "intro_text": "Dancing is a fun way to get exercise, and a great way to learn about your teen’s interests. 🎶",
+      "steps_text": "🎶 Ask your teen what music they like - show real interest by asking where they heard it and what they enjoy about it.\n\n💃 Teach each other your favourite dance moves or learn new ones together.\n\n🎉 Once you’ve got some moves down, practise them together and just have fun!",
+      "tips_text": "- Let your teen show you their music and dance moves.\n- Don't take it too seriously, be silly and have fun together."
+    },
+    {
+      "id": "dream_travel",
+      "image_asset": "images/activities/dream_travel.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Dream travel",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Dream travel"
+        },
+        "intro_text": {
+          "eng": "Exploring the world through imagination is a fun way to bond and spark your teen’s curiosity - no suitcase needed! ✈️"
+        },
+        "steps_text": {
+          "eng": "🌍 Ask your teen these questions: *Where would you want to travel to? How long would you be away? What would you pack? What would you do on your trip? What would you see?*\n\n🗺️ Look at a map or draw one together.\n\n📚 Pick a country your teen hasn’t heard of and explore fun facts about it together!"
+        }
+      },
+      "intro_text": "Exploring the world through imagination is a fun way to bond and spark your teen’s curiosity - no suitcase needed! ✈️",
+      "steps_text": "🌍 Ask your teen these questions: *Where would you want to travel to? How long would you be away? What would you pack? What would you do on your trip? What would you see?*\n\n🗺️ Look at a map or draw one together.\n\n📚 Pick a country your teen hasn’t heard of and explore fun facts about it together!"
+    },
+    {
+      "id": "famous_party",
+      "image_asset": "images/activities/talk_4.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Famous party",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Famous party"
+        },
+        "intro_text": {
+          "eng": "Planning a dream party is a fun and creative way to spark conversation with your teen - and learn more about who inspires them! 🌟"
+        },
+        "steps_text": {
+          "eng": "🎉 You and your teen can plan a dream guestlist of famous people to invite to your party!\n\n📜 Each of you chooses five guests - they can be from the past or present.\n\n🤔 Who would you invite? And do you think your guests would get along at the party?"
+        }
+      },
+      "intro_text": "Planning a dream party is a fun and creative way to spark conversation with your teen - and learn more about who inspires them! 🌟",
+      "steps_text": "🎉 You and your teen can plan a dream guestlist of famous people to invite to your party!\n\n📜 Each of you chooses five guests - they can be from the past or present.\n\n🤔 Who would you invite? And do you think your guests would get along at the party?"
+    },
+    {
+      "id": "two_truths",
+      "image_asset": "images/activities/talk_1.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Two truths, one lie",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Two truths, one lie"
+        },
+        "intro_text": {
+          "eng": "Want a fun way to laugh and learn more about each other? Try this quick game of “Two Truths and a Lie” with your teen! 🤗"
+        },
+        "steps_text": {
+          "eng": "🧠 Think of three statements about yourself - two true and one that’s a lie.\n- It can help to think about dreams, school, likes or dislikes. For example: *I hate bananas, my favourite subject is science, and I really wish I could sing.*\n\n🗣️ Share them with your teen and ask them to guess which one is the lie.\n\n😲 Did they guess right? Were they surprised?\n\n🔁 Now let your teen try! Did you learn something new about each other?"
+        }
+      },
+      "intro_text": "Want a fun way to laugh and learn more about each other? Try this quick game of “Two Truths and a Lie” with your teen! 🤗",
+      "steps_text": "🧠 Think of three statements about yourself - two true and one that’s a lie.\n- It can help to think about dreams, school, likes or dislikes. For example: *I hate bananas, my favourite subject is science, and I really wish I could sing.*\n\n🗣️ Share them with your teen and ask them to guess which one is the lie.\n\n😲 Did they guess right? Were they surprised?\n\n🔁 Now let your teen try! Did you learn something new about each other?"
+    },
+    {
+      "id": "superpower",
+      "image_asset": "images/activities/role_play.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Superpower",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Superpower"
+        },
+        "intro_text": {
+          "eng": "Imagining superpowers is a fun way to spark creativity, play and connection with your teen!🦸‍♀️"
+        },
+        "steps_text": {
+          "eng": "💥 Think of a superpower - like travelling through time, or reading minds.\n\n❓ Ask your teen, “If you had the superpower to […], how would you use it?”\n\n🦸 Encourage them to name their superhero and act it out!\n\n🔁 Let your teen choose a superpower for you too.\n\n🎭 Don’t forget to act out your superpower and have fun together!"
+        }
+      },
+      "intro_text": "Imagining superpowers is a fun way to spark creativity, play and connection with your teen!🦸‍♀️",
+      "steps_text": "💥 Think of a superpower - like travelling through time, or reading minds.\n\n❓ Ask your teen, “If you had the superpower to […], how would you use it?”\n\n🦸 Encourage them to name their superhero and act it out!\n\n🔁 Let your teen choose a superpower for you too.\n\n🎭 Don’t forget to act out your superpower and have fun together!"
+    },
+    {
+      "id": "interrupter",
+      "image_asset": "images/activities/talk_6.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "The interrupter",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The interrupter"
+        },
+        "intro_text": {
+          "eng": "This fun and silly storytelling game is a great way to boost creativity and laughter with your teen! 💥"
+        },
+        "steps_text": {
+          "eng": "📚 Choose a storyteller to start making up a story.\n\n🗣️ Listeners can jump in anytime with any word, at any time.\n\n🔄 The storyteller must include that word in their story - no matter how silly!\n\n🎉 When the story ends, switch roles and let someone else be the storyteller!"
+        }
+      },
+      "intro_text": "This fun and silly storytelling game is a great way to boost creativity and laughter with your teen! 💥",
+      "steps_text": "📚 Choose a storyteller to start making up a story.\n\n🗣️ Listeners can jump in anytime with any word, at any time.\n\n🔄 The storyteller must include that word in their story - no matter how silly!\n\n🎉 When the story ends, switch roles and let someone else be the storyteller!"
+    }
+  ],
+  "_xlsxPath": "data/TZ activities.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+}

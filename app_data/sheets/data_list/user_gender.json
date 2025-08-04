@@ -1,0 +1,55 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_gender",
+  "status": "released",
+  "data_list_name": "user_gender",
+  "rows": [
+    {
+      "id": "man",
+      "name": "man",
+      "text": "Man",
+      "_translations": {
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Man"
+        }
+      }
+    },
+    {
+      "id": "woman",
+      "name": "woman",
+      "text": "Woman",
+      "_translations": {
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Woman"
+        }
+      }
+    },
+    {
+      "id": "opt_out",
+      "name": "opt_out",
+      "text": "Prefer not to say",
+      "_translations": {
+        "text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Prefer not to say"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/deployment_data_tz.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+}

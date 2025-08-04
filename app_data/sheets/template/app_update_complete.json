@@ -6,7 +6,7 @@
     {
       "type": "text",
       "name": "text",
-      "value": "@global.parent_app has downloaded an update. Please restart the app to finish installation.",
+      "value": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
       "_translations": {
         "value": {
           "tz_sw": true
@@ -16,15 +16,15 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@global.parent_app has downloaded an update. Please restart the app to finish installation.",
-            "matchedExpression": "@global.parent_app",
+            "fullExpression": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
+            "matchedExpression": "@global.app_name",
             "type": "global",
-            "fieldName": "parent_app"
+            "fieldName": "app_name"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@global.parent_app": [
+        "@global.app_name": [
           "value"
         ]
       }
@@ -52,5 +52,6 @@
       "_nested_name": "button"
     }
   ],
-  "_xlsxPath": "global/core_templates/app_update.xlsx"
+  "_xlsxPath": "app_launch.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/19wSspWYMbRc75een-kS0q0aq24--75u8"
 }

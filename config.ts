@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_teens_tz", parent: "plh_kids"
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.3.0",
+  content_tag_latest: "1.3.1",
 };
 
 config.google_drive.sheets_folder_ids = [
@@ -13,7 +13,7 @@ config.google_drive.sheets_folder_ids = [
   "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU", // kids_global
   "1GnKk8luhnYcWobeeEfbR23ZSoZakcNF9", // kids_teens_global
   "1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR", // library PLH onboarding
-  "1Bzlnwts9mkoLRhDy-SN5O1A3bUlBOynI" // kids_teens_za
+  "1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY" // teens_tz (GT)
 ];
 config.google_drive.assets_folder_ids = [
   "13COzYq0iK7sXXZYekPgkwloWtuGoxBNt", // kids_teens_global
@@ -46,11 +46,12 @@ config.auth = {
 config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
 
 // To reduce app size, exclude uncompressed assets and unused
+
 config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("uncompressed")
 
 config.api.db_name = "plh_teens_tz";
 config.app_data.output_path = "./app_data";
-config.web.favicon_asset = "./app_data/assets/web/favicon.png";
+config.web.favicon_asset = "images/logos/favicon.png";
 
 config.app_config.APP_LANGUAGES.default = "tz_sw";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Teens TZ";

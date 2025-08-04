@@ -4,12 +4,19 @@
   "status": "released",
   "rows": [
     {
+      "name": "show_title",
+      "value": true,
+      "type": "set_variable",
+      "_nested_name": "show_title"
+    },
+    {
       "type": "title",
       "name": "title",
       "value": "@global.language",
       "_translations": {
         "value": {}
       },
+      "condition": "!!(@local.show_title)",
       "_nested_name": "title",
       "_dynamicFields": {
         "value": [
@@ -19,11 +26,22 @@
             "type": "global",
             "fieldName": "language"
           }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@local.show_title)",
+            "matchedExpression": "@local.show_title",
+            "type": "local",
+            "fieldName": "show_title"
+          }
         ]
       },
       "_dynamicDependencies": {
         "@global.language": [
           "value"
+        ],
+        "@local.show_title": [
+          "condition"
         ]
       }
     },
@@ -48,6 +66,42 @@
       "_dynamicDependencies": {
         "@data.language": [
           "value"
+        ]
+      }
+    },
+    {
+      "name": "language_select_options",
+      "value": "@data.language_reversed",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@fields._app_language_direction == \"rtl\"",
+      "type": "set_variable",
+      "_nested_name": "language_select_options",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.language_reversed",
+            "matchedExpression": "@data.language_reversed",
+            "type": "data",
+            "fieldName": "language_reversed"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@fields._app_language_direction == \"rtl\"",
+            "matchedExpression": "@fields._app_language_direction",
+            "type": "fields",
+            "fieldName": "_app_language_direction"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.language_reversed": [
+          "value"
+        ],
+        "@fields._app_language_direction": [
+          "condition"
         ]
       }
     },
@@ -81,7 +135,7 @@
       ],
       "parameter_list": {
         "answer_list": "@local.language_select_options",
-        "item_width": "100px"
+        "item_width": "50px"
       },
       "_nested_name": "language_select",
       "_dynamicFields": {
@@ -138,58 +192,41 @@
       }
     },
     {
-      "type": "template",
-      "name": "nav_buttons",
-      "value": "nav_buttons",
+      "type": "button",
+      "name": "button_completed",
+      "value": "Continue",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      },
       "action_list": [
         {
-          "trigger": "completed",
-          "action_id": "emit",
+          "trigger": "click",
+          "action_id": "set_field",
           "args": [
-            "completed"
+            "language_selected",
+            true
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
-        }
-      ],
-      "rows": [
-        {
-          "name": "display_back",
-          "value": false,
-          "type": "set_variable",
-          "_nested_name": "nav_buttons.display_back"
+          "_raw": "click | set_field: language_selected: TRUE",
+          "_cleaned": "click | set_field: language_selected: TRUE"
         },
         {
-          "name": "button_completed",
-          "value": "@global.next_button",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "nav_buttons.button_completed",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@global.next_button",
-                "matchedExpression": "@global.next_button",
-                "type": "global",
-                "fieldName": "next_button"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@global.next_button": [
-              "value"
-            ]
-          }
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "force_restart"
+          ],
+          "_raw": "click | emit: force_restart",
+          "_cleaned": "click | emit: force_restart"
         }
       ],
-      "_nested_name": "nav_buttons"
+      "parameter_list": {
+        "style": "navigation"
+      },
+      "_nested_name": "button_completed"
     }
   ],
-  "_xlsxPath": "global/core_templates/core_templates_settings.xlsx",
-  "_overrides": {
-    "language_select_za": "@fields._deployment_name == \"plh_teens_za\"",
-    "language_select_tz": "@fields._deployment_name == \"plh_teens_tz\""
-  }
+  "_xlsxPath": "app_launch.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/19wSspWYMbRc75een-kS0q0aq24--75u8"
 }

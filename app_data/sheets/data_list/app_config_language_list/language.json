@@ -1,0 +1,29 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "language",
+  "status": "released",
+  "data_list_name": "language",
+  "flow_subtype": "app_config_language_list",
+  "rows": [
+    {
+      "id": "tz_sw",
+      "country_code": "tz",
+      "country_label": "Tanzania",
+      "language_code": "sw",
+      "language_label": "isiXhosa",
+      "name": "tz_sw",
+      "text": "isiXhosa"
+    },
+    {
+      "id": "tz_en",
+      "country_code": "tz",
+      "country_label": "Tanzania",
+      "language_code": "en",
+      "language_label": "English",
+      "name": "tz_en",
+      "text": "English"
+    }
+  ],
+  "_xlsxPath": "data/deployment_data_tz.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+}

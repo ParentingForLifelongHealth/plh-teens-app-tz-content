@@ -1,0 +1,167 @@
+{
+  "flow_type": "global",
+  "flow_name": "deployment_global_tz",
+  "status": "released",
+  "override_target": "deployment_global",
+  "override_condition": "@fields._deployment_name == \"plh_teens_tz\"",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "app_name",
+      "value": "ParentApp",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "app_name_full",
+      "value": "ParentApp for Teens Tanzania",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "home_screen_logo_asset",
+      "value": "images/logos/plh_logomark.png",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "hp_locked_image_asset",
+      "value": "images/homescreen/check_in/traditional_rondavel_closed.svg",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "hp_unlocked_image_asset",
+      "value": "images/homescreen/check_in/traditional_rondavel_open.svg",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "activity_footer_image_asset",
+      "value": "images/backgrounds/mountains_trees.svg",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "home_screen_logo_height",
+      "value": "48px",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "deployment_terms_field",
+      "value": "terms_v20241205_accepted",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "deployment_terms_text",
+      "value": "5 December 2024",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_multiple_content_packages",
+      "value": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_multiple_languages",
+      "value": true,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_optional_login",
+      "value": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_face_asset",
+      "value": "images/kw_facilitator.svg",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "combo_box_placeholder",
+      "value": "Tap and choose",
+      "_translations": {
+        "value": {
+          "tz_sw": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "section_variant",
+      "value": "box_primary",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "first_completion_icon",
+      "value": "trophy",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "subsequent_completion_icon",
+      "value": "checkmark",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "test_mode_code",
+      "value": "ParentAppTest",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_field_default",
+      "name": "countdown_days",
+      "value": "@calc(@fields.user_type === \"facilitator\" ? 0 : 7)",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    }
+  ],
+  "_xlsxPath": "data/deployment_data_tz.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+}
