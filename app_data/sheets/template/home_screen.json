@@ -335,7 +335,7 @@
       "type": "text",
       "name": "margin",
       "style_list": [
-        "margin-top: -36px"
+        "margin-top: -24px"
       ],
       "_nested_name": "margin"
     },

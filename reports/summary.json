@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 140
+        "count": 98
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 93
+        "count": 90
       },
       {
         "type": "drawer",
@@ -71,7 +71,7 @@
       },
       {
         "type": "nested_properties",
-        "count": 181
+        "count": 118
       },
       {
         "type": "number_selector",
@@ -119,7 +119,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2494
+        "count": 1972
       },
       {
         "type": "simple_checkbox",
@@ -135,11 +135,11 @@
       },
       {
         "type": "template",
-        "count": 874
+        "count": 634
       },
       {
         "type": "text",
-        "count": 122
+        "count": 120
       },
       {
         "type": "text_area",
@@ -191,7 +191,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 643
+        "count": 459
       },
       {
         "type": "emit: force_reload",
@@ -215,7 +215,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 655
+        "count": 471
       },
       {
         "type": "feedback",
@@ -227,11 +227,11 @@
       },
       {
         "type": "nav_stack",
-        "count": 267
+        "count": 177
       },
       {
         "type": "pop_up",
-        "count": 66
+        "count": 48
       },
       {
         "type": "reset_app",
@@ -247,19 +247,19 @@
       },
       {
         "type": "set_data",
-        "count": 60
+        "count": 42
       },
       {
         "type": "set_field",
-        "count": 80
+        "count": 62
       },
       {
         "type": "set_item",
-        "count": 66
+        "count": 48
       },
       {
         "type": "set_local",
-        "count": 33
+        "count": 29
       },
       {
         "type": "share",
@@ -279,13 +279,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "83622 KB",
-        "MB": "83.6 MB"
+        "KB": "59014 KB",
+        "MB": "59 MB"
       },
       {
         "assets": "unused",
-        "KB": "159513 KB",
-        "MB": "159.5 MB"
+        "KB": "75833 KB",
+        "MB": "75.8 MB"
       }
     ]
   },
@@ -352,60 +352,120 @@
         "size_kb": 258.6
       },
       {
-        "path": "audio/teen/topic_intros/za_old_praise_intro_t.mp3",
-        "size_kb": 201.9
-      },
-      {
-        "path": "audio/teen/topic_intros/zold_consequence_intro_t.mp3",
-        "size_kb": 369.4
-      },
-      {
-        "path": "audio/teen/topic_intros/zold_crisis_intro_t.mp3",
-        "size_kb": 433.4
-      },
-      {
-        "path": "audio/teen/topic_intros/zold_grief_intro_t.mp3",
-        "size_kb": 294.6
-      },
-      {
-        "path": "audio/teen/topic_intros/zold_instruct_intro_t.mp3",
-        "size_kb": 172.6
-      },
-      {
-        "path": "audio/teen/topic_intros/zold_learn_intro_t.mp3",
-        "size_kb": 296.9
-      },
-      {
-        "path": "audio/teen/topic_intros/zold_svp_intro_t.mp3",
-        "size_kb": 288.9
-      },
-      {
         "path": "audio/timer/bell_1.mp3",
         "size_kb": 121.6
+      },
+      {
+        "path": "audio/yc/1on1_audio_1.mp3",
+        "size_kb": 891.7
+      },
+      {
+        "path": "audio/yc/1on1_audio_2.mp3",
+        "size_kb": 619.1
+      },
+      {
+        "path": "audio/yc/care_audio_1.mp3",
+        "size_kb": 527.5
+      },
+      {
+        "path": "audio/yc/care_audio_2.mp3",
+        "size_kb": 1166.3
       },
       {
         "path": "audio/yc/celebrate_audio_1.mp3",
         "size_kb": 497.1
       },
       {
-        "path": "audio/yc/zold_1on1_audio_2.mp3",
-        "size_kb": 981.4
+        "path": "audio/yc/consequences_audio_1.mp3",
+        "size_kb": 800.2
       },
       {
-        "path": "audio/yc/zold_solve_audio_1.mp3",
-        "size_kb": 609
+        "path": "audio/yc/consequences_audio_2.mp3",
+        "size_kb": 1206.6
+      },
+      {
+        "path": "audio/yc/feelings_audio_1.mp3",
+        "size_kb": 336
+      },
+      {
+        "path": "audio/yc/feelings_audio_2.mp3",
+        "size_kb": 635.8
+      },
+      {
+        "path": "audio/yc/instructions_audio_1.mp3",
+        "size_kb": 613.7
+      },
+      {
+        "path": "audio/yc/instructions_audio_2.mp3",
+        "size_kb": 784.2
+      },
+      {
+        "path": "audio/yc/learn_audio_1.mp3",
+        "size_kb": 563.1
+      },
+      {
+        "path": "audio/yc/learn_audio_2.mp3",
+        "size_kb": 254.5
+      },
+      {
+        "path": "audio/yc/praise_audio_1.mp3",
+        "size_kb": 344
+      },
+      {
+        "path": "audio/yc/praise_audio_2.mp3",
+        "size_kb": 1042.6
+      },
+      {
+        "path": "audio/yc/rules_audio_1.mp3",
+        "size_kb": 427.6
+      },
+      {
+        "path": "audio/yc/rules_audio_2.mp3",
+        "size_kb": 742.7
+      },
+      {
+        "path": "audio/yc/solve_audio_1.mp3",
+        "size_kb": 983.4
+      },
+      {
+        "path": "audio/yc/solve_audio_2.mp3",
+        "size_kb": 468.1
       },
       {
         "path": "contents.json",
         "size_kb": 9.6
       },
       {
+        "path": "images/activities/act_animal.svg",
+        "size_kb": 135.4
+      },
+      {
         "path": "images/activities/act_animal_infant.svg",
         "size_kb": 111.5
       },
       {
+        "path": "images/activities/act_emotions.svg",
+        "size_kb": 106.6
+      },
+      {
         "path": "images/activities/animal_sounds.svg",
         "size_kb": 84.2
+      },
+      {
+        "path": "images/activities/artist.svg",
+        "size_kb": 2210.9
+      },
+      {
+        "path": "images/activities/blanket_forts.svg",
+        "size_kb": 81.2
+      },
+      {
+        "path": "images/activities/books.svg",
+        "size_kb": 72.6
+      },
+      {
+        "path": "images/activities/can_you_catch_it.svg",
+        "size_kb": 183.7
       },
       {
         "path": "images/activities/charades_icon.svg",
@@ -418,6 +478,10 @@
       {
         "path": "images/activities/chores_icon.svg",
         "size_kb": 9.5
+      },
+      {
+        "path": "images/activities/circle_dance.svg",
+        "size_kb": 117.2
       },
       {
         "path": "images/activities/clean_icon.svg",
@@ -434,6 +498,10 @@
       {
         "path": "images/activities/cook_traditional_icon.svg",
         "size_kb": 56.1
+      },
+      {
+        "path": "images/activities/cooking_with_maths.svg",
+        "size_kb": 50.9
       },
       {
         "path": "images/activities/dance_icon.svg",
@@ -456,6 +524,10 @@
         "size_kb": 15.4
       },
       {
+        "path": "images/activities/guess_emotion.svg",
+        "size_kb": 71.4
+      },
+      {
         "path": "images/activities/idea_box.svg",
         "size_kb": 27.7
       },
@@ -472,6 +544,10 @@
         "size_kb": 62.1
       },
       {
+        "path": "images/activities/make_story_child.svg",
+        "size_kb": 66.1
+      },
+      {
         "path": "images/activities/memory_game.svg",
         "size_kb": 40
       },
@@ -480,12 +556,20 @@
         "size_kb": 31.5
       },
       {
+        "path": "images/activities/mystery_bag.svg",
+        "size_kb": 7.5
+      },
+      {
         "path": "images/activities/mystery_box.svg",
         "size_kb": 58.4
       },
       {
         "path": "images/activities/mystery_box_icon.svg",
         "size_kb": 28.4
+      },
+      {
+        "path": "images/activities/play_with_clothes.svg",
+        "size_kb": 102.7
       },
       {
         "path": "images/activities/role_play_icon.svg",
@@ -498,6 +582,14 @@
       {
         "path": "images/activities/short_term_goal_icon.svg",
         "size_kb": 25
+      },
+      {
+        "path": "images/activities/song.svg",
+        "size_kb": 2.7
+      },
+      {
+        "path": "images/activities/spy_colours.svg",
+        "size_kb": 65.9
       },
       {
         "path": "images/activities/story_cuddles.svg",
@@ -548,24 +640,36 @@
         "size_kb": 28.6
       },
       {
+        "path": "images/activities/thinking_games.svg",
+        "size_kb": 107.3
+      },
+      {
         "path": "images/activities/tummy_time_safari.svg",
         "size_kb": 106.2
+      },
+      {
+        "path": "images/activities/unseen_guesses.svg",
+        "size_kb": 70.8
       },
       {
         "path": "images/activities/walk_icon.svg",
         "size_kb": 98.4
       },
       {
+        "path": "images/backgrounds/homescreen_pattern.svg",
+        "size_kb": 156.3
+      },
+      {
         "path": "images/character_icons/F1_SON_5.svg",
         "size_kb": 11.6
       },
       {
-        "path": "images/character_icons/F4_Daughter_13.svg",
-        "size_kb": 17.7
-      },
-      {
         "path": "images/character_icons/faces-22.svg",
         "size_kb": 24.9
+      },
+      {
+        "path": "images/faces/sadder.svg",
+        "size_kb": 1.1
       },
       {
         "path": "images/faces/saddest.svg",
@@ -580,16 +684,48 @@
         "size_kb": 0.5
       },
       {
-        "path": "images/homescreen/check_in/Traditional_rondavel_closed.svg",
-        "size_kb": 24.3
+        "path": "images/homescreen/consequences.svg",
+        "size_kb": 40.6
       },
       {
-        "path": "images/homescreen/check_in/Traditional_rondavel_open.svg",
-        "size_kb": 28.8
+        "path": "images/homescreen/developmentplay.svg",
+        "size_kb": 75.2
+      },
+      {
+        "path": "images/homescreen/feelings.svg",
+        "size_kb": 75.4
+      },
+      {
+        "path": "images/homescreen/instructions.svg",
+        "size_kb": 40.6
+      },
+      {
+        "path": "images/homescreen/one_on_one_time.svg",
+        "size_kb": 47.4
+      },
+      {
+        "path": "images/homescreen/praise.svg",
+        "size_kb": 99.9
+      },
+      {
+        "path": "images/homescreen/problemsolving.svg",
+        "size_kb": 39.4
+      },
+      {
+        "path": "images/homescreen/rulesroutines.svg",
+        "size_kb": 58.8
+      },
+      {
+        "path": "images/homescreen/self_care.svg",
+        "size_kb": 59.9
       },
       {
         "path": "images/homescreen/svp.svg",
         "size_kb": 25.4
+      },
+      {
+        "path": "images/icons/balance_blue.png",
+        "size_kb": 4.7
       },
       {
         "path": "images/icons/book_outline_blue.svg",
@@ -644,12 +780,20 @@
         "size_kb": 0.9
       },
       {
+        "path": "images/icons/football_blue.png",
+        "size_kb": 5.1
+      },
+      {
         "path": "images/icons/heart.svg",
         "size_kb": 0.6
       },
       {
         "path": "images/icons/heart_filled.svg",
         "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/hourglass_blue.png",
+        "size_kb": 4.3
       },
       {
         "path": "images/icons/in_progress_white.svg",
@@ -670,6 +814,14 @@
       {
         "path": "images/icons/play_white.svg",
         "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/question_blue.png",
+        "size_kb": 3.4
+      },
+      {
+        "path": "images/icons/repeat_blue.png",
+        "size_kb": 5.4
       },
       {
         "path": "images/icons/spark.png",
@@ -716,8 +868,216 @@
         "size_kb": 96.8
       },
       {
+        "path": "images/yc_modules/1on1/one_on_one_yc_1.svg",
+        "size_kb": 56.4
+      },
+      {
+        "path": "images/yc_modules/1on1/one_on_one_yc_2.svg",
+        "size_kb": 58.3
+      },
+      {
+        "path": "images/yc_modules/1on1/one_on_one_yc_3.svg",
+        "size_kb": 58.2
+      },
+      {
+        "path": "images/yc_modules/1on1/one_on_one_yc_4.svg",
+        "size_kb": 65.4
+      },
+      {
+        "path": "images/yc_modules/consequences/consequences_yc_1.svg",
+        "size_kb": 86.3
+      },
+      {
+        "path": "images/yc_modules/consequences/consequences_yc_2.svg",
+        "size_kb": 88
+      },
+      {
+        "path": "images/yc_modules/consequences/consequences_yc_3.svg",
+        "size_kb": 92.1
+      },
+      {
+        "path": "images/yc_modules/consequences/consequences_yc_4.svg",
+        "size_kb": 90.7
+      },
+      {
+        "path": "images/yc_modules/consequences/consequences_yc_5.svg",
+        "size_kb": 104.4
+      },
+      {
+        "path": "images/yc_modules/development_play/play2_yc_1.svg",
+        "size_kb": 78.2
+      },
+      {
+        "path": "images/yc_modules/development_play/play2_yc_2.svg",
+        "size_kb": 83.2
+      },
+      {
+        "path": "images/yc_modules/development_play/play2_yc_3.svg",
+        "size_kb": 82.3
+      },
+      {
+        "path": "images/yc_modules/development_play/play2_yc_4.svg",
+        "size_kb": 83
+      },
+      {
+        "path": "images/yc_modules/development_play/play2_yc_5.svg",
+        "size_kb": 71.4
+      },
+      {
+        "path": "images/yc_modules/development_play/play_yc_1.svg",
+        "size_kb": 288
+      },
+      {
+        "path": "images/yc_modules/development_play/play_yc_2.svg",
+        "size_kb": 284.9
+      },
+      {
+        "path": "images/yc_modules/development_play/play_yc_3.svg",
+        "size_kb": 81.2
+      },
+      {
+        "path": "images/yc_modules/development_play/play_yc_4.svg",
+        "size_kb": 99
+      },
+      {
+        "path": "images/yc_modules/feelings/feelings_yc_1.svg",
+        "size_kb": 111.5
+      },
+      {
+        "path": "images/yc_modules/feelings/feelings_yc_2.svg",
+        "size_kb": 143.9
+      },
+      {
+        "path": "images/yc_modules/feelings/feelings_yc_3.svg",
+        "size_kb": 152.1
+      },
+      {
+        "path": "images/yc_modules/feelings/feelings_yc_4.svg",
+        "size_kb": 129.3
+      },
+      {
+        "path": "images/yc_modules/instructions/instructions_yc_1.svg",
+        "size_kb": 92.4
+      },
+      {
+        "path": "images/yc_modules/instructions/instructions_yc_2.svg",
+        "size_kb": 81.4
+      },
+      {
+        "path": "images/yc_modules/instructions/instructions_yc_3.svg",
+        "size_kb": 83.7
+      },
+      {
+        "path": "images/yc_modules/instructions/instructions_yc_4.svg",
+        "size_kb": 77.4
+      },
+      {
+        "path": "images/yc_modules/instructions/instructions_yc_5.svg",
+        "size_kb": 92.5
+      },
+      {
+        "path": "images/yc_modules/instructions/instructions_yc_6.svg",
+        "size_kb": 94
+      },
+      {
+        "path": "images/yc_modules/instructions/instructions_yc_7.svg",
+        "size_kb": 96.3
+      },
+      {
+        "path": "images/yc_modules/praise/praise_yc_1.svg",
+        "size_kb": 99.3
+      },
+      {
+        "path": "images/yc_modules/praise/praise_yc_2.svg",
+        "size_kb": 101
+      },
+      {
+        "path": "images/yc_modules/praise/praise_yc_3.svg",
+        "size_kb": 97
+      },
+      {
+        "path": "images/yc_modules/praise/praise_yc_4.svg",
+        "size_kb": 105.5
+      },
+      {
+        "path": "images/yc_modules/problem_solve/problem_solving_yc_1.svg",
+        "size_kb": 47.3
+      },
+      {
+        "path": "images/yc_modules/problem_solve/problem_solving_yc_2.svg",
+        "size_kb": 46.3
+      },
+      {
+        "path": "images/yc_modules/problem_solve/problem_solving_yc_3.svg",
+        "size_kb": 43.4
+      },
+      {
+        "path": "images/yc_modules/problem_solve/problem_solving_yc_4.svg",
+        "size_kb": 43.3
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_1.svg",
+        "size_kb": 72.6
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_10.svg",
+        "size_kb": 112.4
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_2.svg",
+        "size_kb": 74.4
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_3.svg",
+        "size_kb": 73.9
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_4.svg",
+        "size_kb": 72.9
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_5.svg",
+        "size_kb": 50.3
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_6.svg",
+        "size_kb": 47.7
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_7.svg",
+        "size_kb": 141.3
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_8.svg",
+        "size_kb": 97.4
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_9.svg",
+        "size_kb": 117.5
+      },
+      {
+        "path": "images/yc_modules/self_care/self_care_yc_1.svg",
+        "size_kb": 94.3
+      },
+      {
+        "path": "images/yc_modules/self_care/self_care_yc_2.svg",
+        "size_kb": 49.6
+      },
+      {
+        "path": "images/yc_modules/self_care/self_care_yc_3.svg",
+        "size_kb": 49.4
+      },
+      {
+        "path": "images/yc_modules/self_care/self_care_yc_4.svg",
+        "size_kb": 54.6
+      },
+      {
         "path": "lottie/bulging_circles.txt",
         "size_kb": 0.2
+      },
+      {
+        "path": "lottie/cascading_stars.json",
+        "size_kb": 140.5
       },
       {
         "path": "lottie/relax/breathing_heart.json",
@@ -738,26 +1098,6 @@
       {
         "path": "video/plh_video/lets_slow_down.vtt",
         "size_kb": 1.8
-      },
-      {
-        "path": "video/unused/modules/join_child_unused.mp4",
-        "size_kb": 10726.2
-      },
-      {
-        "path": "video/unused/modules/shared_reading_unused.mp4",
-        "size_kb": 36376.3
-      },
-      {
-        "path": "video/unused/pause/body_scan.mp4",
-        "size_kb": 10418.6
-      },
-      {
-        "path": "video/unused/pause/breath_body_awareness.mp4",
-        "size_kb": 27250
-      },
-      {
-        "path": "video/unused/pause/loving_kindness_meditation.mp4",
-        "size_kb": 16605.2
       }
     ]
   },
@@ -779,17 +1119,12 @@
         "missing": true
       },
       {
-        "path": "images/backgrounds/library_bottom_right.png",
+        "path": "images/backgrounds/activity_bottom_left.png",
         "count": 1,
         "missing": true
       },
       {
         "path": "images/character_icons/F1_SON_15.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/character_icons/F4_DAUGHTER_13.svg",
         "count": 1,
         "missing": true
       },
@@ -899,7 +1234,7 @@
     "data": [
       {
         "path": "audio/relax/relax_1.mp3",
-        "count": 4,
+        "count": 2,
         "size_kb": 265.1
       },
       {
@@ -954,7 +1289,7 @@
       },
       {
         "path": "audio/relax/relax_2.mp3",
-        "count": 5,
+        "count": 2,
         "size_kb": 404.4
       },
       {
@@ -984,7 +1319,7 @@
       },
       {
         "path": "audio/relax/relax_3.mp3",
-        "count": 5,
+        "count": 2,
         "size_kb": 235.1
       },
       {
@@ -994,7 +1329,7 @@
       },
       {
         "path": "audio/relax/relax_5.mp3",
-        "count": 4,
+        "count": 3,
         "size_kb": 195.7
       },
       {
@@ -1238,134 +1573,9 @@
         "size_kb": 603.8
       },
       {
-        "path": "audio/yc/1on1_audio_1.mp3",
-        "count": 2,
-        "size_kb": 891.7
-      },
-      {
-        "path": "audio/yc/1on1_audio_2.mp3",
-        "count": 2,
-        "size_kb": 619.1
-      },
-      {
-        "path": "audio/yc/care_audio_1.mp3",
-        "count": 2,
-        "size_kb": 527.5
-      },
-      {
-        "path": "audio/yc/care_audio_2.mp3",
-        "count": 2,
-        "size_kb": 1166.3
-      },
-      {
-        "path": "audio/yc/consequences_audio_1.mp3",
-        "count": 2,
-        "size_kb": 800.2
-      },
-      {
-        "path": "audio/yc/consequences_audio_2.mp3",
-        "count": 2,
-        "size_kb": 1206.6
-      },
-      {
-        "path": "audio/yc/feelings_audio_1.mp3",
-        "count": 2,
-        "size_kb": 336
-      },
-      {
-        "path": "audio/yc/feelings_audio_2.mp3",
-        "count": 2,
-        "size_kb": 635.8
-      },
-      {
-        "path": "audio/yc/instructions_audio_1.mp3",
-        "count": 2,
-        "size_kb": 613.7
-      },
-      {
-        "path": "audio/yc/instructions_audio_2.mp3",
-        "count": 2,
-        "size_kb": 784.2
-      },
-      {
-        "path": "audio/yc/learn_audio_1.mp3",
-        "count": 2,
-        "size_kb": 563.1
-      },
-      {
-        "path": "audio/yc/learn_audio_2.mp3",
-        "count": 2,
-        "size_kb": 254.5
-      },
-      {
-        "path": "audio/yc/praise_audio_1.mp3",
-        "count": 2,
-        "size_kb": 344
-      },
-      {
-        "path": "audio/yc/praise_audio_2.mp3",
-        "count": 2,
-        "size_kb": 1042.6
-      },
-      {
-        "path": "audio/yc/rules_audio_1.mp3",
-        "count": 2,
-        "size_kb": 427.6
-      },
-      {
-        "path": "audio/yc/rules_audio_2.mp3",
-        "count": 2,
-        "size_kb": 742.7
-      },
-      {
-        "path": "audio/yc/solve_audio_1.mp3",
-        "count": 2,
-        "size_kb": 983.4
-      },
-      {
-        "path": "audio/yc/solve_audio_2.mp3",
-        "count": 2,
-        "size_kb": 468.1
-      },
-      {
-        "path": "images/activities/act_animal.svg",
-        "count": 2,
-        "size_kb": 135.4
-      },
-      {
-        "path": "images/activities/act_emotions.svg",
-        "count": 2,
-        "size_kb": 106.6
-      },
-      {
-        "path": "images/activities/artist.svg",
-        "count": 2,
-        "size_kb": 2210.9
-      },
-      {
-        "path": "images/activities/blanket_forts.svg",
-        "count": 2,
-        "size_kb": 81.2
-      },
-      {
-        "path": "images/activities/books.svg",
-        "count": 2,
-        "size_kb": 72.6
-      },
-      {
-        "path": "images/activities/can_you_catch_it.svg",
-        "count": 2,
-        "size_kb": 183.7
-      },
-      {
         "path": "images/activities/charades.svg",
         "count": 2,
         "size_kb": 38.9
-      },
-      {
-        "path": "images/activities/circle_dance.svg",
-        "count": 6,
-        "size_kb": 117.2
       },
       {
         "path": "images/activities/clean.svg",
@@ -1376,11 +1586,6 @@
         "path": "images/activities/cook_traditional.svg",
         "count": 2,
         "size_kb": 40.7
-      },
-      {
-        "path": "images/activities/cooking_with_maths.svg",
-        "count": 2,
-        "size_kb": 50.9
       },
       {
         "path": "images/activities/dance.svg",
@@ -1398,26 +1603,6 @@
         "size_kb": 109.9
       },
       {
-        "path": "images/activities/guess_emotion.svg",
-        "count": 2,
-        "size_kb": 71.4
-      },
-      {
-        "path": "images/activities/make_story_child.svg",
-        "count": 2,
-        "size_kb": 66.1
-      },
-      {
-        "path": "images/activities/mystery_bag.svg",
-        "count": 2,
-        "size_kb": 7.5
-      },
-      {
-        "path": "images/activities/play_with_clothes.svg",
-        "count": 2,
-        "size_kb": 102.7
-      },
-      {
         "path": "images/activities/role_play.svg",
         "count": 4,
         "size_kb": 38.5
@@ -1426,16 +1611,6 @@
         "path": "images/activities/short_term_goal.svg",
         "count": 2,
         "size_kb": 41.9
-      },
-      {
-        "path": "images/activities/song.svg",
-        "count": 4,
-        "size_kb": 2.7
-      },
-      {
-        "path": "images/activities/spy_colours.svg",
-        "count": 4,
-        "size_kb": 65.9
       },
       {
         "path": "images/activities/talk_1.svg",
@@ -1454,7 +1629,7 @@
       },
       {
         "path": "images/activities/talk_6.svg",
-        "count": 6,
+        "count": 4,
         "size_kb": 37.5
       },
       {
@@ -1468,24 +1643,9 @@
         "size_kb": 40.9
       },
       {
-        "path": "images/activities/thinking_games.svg",
-        "count": 2,
-        "size_kb": 107.3
-      },
-      {
-        "path": "images/activities/unseen_guesses.svg",
-        "count": 2,
-        "size_kb": 70.8
-      },
-      {
         "path": "images/activities/walk.svg",
         "count": 2,
         "size_kb": 101.3
-      },
-      {
-        "path": "images/backgrounds/activity_bottom_left.png",
-        "count": 1,
-        "size_kb": 3538.7
       },
       {
         "path": "images/backgrounds/kites.svg",
@@ -1498,14 +1658,19 @@
         "size_kb": 1358.6
       },
       {
+        "path": "images/backgrounds/mountains.svg",
+        "count": 1,
+        "size_kb": 1.9
+      },
+      {
+        "path": "images/backgrounds/mountains_trees.svg",
+        "count": 1,
+        "size_kb": 51.5
+      },
+      {
         "path": "images/backgrounds/progress_arc.png",
         "count": 1,
         "size_kb": 255.4
-      },
-      {
-        "path": "images/backgrounds/wave.png",
-        "count": 1,
-        "size_kb": 8.1
       },
       {
         "path": "images/character_icons/BOYFRIEND_1.svg",
@@ -1603,6 +1768,11 @@
         "size_kb": 13.9
       },
       {
+        "path": "images/character_icons/F4_DAUGHTER_13.svg",
+        "count": 1,
+        "size_kb": 17.7
+      },
+      {
         "path": "images/character_icons/F4_FATHER.svg",
         "count": 1,
         "size_kb": 15.8
@@ -1654,28 +1824,23 @@
       },
       {
         "path": "images/faces/happiest.svg",
-        "count": 12,
+        "count": 8,
         "size_kb": 1.3
       },
       {
         "path": "images/faces/happy.svg",
-        "count": 42,
+        "count": 25,
         "size_kb": 0.6
       },
       {
         "path": "images/faces/neutral.svg",
-        "count": 38,
+        "count": 23,
         "size_kb": 0.5
       },
       {
         "path": "images/faces/sad.svg",
-        "count": 37,
+        "count": 26,
         "size_kb": 0.6
-      },
-      {
-        "path": "images/faces/sadder.svg",
-        "count": 4,
-        "size_kb": 1.1
       },
       {
         "path": "images/faces/scared.svg",
@@ -1693,29 +1858,24 @@
         "size_kb": 36.3
       },
       {
+        "path": "images/homescreen/check_in/traditional_rondavel_closed.svg",
+        "count": 1,
+        "size_kb": 24.3
+      },
+      {
+        "path": "images/homescreen/check_in/traditional_rondavel_open.svg",
+        "count": 1,
+        "size_kb": 28.8
+      },
+      {
         "path": "images/homescreen/consequence_t.svg",
         "count": 2,
         "size_kb": 23
       },
       {
-        "path": "images/homescreen/consequences.svg",
-        "count": 2,
-        "size_kb": 40.6
-      },
-      {
         "path": "images/homescreen/crisis_t.svg",
         "count": 2,
         "size_kb": 46.1
-      },
-      {
-        "path": "images/homescreen/developmentplay.svg",
-        "count": 2,
-        "size_kb": 75.2
-      },
-      {
-        "path": "images/homescreen/feelings.svg",
-        "count": 2,
-        "size_kb": 75.4
       },
       {
         "path": "images/homescreen/grief_t.svg",
@@ -1724,11 +1884,6 @@
       },
       {
         "path": "images/homescreen/instruct_t.svg",
-        "count": 2,
-        "size_kb": 40.6
-      },
-      {
-        "path": "images/homescreen/instructions.svg",
         "count": 2,
         "size_kb": 40.6
       },
@@ -1748,24 +1903,9 @@
         "size_kb": 48.5
       },
       {
-        "path": "images/homescreen/one_on_one_time.svg",
-        "count": 2,
-        "size_kb": 47.4
-      },
-      {
-        "path": "images/homescreen/praise.svg",
-        "count": 2,
-        "size_kb": 99.9
-      },
-      {
         "path": "images/homescreen/praise_t.svg",
         "count": 2,
         "size_kb": 32.2
-      },
-      {
-        "path": "images/homescreen/problemsolving.svg",
-        "count": 2,
-        "size_kb": 39.4
       },
       {
         "path": "images/homescreen/rules_t.svg",
@@ -1773,24 +1913,14 @@
         "size_kb": 41.2
       },
       {
-        "path": "images/homescreen/rulesroutines.svg",
-        "count": 2,
-        "size_kb": 58.8
-      },
-      {
         "path": "images/homescreen/safe_t.svg",
         "count": 4,
         "size_kb": 23.9
       },
       {
-        "path": "images/homescreen/self_care.svg",
-        "count": 2,
-        "size_kb": 59.9
-      },
-      {
         "path": "images/homescreen/self_care_t.svg",
         "count": 2,
-        "size_kb": 10
+        "size_kb": 59.9
       },
       {
         "path": "images/homescreen/solve_t.svg",
@@ -1808,18 +1938,13 @@
         "size_kb": 16.9
       },
       {
-        "path": "images/icons/balance_blue.png",
-        "count": 2,
-        "size_kb": 4.7
-      },
-      {
         "path": "images/icons/brain_blue.png",
-        "count": 10,
+        "count": 8,
         "size_kb": 5.2
       },
       {
         "path": "images/icons/clock_blue.png",
-        "count": 10,
+        "count": 4,
         "size_kb": 4.5
       },
       {
@@ -1849,7 +1974,7 @@
       },
       {
         "path": "images/icons/eye_blue.png",
-        "count": 14,
+        "count": 10,
         "size_kb": 4.2
       },
       {
@@ -1869,12 +1994,12 @@
       },
       {
         "path": "images/icons/faces/happy_face_new.svg",
-        "count": 41,
+        "count": 32,
         "size_kb": 1.4
       },
       {
         "path": "images/icons/faces/ok_face_new.svg",
-        "count": 41,
+        "count": 32,
         "size_kb": 0.5
       },
       {
@@ -1884,7 +2009,7 @@
       },
       {
         "path": "images/icons/faces/sad_face_new.svg",
-        "count": 41,
+        "count": 32,
         "size_kb": 1.5
       },
       {
@@ -1896,11 +2021,6 @@
         "path": "images/icons/feather.svg",
         "count": 1,
         "size_kb": 3.5
-      },
-      {
-        "path": "images/icons/football_blue.png",
-        "count": 2,
-        "size_kb": 5.1
       },
       {
         "path": "images/icons/heart.png",
@@ -1919,7 +2039,7 @@
       },
       {
         "path": "images/icons/heart_filled_blue.png",
-        "count": 30,
+        "count": 20,
         "size_kb": 4.9
       },
       {
@@ -1938,11 +2058,6 @@
         "size_kb": 0.4
       },
       {
-        "path": "images/icons/hourglass_blue.png",
-        "count": 2,
-        "size_kb": 4.3
-      },
-      {
         "path": "images/icons/in_progress.svg",
         "count": 2,
         "size_kb": 1.1
@@ -1954,7 +2069,7 @@
       },
       {
         "path": "images/icons/lightbulb_blue.png",
-        "count": 4,
+        "count": 2,
         "size_kb": 3.6
       },
       {
@@ -1979,7 +2094,7 @@
       },
       {
         "path": "images/icons/magnifying_glass.svg",
-        "count": 26,
+        "count": 17,
         "size_kb": 0.9
       },
       {
@@ -1989,22 +2104,22 @@
       },
       {
         "path": "images/icons/parent_child_heart.svg",
-        "count": 26,
+        "count": 17,
         "size_kb": 3
       },
       {
         "path": "images/icons/pause.svg",
-        "count": 26,
+        "count": 17,
         "size_kb": 0.7
       },
       {
         "path": "images/icons/pencil.svg",
-        "count": 26,
+        "count": 17,
         "size_kb": 1.1
       },
       {
         "path": "images/icons/picture_book.svg",
-        "count": 26,
+        "count": 17,
         "size_kb": 1.8
       },
       {
@@ -2013,19 +2128,9 @@
         "size_kb": 7.4
       },
       {
-        "path": "images/icons/question_blue.png",
-        "count": 2,
-        "size_kb": 3.4
-      },
-      {
         "path": "images/icons/question_mark_blue.svg",
         "count": 1,
         "size_kb": 0.8
-      },
-      {
-        "path": "images/icons/repeat_blue.png",
-        "count": 2,
-        "size_kb": 5.4
       },
       {
         "path": "images/icons/settings.svg",
@@ -2039,32 +2144,32 @@
       },
       {
         "path": "images/icons/single_speech_blue.png",
-        "count": 16,
+        "count": 12,
         "size_kb": 3.3
       },
       {
         "path": "images/icons/smile_eyes_down.svg",
-        "count": 30,
+        "count": 21,
         "size_kb": 0.9
       },
       {
         "path": "images/icons/smile_eyes_up.svg",
-        "count": 52,
+        "count": 34,
         "size_kb": 1
       },
       {
         "path": "images/icons/speech_bubble_blue.png",
-        "count": 16,
+        "count": 10,
         "size_kb": 4.2
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 34,
+        "count": 24,
         "size_kb": 5.1
       },
       {
         "path": "images/icons/star_outline_blue.svg",
-        "count": 27,
+        "count": 18,
         "size_kb": 1
       },
       {
@@ -2074,7 +2179,7 @@
       },
       {
         "path": "images/icons/thought_bubble.svg",
-        "count": 26,
+        "count": 17,
         "size_kb": 2.1
       },
       {
@@ -2099,7 +2204,7 @@
       },
       {
         "path": "images/icons/trophy_blue.png",
-        "count": 16,
+        "count": 12,
         "size_kb": 5.1
       },
       {
@@ -2124,7 +2229,7 @@
       },
       {
         "path": "images/logos/plh_logomark.png",
-        "count": 2,
+        "count": 3,
         "size_kb": 20.5
       },
       {
@@ -2973,269 +3078,14 @@
         "size_kb": 35.5
       },
       {
-        "path": "images/yc_modules/1on1/one_on_one_yc_1.svg",
-        "count": 2,
-        "size_kb": 56.4
-      },
-      {
-        "path": "images/yc_modules/1on1/one_on_one_yc_2.svg",
-        "count": 2,
-        "size_kb": 58.3
-      },
-      {
-        "path": "images/yc_modules/1on1/one_on_one_yc_3.svg",
-        "count": 2,
-        "size_kb": 58.2
-      },
-      {
-        "path": "images/yc_modules/1on1/one_on_one_yc_4.svg",
-        "count": 2,
-        "size_kb": 65.4
-      },
-      {
-        "path": "images/yc_modules/consequences/consequences_yc_1.svg",
-        "count": 2,
-        "size_kb": 86.3
-      },
-      {
-        "path": "images/yc_modules/consequences/consequences_yc_2.svg",
-        "count": 2,
-        "size_kb": 88
-      },
-      {
-        "path": "images/yc_modules/consequences/consequences_yc_3.svg",
-        "count": 2,
-        "size_kb": 92.1
-      },
-      {
-        "path": "images/yc_modules/consequences/consequences_yc_4.svg",
-        "count": 2,
-        "size_kb": 90.7
-      },
-      {
-        "path": "images/yc_modules/consequences/consequences_yc_5.svg",
-        "count": 2,
-        "size_kb": 104.4
-      },
-      {
-        "path": "images/yc_modules/development_play/play2_yc_1.svg",
-        "count": 2,
-        "size_kb": 78.2
-      },
-      {
-        "path": "images/yc_modules/development_play/play2_yc_2.svg",
-        "count": 2,
-        "size_kb": 83.2
-      },
-      {
-        "path": "images/yc_modules/development_play/play2_yc_3.svg",
-        "count": 2,
-        "size_kb": 82.3
-      },
-      {
-        "path": "images/yc_modules/development_play/play2_yc_4.svg",
-        "count": 2,
-        "size_kb": 83
-      },
-      {
-        "path": "images/yc_modules/development_play/play2_yc_5.svg",
-        "count": 2,
-        "size_kb": 71.4
-      },
-      {
-        "path": "images/yc_modules/development_play/play_yc_1.svg",
-        "count": 2,
-        "size_kb": 288
-      },
-      {
-        "path": "images/yc_modules/development_play/play_yc_2.svg",
-        "count": 2,
-        "size_kb": 284.9
-      },
-      {
-        "path": "images/yc_modules/development_play/play_yc_3.svg",
-        "count": 2,
-        "size_kb": 81.2
-      },
-      {
-        "path": "images/yc_modules/development_play/play_yc_4.svg",
-        "count": 2,
-        "size_kb": 99
-      },
-      {
-        "path": "images/yc_modules/feelings/feelings_yc_1.svg",
-        "count": 2,
-        "size_kb": 111.5
-      },
-      {
-        "path": "images/yc_modules/feelings/feelings_yc_2.svg",
-        "count": 2,
-        "size_kb": 143.9
-      },
-      {
-        "path": "images/yc_modules/feelings/feelings_yc_3.svg",
-        "count": 4,
-        "size_kb": 152.1
-      },
-      {
-        "path": "images/yc_modules/feelings/feelings_yc_4.svg",
-        "count": 2,
-        "size_kb": 129.3
-      },
-      {
-        "path": "images/yc_modules/instructions/instructions_yc_1.svg",
-        "count": 2,
-        "size_kb": 92.4
-      },
-      {
-        "path": "images/yc_modules/instructions/instructions_yc_2.svg",
-        "count": 2,
-        "size_kb": 81.4
-      },
-      {
-        "path": "images/yc_modules/instructions/instructions_yc_3.svg",
-        "count": 2,
-        "size_kb": 83.7
-      },
-      {
-        "path": "images/yc_modules/instructions/instructions_yc_4.svg",
-        "count": 2,
-        "size_kb": 77.4
-      },
-      {
-        "path": "images/yc_modules/instructions/instructions_yc_5.svg",
-        "count": 2,
-        "size_kb": 92.5
-      },
-      {
-        "path": "images/yc_modules/instructions/instructions_yc_6.svg",
-        "count": 2,
-        "size_kb": 94
-      },
-      {
-        "path": "images/yc_modules/instructions/instructions_yc_7.svg",
-        "count": 2,
-        "size_kb": 96.3
-      },
-      {
-        "path": "images/yc_modules/praise/praise_yc_1.svg",
-        "count": 2,
-        "size_kb": 99.3
-      },
-      {
-        "path": "images/yc_modules/praise/praise_yc_2.svg",
-        "count": 2,
-        "size_kb": 101
-      },
-      {
-        "path": "images/yc_modules/praise/praise_yc_3.svg",
-        "count": 2,
-        "size_kb": 97
-      },
-      {
-        "path": "images/yc_modules/praise/praise_yc_4.svg",
-        "count": 6,
-        "size_kb": 105.5
-      },
-      {
-        "path": "images/yc_modules/problem_solve/problem_solving_yc_1.svg",
-        "count": 2,
-        "size_kb": 47.3
-      },
-      {
-        "path": "images/yc_modules/problem_solve/problem_solving_yc_2.svg",
-        "count": 2,
-        "size_kb": 46.3
-      },
-      {
-        "path": "images/yc_modules/problem_solve/problem_solving_yc_3.svg",
-        "count": 2,
-        "size_kb": 43.4
-      },
-      {
-        "path": "images/yc_modules/problem_solve/problem_solving_yc_4.svg",
-        "count": 2,
-        "size_kb": 43.3
-      },
-      {
-        "path": "images/yc_modules/routines/routines_yc_1.svg",
-        "count": 2,
-        "size_kb": 72.6
-      },
-      {
-        "path": "images/yc_modules/routines/routines_yc_10.svg",
-        "count": 2,
-        "size_kb": 112.4
-      },
-      {
-        "path": "images/yc_modules/routines/routines_yc_2.svg",
-        "count": 6,
-        "size_kb": 74.4
-      },
-      {
-        "path": "images/yc_modules/routines/routines_yc_3.svg",
-        "count": 2,
-        "size_kb": 73.9
-      },
-      {
-        "path": "images/yc_modules/routines/routines_yc_4.svg",
-        "count": 2,
-        "size_kb": 72.9
-      },
-      {
-        "path": "images/yc_modules/routines/routines_yc_5.svg",
-        "count": 2,
-        "size_kb": 50.3
-      },
-      {
-        "path": "images/yc_modules/routines/routines_yc_6.svg",
-        "count": 2,
-        "size_kb": 47.7
-      },
-      {
-        "path": "images/yc_modules/routines/routines_yc_7.svg",
-        "count": 2,
-        "size_kb": 141.3
-      },
-      {
-        "path": "images/yc_modules/routines/routines_yc_8.svg",
-        "count": 2,
-        "size_kb": 97.4
-      },
-      {
-        "path": "images/yc_modules/routines/routines_yc_9.svg",
-        "count": 2,
-        "size_kb": 117.5
-      },
-      {
-        "path": "images/yc_modules/self_care/self_care_yc_1.svg",
-        "count": 2,
-        "size_kb": 94.3
-      },
-      {
-        "path": "images/yc_modules/self_care/self_care_yc_2.svg",
-        "count": 2,
-        "size_kb": 49.6
-      },
-      {
-        "path": "images/yc_modules/self_care/self_care_yc_3.svg",
-        "count": 2,
-        "size_kb": 49.4
-      },
-      {
-        "path": "images/yc_modules/self_care/self_care_yc_4.svg",
-        "count": 2,
-        "size_kb": 54.6
-      },
-      {
         "path": "lottie/bulging_circles.json",
         "count": 2,
         "size_kb": 11.8
       },
       {
-        "path": "lottie/cascading_stars.json",
+        "path": "lottie/checkmark.json",
         "count": 1,
-        "size_kb": 140.5
+        "size_kb": 23.6
       },
       {
         "path": "lottie/gift_box.json",
@@ -3244,22 +3094,22 @@
       },
       {
         "path": "lottie/relax/blue_dots.json",
-        "count": 8,
+        "count": 7,
         "size_kb": 14.7
       },
       {
         "path": "lottie/relax/looping_rings.json",
-        "count": 12,
+        "count": 9,
         "size_kb": 10.4
       },
       {
         "path": "lottie/relax/soothing_waves.json",
-        "count": 9,
+        "count": 6,
         "size_kb": 7.6
       },
       {
         "path": "lottie/relax/square_flow.json",
-        "count": 18,
+        "count": 16,
         "size_kb": 5.9
       },
       {
@@ -3294,7 +3144,7 @@
       {
         "type": "data_list",
         "subtype": "generated",
-        "total": 53
+        "total": 35
       },
       {
         "type": "data_list",
@@ -3328,11 +3178,6 @@
       },
       {
         "type": "data_list",
-        "subtype": "modules_consequences",
-        "total": 1
-      },
-      {
-        "type": "data_list",
         "subtype": "modules_consequences_t",
         "total": 1
       },
@@ -3343,22 +3188,7 @@
       },
       {
         "type": "data_list",
-        "subtype": "modules_developmentplay",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_feelings",
-        "total": 1
-      },
-      {
-        "type": "data_list",
         "subtype": "modules_grief_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_instructions",
         "total": 1
       },
       {
@@ -3378,27 +3208,12 @@
       },
       {
         "type": "data_list",
-        "subtype": "modules_oneononetime",
-        "total": 1
-      },
-      {
-        "type": "data_list",
         "subtype": "modules_oneononetime_t",
         "total": 1
       },
       {
         "type": "data_list",
-        "subtype": "modules_praise",
-        "total": 1
-      },
-      {
-        "type": "data_list",
         "subtype": "modules_praise_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_problemsolving",
         "total": 1
       },
       {
@@ -3413,17 +3228,7 @@
       },
       {
         "type": "data_list",
-        "subtype": "modules_rulesroutines",
-        "total": 1
-      },
-      {
-        "type": "data_list",
         "subtype": "modules_safety_t",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "modules_selfcare",
         "total": 1
       },
       {
@@ -3464,17 +3269,17 @@
       {
         "type": "data_pipe",
         "subtype": "generated",
-        "total": 50
+        "total": 32
       },
       {
         "type": "generator",
         "subtype": null,
-        "total": 40
+        "total": 31
       },
       {
         "type": "global",
         "subtype": null,
-        "total": 6
+        "total": 5
       },
       {
         "type": "global",
@@ -3489,12 +3294,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 110
+        "total": 99
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 702
+        "total": 491
       },
       {
         "type": "template",
