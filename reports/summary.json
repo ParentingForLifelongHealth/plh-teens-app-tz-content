@@ -1,0 +1,3506 @@
+{
+  "template_components": {
+    "data": [
+      {
+        "type": "accordion",
+        "count": 3
+      },
+      {
+        "type": "accordion_section",
+        "count": 6
+      },
+      {
+        "type": "animated_section",
+        "count": 1
+      },
+      {
+        "type": "animated_slides",
+        "count": 1
+      },
+      {
+        "type": "apple_sign_in_button",
+        "count": 2
+      },
+      {
+        "type": "audio",
+        "count": 4
+      },
+      {
+        "type": "button",
+        "count": 80
+      },
+      {
+        "type": "combo_box",
+        "count": 10
+      },
+      {
+        "type": "data_items",
+        "count": 140
+      },
+      {
+        "type": "debug_toggle",
+        "count": 1
+      },
+      {
+        "type": "display_grid",
+        "count": 4
+      },
+      {
+        "type": "display_group",
+        "count": 93
+      },
+      {
+        "type": "drawer",
+        "count": 1
+      },
+      {
+        "type": "google_sign_in_button",
+        "count": 2
+      },
+      {
+        "type": "image",
+        "count": 19
+      },
+      {
+        "type": "items",
+        "count": 17
+      },
+      {
+        "type": "lottie_animation",
+        "count": 4
+      },
+      {
+        "type": "nested_properties",
+        "count": 181
+      },
+      {
+        "type": "number_selector",
+        "count": 1
+      },
+      {
+        "type": "plh_activity_check_in",
+        "count": 1
+      },
+      {
+        "type": "plh_bottom_nav",
+        "count": 1
+      },
+      {
+        "type": "plh_module_details_header",
+        "count": 1
+      },
+      {
+        "type": "plh_module_list_item",
+        "count": 3
+      },
+      {
+        "type": "plh_progress_path",
+        "count": 1
+      },
+      {
+        "type": "qr_code",
+        "count": 1
+      },
+      {
+        "type": "radio_button_grid",
+        "count": 7
+      },
+      {
+        "type": "round_button",
+        "count": 12
+      },
+      {
+        "type": "select_text",
+        "count": 1
+      },
+      {
+        "type": "set_field",
+        "count": 4
+      },
+      {
+        "type": "set_variable",
+        "count": 2494
+      },
+      {
+        "type": "simple_checkbox",
+        "count": 1
+      },
+      {
+        "type": "task_card",
+        "count": 6
+      },
+      {
+        "type": "task_progress_bar",
+        "count": 3
+      },
+      {
+        "type": "template",
+        "count": 874
+      },
+      {
+        "type": "text",
+        "count": 122
+      },
+      {
+        "type": "text_area",
+        "count": 2
+      },
+      {
+        "type": "text_box",
+        "count": 12
+      },
+      {
+        "type": "text_bubble",
+        "count": 5
+      },
+      {
+        "type": "tile_component",
+        "count": 2
+      },
+      {
+        "type": "title",
+        "count": 44
+      },
+      {
+        "type": "toggle_bar",
+        "count": 4
+      },
+      {
+        "type": "update_action_list",
+        "count": 2
+      },
+      {
+        "type": "video",
+        "count": 4
+      },
+      {
+        "type": "youtube",
+        "count": 4
+      }
+    ]
+  },
+  "template_actions": {
+    "data": [
+      {
+        "type": "app_update",
+        "count": 1
+      },
+      {
+        "type": "auth",
+        "count": 3
+      },
+      {
+        "type": "emit: completed",
+        "count": 643
+      },
+      {
+        "type": "emit: force_reload",
+        "count": 3
+      },
+      {
+        "type": "emit: force_reprocess",
+        "count": 13
+      },
+      {
+        "type": "emit: force_restart",
+        "count": 3
+      },
+      {
+        "type": "emit: server_sync",
+        "count": 6
+      },
+      {
+        "type": "emit: set_language",
+        "count": 2
+      },
+      {
+        "type": "emit: uncompleted",
+        "count": 655
+      },
+      {
+        "type": "feedback",
+        "count": 13
+      },
+      {
+        "type": "go_to",
+        "count": 25
+      },
+      {
+        "type": "nav_stack",
+        "count": 267
+      },
+      {
+        "type": "pop_up",
+        "count": 66
+      },
+      {
+        "type": "reset_app",
+        "count": 4
+      },
+      {
+        "type": "reset_data",
+        "count": 3
+      },
+      {
+        "type": "save_to_device",
+        "count": 2
+      },
+      {
+        "type": "set_data",
+        "count": 60
+      },
+      {
+        "type": "set_field",
+        "count": 80
+      },
+      {
+        "type": "set_item",
+        "count": 66
+      },
+      {
+        "type": "set_local",
+        "count": 33
+      },
+      {
+        "type": "share",
+        "count": 2
+      },
+      {
+        "type": "task",
+        "count": 3
+      },
+      {
+        "type": "user",
+        "count": 3
+      }
+    ]
+  },
+  "assets_size": {
+    "data": [
+      {
+        "assets": "total",
+        "KB": "83622 KB",
+        "MB": "83.6 MB"
+      },
+      {
+        "assets": "unused",
+        "KB": "159513 KB",
+        "MB": "159.5 MB"
+      }
+    ]
+  },
+  "assets_unused": {
+    "data": [
+      {
+        "path": "android/icon-background.png",
+        "size_kb": 21.4
+      },
+      {
+        "path": "android/icon-foreground.png",
+        "size_kb": 58.3
+      },
+      {
+        "path": "android/icon.png",
+        "size_kb": 70.3
+      },
+      {
+        "path": "android/splash.png",
+        "size_kb": 239
+      },
+      {
+        "path": "audio/modules/connect/intro_connect_child.m4a",
+        "size_kb": 281.3
+      },
+      {
+        "path": "audio/modules/connect/learn_11.m4a",
+        "size_kb": 426.4
+      },
+      {
+        "path": "audio/modules/connect/learn_7.m4a",
+        "size_kb": 367.9
+      },
+      {
+        "path": "audio/modules/connect/learn_9.m4a",
+        "size_kb": 233.4
+      },
+      {
+        "path": "audio/modules/connect/man/intro_connect_child.m4a",
+        "size_kb": 262.7
+      },
+      {
+        "path": "audio/modules/connect/man/learn_11.m4a",
+        "size_kb": 393.4
+      },
+      {
+        "path": "audio/modules/connect/man/learn_7.m4a",
+        "size_kb": 335
+      },
+      {
+        "path": "audio/modules/connect/man/learn_9.m4a",
+        "size_kb": 196.8
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3",
+        "size_kb": 132.8
+      },
+      {
+        "path": "audio/teen/topic_intros/celebrate_intro_t.mp3",
+        "size_kb": 665.6
+      },
+      {
+        "path": "audio/teen/topic_intros/workshops_reflection_t.mp3",
+        "size_kb": 258.6
+      },
+      {
+        "path": "audio/teen/topic_intros/za_old_praise_intro_t.mp3",
+        "size_kb": 201.9
+      },
+      {
+        "path": "audio/teen/topic_intros/zold_consequence_intro_t.mp3",
+        "size_kb": 369.4
+      },
+      {
+        "path": "audio/teen/topic_intros/zold_crisis_intro_t.mp3",
+        "size_kb": 433.4
+      },
+      {
+        "path": "audio/teen/topic_intros/zold_grief_intro_t.mp3",
+        "size_kb": 294.6
+      },
+      {
+        "path": "audio/teen/topic_intros/zold_instruct_intro_t.mp3",
+        "size_kb": 172.6
+      },
+      {
+        "path": "audio/teen/topic_intros/zold_learn_intro_t.mp3",
+        "size_kb": 296.9
+      },
+      {
+        "path": "audio/teen/topic_intros/zold_svp_intro_t.mp3",
+        "size_kb": 288.9
+      },
+      {
+        "path": "audio/timer/bell_1.mp3",
+        "size_kb": 121.6
+      },
+      {
+        "path": "audio/yc/celebrate_audio_1.mp3",
+        "size_kb": 497.1
+      },
+      {
+        "path": "audio/yc/zold_1on1_audio_2.mp3",
+        "size_kb": 981.4
+      },
+      {
+        "path": "audio/yc/zold_solve_audio_1.mp3",
+        "size_kb": 609
+      },
+      {
+        "path": "contents.json",
+        "size_kb": 9.6
+      },
+      {
+        "path": "images/activities/act_animal_infant.svg",
+        "size_kb": 111.5
+      },
+      {
+        "path": "images/activities/animal_sounds.svg",
+        "size_kb": 84.2
+      },
+      {
+        "path": "images/activities/charades_icon.svg",
+        "size_kb": 35.6
+      },
+      {
+        "path": "images/activities/chores.svg",
+        "size_kb": 110.2
+      },
+      {
+        "path": "images/activities/chores_icon.svg",
+        "size_kb": 9.5
+      },
+      {
+        "path": "images/activities/clean_icon.svg",
+        "size_kb": 35.4
+      },
+      {
+        "path": "images/activities/cook.svg",
+        "size_kb": 45.1
+      },
+      {
+        "path": "images/activities/cook_icon.svg",
+        "size_kb": 12.4
+      },
+      {
+        "path": "images/activities/cook_traditional_icon.svg",
+        "size_kb": 56.1
+      },
+      {
+        "path": "images/activities/dance_icon.svg",
+        "size_kb": 33
+      },
+      {
+        "path": "images/activities/face_to_face_fun.svg",
+        "size_kb": 81.2
+      },
+      {
+        "path": "images/activities/find_pair.svg",
+        "size_kb": 36.9
+      },
+      {
+        "path": "images/activities/find_pair_icon.svg",
+        "size_kb": 29.1
+      },
+      {
+        "path": "images/activities/garden_icon.svg",
+        "size_kb": 15.4
+      },
+      {
+        "path": "images/activities/idea_box.svg",
+        "size_kb": 27.7
+      },
+      {
+        "path": "images/activities/lap_bounce.svg",
+        "size_kb": 192.1
+      },
+      {
+        "path": "images/activities/long_term_goal.svg",
+        "size_kb": 59.8
+      },
+      {
+        "path": "images/activities/long_term_goal_icon.svg",
+        "size_kb": 62.1
+      },
+      {
+        "path": "images/activities/memory_game.svg",
+        "size_kb": 40
+      },
+      {
+        "path": "images/activities/memory_game_icon.svg",
+        "size_kb": 31.5
+      },
+      {
+        "path": "images/activities/mystery_box.svg",
+        "size_kb": 58.4
+      },
+      {
+        "path": "images/activities/mystery_box_icon.svg",
+        "size_kb": 28.4
+      },
+      {
+        "path": "images/activities/role_play_icon.svg",
+        "size_kb": 35.6
+      },
+      {
+        "path": "images/activities/rolling_ball_fun.svg",
+        "size_kb": 90.6
+      },
+      {
+        "path": "images/activities/short_term_goal_icon.svg",
+        "size_kb": 25
+      },
+      {
+        "path": "images/activities/story_cuddles.svg",
+        "size_kb": 34.6
+      },
+      {
+        "path": "images/activities/talk_1_icon.svg",
+        "size_kb": 45
+      },
+      {
+        "path": "images/activities/talk_2.svg",
+        "size_kb": 37
+      },
+      {
+        "path": "images/activities/talk_2_icon.svg",
+        "size_kb": 19.1
+      },
+      {
+        "path": "images/activities/talk_3_icon.svg",
+        "size_kb": 27.7
+      },
+      {
+        "path": "images/activities/talk_4_icon.svg",
+        "size_kb": 46.3
+      },
+      {
+        "path": "images/activities/talk_5.svg",
+        "size_kb": 81.3
+      },
+      {
+        "path": "images/activities/talk_5_icon.svg",
+        "size_kb": 53.3
+      },
+      {
+        "path": "images/activities/talk_6_icon.svg",
+        "size_kb": 23.5
+      },
+      {
+        "path": "images/activities/talk_7_icon.svg",
+        "size_kb": 22.9
+      },
+      {
+        "path": "images/activities/tap_and_shake_band.svg",
+        "size_kb": 118.7
+      },
+      {
+        "path": "images/activities/tell_stories_icon.svg",
+        "size_kb": 28.6
+      },
+      {
+        "path": "images/activities/tummy_time_safari.svg",
+        "size_kb": 106.2
+      },
+      {
+        "path": "images/activities/walk_icon.svg",
+        "size_kb": 98.4
+      },
+      {
+        "path": "images/character_icons/F1_SON_5.svg",
+        "size_kb": 11.6
+      },
+      {
+        "path": "images/character_icons/F4_Daughter_13.svg",
+        "size_kb": 17.7
+      },
+      {
+        "path": "images/character_icons/faces-22.svg",
+        "size_kb": 24.9
+      },
+      {
+        "path": "images/faces/saddest.svg",
+        "size_kb": 2
+      },
+      {
+        "path": "images/flags/gb.svg",
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/flags/tz.svg",
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/homescreen/check_in/Traditional_rondavel_closed.svg",
+        "size_kb": 24.3
+      },
+      {
+        "path": "images/homescreen/check_in/Traditional_rondavel_open.svg",
+        "size_kb": 28.8
+      },
+      {
+        "path": "images/homescreen/svp.svg",
+        "size_kb": 25.4
+      },
+      {
+        "path": "images/icons/book_outline_blue.svg",
+        "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/book_outline_white.svg",
+        "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/faces/flushed_face.svg",
+        "size_kb": 4.9
+      },
+      {
+        "path": "images/icons/faces/happier.svg",
+        "size_kb": 0.6
+      },
+      {
+        "path": "images/icons/faces/happiest.svg",
+        "size_kb": 1.3
+      },
+      {
+        "path": "images/icons/faces/neutral.svg",
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/faces/ok.svg",
+        "size_kb": 46.6
+      },
+      {
+        "path": "images/icons/faces/sadder.svg",
+        "size_kb": 1.1
+      },
+      {
+        "path": "images/icons/faces/saddest.svg",
+        "size_kb": 2
+      },
+      {
+        "path": "images/icons/faces/smiling.svg",
+        "size_kb": 5.1
+      },
+      {
+        "path": "images/icons/faces/stressed.svg",
+        "size_kb": 60
+      },
+      {
+        "path": "images/icons/faces/tired.svg",
+        "size_kb": 54
+      },
+      {
+        "path": "images/icons/fire.png",
+        "size_kb": 0.9
+      },
+      {
+        "path": "images/icons/heart.svg",
+        "size_kb": 0.6
+      },
+      {
+        "path": "images/icons/heart_filled.svg",
+        "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/in_progress_white.svg",
+        "size_kb": 1.1
+      },
+      {
+        "path": "images/icons/parent_child.svg",
+        "size_kb": 2
+      },
+      {
+        "path": "images/icons/pause_white.svg",
+        "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/play.svg",
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/play_white.svg",
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/spark.png",
+        "size_kb": 1.6
+      },
+      {
+        "path": "images/icons/star_outline_white.svg",
+        "size_kb": 1
+      },
+      {
+        "path": "images/logos/PLH.png",
+        "size_kb": 26.6
+      },
+      {
+        "path": "images/logos/favicon.png",
+        "size_kb": 6.3
+      },
+      {
+        "path": "images/logos/plh.jpeg",
+        "size_kb": 9.4
+      },
+      {
+        "path": "images/logos/plh_white.png",
+        "size_kb": 12.8
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence1_t_5.svg",
+        "size_kb": 53.6
+      },
+      {
+        "path": "images/teen_modules/money/money3_t_6.svg",
+        "size_kb": 54
+      },
+      {
+        "path": "images/teen_modules/money/money4_t_1.svg",
+        "size_kb": 47.1
+      },
+      {
+        "path": "images/teen_modules/praise/praise1_t_2.svg",
+        "size_kb": 44.8
+      },
+      {
+        "path": "images/teen_modules/svp/svp_catcalling_t.svg",
+        "size_kb": 96.8
+      },
+      {
+        "path": "lottie/bulging_circles.txt",
+        "size_kb": 0.2
+      },
+      {
+        "path": "lottie/relax/breathing_heart.json",
+        "size_kb": 46.7
+      },
+      {
+        "path": "video/modules/connect/join_child.mp4",
+        "size_kb": 10726.2
+      },
+      {
+        "path": "video/modules/connect/shared_reading.mp4",
+        "size_kb": 36376.3
+      },
+      {
+        "path": "video/plh_video/lets_slow_down.srt",
+        "size_kb": 1.7
+      },
+      {
+        "path": "video/plh_video/lets_slow_down.vtt",
+        "size_kb": 1.8
+      },
+      {
+        "path": "video/unused/modules/join_child_unused.mp4",
+        "size_kb": 10726.2
+      },
+      {
+        "path": "video/unused/modules/shared_reading_unused.mp4",
+        "size_kb": 36376.3
+      },
+      {
+        "path": "video/unused/pause/body_scan.mp4",
+        "size_kb": 10418.6
+      },
+      {
+        "path": "video/unused/pause/breath_body_awareness.mp4",
+        "size_kb": 27250
+      },
+      {
+        "path": "video/unused/pause/loving_kindness_meditation.mp4",
+        "size_kb": 16605.2
+      }
+    ]
+  },
+  "assets_missing": {
+    "data": [
+      {
+        "path": "audio/teen/caregiver/caregiver_test_self_care_t.mp3",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "audio/teen/topic_intros/celebrate_intro.mp3",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "audio/teen/topic_intros/workshops_reflection.mp3",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/backgrounds/library_bottom_right.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/character_icons/F1_SON_15.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/character_icons/F4_DAUGHTER_13.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/docs.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/download.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/download_white.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/share.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/icons/visibility.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/kw_facilitator.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/app_logo.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/shell_closed.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/shell_open.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis_learn_t_5.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money3_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money4_t_6.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money_learn_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money_learn_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money_learn_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money_learn_t_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh1_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/svp/svp_warning_signs/catcalling_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "lottie/relax/heart.json",
+        "count": 8,
+        "missing": true
+      },
+      {
+        "path": "plh_images/characters/elder/large.svg",
+        "count": 1,
+        "missing": true
+      }
+    ]
+  },
+  "asset_summary": {
+    "data": [
+      {
+        "path": "audio/relax/relax_1.mp3",
+        "count": 4,
+        "size_kb": 265.1
+      },
+      {
+        "path": "audio/relax/relax_10.mp3",
+        "count": 2,
+        "size_kb": 404.9
+      },
+      {
+        "path": "audio/relax/relax_11.mp3",
+        "count": 2,
+        "size_kb": 445.6
+      },
+      {
+        "path": "audio/relax/relax_12.mp3",
+        "count": 2,
+        "size_kb": 539.7
+      },
+      {
+        "path": "audio/relax/relax_13.mp3",
+        "count": 2,
+        "size_kb": 398.4
+      },
+      {
+        "path": "audio/relax/relax_14.mp3",
+        "count": 2,
+        "size_kb": 256.9
+      },
+      {
+        "path": "audio/relax/relax_15.mp3",
+        "count": 2,
+        "size_kb": 125
+      },
+      {
+        "path": "audio/relax/relax_16.mp3",
+        "count": 1,
+        "size_kb": 150.9
+      },
+      {
+        "path": "audio/relax/relax_17.mp3",
+        "count": 3,
+        "size_kb": 148
+      },
+      {
+        "path": "audio/relax/relax_18.mp3",
+        "count": 1,
+        "size_kb": 312.9
+      },
+      {
+        "path": "audio/relax/relax_19.mp3",
+        "count": 1,
+        "size_kb": 454
+      },
+      {
+        "path": "audio/relax/relax_2.mp3",
+        "count": 5,
+        "size_kb": 404.4
+      },
+      {
+        "path": "audio/relax/relax_20.mp3",
+        "count": 2,
+        "size_kb": 539.8
+      },
+      {
+        "path": "audio/relax/relax_21.mp3",
+        "count": 1,
+        "size_kb": 189.3
+      },
+      {
+        "path": "audio/relax/relax_22.mp3",
+        "count": 2,
+        "size_kb": 109.8
+      },
+      {
+        "path": "audio/relax/relax_23.mp3",
+        "count": 1,
+        "size_kb": 122.9
+      },
+      {
+        "path": "audio/relax/relax_24.mp3",
+        "count": 1,
+        "size_kb": 121.3
+      },
+      {
+        "path": "audio/relax/relax_3.mp3",
+        "count": 5,
+        "size_kb": 235.1
+      },
+      {
+        "path": "audio/relax/relax_4.mp3",
+        "count": 4,
+        "size_kb": 514.5
+      },
+      {
+        "path": "audio/relax/relax_5.mp3",
+        "count": 4,
+        "size_kb": 195.7
+      },
+      {
+        "path": "audio/relax/relax_6.mp3",
+        "count": 1,
+        "size_kb": 280.7
+      },
+      {
+        "path": "audio/relax/relax_7.mp3",
+        "count": 2,
+        "size_kb": 285.3
+      },
+      {
+        "path": "audio/relax/relax_8.mp3",
+        "count": 2,
+        "size_kb": 302
+      },
+      {
+        "path": "audio/relax/relax_9.mp3",
+        "count": 3,
+        "size_kb": 576.6
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_1on1_t.mp3",
+        "count": 2,
+        "size_kb": 258.8
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_consequence_t.mp3",
+        "count": 2,
+        "size_kb": 312.3
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_crisis_t.mp3",
+        "count": 2,
+        "size_kb": 178.3
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_grief_t.mp3",
+        "count": 2,
+        "size_kb": 306.5
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_instruct_t.mp3",
+        "count": 2,
+        "size_kb": 281.3
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_learn_t.mp3",
+        "count": 2,
+        "size_kb": 209.4
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_money_t.mp3",
+        "count": 2,
+        "size_kb": 243.5
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_praise_t.mp3",
+        "count": 2,
+        "size_kb": 232.3
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_rules_t.mp3",
+        "count": 2,
+        "size_kb": 241.1
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_safe_t.mp3",
+        "count": 2,
+        "size_kb": 167.5
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_solve_t.mp3",
+        "count": 2,
+        "size_kb": 175
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_srh_t.mp3",
+        "count": 2,
+        "size_kb": 263.5
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_stress_t.mp3",
+        "count": 2,
+        "size_kb": 178.1
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_svp_t.mp3",
+        "count": 2,
+        "size_kb": 174.8
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_1on1_t.mp3",
+        "count": 2,
+        "size_kb": 210.8
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_consequence_t.mp3",
+        "count": 2,
+        "size_kb": 211.3
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_crisis_t.mp3",
+        "count": 2,
+        "size_kb": 191.9
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_grief_t.mp3",
+        "count": 2,
+        "size_kb": 207.9
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_instruct_t.mp3",
+        "count": 2,
+        "size_kb": 212.2
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_learn_t.mp3",
+        "count": 2,
+        "size_kb": 160.2
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_money_t.mp3",
+        "count": 2,
+        "size_kb": 282.3
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_praise_t.mp3",
+        "count": 2,
+        "size_kb": 148
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_rules_t.mp3",
+        "count": 2,
+        "size_kb": 111.2
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_safe_t.mp3",
+        "count": 2,
+        "size_kb": 136.9
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_self_care_t.mp3",
+        "count": 2,
+        "size_kb": 227.8
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_solve_t.mp3",
+        "count": 2,
+        "size_kb": 264.6
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_srh_t.mp3",
+        "count": 2,
+        "size_kb": 263.5
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_stress_t.mp3",
+        "count": 2,
+        "size_kb": 267.8
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_svp_t.mp3",
+        "count": 2,
+        "size_kb": 202.9
+      },
+      {
+        "path": "audio/teen/topic_intros/1on1_intro_t.mp3",
+        "count": 2,
+        "size_kb": 206
+      },
+      {
+        "path": "audio/teen/topic_intros/consequence_intro_t.mp3",
+        "count": 2,
+        "size_kb": 239.1
+      },
+      {
+        "path": "audio/teen/topic_intros/crisis_intro_t.mp3",
+        "count": 2,
+        "size_kb": 971.8
+      },
+      {
+        "path": "audio/teen/topic_intros/grief_intro_t.mp3",
+        "count": 2,
+        "size_kb": 690.8
+      },
+      {
+        "path": "audio/teen/topic_intros/instruct_intro_t.mp3",
+        "count": 2,
+        "size_kb": 231
+      },
+      {
+        "path": "audio/teen/topic_intros/learn_intro_t.mp3",
+        "count": 2,
+        "size_kb": 592.2
+      },
+      {
+        "path": "audio/teen/topic_intros/money_intro_t.mp3",
+        "count": 2,
+        "size_kb": 348.8
+      },
+      {
+        "path": "audio/teen/topic_intros/praise_intro_t.mp3",
+        "count": 2,
+        "size_kb": 532.2
+      },
+      {
+        "path": "audio/teen/topic_intros/rules_intro_t.mp3",
+        "count": 2,
+        "size_kb": 292.9
+      },
+      {
+        "path": "audio/teen/topic_intros/safe_intro_t.mp3",
+        "count": 2,
+        "size_kb": 545.9
+      },
+      {
+        "path": "audio/teen/topic_intros/self_care_intro_t.mp3",
+        "count": 2,
+        "size_kb": 407.6
+      },
+      {
+        "path": "audio/teen/topic_intros/solve_intro_t.mp3",
+        "count": 2,
+        "size_kb": 508
+      },
+      {
+        "path": "audio/teen/topic_intros/srh_intro_t.mp3",
+        "count": 2,
+        "size_kb": 369.2
+      },
+      {
+        "path": "audio/teen/topic_intros/stress_intro_t.mp3",
+        "count": 2,
+        "size_kb": 370.3
+      },
+      {
+        "path": "audio/teen/topic_intros/svp_intro_t.mp3",
+        "count": 2,
+        "size_kb": 603.8
+      },
+      {
+        "path": "audio/yc/1on1_audio_1.mp3",
+        "count": 2,
+        "size_kb": 891.7
+      },
+      {
+        "path": "audio/yc/1on1_audio_2.mp3",
+        "count": 2,
+        "size_kb": 619.1
+      },
+      {
+        "path": "audio/yc/care_audio_1.mp3",
+        "count": 2,
+        "size_kb": 527.5
+      },
+      {
+        "path": "audio/yc/care_audio_2.mp3",
+        "count": 2,
+        "size_kb": 1166.3
+      },
+      {
+        "path": "audio/yc/consequences_audio_1.mp3",
+        "count": 2,
+        "size_kb": 800.2
+      },
+      {
+        "path": "audio/yc/consequences_audio_2.mp3",
+        "count": 2,
+        "size_kb": 1206.6
+      },
+      {
+        "path": "audio/yc/feelings_audio_1.mp3",
+        "count": 2,
+        "size_kb": 336
+      },
+      {
+        "path": "audio/yc/feelings_audio_2.mp3",
+        "count": 2,
+        "size_kb": 635.8
+      },
+      {
+        "path": "audio/yc/instructions_audio_1.mp3",
+        "count": 2,
+        "size_kb": 613.7
+      },
+      {
+        "path": "audio/yc/instructions_audio_2.mp3",
+        "count": 2,
+        "size_kb": 784.2
+      },
+      {
+        "path": "audio/yc/learn_audio_1.mp3",
+        "count": 2,
+        "size_kb": 563.1
+      },
+      {
+        "path": "audio/yc/learn_audio_2.mp3",
+        "count": 2,
+        "size_kb": 254.5
+      },
+      {
+        "path": "audio/yc/praise_audio_1.mp3",
+        "count": 2,
+        "size_kb": 344
+      },
+      {
+        "path": "audio/yc/praise_audio_2.mp3",
+        "count": 2,
+        "size_kb": 1042.6
+      },
+      {
+        "path": "audio/yc/rules_audio_1.mp3",
+        "count": 2,
+        "size_kb": 427.6
+      },
+      {
+        "path": "audio/yc/rules_audio_2.mp3",
+        "count": 2,
+        "size_kb": 742.7
+      },
+      {
+        "path": "audio/yc/solve_audio_1.mp3",
+        "count": 2,
+        "size_kb": 983.4
+      },
+      {
+        "path": "audio/yc/solve_audio_2.mp3",
+        "count": 2,
+        "size_kb": 468.1
+      },
+      {
+        "path": "images/activities/act_animal.svg",
+        "count": 2,
+        "size_kb": 135.4
+      },
+      {
+        "path": "images/activities/act_emotions.svg",
+        "count": 2,
+        "size_kb": 106.6
+      },
+      {
+        "path": "images/activities/artist.svg",
+        "count": 2,
+        "size_kb": 2210.9
+      },
+      {
+        "path": "images/activities/blanket_forts.svg",
+        "count": 2,
+        "size_kb": 81.2
+      },
+      {
+        "path": "images/activities/books.svg",
+        "count": 2,
+        "size_kb": 72.6
+      },
+      {
+        "path": "images/activities/can_you_catch_it.svg",
+        "count": 2,
+        "size_kb": 183.7
+      },
+      {
+        "path": "images/activities/charades.svg",
+        "count": 2,
+        "size_kb": 38.9
+      },
+      {
+        "path": "images/activities/circle_dance.svg",
+        "count": 6,
+        "size_kb": 117.2
+      },
+      {
+        "path": "images/activities/clean.svg",
+        "count": 2,
+        "size_kb": 39.9
+      },
+      {
+        "path": "images/activities/cook_traditional.svg",
+        "count": 2,
+        "size_kb": 40.7
+      },
+      {
+        "path": "images/activities/cooking_with_maths.svg",
+        "count": 2,
+        "size_kb": 50.9
+      },
+      {
+        "path": "images/activities/dance.svg",
+        "count": 6,
+        "size_kb": 42.3
+      },
+      {
+        "path": "images/activities/dream_travel.svg",
+        "count": 2,
+        "size_kb": 136.9
+      },
+      {
+        "path": "images/activities/garden.svg",
+        "count": 2,
+        "size_kb": 109.9
+      },
+      {
+        "path": "images/activities/guess_emotion.svg",
+        "count": 2,
+        "size_kb": 71.4
+      },
+      {
+        "path": "images/activities/make_story_child.svg",
+        "count": 2,
+        "size_kb": 66.1
+      },
+      {
+        "path": "images/activities/mystery_bag.svg",
+        "count": 2,
+        "size_kb": 7.5
+      },
+      {
+        "path": "images/activities/play_with_clothes.svg",
+        "count": 2,
+        "size_kb": 102.7
+      },
+      {
+        "path": "images/activities/role_play.svg",
+        "count": 4,
+        "size_kb": 38.5
+      },
+      {
+        "path": "images/activities/short_term_goal.svg",
+        "count": 2,
+        "size_kb": 41.9
+      },
+      {
+        "path": "images/activities/song.svg",
+        "count": 4,
+        "size_kb": 2.7
+      },
+      {
+        "path": "images/activities/spy_colours.svg",
+        "count": 4,
+        "size_kb": 65.9
+      },
+      {
+        "path": "images/activities/talk_1.svg",
+        "count": 2,
+        "size_kb": 76.9
+      },
+      {
+        "path": "images/activities/talk_3.svg",
+        "count": 2,
+        "size_kb": 42.5
+      },
+      {
+        "path": "images/activities/talk_4.svg",
+        "count": 2,
+        "size_kb": 77
+      },
+      {
+        "path": "images/activities/talk_6.svg",
+        "count": 6,
+        "size_kb": 37.5
+      },
+      {
+        "path": "images/activities/talk_7.svg",
+        "count": 2,
+        "size_kb": 38.2
+      },
+      {
+        "path": "images/activities/tell_stories.svg",
+        "count": 2,
+        "size_kb": 40.9
+      },
+      {
+        "path": "images/activities/thinking_games.svg",
+        "count": 2,
+        "size_kb": 107.3
+      },
+      {
+        "path": "images/activities/unseen_guesses.svg",
+        "count": 2,
+        "size_kb": 70.8
+      },
+      {
+        "path": "images/activities/walk.svg",
+        "count": 2,
+        "size_kb": 101.3
+      },
+      {
+        "path": "images/backgrounds/activity_bottom_left.png",
+        "count": 1,
+        "size_kb": 3538.7
+      },
+      {
+        "path": "images/backgrounds/kites.svg",
+        "count": 1,
+        "size_kb": 37.3
+      },
+      {
+        "path": "images/backgrounds/library_top_right.png",
+        "count": 1,
+        "size_kb": 1358.6
+      },
+      {
+        "path": "images/backgrounds/progress_arc.png",
+        "count": 1,
+        "size_kb": 255.4
+      },
+      {
+        "path": "images/backgrounds/wave.png",
+        "count": 1,
+        "size_kb": 8.1
+      },
+      {
+        "path": "images/character_icons/BOYFRIEND_1.svg",
+        "count": 2,
+        "size_kb": 14.7
+      },
+      {
+        "path": "images/character_icons/F1_DAUGHTER_13.svg",
+        "count": 1,
+        "size_kb": 30.5
+      },
+      {
+        "path": "images/character_icons/F1_DAUGHTER_16.svg",
+        "count": 1,
+        "size_kb": 13.5
+      },
+      {
+        "path": "images/character_icons/F1_DAUGHTER_2.svg",
+        "count": 1,
+        "size_kb": 9.9
+      },
+      {
+        "path": "images/character_icons/F1_DAUGHTER_6.svg",
+        "count": 1,
+        "size_kb": 59.9
+      },
+      {
+        "path": "images/character_icons/F1_FATHER.svg",
+        "count": 1,
+        "size_kb": 54.1
+      },
+      {
+        "path": "images/character_icons/F1_MOTHER.svg",
+        "count": 1,
+        "size_kb": 11.3
+      },
+      {
+        "path": "images/character_icons/F1_SON_18.svg",
+        "count": 1,
+        "size_kb": 12.9
+      },
+      {
+        "path": "images/character_icons/F2_DAUGHTER_19.svg",
+        "count": 1,
+        "size_kb": 16.6
+      },
+      {
+        "path": "images/character_icons/F2_DAUGHTER_3.svg",
+        "count": 1,
+        "size_kb": 9.2
+      },
+      {
+        "path": "images/character_icons/F2_GRANDFATHER.svg",
+        "count": 1,
+        "size_kb": 20.5
+      },
+      {
+        "path": "images/character_icons/F2_GRANDMOTHER.svg",
+        "count": 1,
+        "size_kb": 12.6
+      },
+      {
+        "path": "images/character_icons/F2_SON_15.svg",
+        "count": 1,
+        "size_kb": 16.8
+      },
+      {
+        "path": "images/character_icons/F2_SON_8.svg",
+        "count": 1,
+        "size_kb": 12.5
+      },
+      {
+        "path": "images/character_icons/F3_DAUGHTER_12.svg",
+        "count": 1,
+        "size_kb": 54.7
+      },
+      {
+        "path": "images/character_icons/F3_DAUGHTER_7.svg",
+        "count": 1,
+        "size_kb": 43.3
+      },
+      {
+        "path": "images/character_icons/F3_MOTHER.svg",
+        "count": 1,
+        "size_kb": 51.3
+      },
+      {
+        "path": "images/character_icons/F3_SON_4.svg",
+        "count": 1,
+        "size_kb": 10.8
+      },
+      {
+        "path": "images/character_icons/F3_UNCLE.svg",
+        "count": 1,
+        "size_kb": 13.9
+      },
+      {
+        "path": "images/character_icons/F4_FATHER.svg",
+        "count": 1,
+        "size_kb": 15.8
+      },
+      {
+        "path": "images/character_icons/FRIEND_FEMALE_1.svg",
+        "count": 1,
+        "size_kb": 17.9
+      },
+      {
+        "path": "images/character_icons/FRIEND_MALE_1.svg",
+        "count": 1,
+        "size_kb": 12.3
+      },
+      {
+        "path": "images/character_icons/FRIEND_MALE_2.svg",
+        "count": 1,
+        "size_kb": 22
+      },
+      {
+        "path": "images/character_icons/MAN_IN_CAR.svg",
+        "count": 1,
+        "size_kb": 13.2
+      },
+      {
+        "path": "images/character_icons/TEACHER_1.svg",
+        "count": 1,
+        "size_kb": 20.4
+      },
+      {
+        "path": "images/character_icons/ZA_FACILITATOR.svg",
+        "count": 1,
+        "size_kb": 12.2
+      },
+      {
+        "path": "images/faces/angry.svg",
+        "count": 8,
+        "size_kb": 1.1
+      },
+      {
+        "path": "images/faces/confused.svg",
+        "count": 8,
+        "size_kb": 1.8
+      },
+      {
+        "path": "images/faces/happier.svg",
+        "count": 2,
+        "size_kb": 0.6
+      },
+      {
+        "path": "images/faces/happiest.svg",
+        "count": 12,
+        "size_kb": 1.3
+      },
+      {
+        "path": "images/faces/happy.svg",
+        "count": 42,
+        "size_kb": 0.6
+      },
+      {
+        "path": "images/faces/neutral.svg",
+        "count": 38,
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/faces/sad.svg",
+        "count": 37,
+        "size_kb": 0.6
+      },
+      {
+        "path": "images/faces/sadder.svg",
+        "count": 4,
+        "size_kb": 1.1
+      },
+      {
+        "path": "images/faces/scared.svg",
+        "count": 4,
+        "size_kb": 2.1
+      },
+      {
+        "path": "images/faces/tired.svg",
+        "count": 4,
+        "size_kb": 2.4
+      },
+      {
+        "path": "images/homescreen/celebrate_t.svg",
+        "count": 2,
+        "size_kb": 36.3
+      },
+      {
+        "path": "images/homescreen/consequence_t.svg",
+        "count": 2,
+        "size_kb": 23
+      },
+      {
+        "path": "images/homescreen/consequences.svg",
+        "count": 2,
+        "size_kb": 40.6
+      },
+      {
+        "path": "images/homescreen/crisis_t.svg",
+        "count": 2,
+        "size_kb": 46.1
+      },
+      {
+        "path": "images/homescreen/developmentplay.svg",
+        "count": 2,
+        "size_kb": 75.2
+      },
+      {
+        "path": "images/homescreen/feelings.svg",
+        "count": 2,
+        "size_kb": 75.4
+      },
+      {
+        "path": "images/homescreen/grief_t.svg",
+        "count": 2,
+        "size_kb": 30.8
+      },
+      {
+        "path": "images/homescreen/instruct_t.svg",
+        "count": 2,
+        "size_kb": 40.6
+      },
+      {
+        "path": "images/homescreen/instructions.svg",
+        "count": 2,
+        "size_kb": 40.6
+      },
+      {
+        "path": "images/homescreen/learn_t.svg",
+        "count": 2,
+        "size_kb": 28.4
+      },
+      {
+        "path": "images/homescreen/money_t.svg",
+        "count": 2,
+        "size_kb": 37.1
+      },
+      {
+        "path": "images/homescreen/one_on_one_t.svg",
+        "count": 2,
+        "size_kb": 48.5
+      },
+      {
+        "path": "images/homescreen/one_on_one_time.svg",
+        "count": 2,
+        "size_kb": 47.4
+      },
+      {
+        "path": "images/homescreen/praise.svg",
+        "count": 2,
+        "size_kb": 99.9
+      },
+      {
+        "path": "images/homescreen/praise_t.svg",
+        "count": 2,
+        "size_kb": 32.2
+      },
+      {
+        "path": "images/homescreen/problemsolving.svg",
+        "count": 2,
+        "size_kb": 39.4
+      },
+      {
+        "path": "images/homescreen/rules_t.svg",
+        "count": 2,
+        "size_kb": 41.2
+      },
+      {
+        "path": "images/homescreen/rulesroutines.svg",
+        "count": 2,
+        "size_kb": 58.8
+      },
+      {
+        "path": "images/homescreen/safe_t.svg",
+        "count": 4,
+        "size_kb": 23.9
+      },
+      {
+        "path": "images/homescreen/self_care.svg",
+        "count": 2,
+        "size_kb": 59.9
+      },
+      {
+        "path": "images/homescreen/self_care_t.svg",
+        "count": 2,
+        "size_kb": 10
+      },
+      {
+        "path": "images/homescreen/solve_t.svg",
+        "count": 2,
+        "size_kb": 53.7
+      },
+      {
+        "path": "images/homescreen/srh_t.svg",
+        "count": 2,
+        "size_kb": 46.2
+      },
+      {
+        "path": "images/homescreen/stress_t.svg",
+        "count": 2,
+        "size_kb": 16.9
+      },
+      {
+        "path": "images/icons/balance_blue.png",
+        "count": 2,
+        "size_kb": 4.7
+      },
+      {
+        "path": "images/icons/brain_blue.png",
+        "count": 10,
+        "size_kb": 5.2
+      },
+      {
+        "path": "images/icons/clock_blue.png",
+        "count": 10,
+        "size_kb": 4.5
+      },
+      {
+        "path": "images/icons/diamond.png",
+        "count": 1,
+        "size_kb": 1.8
+      },
+      {
+        "path": "images/icons/diamond_active.png",
+        "count": 1,
+        "size_kb": 1.7
+      },
+      {
+        "path": "images/icons/diamond_blue.png",
+        "count": 4,
+        "size_kb": 4.7
+      },
+      {
+        "path": "images/icons/document.svg",
+        "count": 1,
+        "size_kb": 7.3
+      },
+      {
+        "path": "images/icons/expand_circle_right.png",
+        "count": 1,
+        "size_kb": 0.9
+      },
+      {
+        "path": "images/icons/eye_blue.png",
+        "count": 14,
+        "size_kb": 4.2
+      },
+      {
+        "path": "images/icons/faces/angry.svg",
+        "count": 2,
+        "size_kb": 4.9
+      },
+      {
+        "path": "images/icons/faces/confused.svg",
+        "count": 4,
+        "size_kb": 4.9
+      },
+      {
+        "path": "images/icons/faces/happy.svg",
+        "count": 2,
+        "size_kb": 53.5
+      },
+      {
+        "path": "images/icons/faces/happy_face_new.svg",
+        "count": 41,
+        "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/faces/ok_face_new.svg",
+        "count": 41,
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/faces/sad.svg",
+        "count": 3,
+        "size_kb": 48.2
+      },
+      {
+        "path": "images/icons/faces/sad_face_new.svg",
+        "count": 41,
+        "size_kb": 1.5
+      },
+      {
+        "path": "images/icons/faces/scared.svg",
+        "count": 2,
+        "size_kb": 2.1
+      },
+      {
+        "path": "images/icons/feather.svg",
+        "count": 1,
+        "size_kb": 3.5
+      },
+      {
+        "path": "images/icons/football_blue.png",
+        "count": 2,
+        "size_kb": 5.1
+      },
+      {
+        "path": "images/icons/heart.png",
+        "count": 2,
+        "size_kb": 1.3
+      },
+      {
+        "path": "images/icons/heart_filled.png",
+        "count": 1,
+        "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/heart_filled_active.png",
+        "count": 1,
+        "size_kb": 1.5
+      },
+      {
+        "path": "images/icons/heart_filled_blue.png",
+        "count": 30,
+        "size_kb": 4.9
+      },
+      {
+        "path": "images/icons/heart_filled_red.png",
+        "count": 2,
+        "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/home.svg",
+        "count": 1,
+        "size_kb": 0.4
+      },
+      {
+        "path": "images/icons/home_active.svg",
+        "count": 1,
+        "size_kb": 0.4
+      },
+      {
+        "path": "images/icons/hourglass_blue.png",
+        "count": 2,
+        "size_kb": 4.3
+      },
+      {
+        "path": "images/icons/in_progress.svg",
+        "count": 2,
+        "size_kb": 1.1
+      },
+      {
+        "path": "images/icons/key.svg",
+        "count": 1,
+        "size_kb": 5.5
+      },
+      {
+        "path": "images/icons/lightbulb_blue.png",
+        "count": 4,
+        "size_kb": 3.6
+      },
+      {
+        "path": "images/icons/local_library.svg",
+        "count": 1,
+        "size_kb": 1.6
+      },
+      {
+        "path": "images/icons/local_library_active.svg",
+        "count": 1,
+        "size_kb": 1.6
+      },
+      {
+        "path": "images/icons/locked.png",
+        "count": 6,
+        "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/magnify_glass.svg",
+        "count": 1,
+        "size_kb": 1.9
+      },
+      {
+        "path": "images/icons/magnifying_glass.svg",
+        "count": 26,
+        "size_kb": 0.9
+      },
+      {
+        "path": "images/icons/notification_bell.png",
+        "count": 1,
+        "size_kb": 0.9
+      },
+      {
+        "path": "images/icons/parent_child_heart.svg",
+        "count": 26,
+        "size_kb": 3
+      },
+      {
+        "path": "images/icons/pause.svg",
+        "count": 26,
+        "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/pencil.svg",
+        "count": 26,
+        "size_kb": 1.1
+      },
+      {
+        "path": "images/icons/picture_book.svg",
+        "count": 26,
+        "size_kb": 1.8
+      },
+      {
+        "path": "images/icons/profile_card.svg",
+        "count": 1,
+        "size_kb": 7.4
+      },
+      {
+        "path": "images/icons/question_blue.png",
+        "count": 2,
+        "size_kb": 3.4
+      },
+      {
+        "path": "images/icons/question_mark_blue.svg",
+        "count": 1,
+        "size_kb": 0.8
+      },
+      {
+        "path": "images/icons/repeat_blue.png",
+        "count": 2,
+        "size_kb": 5.4
+      },
+      {
+        "path": "images/icons/settings.svg",
+        "count": 1,
+        "size_kb": 2.4
+      },
+      {
+        "path": "images/icons/settings_active.svg",
+        "count": 1,
+        "size_kb": 2.4
+      },
+      {
+        "path": "images/icons/single_speech_blue.png",
+        "count": 16,
+        "size_kb": 3.3
+      },
+      {
+        "path": "images/icons/smile_eyes_down.svg",
+        "count": 30,
+        "size_kb": 0.9
+      },
+      {
+        "path": "images/icons/smile_eyes_up.svg",
+        "count": 52,
+        "size_kb": 1
+      },
+      {
+        "path": "images/icons/speech_bubble_blue.png",
+        "count": 16,
+        "size_kb": 4.2
+      },
+      {
+        "path": "images/icons/star_filled_blue.png",
+        "count": 34,
+        "size_kb": 5.1
+      },
+      {
+        "path": "images/icons/star_outline_blue.svg",
+        "count": 27,
+        "size_kb": 1
+      },
+      {
+        "path": "images/icons/tablet_blue.png",
+        "count": 2,
+        "size_kb": 2.8
+      },
+      {
+        "path": "images/icons/thought_bubble.svg",
+        "count": 26,
+        "size_kb": 2.1
+      },
+      {
+        "path": "images/icons/tick.svg",
+        "count": 1,
+        "size_kb": 0.3
+      },
+      {
+        "path": "images/icons/tick_white.svg",
+        "count": 1,
+        "size_kb": 0.3
+      },
+      {
+        "path": "images/icons/trophy.png",
+        "count": 1,
+        "size_kb": 1.6
+      },
+      {
+        "path": "images/icons/trophy_active.png",
+        "count": 1,
+        "size_kb": 1.7
+      },
+      {
+        "path": "images/icons/trophy_blue.png",
+        "count": 16,
+        "size_kb": 5.1
+      },
+      {
+        "path": "images/icons/trophy_footer.svg",
+        "count": 1,
+        "size_kb": 3.9
+      },
+      {
+        "path": "images/icons/trophy_footer_active.svg",
+        "count": 1,
+        "size_kb": 3.9
+      },
+      {
+        "path": "images/icons/world.svg",
+        "count": 1,
+        "size_kb": 6.2
+      },
+      {
+        "path": "images/logos/IDEMS.png",
+        "count": 1,
+        "size_kb": 84.6
+      },
+      {
+        "path": "images/logos/plh_logomark.png",
+        "count": 2,
+        "size_kb": 20.5
+      },
+      {
+        "path": "images/onboarding/facilitator_onboarding_icon.svg",
+        "count": 1,
+        "size_kb": 18.2
+      },
+      {
+        "path": "images/onboarding/frustrated.svg",
+        "count": 1,
+        "size_kb": 22.5
+      },
+      {
+        "path": "images/onboarding/join_parents.svg",
+        "count": 1,
+        "size_kb": 37.6
+      },
+      {
+        "path": "images/onboarding/loving_parent.svg",
+        "count": 1,
+        "size_kb": 25.7
+      },
+      {
+        "path": "images/teen_modules/celebrate/celebrate_cup.svg",
+        "count": 2,
+        "size_kb": 60.9
+      },
+      {
+        "path": "images/teen_modules/celebrate/celebrate_t_1.svg",
+        "count": 2,
+        "size_kb": 148.5
+      },
+      {
+        "path": "images/teen_modules/celebrate/celebrate_t_2.svg",
+        "count": 2,
+        "size_kb": 44.9
+      },
+      {
+        "path": "images/teen_modules/celebrate/celebrate_t_3.svg",
+        "count": 2,
+        "size_kb": 71
+      },
+      {
+        "path": "images/teen_modules/celebrate/celebrate_t_4.svg",
+        "count": 2,
+        "size_kb": 39.5
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence1_t_1.svg",
+        "count": 2,
+        "size_kb": 52.1
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence1_t_2.svg",
+        "count": 2,
+        "size_kb": 41.9
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence1_t_3.svg",
+        "count": 2,
+        "size_kb": 46.3
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence1_t_4.svg",
+        "count": 2,
+        "size_kb": 44.6
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence2_t_1.svg",
+        "count": 2,
+        "size_kb": 53.5
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence2_t_2.svg",
+        "count": 2,
+        "size_kb": 54.7
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence2_t_3.svg",
+        "count": 2,
+        "size_kb": 117.4
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_1.svg",
+        "count": 2,
+        "size_kb": 62
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_2.svg",
+        "count": 2,
+        "size_kb": 61.4
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_3.svg",
+        "count": 2,
+        "size_kb": 56.8
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_4.svg",
+        "count": 2,
+        "size_kb": 56.1
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_5.svg",
+        "count": 2,
+        "size_kb": 52.3
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_6.svg",
+        "count": 2,
+        "size_kb": 43.5
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_7.svg",
+        "count": 2,
+        "size_kb": 47.2
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_8.svg",
+        "count": 2,
+        "size_kb": 40.9
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_9.svg",
+        "count": 2,
+        "size_kb": 42.5
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis1_t_1.svg",
+        "count": 2,
+        "size_kb": 60.3
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis1_t_2.svg",
+        "count": 2,
+        "size_kb": 41.9
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis1_t_3.svg",
+        "count": 2,
+        "size_kb": 70.6
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis1_t_4.svg",
+        "count": 2,
+        "size_kb": 45.9
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis1_t_5.svg",
+        "count": 2,
+        "size_kb": 42.8
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis1_t_6.svg",
+        "count": 2,
+        "size_kb": 36.2
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis2_t_1.svg",
+        "count": 2,
+        "size_kb": 47.8
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis2_t_2.svg",
+        "count": 2,
+        "size_kb": 57.9
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis2_t_3.svg",
+        "count": 2,
+        "size_kb": 60.2
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis2_t_4.svg",
+        "count": 2,
+        "size_kb": 58.7
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis2_t_5.svg",
+        "count": 2,
+        "size_kb": 42.5
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis_learn_t_1.svg",
+        "count": 2,
+        "size_kb": 42
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis_learn_t_2.svg",
+        "count": 2,
+        "size_kb": 74.4
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis_learn_t_3.svg",
+        "count": 2,
+        "size_kb": 38.5
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis_learn_t_4.svg",
+        "count": 2,
+        "size_kb": 81.6
+      },
+      {
+        "path": "images/teen_modules/grief/grief_conflict_t_1.svg",
+        "count": 2,
+        "size_kb": 28.3
+      },
+      {
+        "path": "images/teen_modules/grief/grief_conflict_t_2.svg",
+        "count": 2,
+        "size_kb": 59.8
+      },
+      {
+        "path": "images/teen_modules/grief/grief_conflict_t_3.svg",
+        "count": 2,
+        "size_kb": 32.7
+      },
+      {
+        "path": "images/teen_modules/grief/grief_support_t_1.svg",
+        "count": 2,
+        "size_kb": 33
+      },
+      {
+        "path": "images/teen_modules/grief/grief_support_t_2.svg",
+        "count": 2,
+        "size_kb": 29.8
+      },
+      {
+        "path": "images/teen_modules/grief/grief_support_t_3.svg",
+        "count": 2,
+        "size_kb": 32.2
+      },
+      {
+        "path": "images/teen_modules/grief/grief_support_t_4.svg",
+        "count": 2,
+        "size_kb": 32.7
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct1_t_1.svg",
+        "count": 4,
+        "size_kb": 7.9
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct1_t_2.svg",
+        "count": 2,
+        "size_kb": 9.1
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct1_t_3.svg",
+        "count": 2,
+        "size_kb": 26.5
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct2_t_1.svg",
+        "count": 2,
+        "size_kb": 65.1
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct2_t_2.svg",
+        "count": 2,
+        "size_kb": 57.4
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct2_t_3.svg",
+        "count": 2,
+        "size_kb": 66.3
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct2_t_4.svg",
+        "count": 2,
+        "size_kb": 64.6
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct2_t_5.svg",
+        "count": 2,
+        "size_kb": 57
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct2_t_6.svg",
+        "count": 2,
+        "size_kb": 53.3
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct2_t_7.svg",
+        "count": 2,
+        "size_kb": 62.7
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct2_t_8.svg",
+        "count": 2,
+        "size_kb": 70.6
+      },
+      {
+        "path": "images/teen_modules/learn/learn_conflict_t_1.svg",
+        "count": 2,
+        "size_kb": 51.8
+      },
+      {
+        "path": "images/teen_modules/learn/learn_conflict_t_2.svg",
+        "count": 2,
+        "size_kb": 69.4
+      },
+      {
+        "path": "images/teen_modules/learn/learn_conflict_t_3.svg",
+        "count": 2,
+        "size_kb": 47.4
+      },
+      {
+        "path": "images/teen_modules/learn/learn_conflict_t_4.svg",
+        "count": 2,
+        "size_kb": 48.3
+      },
+      {
+        "path": "images/teen_modules/learn/learn_support_t_1.svg",
+        "count": 2,
+        "size_kb": 51.8
+      },
+      {
+        "path": "images/teen_modules/learn/learn_support_t_2.svg",
+        "count": 2,
+        "size_kb": 69.4
+      },
+      {
+        "path": "images/teen_modules/learn/learn_support_t_3.svg",
+        "count": 2,
+        "size_kb": 46
+      },
+      {
+        "path": "images/teen_modules/learn/learn_support_t_4.svg",
+        "count": 2,
+        "size_kb": 42.9
+      },
+      {
+        "path": "images/teen_modules/money/money1_t_1.svg",
+        "count": 2,
+        "size_kb": 38.9
+      },
+      {
+        "path": "images/teen_modules/money/money2_t_1.svg",
+        "count": 2,
+        "size_kb": 44.9
+      },
+      {
+        "path": "images/teen_modules/money/money3_t_2.svg",
+        "count": 2,
+        "size_kb": 35.3
+      },
+      {
+        "path": "images/teen_modules/money/money3_t_3.svg",
+        "count": 2,
+        "size_kb": 65
+      },
+      {
+        "path": "images/teen_modules/money/money3_t_4.svg",
+        "count": 2,
+        "size_kb": 17.8
+      },
+      {
+        "path": "images/teen_modules/money/money3_t_5.svg",
+        "count": 2,
+        "size_kb": 58.2
+      },
+      {
+        "path": "images/teen_modules/praise/praise1_t_1.svg",
+        "count": 4,
+        "size_kb": 164.8
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_1.svg",
+        "count": 2,
+        "size_kb": 42.3
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_2.svg",
+        "count": 2,
+        "size_kb": 43.6
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_3.svg",
+        "count": 2,
+        "size_kb": 48.3
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_4.svg",
+        "count": 2,
+        "size_kb": 44.3
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_5.svg",
+        "count": 2,
+        "size_kb": 44.1
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_6.svg",
+        "count": 2,
+        "size_kb": 31.5
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_7.svg",
+        "count": 2,
+        "size_kb": 44.6
+      },
+      {
+        "path": "images/teen_modules/rules/rules2_t_1.svg",
+        "count": 2,
+        "size_kb": 417.7
+      },
+      {
+        "path": "images/teen_modules/rules/rules2_t_2.svg",
+        "count": 2,
+        "size_kb": 233.3
+      },
+      {
+        "path": "images/teen_modules/rules/rules2_t_3.svg",
+        "count": 2,
+        "size_kb": 231.7
+      },
+      {
+        "path": "images/teen_modules/rules/rules2_t_4.svg",
+        "count": 2,
+        "size_kb": 164.6
+      },
+      {
+        "path": "images/teen_modules/rules/rules2_t_5.svg",
+        "count": 2,
+        "size_kb": 423.4
+      },
+      {
+        "path": "images/teen_modules/safe/safe1_t_1.svg",
+        "count": 2,
+        "size_kb": 45.8
+      },
+      {
+        "path": "images/teen_modules/safe/safe1_t_2.svg",
+        "count": 2,
+        "size_kb": 108.8
+      },
+      {
+        "path": "images/teen_modules/safe/safe1_t_3.svg",
+        "count": 2,
+        "size_kb": 110.4
+      },
+      {
+        "path": "images/teen_modules/safe/safe1_t_4.svg",
+        "count": 2,
+        "size_kb": 73.1
+      },
+      {
+        "path": "images/teen_modules/safe/safe1_t_5.svg",
+        "count": 2,
+        "size_kb": 73
+      },
+      {
+        "path": "images/teen_modules/safe/safe1_t_6.svg",
+        "count": 2,
+        "size_kb": 39.9
+      },
+      {
+        "path": "images/teen_modules/safe/safe2_t_1.svg",
+        "count": 2,
+        "size_kb": 36.4
+      },
+      {
+        "path": "images/teen_modules/safe/safe2_t_2.svg",
+        "count": 2,
+        "size_kb": 35.7
+      },
+      {
+        "path": "images/teen_modules/safe/safe_learn_t_1.svg",
+        "count": 2,
+        "size_kb": 1365.4
+      },
+      {
+        "path": "images/teen_modules/safe/safe_learn_t_2.svg",
+        "count": 2,
+        "size_kb": 1560.3
+      },
+      {
+        "path": "images/teen_modules/safe/safe_learn_t_3.svg",
+        "count": 2,
+        "size_kb": 1991.8
+      },
+      {
+        "path": "images/teen_modules/safe/safe_learn_t_4.svg",
+        "count": 2,
+        "size_kb": 926.4
+      },
+      {
+        "path": "images/teen_modules/self_care/self_care1_t_1.svg",
+        "count": 2,
+        "size_kb": 34.7
+      },
+      {
+        "path": "images/teen_modules/self_care/self_care1_t_2.svg",
+        "count": 2,
+        "size_kb": 27.9
+      },
+      {
+        "path": "images/teen_modules/solve/solve1_t_1.svg",
+        "count": 2,
+        "size_kb": 35.6
+      },
+      {
+        "path": "images/teen_modules/solve/solve1_t_2.svg",
+        "count": 2,
+        "size_kb": 33.4
+      },
+      {
+        "path": "images/teen_modules/solve/solve1_t_3.svg",
+        "count": 2,
+        "size_kb": 33.6
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_1.svg",
+        "count": 2,
+        "size_kb": 49.2
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_10.svg",
+        "count": 2,
+        "size_kb": 25.9
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_11.svg",
+        "count": 2,
+        "size_kb": 34.5
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_12.svg",
+        "count": 2,
+        "size_kb": 25.7
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_2.svg",
+        "count": 2,
+        "size_kb": 46.3
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_3.svg",
+        "count": 2,
+        "size_kb": 59.6
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_4.svg",
+        "count": 2,
+        "size_kb": 29.8
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_5.svg",
+        "count": 2,
+        "size_kb": 33.1
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_6.svg",
+        "count": 2,
+        "size_kb": 33.8
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_7.svg",
+        "count": 2,
+        "size_kb": 34.7
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_8.svg",
+        "count": 2,
+        "size_kb": 38.3
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_9.svg",
+        "count": 2,
+        "size_kb": 33.5
+      },
+      {
+        "path": "images/teen_modules/solve/solve3_t_1.svg",
+        "count": 2,
+        "size_kb": 31.5
+      },
+      {
+        "path": "images/teen_modules/solve/solve3_t_2.svg",
+        "count": 2,
+        "size_kb": 31.9
+      },
+      {
+        "path": "images/teen_modules/solve/solve3_t_3.svg",
+        "count": 2,
+        "size_kb": 31.3
+      },
+      {
+        "path": "images/teen_modules/solve/solve_tool_t_1.svg",
+        "count": 2,
+        "size_kb": 45.4
+      },
+      {
+        "path": "images/teen_modules/solve/solve_tool_t_2.svg",
+        "count": 2,
+        "size_kb": 85.2
+      },
+      {
+        "path": "images/teen_modules/solve/solve_tool_t_3.svg",
+        "count": 2,
+        "size_kb": 42
+      },
+      {
+        "path": "images/teen_modules/solve/solve_tool_t_4.svg",
+        "count": 2,
+        "size_kb": 33.9
+      },
+      {
+        "path": "images/teen_modules/srh/srh1_t_1.svg",
+        "count": 2,
+        "size_kb": 32.5
+      },
+      {
+        "path": "images/teen_modules/srh/srh1_t_3.svg",
+        "count": 2,
+        "size_kb": 30.6
+      },
+      {
+        "path": "images/teen_modules/srh/srh1_t_4.svg",
+        "count": 2,
+        "size_kb": 36.9
+      },
+      {
+        "path": "images/teen_modules/srh/srh2_t_1.svg",
+        "count": 2,
+        "size_kb": 49.6
+      },
+      {
+        "path": "images/teen_modules/srh/srh2_t_2.svg",
+        "count": 2,
+        "size_kb": 44
+      },
+      {
+        "path": "images/teen_modules/srh/srh2_t_3.svg",
+        "count": 2,
+        "size_kb": 28.7
+      },
+      {
+        "path": "images/teen_modules/srh/srh2_t_4.svg",
+        "count": 2,
+        "size_kb": 30.1
+      },
+      {
+        "path": "images/teen_modules/srh/srh2_t_5.svg",
+        "count": 2,
+        "size_kb": 27.2
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_age_t_1.svg",
+        "count": 2,
+        "size_kb": 125
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_age_t_2.svg",
+        "count": 2,
+        "size_kb": 70.9
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_age_t_3.svg",
+        "count": 2,
+        "size_kb": 25.6
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_1.svg",
+        "count": 2,
+        "size_kb": 70
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_2.svg",
+        "count": 2,
+        "size_kb": 28.8
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_3.svg",
+        "count": 2,
+        "size_kb": 44
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_4.svg",
+        "count": 2,
+        "size_kb": 60.7
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_5.svg",
+        "count": 2,
+        "size_kb": 76.4
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_1.svg",
+        "count": 2,
+        "size_kb": 58.6
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_2.svg",
+        "count": 2,
+        "size_kb": 95.4
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_3.svg",
+        "count": 2,
+        "size_kb": 203.3
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_4.svg",
+        "count": 2,
+        "size_kb": 52.8
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_who_t_1.svg",
+        "count": 2,
+        "size_kb": 27.1
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_who_t_2.svg",
+        "count": 2,
+        "size_kb": 69.1
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_who_t_3.svg",
+        "count": 2,
+        "size_kb": 105
+      },
+      {
+        "path": "images/teen_modules/stress/stress1_t_1.svg",
+        "count": 2,
+        "size_kb": 74.9
+      },
+      {
+        "path": "images/teen_modules/stress/stress1_t_2.svg",
+        "count": 2,
+        "size_kb": 94
+      },
+      {
+        "path": "images/teen_modules/stress/stress1_t_3.svg",
+        "count": 2,
+        "size_kb": 68
+      },
+      {
+        "path": "images/teen_modules/stress/stress1_t_4.svg",
+        "count": 2,
+        "size_kb": 281.8
+      },
+      {
+        "path": "images/teen_modules/stress/stress1_t_5.svg",
+        "count": 2,
+        "size_kb": 139.6
+      },
+      {
+        "path": "images/teen_modules/stress/stress2_t_1.svg",
+        "count": 2,
+        "size_kb": 74.1
+      },
+      {
+        "path": "images/teen_modules/stress/stress2_t_2.svg",
+        "count": 2,
+        "size_kb": 72.1
+      },
+      {
+        "path": "images/teen_modules/stress/stress2_t_3.svg",
+        "count": 2,
+        "size_kb": 74.3
+      },
+      {
+        "path": "images/teen_modules/stress/stress2_t_4.svg",
+        "count": 2,
+        "size_kb": 64.4
+      },
+      {
+        "path": "images/teen_modules/stress/stress3_t_1.svg",
+        "count": 2,
+        "size_kb": 59.4
+      },
+      {
+        "path": "images/teen_modules/stress/stress3_t_2.svg",
+        "count": 2,
+        "size_kb": 40.6
+      },
+      {
+        "path": "images/teen_modules/stress/stress3_t_3.svg",
+        "count": 2,
+        "size_kb": 63.3
+      },
+      {
+        "path": "images/teen_modules/stress/stress3_t_4.svg",
+        "count": 2,
+        "size_kb": 86.8
+      },
+      {
+        "path": "images/teen_modules/stress/stress3_t_5.svg",
+        "count": 2,
+        "size_kb": 103.7
+      },
+      {
+        "path": "images/teen_modules/stress/stress3_t_6.svg",
+        "count": 2,
+        "size_kb": 74.5
+      },
+      {
+        "path": "images/teen_modules/svp/svp_controlling_boyfriend_t.svg",
+        "count": 2,
+        "size_kb": 63.4
+      },
+      {
+        "path": "images/teen_modules/svp/svp_nude_pic_t.svg",
+        "count": 2,
+        "size_kb": 49.6
+      },
+      {
+        "path": "images/teen_modules/svp/svp_private_tutoring_t.svg",
+        "count": 2,
+        "size_kb": 58.6
+      },
+      {
+        "path": "images/teen_modules/svp/svp_pushy_boyfriend_t.svg",
+        "count": 2,
+        "size_kb": 40.8
+      },
+      {
+        "path": "images/teen_modules/svp/svp_pushy_friend_t.svg",
+        "count": 2,
+        "size_kb": 77
+      },
+      {
+        "path": "images/teen_modules/svp/svp_rejected_ride_t.svg",
+        "count": 2,
+        "size_kb": 103.3
+      },
+      {
+        "path": "images/teen_modules/svp/svp_usebody_t_1.gif",
+        "count": 2,
+        "size_kb": 1111.6
+      },
+      {
+        "path": "images/teen_modules/svp/svp_usebody_t_2.gif",
+        "count": 2,
+        "size_kb": 2008.5
+      },
+      {
+        "path": "images/teen_modules/svp/svp_usebody_t_3.gif",
+        "count": 2,
+        "size_kb": 844.1
+      },
+      {
+        "path": "images/teen_modules/svp/svp_usevoice_t.svg",
+        "count": 2,
+        "size_kb": 35.5
+      },
+      {
+        "path": "images/yc_modules/1on1/one_on_one_yc_1.svg",
+        "count": 2,
+        "size_kb": 56.4
+      },
+      {
+        "path": "images/yc_modules/1on1/one_on_one_yc_2.svg",
+        "count": 2,
+        "size_kb": 58.3
+      },
+      {
+        "path": "images/yc_modules/1on1/one_on_one_yc_3.svg",
+        "count": 2,
+        "size_kb": 58.2
+      },
+      {
+        "path": "images/yc_modules/1on1/one_on_one_yc_4.svg",
+        "count": 2,
+        "size_kb": 65.4
+      },
+      {
+        "path": "images/yc_modules/consequences/consequences_yc_1.svg",
+        "count": 2,
+        "size_kb": 86.3
+      },
+      {
+        "path": "images/yc_modules/consequences/consequences_yc_2.svg",
+        "count": 2,
+        "size_kb": 88
+      },
+      {
+        "path": "images/yc_modules/consequences/consequences_yc_3.svg",
+        "count": 2,
+        "size_kb": 92.1
+      },
+      {
+        "path": "images/yc_modules/consequences/consequences_yc_4.svg",
+        "count": 2,
+        "size_kb": 90.7
+      },
+      {
+        "path": "images/yc_modules/consequences/consequences_yc_5.svg",
+        "count": 2,
+        "size_kb": 104.4
+      },
+      {
+        "path": "images/yc_modules/development_play/play2_yc_1.svg",
+        "count": 2,
+        "size_kb": 78.2
+      },
+      {
+        "path": "images/yc_modules/development_play/play2_yc_2.svg",
+        "count": 2,
+        "size_kb": 83.2
+      },
+      {
+        "path": "images/yc_modules/development_play/play2_yc_3.svg",
+        "count": 2,
+        "size_kb": 82.3
+      },
+      {
+        "path": "images/yc_modules/development_play/play2_yc_4.svg",
+        "count": 2,
+        "size_kb": 83
+      },
+      {
+        "path": "images/yc_modules/development_play/play2_yc_5.svg",
+        "count": 2,
+        "size_kb": 71.4
+      },
+      {
+        "path": "images/yc_modules/development_play/play_yc_1.svg",
+        "count": 2,
+        "size_kb": 288
+      },
+      {
+        "path": "images/yc_modules/development_play/play_yc_2.svg",
+        "count": 2,
+        "size_kb": 284.9
+      },
+      {
+        "path": "images/yc_modules/development_play/play_yc_3.svg",
+        "count": 2,
+        "size_kb": 81.2
+      },
+      {
+        "path": "images/yc_modules/development_play/play_yc_4.svg",
+        "count": 2,
+        "size_kb": 99
+      },
+      {
+        "path": "images/yc_modules/feelings/feelings_yc_1.svg",
+        "count": 2,
+        "size_kb": 111.5
+      },
+      {
+        "path": "images/yc_modules/feelings/feelings_yc_2.svg",
+        "count": 2,
+        "size_kb": 143.9
+      },
+      {
+        "path": "images/yc_modules/feelings/feelings_yc_3.svg",
+        "count": 4,
+        "size_kb": 152.1
+      },
+      {
+        "path": "images/yc_modules/feelings/feelings_yc_4.svg",
+        "count": 2,
+        "size_kb": 129.3
+      },
+      {
+        "path": "images/yc_modules/instructions/instructions_yc_1.svg",
+        "count": 2,
+        "size_kb": 92.4
+      },
+      {
+        "path": "images/yc_modules/instructions/instructions_yc_2.svg",
+        "count": 2,
+        "size_kb": 81.4
+      },
+      {
+        "path": "images/yc_modules/instructions/instructions_yc_3.svg",
+        "count": 2,
+        "size_kb": 83.7
+      },
+      {
+        "path": "images/yc_modules/instructions/instructions_yc_4.svg",
+        "count": 2,
+        "size_kb": 77.4
+      },
+      {
+        "path": "images/yc_modules/instructions/instructions_yc_5.svg",
+        "count": 2,
+        "size_kb": 92.5
+      },
+      {
+        "path": "images/yc_modules/instructions/instructions_yc_6.svg",
+        "count": 2,
+        "size_kb": 94
+      },
+      {
+        "path": "images/yc_modules/instructions/instructions_yc_7.svg",
+        "count": 2,
+        "size_kb": 96.3
+      },
+      {
+        "path": "images/yc_modules/praise/praise_yc_1.svg",
+        "count": 2,
+        "size_kb": 99.3
+      },
+      {
+        "path": "images/yc_modules/praise/praise_yc_2.svg",
+        "count": 2,
+        "size_kb": 101
+      },
+      {
+        "path": "images/yc_modules/praise/praise_yc_3.svg",
+        "count": 2,
+        "size_kb": 97
+      },
+      {
+        "path": "images/yc_modules/praise/praise_yc_4.svg",
+        "count": 6,
+        "size_kb": 105.5
+      },
+      {
+        "path": "images/yc_modules/problem_solve/problem_solving_yc_1.svg",
+        "count": 2,
+        "size_kb": 47.3
+      },
+      {
+        "path": "images/yc_modules/problem_solve/problem_solving_yc_2.svg",
+        "count": 2,
+        "size_kb": 46.3
+      },
+      {
+        "path": "images/yc_modules/problem_solve/problem_solving_yc_3.svg",
+        "count": 2,
+        "size_kb": 43.4
+      },
+      {
+        "path": "images/yc_modules/problem_solve/problem_solving_yc_4.svg",
+        "count": 2,
+        "size_kb": 43.3
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_1.svg",
+        "count": 2,
+        "size_kb": 72.6
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_10.svg",
+        "count": 2,
+        "size_kb": 112.4
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_2.svg",
+        "count": 6,
+        "size_kb": 74.4
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_3.svg",
+        "count": 2,
+        "size_kb": 73.9
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_4.svg",
+        "count": 2,
+        "size_kb": 72.9
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_5.svg",
+        "count": 2,
+        "size_kb": 50.3
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_6.svg",
+        "count": 2,
+        "size_kb": 47.7
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_7.svg",
+        "count": 2,
+        "size_kb": 141.3
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_8.svg",
+        "count": 2,
+        "size_kb": 97.4
+      },
+      {
+        "path": "images/yc_modules/routines/routines_yc_9.svg",
+        "count": 2,
+        "size_kb": 117.5
+      },
+      {
+        "path": "images/yc_modules/self_care/self_care_yc_1.svg",
+        "count": 2,
+        "size_kb": 94.3
+      },
+      {
+        "path": "images/yc_modules/self_care/self_care_yc_2.svg",
+        "count": 2,
+        "size_kb": 49.6
+      },
+      {
+        "path": "images/yc_modules/self_care/self_care_yc_3.svg",
+        "count": 2,
+        "size_kb": 49.4
+      },
+      {
+        "path": "images/yc_modules/self_care/self_care_yc_4.svg",
+        "count": 2,
+        "size_kb": 54.6
+      },
+      {
+        "path": "lottie/bulging_circles.json",
+        "count": 2,
+        "size_kb": 11.8
+      },
+      {
+        "path": "lottie/cascading_stars.json",
+        "count": 1,
+        "size_kb": 140.5
+      },
+      {
+        "path": "lottie/gift_box.json",
+        "count": 1,
+        "size_kb": 674.5
+      },
+      {
+        "path": "lottie/relax/blue_dots.json",
+        "count": 8,
+        "size_kb": 14.7
+      },
+      {
+        "path": "lottie/relax/looping_rings.json",
+        "count": 12,
+        "size_kb": 10.4
+      },
+      {
+        "path": "lottie/relax/soothing_waves.json",
+        "count": 9,
+        "size_kb": 7.6
+      },
+      {
+        "path": "lottie/relax/square_flow.json",
+        "count": 18,
+        "size_kb": 5.9
+      },
+      {
+        "path": "video/plh_video/lets_slow_down.mp4",
+        "count": 2,
+        "size_kb": 13482.2
+      }
+    ]
+  },
+  "flows_by_type": {
+    "data": [
+      {
+        "type": "data_list",
+        "subtype": null,
+        "total": 9
+      },
+      {
+        "type": "data_list",
+        "subtype": "activities",
+        "total": 2
+      },
+      {
+        "type": "data_list",
+        "subtype": "app_config_language_list",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "check_in",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "generated",
+        "total": 53
+      },
+      {
+        "type": "data_list",
+        "subtype": "hp_review",
+        "total": 2
+      },
+      {
+        "type": "data_list",
+        "subtype": "legal_terms",
+        "total": 2
+      },
+      {
+        "type": "data_list",
+        "subtype": "library",
+        "total": 3
+      },
+      {
+        "type": "data_list",
+        "subtype": "lifecycle_actions",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules",
+        "total": 2
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_celebrate_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_consequences",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_consequences_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_crisis_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_developmentplay",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_feelings",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_grief_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_instructions",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_instructions_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_learn_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_money_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_oneononetime",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_oneononetime_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_praise",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_praise_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_problemsolving",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_problemsolving_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_rules_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_rulesroutines",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_safety_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_selfcare",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_selfcare_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_srh_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_stayingsafe_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "modules_stress_t",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "onboarding",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "relax",
+        "total": 1
+      },
+      {
+        "type": "data_pipe",
+        "subtype": null,
+        "total": 3
+      },
+      {
+        "type": "data_pipe",
+        "subtype": "generated",
+        "total": 50
+      },
+      {
+        "type": "generator",
+        "subtype": null,
+        "total": 40
+      },
+      {
+        "type": "global",
+        "subtype": null,
+        "total": 6
+      },
+      {
+        "type": "global",
+        "subtype": "legal_terms",
+        "total": 1
+      },
+      {
+        "type": "global",
+        "subtype": "onboarding",
+        "total": 2
+      },
+      {
+        "type": "template",
+        "subtype": null,
+        "total": 110
+      },
+      {
+        "type": "template",
+        "subtype": "generated",
+        "total": 702
+      },
+      {
+        "type": "template",
+        "subtype": "legal_terms",
+        "total": 4
+      }
+    ]
+  }
+}
