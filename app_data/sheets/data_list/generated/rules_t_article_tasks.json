@@ -32,6 +32,7 @@
     },
     {
       "id": "check_in_15",
+      "attached_single_doc": "https://docs.google.com/document/d/1weBDi-7Z101TP408tO48rWUM3m75TIrW5KMnEDOeB9c",
       "_translatedFields": {
         "text_1": {
           "eng": "There is no right or wrong way to feel. However you are feeling, it is okay."
@@ -62,7 +63,6 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "text_1": "There is no right or wrong way to feel. However you are feeling, it is okay.",
       "_translations": {
         "text_1": {
@@ -101,6 +101,7 @@
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/rules_intro_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today's topic is about rules.\n\nRules help teens understand what is expected of them.\n\nTeens are more likely to follow rules if you create the rules WITH your teen and praise them for it!"
@@ -113,7 +114,6 @@
         }
       },
       "category_id": "intro",
-      "attached_single_doc": "https://docs.google.com/document/d/1YKV1776MfSpeapI9rhF9HP9yfeltH5__uxqoAOQmB_A",
       "text_1_facilitator": "Today's topic is about rules.\n\nRules help teens understand what is expected of them.\n\nTeens are more likely to follow rules if you create the rules WITH your teen and praise them for it!",
       "_translations": {
         "text_1_facilitator": {},

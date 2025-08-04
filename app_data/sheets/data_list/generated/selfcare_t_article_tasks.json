@@ -32,6 +32,7 @@
     },
     {
       "id": "check_in_8",
+      "attached_single_doc": "https://docs.google.com/document/d/1weBDi-7Z101TP408tO48rWUM3m75TIrW5KMnEDOeB9c",
       "_translatedFields": {
         "text_1": {
           "eng": "Self-care is a key parenting tool. It starts with recognising how we feel."
@@ -62,7 +63,6 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "text_1": "Self-care is a key parenting tool. It starts with recognising how we feel.",
       "_translations": {
         "text_1": {
@@ -101,6 +101,7 @@
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/self_care_intro_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today's topic is about taking care of yourself.\n\nWe often don’t look after ourselves enough. But this is so important, especially as a parent!\n\nReducing our stress and treating ourselves well helps us AND our teenagers."
@@ -113,7 +114,6 @@
         }
       },
       "category_id": "intro",
-      "attached_single_doc": "https://docs.google.com/document/d/1zd3jJs1AHYoo0psSJmo2PWYIXTtjx72rYr0sJ7sa76A",
       "text_1_facilitator": "Today's topic is about taking care of yourself.\n\nWe often don’t look after ourselves enough. But this is so important, especially as a parent!\n\nReducing our stress and treating ourselves well helps us AND our teenagers.",
       "_translations": {
         "text_1_facilitator": {},

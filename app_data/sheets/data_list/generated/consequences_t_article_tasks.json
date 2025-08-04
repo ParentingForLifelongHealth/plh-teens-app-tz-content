@@ -31,6 +31,7 @@
     },
     {
       "id": "check_in_8",
+      "attached_single_doc": "https://docs.google.com/document/d/1weBDi-7Z101TP408tO48rWUM3m75TIrW5KMnEDOeB9c",
       "_translatedFields": {
         "text_1": {
           "eng": "Self-care is a key parenting tool. It starts with recognising how we feel."
@@ -61,7 +62,6 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "text_1": "Self-care is a key parenting tool. It starts with recognising how we feel.",
       "_translations": {
         "text_1": {
@@ -100,6 +100,7 @@
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/consequence_intro_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today's topic is about calm consequences.\n\nOur actions have consequences. Some consequences happen naturally (“if you break something, you can’t use it anymore”). Other consequences we set as a family to motivate us to follow the rules (“if you come home late, you can’t go out with friends tomorrow”).\n\nHOW you set and use consequences together matters.\n\nGetting consequences right helps teens behave better and makes family life calmer."
@@ -112,7 +113,6 @@
         }
       },
       "category_id": "intro",
-      "attached_single_doc": "https://docs.google.com/document/d/1iR_eGOatJ31yEm72ZZd_R5LK7JRc44_PhK8s0Tq5mTg",
       "text_1_facilitator": "Today's topic is about calm consequences.\n\nOur actions have consequences. Some consequences happen naturally (“if you break something, you can’t use it anymore”). Other consequences we set as a family to motivate us to follow the rules (“if you come home late, you can’t go out with friends tomorrow”).\n\nHOW you set and use consequences together matters.\n\nGetting consequences right helps teens behave better and makes family life calmer.",
       "_translations": {
         "text_1_facilitator": {},

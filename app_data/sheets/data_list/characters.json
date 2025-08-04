@@ -7,7 +7,6 @@
     {
       "id": "facilitator",
       "name": "Lulama",
-      "name_xhosa": "Lulama",
       "role": "facilitator",
       "image_asset": "/images/character_icons/ZA_FACILITATOR.svg"
     },
@@ -16,7 +15,6 @@
       "caps_id": "F1_MOTHER",
       "family_no": 1,
       "name": "Nontlantla",
-      "name_xhosa": "Nontlantla",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F1_MOTHER.svg",
       "Flag if column E has duplicate names": "",
@@ -35,7 +33,6 @@
       "caps_id": "F1_FATHER",
       "family_no": 1,
       "name": "Siyabonga",
-      "name_xhosa": "Siyabonga",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F1_FATHER.svg",
       "Flag if column E has duplicate names": "",
@@ -55,7 +52,6 @@
       "family_no": 1,
       "age": 17,
       "name": "Zakhele",
-      "name_xhosa": "Zakhele",
       "role": "child",
       "image_asset": "/images/character_icons/F1_SON_18.svg",
       "Flag if column E has duplicate names": ""
@@ -66,7 +62,6 @@
       "family_no": 1,
       "age": 16,
       "name": "Hlengiwe",
-      "name_xhosa": "Hlengiwe",
       "role": "child",
       "image_asset": "/images/character_icons/F1_DAUGHTER_16.svg",
       "Flag if column E has duplicate names": ""
@@ -77,7 +72,6 @@
       "family_no": 1,
       "age": 13,
       "name": "Ayanda",
-      "name_xhosa": "Ayanda",
       "role": "child",
       "image_asset": "/images/character_icons/F1_DAUGHTER_13.svg",
       "Flag if column E has duplicate names": ""
@@ -88,7 +82,6 @@
       "family_no": 1,
       "age": 6,
       "name": "Luyanda",
-      "name_xhosa": "Luyanda",
       "role": "child",
       "image_asset": "/images/character_icons/F1_DAUGHTER_6.svg",
       "Flag if column E has duplicate names": ""
@@ -99,7 +92,6 @@
       "family_no": 1,
       "age": 2,
       "name": "Megan",
-      "name_xhosa": "Megan",
       "role": "child",
       "image_asset": "/images/character_icons/F1_DAUGHTER_2.svg",
       "Flag if column E has duplicate names": ""
@@ -110,7 +102,6 @@
       "family_no": 1,
       "age": 5,
       "name": "Musa",
-      "name_xhosa": "Musa",
       "role": "child",
       "image_asset": "/images/character_icons/F1_SON_15.svg",
       "Flag if column E has duplicate names": ""
@@ -120,8 +111,6 @@
       "caps_id": "F2_GRANDMOTHER",
       "family_no": 2,
       "name": "Blessing",
-      "name_xhosa": "Blessing",
-      "role_name_xhosa": "Gogo",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F2_GRANDMOTHER.svg",
       "Flag if column E has duplicate names": "",
@@ -140,8 +129,6 @@
       "caps_id": "F2_GRANDFATHER",
       "family_no": 2,
       "name": "Bandile",
-      "name_xhosa": "Bandile",
-      "role_name_xhosa": "Mkhulu",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F2_GRANDFATHER.svg",
       "Flag if column E has duplicate names": "",
@@ -161,7 +148,6 @@
       "family_no": 2,
       "age": 17,
       "name": "Lerato",
-      "name_xhosa": "Lerato",
       "role": "child",
       "image_asset": "/images/character_icons/F2_DAUGHTER_19.svg",
       "Flag if column E has duplicate names": ""
@@ -171,7 +157,6 @@
       "caps_id": "F2_SON_15",
       "family_no": 2,
       "name": "Thabo",
-      "name_xhosa": "Thabo",
       "role": "child",
       "image_asset": "/images/character_icons/F2_SON_15.svg",
       "Flag if column E has duplicate names": ""
@@ -182,7 +167,6 @@
       "family_no": 2,
       "age": 8,
       "name": "Tumi",
-      "name_xhosa": "Tumi",
       "role": "child",
       "image_asset": "/images/character_icons/F2_SON_8.svg",
       "Flag if column E has duplicate names": ""
@@ -193,7 +177,6 @@
       "family_no": 2,
       "age": 3,
       "name": "Lethabo",
-      "name_xhosa": "Lethabo",
       "role": "child",
       "image_asset": "/images/character_icons/F2_DAUGHTER_3.svg",
       "Flag if column E has duplicate names": ""
@@ -203,8 +186,6 @@
       "caps_id": "F3_MOTHER",
       "family_no": 3,
       "name": "Thandie",
-      "name_xhosa": "Thandie",
-      "role_name_xhosa": "Mother",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F3_MOTHER.svg",
       "Flag if column E has duplicate names": "",
@@ -223,8 +204,6 @@
       "caps_id": "F3_UNCLE",
       "family_no": 3,
       "name": "Kungawo",
-      "name_xhosa": "Kungawo",
-      "role_name_xhosa": "Malume",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F3_UNCLE.svg",
       "Flag if column E has duplicate names": "",
@@ -244,7 +223,6 @@
       "family_no": 3,
       "age": 12,
       "name": "Nosipho",
-      "name_xhosa": "Nosipho",
       "role": "child",
       "image_asset": "/images/character_icons/F3_DAUGHTER_12.svg",
       "Flag if column E has duplicate names": ""
@@ -255,7 +233,6 @@
       "family_no": 3,
       "age": 7,
       "name": "Nomusa",
-      "name_xhosa": "Nomusa",
       "role": "child",
       "image_asset": "/images/character_icons/F3_DAUGHTER_7.svg",
       "Flag if column E has duplicate names": ""
@@ -266,7 +243,6 @@
       "family_no": 3,
       "age": 4,
       "name": "Sanele",
-      "name_xhosa": "Sanele",
       "role": "child",
       "image_asset": "/images/character_icons/F3_SON_4.svg",
       "Flag if column E has duplicate names": ""
@@ -277,7 +253,6 @@
       "family_no": 4,
       "age": 13,
       "name": "Karabo",
-      "name_xhosa": "Karabo",
       "role": "child",
       "image_asset": "/images/character_icons/F4_DAUGHTER_13.svg",
       "Flag if column E has duplicate names": ""
@@ -287,8 +262,6 @@
       "caps_id": "F4_FATHER",
       "family_no": 4,
       "name": "Khayone",
-      "name_xhosa": "Khayone",
-      "role_name_xhosa": "Father",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F4_FATHER.svg",
       "Flag if column E has duplicate names": "",
@@ -306,15 +279,12 @@
       "id": "f4_aunt",
       "caps_id": "F4_AUNT",
       "family_no": 4,
-      "name": "Aunty Esta",
-      "name_xhosa": "Aunty Esta",
-      "role_name_xhosa": "Aunty Esta"
+      "name": "Aunty Esta"
     },
     {
       "id": "man_in_car",
       "caps_id": "MAN_IN_CAR",
       "name": "Vincent",
-      "name_xhosa": "Vincent",
       "image_asset": "/images/character_icons/MAN_IN_CAR.svg",
       "Flag if column E has duplicate names": ""
     },
@@ -322,7 +292,6 @@
       "id": "boyfriend_1",
       "caps_id": "BOYFRIEND_1",
       "name": "Sibusiso",
-      "name_xhosa": "Sibusiso",
       "image_asset": "/images/character_icons/BOYFRIEND_1.svg",
       "Flag if column E has duplicate names": ""
     },
@@ -330,7 +299,6 @@
       "id": "man_threat",
       "caps_id": "MAN_THREAT",
       "name": "Brian",
-      "name_xhosa": "Brian",
       "image_asset": "/images/character_icons/BOYFRIEND_1.svg",
       "Flag if column E has duplicate names": ""
     },
@@ -338,14 +306,12 @@
       "id": "girlfriend_1",
       "caps_id": "GIRLFRIEND_1",
       "name": "Zonke",
-      "name_xhosa": "Zonke",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "teacher_1",
       "caps_id": "TEACHER_1",
       "name": "Teacher",
-      "name_xhosa": "Teacher",
       "image_asset": "/images/character_icons/TEACHER_1.svg",
       "Flag if column E has duplicate names": ""
     },
@@ -353,7 +319,6 @@
       "id": "friend_female_1",
       "caps_id": "FRIEND_FEMALE_1",
       "name": "Akhona",
-      "name_xhosa": "Akhona",
       "image_asset": "/images/character_icons/FRIEND_FEMALE_1.svg",
       "Flag if column E has duplicate names": ""
     },
@@ -361,21 +326,18 @@
       "id": "friend_female_2",
       "caps_id": "FRIEND_FEMALE_2",
       "name": "Nombuso",
-      "name_xhosa": "Nombuso",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "friend_female_3",
       "caps_id": "FRIEND_FEMALE_3",
       "name": "Lonwando",
-      "name_xhosa": "Lonwando",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "friend_male_1",
       "caps_id": "FRIEND_MALE_1",
       "name": "Lonwabo",
-      "name_xhosa": "Lonwabo",
       "image_asset": "/images/character_icons/FRIEND_MALE_1.svg",
       "Flag if column E has duplicate names": ""
     },
@@ -383,7 +345,6 @@
       "id": "friend_male_2",
       "caps_id": "FRIEND_MALE_2",
       "name": "Pule",
-      "name_xhosa": "Pule",
       "image_asset": "/images/character_icons/FRIEND_MALE_2.svg",
       "Flag if column E has duplicate names": ""
     },
@@ -391,21 +352,18 @@
       "id": "friend_male_3",
       "caps_id": "FRIEND_MALE_3",
       "name": "Rudzani",
-      "name_xhosa": "Rudzani",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "friend_male_4",
       "caps_id": "FRIEND_MALE_4",
       "name": "Buhle",
-      "name_xhosa": "Buhle",
       "Flag if column E has duplicate names": "Duplicate"
     },
     {
       "id": "media_male_1",
       "caps_id": "MEDIA_MALE_1",
       "name": "Thato",
-      "name_xhosa": "Thato",
       "Media Details  (Teens)": "Selfcare_t (caregiver & teens)",
       "Media Details  (YC)": "selfcare",
       "Flag if column E has duplicate names": ""
@@ -414,21 +372,18 @@
       "id": "media_male_2",
       "caps_id": "MEDIA_MALE_2",
       "name": "Sbusiso",
-      "name_xhosa": "Sbusiso",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_male_3",
       "caps_id": "MEDIA_MALE_3",
       "name": "Katlego",
-      "name_xhosa": "Katlego",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_female_1",
       "caps_id": "MEDIA_FEMALE_1",
       "name": "Lindiwe",
-      "name_xhosa": "Lindiwe",
       "Media Details  (Teens)": "1on1_t",
       "Media Details  (YC)": "1on1",
       "Flag if column E has duplicate names": ""
@@ -437,7 +392,6 @@
       "id": "media_female_2",
       "caps_id": "MEDIA_FEMALE_2",
       "name": "Buhle",
-      "name_xhosa": "Buhle",
       "Media Details  (Teens)": "Praise_t",
       "Media Details  (YC)": "praise",
       "Flag if column E has duplicate names": "Duplicate"
@@ -446,7 +400,6 @@
       "id": "media_female_3",
       "caps_id": "MEDIA_FEMALE_3",
       "name": "Khanyiswa",
-      "name_xhosa": "Khanyiswa",
       "Media Details  (Teens)": "instructions_t",
       "Flag if column E has duplicate names": ""
     },
@@ -454,7 +407,6 @@
       "id": "media_female_4",
       "caps_id": "MEDIA_FEMALE_4",
       "name": "Anele",
-      "name_xhosa": "Anele",
       "Media Details  (Teens)": "stress_t",
       "Flag if column E has duplicate names": ""
     },
@@ -462,7 +414,6 @@
       "id": "media_female_5",
       "caps_id": "MEDIA_FEMALE_5",
       "name": "Elna",
-      "name_xhosa": "Elna",
       "Media Details  (Teens)": "problemsolving_t",
       "Flag if column E has duplicate names": ""
     },
@@ -470,7 +421,6 @@
       "id": "media_female_6",
       "caps_id": "MEDIA_FEMALE_6",
       "name": "Amahle",
-      "name_xhosa": "Amahle",
       "Media Details  (Teens)": "money_t",
       "Flag if column E has duplicate names": ""
     },
@@ -478,7 +428,6 @@
       "id": "media_female_7",
       "caps_id": "MEDIA_FEMALE_7",
       "name": "Nceba",
-      "name_xhosa": "Nceba",
       "Media Details  (Teens)": "rules_t",
       "Flag if column E has duplicate names": ""
     },
@@ -486,7 +435,6 @@
       "id": "media_female_8",
       "caps_id": "MEDIA_FEMALE_8",
       "name": "Sisipho",
-      "name_xhosa": "Sisipho",
       "Media Details  (Teens)": "Safety_t",
       "Media Details  (YC)": "feelings",
       "Flag if column E has duplicate names": ""
@@ -495,7 +443,6 @@
       "id": "media_female_9",
       "caps_id": "MEDIA_FEMALE_9",
       "name": "Marli",
-      "name_xhosa": "Marli",
       "Media Details  (Teens)": "crisis_t",
       "Flag if column E has duplicate names": ""
     },
@@ -503,7 +450,6 @@
       "id": "media_female_10",
       "caps_id": "MEDIA_FEMALE_10",
       "name": "Masego",
-      "name_xhosa": "Masego",
       "Media Details  (Teens)": "srh_t",
       "Flag if column E has duplicate names": ""
     },
@@ -511,7 +457,6 @@
       "id": "media_female_11",
       "caps_id": "MEDIA_FEMALE_11",
       "name": "Lesedi",
-      "name_xhosa": "Lesedi",
       "Media Details  (Teens)": "stayingsafe_t",
       "Flag if column E has duplicate names": ""
     },
@@ -519,7 +464,6 @@
       "id": "media_female_12",
       "caps_id": "MEDIA_FEMALE_12",
       "name": "Thando",
-      "name_xhosa": "Thando",
       "Media Details  (Teens)": "grief_t",
       "Flag if column E has duplicate names": ""
     },
@@ -527,7 +471,6 @@
       "id": "media_female_13",
       "caps_id": "MEDIA_FEMALE_13",
       "name": "Sbo",
-      "name_xhosa": "Sbo",
       "Media Details  (Teens)": "consequences_t",
       "Flag if column E has duplicate names": ""
     },
@@ -535,7 +478,6 @@
       "id": "media_female_14",
       "caps_id": "MEDIA_FEMALE_14",
       "name": "Lindelwa",
-      "name_xhosa": "Lindelwa",
       "Media Details  (Teens)": "learn_t",
       "Media Details  (YC)": "child development",
       "Flag if column E has duplicate names": ""
@@ -544,7 +486,6 @@
       "id": "media_son_1",
       "caps_id": "MEDIA_SON_1",
       "name": "Alex",
-      "name_xhosa": "Alex",
       "Media Details  (Teens)": "problemsolving_t",
       "Flag if column E has duplicate names": ""
     },
@@ -552,7 +493,6 @@
       "id": "media_son_2",
       "caps_id": "MEDIA_SON_2",
       "name": "Junior",
-      "name_xhosa": "Junior",
       "Media Details  (Teens)": "stress_t",
       "Flag if column E has duplicate names": ""
     },
@@ -560,21 +500,18 @@
       "id": "media_son_3",
       "caps_id": "MEDIA_SON_3",
       "name": "Mpho",
-      "name_xhosa": "Mpho",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_son_4",
       "caps_id": "MEDIA_SON_4",
       "name": "Loyiso",
-      "name_xhosa": "Loyiso",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_daughter_1",
       "caps_id": "MEDIA_DAUGHTER_1",
       "name": "Khwezi",
-      "name_xhosa": "Khwezi",
       "Media Details  (Teens)": "1on1_t",
       "Flag if column E has duplicate names": ""
     },
@@ -582,7 +519,6 @@
       "id": "media_daughter_2",
       "caps_id": "MEDIA_DAUGHTER_2",
       "name": "Thuli",
-      "name_xhosa": "Thuli",
       "Media Details  (Teens)": "praise_t",
       "Flag if column E has duplicate names": ""
     },
@@ -590,7 +526,6 @@
       "id": "media_daughter_3",
       "caps_id": "MEDIA_DAUGHTER_3",
       "name": "Asive",
-      "name_xhosa": "Asive",
       "Media Details  (Teens)": "instructiosn_t",
       "Flag if column E has duplicate names": ""
     },
@@ -598,7 +533,6 @@
       "id": "media_daughter_4",
       "caps_id": "MEDIA_DAUGHTER_4",
       "name": "Zama",
-      "name_xhosa": "Zama",
       "Media Details  (Teens)": "Budget_t",
       "Flag if column E has duplicate names": ""
     },
@@ -606,7 +540,6 @@
       "id": "media_daughter_5",
       "caps_id": "MEDIA_DAUGHTER_5",
       "name": "Minenhle",
-      "name_xhosa": "Minenhle",
       "Media Details  (Teens)": "Rules_t",
       "Flag if column E has duplicate names": ""
     },
@@ -614,7 +547,6 @@
       "id": "media_daughter_6",
       "caps_id": "MEDIA_DAUGHTER_6",
       "name": "Iminathi",
-      "name_xhosa": "Iminathi",
       "Media Details  (Teens)": "Consequences_t",
       "Flag if column E has duplicate names": ""
     },
@@ -622,7 +554,6 @@
       "id": "media_daughter_7",
       "caps_id": "MEDIA_DAUGHTER_7",
       "name": "Beauty",
-      "name_xhosa": "Beauty",
       "Media Details  (Teens)": "safety_t",
       "Flag if column E has duplicate names": "Duplicate"
     },
@@ -630,7 +561,6 @@
       "id": "media_daughter_8",
       "caps_id": "MEDIA_DAUGHTER_8",
       "name": "Babalwa",
-      "name_xhosa": "Babalwa",
       "Media Details  (Teens)": "srh_t",
       "Flag if column E has duplicate names": ""
     },
@@ -638,7 +568,6 @@
       "id": "media_daughter_9",
       "caps_id": "MEDIA_DAUGHTER_9",
       "name": "Bongani",
-      "name_xhosa": "Bongani",
       "Media Details  (Teens)": "stayingsafe_t",
       "Flag if column E has duplicate names": ""
     },
@@ -646,7 +575,6 @@
       "id": "media_daughter_10",
       "caps_id": "MEDIA_DAUGHTER_10",
       "name": "Lulama",
-      "name_xhosa": "Lulama",
       "Media Details  (Teens)": "grief",
       "Flag if column E has duplicate names": "Duplicate"
     },
@@ -654,7 +582,6 @@
       "id": "media_daughter_11",
       "caps_id": "MEDIA_DAUGHTER_11",
       "name": "Anathi",
-      "name_xhosa": "Anathi",
       "Media Details  (Teens)": "learn_t",
       "Flag if column E has duplicate names": ""
     },
@@ -662,18 +589,16 @@
       "id": "media_daughter_12",
       "caps_id": "MEDIA_DAUGHTER_12",
       "name": "Aphiwe",
-      "name_xhosa": "Aphiwe",
       "Media Details  (Teens)": "crisis_t",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "doll_name",
       "caps_id": "DOLL_NAME",
-      "name": "Beauty",
-      "name_xhosa": "Beauty"
+      "name": "Beauty"
     }
   ],
-  "_xlsxPath": "data/ZA characters.xlsx",
+  "_xlsxPath": "data/TZ characters.xlsx",
   "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
   "_metadata": {
     "family_no": {

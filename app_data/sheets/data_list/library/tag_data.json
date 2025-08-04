@@ -6,18 +6,6 @@
   "flow_subtype": "library",
   "rows": [
     {
-      "id": "yc",
-      "title": "Parents of Young Children",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Parents of Young Children"
-        }
-      }
-    },
-    {
       "id": "teens",
       "title": "Parents of Teens",
       "_translations": {
@@ -30,6 +18,6 @@
       }
     }
   ],
-  "_xlsxPath": "data/ZA library articles.xlsx",
+  "_xlsxPath": "data/TZ library articles.xlsx",
   "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
 }

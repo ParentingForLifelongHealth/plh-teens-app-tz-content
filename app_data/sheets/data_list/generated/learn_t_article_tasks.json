@@ -31,6 +31,7 @@
     },
     {
       "id": "check_in_2",
+      "attached_single_doc": "https://docs.google.com/document/d/1weBDi-7Z101TP408tO48rWUM3m75TIrW5KMnEDOeB9c",
       "_translatedFields": {
         "text_1": {
           "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
@@ -61,7 +62,6 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "text_1": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
       "_translations": {
         "text_1": {
@@ -100,6 +100,7 @@
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/learn_intro_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today's topic is about helping your teen learn.\n\nDid you know that spending one-on-one time with your teen can help them do better at school? Today we will share some ideas to help you make the most of your time together."
@@ -112,7 +113,6 @@
         }
       },
       "category_id": "intro",
-      "attached_single_doc": "https://docs.google.com/document/d/1lUXbshMAzomgvXs9Tnz1p-sa7ht6BYVFyA41INphIzY",
       "text_1_facilitator": "Today's topic is about helping your teen learn.\n\nDid you know that spending one-on-one time with your teen can help them do better at school? Today we will share some ideas to help you make the most of your time together.",
       "_translations": {
         "text_1_facilitator": {},

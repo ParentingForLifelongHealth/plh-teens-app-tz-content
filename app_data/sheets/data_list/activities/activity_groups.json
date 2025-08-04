@@ -7,6 +7,7 @@
   "rows": [
     {
       "id": "quick",
+      "attached_single_doc": "https://docs.google.com/document/d/1SYYrO7N77VTb4QOWYMuneHczCU_DbL0gvGlK7btRBsI",
       "title": "Quick",
       "_translations": {
         "title": {}
@@ -56,6 +57,6 @@
       }
     }
   ],
-  "_xlsxPath": "data/ZA activities.xlsx",
+  "_xlsxPath": "data/TZ activities.xlsx",
   "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
 }

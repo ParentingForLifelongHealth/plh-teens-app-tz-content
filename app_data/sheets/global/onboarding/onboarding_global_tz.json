@@ -1,7 +1,7 @@
 {
   "flow_type": "global",
   "flow_subtype": "onboarding",
-  "flow_name": "onboarding_global_za",
+  "flow_name": "onboarding_global_tz",
   "status": "released",
   "rows": [
     {
@@ -202,6 +202,6 @@
       }
     }
   ],
-  "_xlsxPath": "data/ZA onboarding.xlsx",
+  "_xlsxPath": "data/TZ onboarding.xlsx",
   "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
 }

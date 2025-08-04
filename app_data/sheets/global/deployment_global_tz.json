@@ -1,9 +1,9 @@
 {
   "flow_type": "global",
-  "flow_name": "deployment_global_za",
+  "flow_name": "deployment_global_tz",
   "status": "released",
   "override_target": "deployment_global",
-  "override_condition": "@fields._deployment_name == \"plh_kids_teens_za\"",
+  "override_condition": "@fields._deployment_name == \"plh_teens_tz\"",
   "rows": [
     {
       "type": "declare_global_constant",
@@ -18,7 +18,7 @@
     {
       "type": "declare_global_constant",
       "name": "app_name_full",
-      "value": "ParentApp South Africa",
+      "value": "ParentApp Tanzania",
       "_translations": {
         "value": {}
       }
@@ -122,6 +122,6 @@
       "exclude_from_translation": true
     }
   ],
-  "_xlsxPath": "data/deployment_data_za.xlsx",
+  "_xlsxPath": "data/deployment_data_tz.xlsx",
   "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
 }

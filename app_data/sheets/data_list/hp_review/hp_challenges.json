@@ -6,111 +6,6 @@
   "flow_subtype": "hp_review",
   "rows": [
     {
-      "id": "oneononetime",
-      "challenge_1_tag_list": [
-        "no"
-      ],
-      "challenge_2_tag_list": [
-        "no"
-      ],
-      "challenge_5_tag_list": [
-        "yes"
-      ],
-      "challenge_3_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_4_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_6_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_7_tag_list": [
-        "yes",
-        "no"
-      ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
-      "text_challenge_1": "I did not have enough time",
-      "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "question_text": {},
-        "top_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_challenge_1": {
-          "eng": "I did not have enough time"
-        },
-        "reply_challenge_1": {
-          "eng": "It can be hard to find time with work, chores, and everything else.\n\nTry to find 5 minutes during moments you already share with your child – like school runs, wake-ups, or during bedtime.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App."
-        },
-        "text_challenge_2": {
-          "eng": "My child did not want to spend one-on-one time with me"
-        },
-        "reply_challenge_2": {
-          "eng": "It can hurt when your child does not want to spend one-on-one time with you.\n\nThink to yourself: When are they more open to you? In the morning? Right before bedtime?\n\nTry again so that your child can see that you care and want to spend this time with them."
-        },
-        "text_challenge_3": {
-          "eng": "All my child wanted to do was watch T.V. or play with a gadget"
-        },
-        "reply_challenge_3": {
-          "eng": "Children often want to spend time watching T.V. or playing with a gadget.\n\nYou could watch or play on the gadget with them – showing interest is a great first step!\n\nOnce you begin spending time together you can suggest another activity.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App."
-        },
-        "text_challenge_4": {
-          "eng": "My child wanted to do activities that I could not physically do"
-        },
-        "reply_challenge_4": {
-          "eng": "If your child wants to do things that are too difficult for you to do, you could watch them.\n\nYou could describe what they are doing like a sports announcer.\n\nYou can also show enthusiasm by clapping, smiling, or offering a thumbs-up.\n\nPraise them while they do it!"
-        },
-        "text_challenge_5": {
-          "eng": "My child chose a competitive activity. I won and then they got angry"
-        },
-        "reply_challenge_5": {
-          "eng": "Competitive games can be tough if your child doesn’t like losing.\n\nOnce they’ve calmed down, talk about what it means to win or lose kindly.\n\nTry suggesting activities where you work together instead of compete.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App."
-        },
-        "text_challenge_6": {
-          "eng": "All my children wanted one-on-one time at the same time"
-        },
-        "reply_challenge_6": {
-          "eng": "It can be hard to find time with work, chores, and everything else.\n\nTry to find 5 minutes during moments you already share with your child — like school runs, wake-ups, or during bedtime.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App."
-        },
-        "question_text": {
-          "eng": "What challenges did you experience?"
-        },
-        "top_text": {
-          "eng": "Challenges other parents experience:"
-        }
-      },
-      "reply_challenge_1": "It can be hard to find time with work, chores, and everything else.\n\nTry to find 5 minutes during moments you already share with your child – like school runs, wake-ups, or during bedtime.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App.",
-      "text_challenge_2": "My child did not want to spend one-on-one time with me",
-      "reply_challenge_2": "It can hurt when your child does not want to spend one-on-one time with you.\n\nThink to yourself: When are they more open to you? In the morning? Right before bedtime?\n\nTry again so that your child can see that you care and want to spend this time with them.",
-      "text_challenge_3": "All my child wanted to do was watch T.V. or play with a gadget",
-      "reply_challenge_3": "Children often want to spend time watching T.V. or playing with a gadget.\n\nYou could watch or play on the gadget with them – showing interest is a great first step!\n\nOnce you begin spending time together you can suggest another activity.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App.",
-      "text_challenge_4": "My child wanted to do activities that I could not physically do",
-      "reply_challenge_4": "If your child wants to do things that are too difficult for you to do, you could watch them.\n\nYou could describe what they are doing like a sports announcer.\n\nYou can also show enthusiasm by clapping, smiling, or offering a thumbs-up.\n\nPraise them while they do it!",
-      "text_challenge_5": "My child chose a competitive activity. I won and then they got angry",
-      "reply_challenge_5": "Competitive games can be tough if your child doesn’t like losing.\n\nOnce they’ve calmed down, talk about what it means to win or lose kindly.\n\nTry suggesting activities where you work together instead of compete.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App.",
-      "text_challenge_6": "All my children wanted one-on-one time at the same time",
-      "reply_challenge_6": "It can be hard to find time with work, chores, and everything else.\n\nTry to find 5 minutes during moments you already share with your child — like school runs, wake-ups, or during bedtime.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App.",
-      "question_text": "What challenges did you experience?",
-      "top_text": "Challenges other parents experience:"
-    },
-    {
       "id": "oneononetime_t",
       "challenge_1_tag_list": [
         "no"
@@ -138,7 +33,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I did not have enough time",
       "_translations": {
         "text_challenge_1": {},
@@ -217,199 +112,6 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "feelings",
-      "challenge_1_tag_list": [
-        "no"
-      ],
-      "challenge_2_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_3_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_4_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_5_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_6_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_7_tag_list": [
-        "yes",
-        "no"
-      ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
-      "text_challenge_1": "I did not have enough time",
-      "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "question_text": {},
-        "top_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_challenge_1": {
-          "eng": "I did not have enough time"
-        },
-        "reply_challenge_1": {
-          "eng": "It’s okay! Life gets busy. Try setting aside just 5 minutes at the same time every day. \n\nYou’re doing great by making the effort to connect!"
-        },
-        "text_challenge_2": {
-          "eng": "My child did not want to share their feelings"
-        },
-        "reply_challenge_2": {
-          "eng": "It’s normal for children to feel shy about sharing feelings, especially at first.\n\nKeep being patient and give them chances to talk. You’re doing well by showing them how – like saying, “I feel happy!”"
-        },
-        "text_challenge_3": {
-          "eng": "I felt uncomfortable talking about my feelings"
-        },
-        "reply_challenge_3": {
-          "eng": "It’s okay to feel that way! Start small and use ‘I feel…’ to ease into it.\n\nYou’re taking a brave step in being open, and that’s something to be proud of!"
-        },
-        "text_challenge_4": {
-          "eng": "Others in the household don’t think it’s a good idea to talk about emotions"
-        },
-        "reply_challenge_4": {
-          "eng": "It’s okay if not everyone agrees at first.\n\nTry talking with them about why it might help, and gently encourage them to give it a try.\n\nYou’re doing something important by supporting open communication!"
-        },
-        "text_challenge_5": {
-          "eng": "Others in the household don’t think it’s a good idea to talk about negative emotions"
-        },
-        "reply_challenge_5": {
-          "eng": "It’s okay to feel unsure about this.\n\nYou can explain that talking about sad or angry feelings helps us feel better and brings us closer to others. Encourage them to give it a try.\n\nYou’re showing care by helping your child understand their feelings."
-        },
-        "text_challenge_6": {
-          "eng": "I don’t know how to name some of the feelings I am experiencing"
-        },
-        "reply_challenge_6": {
-          "eng": "That’s okay! It can be hard to find the right words.\n\nTry combining the names of emotions you do know. \n\nYou’re doing a great job by simply acknowledging your feelings!"
-        },
-        "question_text": {
-          "eng": "What challenges did you experience?"
-        },
-        "top_text": {
-          "eng": "Challenges other parents experience:"
-        }
-      },
-      "reply_challenge_1": "It’s okay! Life gets busy. Try setting aside just 5 minutes at the same time every day. \n\nYou’re doing great by making the effort to connect!",
-      "text_challenge_2": "My child did not want to share their feelings",
-      "reply_challenge_2": "It’s normal for children to feel shy about sharing feelings, especially at first.\n\nKeep being patient and give them chances to talk. You’re doing well by showing them how – like saying, “I feel happy!”",
-      "text_challenge_3": "I felt uncomfortable talking about my feelings",
-      "reply_challenge_3": "It’s okay to feel that way! Start small and use ‘I feel…’ to ease into it.\n\nYou’re taking a brave step in being open, and that’s something to be proud of!",
-      "text_challenge_4": "Others in the household don’t think it’s a good idea to talk about emotions",
-      "reply_challenge_4": "It’s okay if not everyone agrees at first.\n\nTry talking with them about why it might help, and gently encourage them to give it a try.\n\nYou’re doing something important by supporting open communication!",
-      "text_challenge_5": "Others in the household don’t think it’s a good idea to talk about negative emotions",
-      "reply_challenge_5": "It’s okay to feel unsure about this.\n\nYou can explain that talking about sad or angry feelings helps us feel better and brings us closer to others. Encourage them to give it a try.\n\nYou’re showing care by helping your child understand their feelings.",
-      "text_challenge_6": "I don’t know how to name some of the feelings I am experiencing",
-      "reply_challenge_6": "That’s okay! It can be hard to find the right words.\n\nTry combining the names of emotions you do know. \n\nYou’re doing a great job by simply acknowledging your feelings!",
-      "question_text": "What challenges did you experience?",
-      "top_text": "Challenges other parents experience:"
-    },
-    {
-      "id": "praise",
-      "challenge_1_tag_list": [
-        "no"
-      ],
-      "challenge_3_tag_list": [
-        "yes"
-      ],
-      "challenge_2_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_4_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_5_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_6_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_7_tag_list": [
-        "yes",
-        "no"
-      ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
-      "text_challenge_1": "I forgot to do the activity",
-      "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "question_text": {},
-        "top_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_challenge_1": {
-          "eng": "I forgot to do the activity"
-        },
-        "reply_challenge_1": {
-          "eng": "Many parents face this. It can be difficult to spend one-on-one time with our teens when we have more than one child.\n\nYou can also spend time with all your children together — just make sure everyone can join in.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App."
-        },
-        "text_challenge_2": {
-          "eng": "My child was surprised or suspicious"
-        },
-        "reply_challenge_2": {
-          "eng": "Remember, it takes some time for your child to get used to seeing you praise them. The more time you spend with them, the better it will go!"
-        },
-        "text_challenge_3": {
-          "eng": "My child did not like it"
-        },
-        "reply_challenge_3": {
-          "eng": "It happens – just be patient. Try to remember to ask your child to decide what activity they would like to do with you. This will make it more likely that they enjoy the activity too."
-        },
-        "text_challenge_4": {
-          "eng": "It felt unnatural"
-        },
-        "reply_challenge_4": {
-          "eng": "That’s completely normal. If you’re not used to giving praise, it can feel strange at first. Start with something simple, like “Thanks for helping with that.” \n\nThe more you praise, the easier it becomes — and it really helps build your child's confidence."
-        },
-        "question_text": {
-          "eng": "What challenges did you experience?"
-        },
-        "top_text": {
-          "eng": "Challenges other parents experience:"
-        }
-      },
-      "reply_challenge_1": "Many parents face this. It can be difficult to spend one-on-one time with our teens when we have more than one child.\n\nYou can also spend time with all your children together — just make sure everyone can join in.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App.",
-      "text_challenge_2": "My child was surprised or suspicious",
-      "reply_challenge_2": "Remember, it takes some time for your child to get used to seeing you praise them. The more time you spend with them, the better it will go!",
-      "text_challenge_3": "My child did not like it",
-      "reply_challenge_3": "It happens – just be patient. Try to remember to ask your child to decide what activity they would like to do with you. This will make it more likely that they enjoy the activity too.",
-      "text_challenge_4": "It felt unnatural",
-      "reply_challenge_4": "That’s completely normal. If you’re not used to giving praise, it can feel strange at first. Start with something simple, like “Thanks for helping with that.” \n\nThe more you praise, the easier it becomes — and it really helps build your child's confidence.",
-      "question_text": "What challenges did you experience?",
-      "top_text": "Challenges other parents experience:"
-    },
-    {
       "id": "praise_t",
       "challenge_1_tag_list": [
         "no"
@@ -437,7 +139,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I forgot to do the activity",
       "_translations": {
         "text_challenge_1": {},
@@ -502,295 +204,6 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "instructions",
-      "challenge_1_tag_list": [
-        "no"
-      ],
-      "challenge_2_tag_list": [
-        "yes"
-      ],
-      "challenge_3_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_4_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_5_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_6_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_7_tag_list": [
-        "yes",
-        "no"
-      ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
-      "text_challenge_1": "I forgot to do the activity",
-      "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "question_text": {},
-        "top_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_challenge_1": {
-          "eng": "I forgot to do the activity"
-        },
-        "reply_challenge_1": {
-          "eng": "It can be really hard to find time during the day, with work, chores, and everything else. You're doing great, try to do it when you can!"
-        },
-        "text_challenge_2": {
-          "eng": "My child did not follow my instructions even when I used the tips"
-        },
-        "reply_challenge_2": {
-          "eng": "Children need time to learn to follow instructions. Be patient. Try again. Remember to praise them every time they follow an instruction."
-        },
-        "text_challenge_3": {
-          "eng": "It is hard to remember to use positive words when giving instructions"
-        },
-        "reply_challenge_3": {
-          "eng": "This is difficult to remember for everyone at first! Try to take a breath before giving an instruction. Also, remember to be gentle with yourself when you forget. It happens to everyone!"
-        },
-        "text_challenge_4": {
-          "eng": "I shouted at my child when they behaved negatively instead of giving them a positive instruction for what they should do"
-        },
-        "reply_challenge_4": {
-          "eng": "It’s difficult to give instructions in a calm way when we are still angry. Try to find a time when you are calm or to use a calming strategy like Take a Pause before you introduce a positive instruction."
-        },
-        "question_text": {
-          "eng": "What challenges did you experience?"
-        },
-        "top_text": {
-          "eng": "Challenges other parents experience:"
-        }
-      },
-      "reply_challenge_1": "It can be really hard to find time during the day, with work, chores, and everything else. You're doing great, try to do it when you can!",
-      "text_challenge_2": "My child did not follow my instructions even when I used the tips",
-      "reply_challenge_2": "Children need time to learn to follow instructions. Be patient. Try again. Remember to praise them every time they follow an instruction.",
-      "text_challenge_3": "It is hard to remember to use positive words when giving instructions",
-      "reply_challenge_3": "This is difficult to remember for everyone at first! Try to take a breath before giving an instruction. Also, remember to be gentle with yourself when you forget. It happens to everyone!",
-      "text_challenge_4": "I shouted at my child when they behaved negatively instead of giving them a positive instruction for what they should do",
-      "reply_challenge_4": "It’s difficult to give instructions in a calm way when we are still angry. Try to find a time when you are calm or to use a calming strategy like Take a Pause before you introduce a positive instruction.",
-      "question_text": "What challenges did you experience?",
-      "top_text": "Challenges other parents experience:"
-    },
-    {
-      "id": "rulesroutines",
-      "challenge_1_tag_list": [
-        "no"
-      ],
-      "challenge_5_tag_list": [
-        "yes"
-      ],
-      "challenge_2_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_3_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_4_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_6_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_7_tag_list": [
-        "yes",
-        "no"
-      ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
-      "text_challenge_1": "I forgot to do the activity",
-      "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "question_text": {},
-        "top_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_challenge_1": {
-          "eng": "I forgot to do the activity"
-        },
-        "reply_challenge_1": {
-          "eng": "That is okay. Some days are full and we forget things. When you have a bit of time, you can try it then. Every time you practise, it helps."
-        },
-        "text_challenge_2": {
-          "eng": "My child could not agree on one specific rule or routine"
-        },
-        "reply_challenge_2": {
-          "eng": "When creating rules, it is important to think about the age of each child so you can come up with routines that are fair for their age.\n\nThis is most important for bedtime, the time to come home, and household chores.\n\nTry to agree on a small and meaningful incentive that can motivate your child to follow the rule. Consider options like playing a 15-minute board game with the family, choosing the food for the day, or enjoying a 30-minute trip to the park.\n\nWhat other ideas come to mind?"
-        },
-        "text_challenge_3": {
-          "eng": "My child felt it was unfair that they had to follow the rule while I didn’t have to follow it"
-        },
-        "reply_challenge_3": {
-          "eng": "Our children learn best from us.\n\nThe more we follow the rules, the more they will follow the rules too.\n\nYou can adapt the rule to make sure that it is something everyone can follow."
-        },
-        "text_challenge_4": {
-          "eng": "I felt uncomfortable because I think an adult should create the rule, not my child"
-        },
-        "reply_challenge_4": {
-          "eng": "When we create rules together with our children, we build trust and an open relationship with them.\n\nThe rules we set will be more realistic and your child will be more willing and able to follow the rules.\n\nThink about the valuable lessons you’ll be teaching Your Child, such as working together and taking initiative."
-        },
-        "text_challenge_5": {
-          "eng": "We were not able to stick to the rule"
-        },
-        "reply_challenge_5": {
-          "eng": "The rule needs to be specific and realistic. Make sure to have a rule that can be kept easily, like having one meal together every Sunday instead of every night. Do you need to be more flexible about the rules?"
-        },
-        "question_text": {
-          "eng": "What challenges did you experience?"
-        },
-        "top_text": {
-          "eng": "Challenges other parents experience:"
-        }
-      },
-      "reply_challenge_1": "That is okay. Some days are full and we forget things. When you have a bit of time, you can try it then. Every time you practise, it helps.",
-      "text_challenge_2": "My child could not agree on one specific rule or routine",
-      "reply_challenge_2": "When creating rules, it is important to think about the age of each child so you can come up with routines that are fair for their age.\n\nThis is most important for bedtime, the time to come home, and household chores.\n\nTry to agree on a small and meaningful incentive that can motivate your child to follow the rule. Consider options like playing a 15-minute board game with the family, choosing the food for the day, or enjoying a 30-minute trip to the park.\n\nWhat other ideas come to mind?",
-      "text_challenge_3": "My child felt it was unfair that they had to follow the rule while I didn’t have to follow it",
-      "reply_challenge_3": "Our children learn best from us.\n\nThe more we follow the rules, the more they will follow the rules too.\n\nYou can adapt the rule to make sure that it is something everyone can follow.",
-      "text_challenge_4": "I felt uncomfortable because I think an adult should create the rule, not my child",
-      "reply_challenge_4": "When we create rules together with our children, we build trust and an open relationship with them.\n\nThe rules we set will be more realistic and your child will be more willing and able to follow the rules.\n\nThink about the valuable lessons you’ll be teaching Your Child, such as working together and taking initiative.",
-      "text_challenge_5": "We were not able to stick to the rule",
-      "reply_challenge_5": "The rule needs to be specific and realistic. Make sure to have a rule that can be kept easily, like having one meal together every Sunday instead of every night. Do you need to be more flexible about the rules?",
-      "question_text": "What challenges did you experience?",
-      "top_text": "Challenges other parents experience:"
-    },
-    {
-      "id": "consequences",
-      "challenge_2_tag_list": [
-        "yes"
-      ],
-      "challenge_5_tag_list": [
-        "yes"
-      ],
-      "challenge_6_tag_list": [
-        "yes"
-      ],
-      "challenge_1_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_3_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_4_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_7_tag_list": [
-        "yes",
-        "no"
-      ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
-      "text_challenge_1": "I got very angry when my child broke the rule",
-      "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {
-          "tz_sw": true
-        },
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "question_text": {},
-        "top_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_challenge_1": {
-          "eng": "I got very angry when my child broke the rule"
-        },
-        "reply_challenge_1": {
-          "eng": "When we take a pause before responding, it helps us to calm down and respond better. \n\nNext time your child makes you angry, try to take a pause first. Even a few deep breaths can make a big difference!"
-        },
-        "text_challenge_2": {
-          "eng": "My child got very angry with me after I gave the consequence"
-        },
-        "reply_challenge_2": {
-          "eng": "Try talking to them about why the rule is important to follow. You can also discuss the consequence with them, so that they feel it is fair and realistic."
-        },
-        "text_challenge_3": {
-          "eng": "I introduced the consequence without first discussing it with my child"
-        },
-        "reply_challenge_3": {
-          "eng": "Can you create a consequence if this happens again? When we establish a consequence together with our child, the consequence will be more realistic, and our child will be more willing and able to follow the rule."
-        },
-        "text_challenge_4": {
-          "eng": "I forgot to follow through with the consequence"
-        },
-        "reply_challenge_4": {
-          "eng": "We all make mistakes! The more consistent we are with our consequences, the more likely our children will choose to behave positively in the future."
-        },
-        "text_challenge_5": {
-          "eng": "Even with the consequence, my child still does not follow the rule"
-        },
-        "reply_challenge_5": {
-          "eng": "If your child keeps breaking rules, you might need to spend more positive time with them. \n\nTry to keep going with your other goals — like self-care, one-on-one time, and praise. All these skills will help your child feel more loved and secure… and you, less stressed!"
-        },
-        "text_challenge_6": {
-          "eng": "My child suggested being hit as a negative consequence"
-        },
-        "reply_challenge_6": {
-          "eng": "Children can be used to seeing hitting as the only possible consequence for breaking rules. \n\nBrainstorm some calm consequences with them that could help them understand that they have done something wrong. These will be more effective and will set positive examples!"
-        },
-        "question_text": {
-          "eng": "What challenges did you experience?"
-        },
-        "top_text": {
-          "eng": "Challenges other parents experience:"
-        }
-      },
-      "reply_challenge_1": "When we take a pause before responding, it helps us to calm down and respond better. \n\nNext time your child makes you angry, try to take a pause first. Even a few deep breaths can make a big difference!",
-      "text_challenge_2": "My child got very angry with me after I gave the consequence",
-      "reply_challenge_2": "Try talking to them about why the rule is important to follow. You can also discuss the consequence with them, so that they feel it is fair and realistic.",
-      "text_challenge_3": "I introduced the consequence without first discussing it with my child",
-      "reply_challenge_3": "Can you create a consequence if this happens again? When we establish a consequence together with our child, the consequence will be more realistic, and our child will be more willing and able to follow the rule.",
-      "text_challenge_4": "I forgot to follow through with the consequence",
-      "reply_challenge_4": "We all make mistakes! The more consistent we are with our consequences, the more likely our children will choose to behave positively in the future.",
-      "text_challenge_5": "Even with the consequence, my child still does not follow the rule",
-      "reply_challenge_5": "If your child keeps breaking rules, you might need to spend more positive time with them. \n\nTry to keep going with your other goals — like self-care, one-on-one time, and praise. All these skills will help your child feel more loved and secure… and you, less stressed!",
-      "text_challenge_6": "My child suggested being hit as a negative consequence",
-      "reply_challenge_6": "Children can be used to seeing hitting as the only possible consequence for breaking rules. \n\nBrainstorm some calm consequences with them that could help them understand that they have done something wrong. These will be more effective and will set positive examples!",
-      "question_text": "What challenges did you experience?",
-      "top_text": "Challenges other parents experience:"
-    },
-    {
       "id": "consequences_t",
       "challenge_2_tag_list": [
         "yes"
@@ -817,7 +230,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I got very angry when my teen broke the rules",
       "_translations": {
         "text_challenge_1": {},
@@ -898,104 +311,6 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "problemsolving",
-      "challenge_2_tag_list": [
-        "yes"
-      ],
-      "challenge_4_tag_list": [
-        "no"
-      ],
-      "challenge_1_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_3_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_5_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_6_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_7_tag_list": [
-        "yes",
-        "no"
-      ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
-      "text_challenge_1": "I forgot the steps of problem-solving",
-      "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {
-          "tz_sw": true
-        },
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "question_text": {},
-        "top_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_challenge_1": {
-          "eng": "I forgot the steps of problem-solving"
-        },
-        "reply_challenge_1": {
-          "eng": "It takes some practice to use all four steps of problem-solving. Next time a problem comes up, look at the four steps together with your child — it will make a big difference!"
-        },
-        "text_challenge_2": {
-          "eng": "I started with the solutions right away"
-        },
-        "reply_challenge_2": {
-          "eng": "When we have a problem, we often want to get to the quickest end result and can forget about the steps. \n\nTo come up with the best solution together, it is helpful to first have a full understanding of the problem and the different solutions."
-        },
-        "text_challenge_3": {
-          "eng": "We could not agree on a solution to try out and we got into an argument"
-        },
-        "reply_challenge_3": {
-          "eng": "Sometimes it can be difficult to agree with everyone in the family, especially if everyone is not calm. \n\nYou can try one solution first, then try another if needed. If things get stuck, take a break and come back later to decide together."
-        },
-        "text_challenge_4": {
-          "eng": "It takes some practice to use all four steps of problem-solving. Next time a problem comes up, look at the four steps together with your child — it will make a big difference!"
-        },
-        "reply_challenge_4": {
-          "eng": "When a problem comes up, we all get angry or stressed sometimes. Remember, when you feel angry or stressed, you can take a pause to help you stay calm and then solve the problem you are facing."
-        },
-        "text_challenge_5": {
-          "eng": "My child got angry and did not want to talk about the problem"
-        },
-        "reply_challenge_5": {
-          "eng": "Your child might be too overwhelmed to deal with the problem right away. Recognise and name their emotions. Create a time later in the day or week to discuss and solve the problem together. By giving your child time, the problem can be solved well."
-        },
-        "question_text": {
-          "eng": "What challenges did you experience?"
-        },
-        "top_text": {
-          "eng": "Challenges other parents experience:"
-        }
-      },
-      "reply_challenge_1": "It takes some practice to use all four steps of problem-solving. Next time a problem comes up, look at the four steps together with your child — it will make a big difference!",
-      "text_challenge_2": "I started with the solutions right away",
-      "reply_challenge_2": "When we have a problem, we often want to get to the quickest end result and can forget about the steps. \n\nTo come up with the best solution together, it is helpful to first have a full understanding of the problem and the different solutions.",
-      "text_challenge_3": "We could not agree on a solution to try out and we got into an argument",
-      "reply_challenge_3": "Sometimes it can be difficult to agree with everyone in the family, especially if everyone is not calm. \n\nYou can try one solution first, then try another if needed. If things get stuck, take a break and come back later to decide together.",
-      "text_challenge_4": "It takes some practice to use all four steps of problem-solving. Next time a problem comes up, look at the four steps together with your child — it will make a big difference!",
-      "reply_challenge_4": "When a problem comes up, we all get angry or stressed sometimes. Remember, when you feel angry or stressed, you can take a pause to help you stay calm and then solve the problem you are facing.",
-      "text_challenge_5": "My child got angry and did not want to talk about the problem",
-      "reply_challenge_5": "Your child might be too overwhelmed to deal with the problem right away. Recognise and name their emotions. Create a time later in the day or week to discuss and solve the problem together. By giving your child time, the problem can be solved well.",
-      "question_text": "What challenges did you experience?",
-      "top_text": "Challenges other parents experience:"
-    },
-    {
       "id": "problemsolving_t",
       "challenge_2_tag_list": [
         "yes"
@@ -1023,7 +338,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I forgot the steps of problem-solving",
       "_translations": {
         "text_challenge_1": {},
@@ -1124,7 +439,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I forgot to do the activity",
       "_translations": {
         "text_challenge_1": {},
@@ -1211,7 +526,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I forgot to do the activity",
       "_translations": {
         "text_challenge_1": {},
@@ -1270,94 +585,6 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "developmentplay",
-      "challenge_1_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_2_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_3_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_4_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_5_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_6_tag_list": [
-        "yes",
-        "no"
-      ],
-      "challenge_7_tag_list": [
-        "yes",
-        "no"
-      ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
-      "text_challenge_1": "I don’t have time to play with my child",
-      "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "question_text": {},
-        "top_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_challenge_1": {
-          "eng": "I don’t have time to play with my child"
-        },
-        "reply_challenge_1": {
-          "eng": "It’s okay to feel that way. There are many small ways to spend time with your children!\n\nYou can talk with your child while doing other things. For example, ask them to name colours or things they see while you walk or ride the bus.\n\nEven short moments like these show your child you care."
-        },
-        "text_challenge_2": {
-          "eng": "My child is not interested in playing with me"
-        },
-        "reply_challenge_2": {
-          "eng": "You may feel hurt because Your Child doesn't want to spend time with you. It is important to give them their space, be patient and listen to what is happening to her or him. Open yourself to opportunities to play with them another time.\n\nSometimes, Your Child just needs time to engage with you. It helps to remain calm, patient, and kind while you try to connect with Your Child.\n\nAs girls and boys grow, they may want independence from you. That’s normal! You can support them to find friends based on their interests."
-        },
-        "text_challenge_3": {
-          "eng": "My child keeps getting hurt from exploring or making new friends"
-        },
-        "reply_challenge_3": {
-          "eng": "It can be hard to see your child get hurt or feel sad.\n\nBut making mistakes is how children learn and grow. As long as you’re aware of what they’re doing and keep them safe from danger, they’ll be okay.\n\nEncourage them to try fun, safe activities with others – and praise them when they do well.\n\nLet your child know you trust them to be safe and follow your rules."
-        },
-        "text_challenge_4": {
-          "eng": "My child likes competitive activities but gets angry when they lose or need to share the win"
-        },
-        "reply_challenge_4": {
-          "eng": "Competitive games can be tough if your child doesn’t like losing.\n\nOnce they’ve calmed down, talk about what it means to win or lose kindly.\n\nTry suggesting activities where you work together instead of compete.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App."
-        },
-        "question_text": {
-          "eng": "What challenges did you experience?"
-        },
-        "top_text": {
-          "eng": "Challenges other parents experience:"
-        }
-      },
-      "reply_challenge_1": "It’s okay to feel that way. There are many small ways to spend time with your children!\n\nYou can talk with your child while doing other things. For example, ask them to name colours or things they see while you walk or ride the bus.\n\nEven short moments like these show your child you care.",
-      "text_challenge_2": "My child is not interested in playing with me",
-      "reply_challenge_2": "You may feel hurt because Your Child doesn't want to spend time with you. It is important to give them their space, be patient and listen to what is happening to her or him. Open yourself to opportunities to play with them another time.\n\nSometimes, Your Child just needs time to engage with you. It helps to remain calm, patient, and kind while you try to connect with Your Child.\n\nAs girls and boys grow, they may want independence from you. That’s normal! You can support them to find friends based on their interests.",
-      "text_challenge_3": "My child keeps getting hurt from exploring or making new friends",
-      "reply_challenge_3": "It can be hard to see your child get hurt or feel sad.\n\nBut making mistakes is how children learn and grow. As long as you’re aware of what they’re doing and keep them safe from danger, they’ll be okay.\n\nEncourage them to try fun, safe activities with others – and praise them when they do well.\n\nLet your child know you trust them to be safe and follow your rules.",
-      "text_challenge_4": "My child likes competitive activities but gets angry when they lose or need to share the win",
-      "reply_challenge_4": "Competitive games can be tough if your child doesn’t like losing.\n\nOnce they’ve calmed down, talk about what it means to win or lose kindly.\n\nTry suggesting activities where you work together instead of compete.\n\nNeed ideas for activities? Tap the ‘Play’ button at the bottom of the App.",
-      "question_text": "What challenges did you experience?",
-      "top_text": "Challenges other parents experience:"
-    },
-    {
       "id": "instructions_t",
       "challenge_1_tag_list": [
         "yes"
@@ -1385,7 +612,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "My teenager did not want to follow the instruction",
       "_translations": {
         "text_challenge_1": {},
@@ -1474,7 +701,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I was afraid my teen would think I was weak",
       "_translations": {
         "text_challenge_1": {},
@@ -1565,7 +792,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "My teen and I could not agree on a rule",
       "_translations": {
         "text_challenge_1": {},
@@ -1676,7 +903,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "My teen and I disagree on which areas and online activities were unsafe",
       "_translations": {
         "text_challenge_1": {},
@@ -1792,7 +1019,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "My teen told me that something serious happened to them and I did not know how to handle it",
       "_translations": {
         "text_challenge_1": {},
@@ -1870,7 +1097,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I did not want to tell my family how much I earn",
       "_translations": {
         "text_challenge_1": {},
@@ -1960,7 +1187,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "It made me uncomfortable",
       "_translations": {
         "text_challenge_1": {},
@@ -2038,7 +1265,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "My teen and/or I felt uncomfortable",
       "_translations": {
         "text_challenge_1": {},
@@ -2118,7 +1345,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I was afraid my teen would think I was weak.",
       "_translations": {
         "text_challenge_1": {
@@ -2221,7 +1448,7 @@
         "yes",
         "no"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1sJYS7Snxyw2ufNKN8b4Z90zHtICMNMoXpI5V0_i-YK8",
+      "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I did not have enough time",
       "_translations": {
         "text_challenge_1": {},
@@ -2300,6 +1527,6 @@
       "top_text": "Challenges other parents experience:"
     }
   ],
-  "_xlsxPath": "data/ZA hp_review.xlsx",
+  "_xlsxPath": "data/TZ hp_review.xlsx",
   "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
 }

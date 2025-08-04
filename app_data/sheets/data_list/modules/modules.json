@@ -6,183 +6,6 @@
   "flow_subtype": "modules",
   "rows": [
     {
-      "id": "selfcare",
-      "tag_list": [
-        "child"
-      ],
-      "number": 1,
-      "image_asset": "images/homescreen/self_care.svg",
-      "relax_id": "relax_5",
-      "check_in_id": "check_in_1",
-      "title": "Taking Care of Yourself",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Taking Care of Yourself"
-        }
-      }
-    },
-    {
-      "id": "developmentplay",
-      "tag_list": [
-        "child"
-      ],
-      "number": 2,
-      "image_asset": "images/homescreen/developmentplay.svg",
-      "relax_id": "relax_2",
-      "check_in_id": "check_in_2",
-      "title": "Development Through Play",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Development Through Play"
-        }
-      }
-    },
-    {
-      "id": "oneononetime",
-      "tag_list": [
-        "child"
-      ],
-      "number": 3,
-      "image_asset": "images/homescreen/one_on_one_time.svg",
-      "relax_id": "relax_3",
-      "check_in_id": "check_in_3",
-      "title": "One-on-One Time",
-      "_translations": {
-        "title": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "One-on-One Time"
-        }
-      }
-    },
-    {
-      "id": "praise",
-      "tag_list": [
-        "child"
-      ],
-      "number": 4,
-      "image_asset": "images/homescreen/praise.svg",
-      "relax_id": "relax_1",
-      "check_in_id": "check_in_4",
-      "title": "Praise",
-      "_translations": {
-        "title": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Praise"
-        }
-      }
-    },
-    {
-      "id": "feelings",
-      "tag_list": [
-        "child"
-      ],
-      "number": 5,
-      "image_asset": "images/homescreen/feelings.svg",
-      "relax_id": "relax_2",
-      "check_in_id": "check_in_5",
-      "title": "Feelings",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Feelings"
-        }
-      }
-    },
-    {
-      "id": "instructions",
-      "tag_list": [
-        "child"
-      ],
-      "number": 6,
-      "image_asset": "images/homescreen/instructions.svg",
-      "relax_id": "relax_3",
-      "check_in_id": "check_in_6",
-      "title": "Instructions",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Instructions"
-        }
-      }
-    },
-    {
-      "id": "rulesroutines",
-      "tag_list": [
-        "child"
-      ],
-      "number": 7,
-      "image_asset": "images/homescreen/rulesroutines.svg",
-      "relax_id": "relax_1",
-      "check_in_id": "check_in_7",
-      "title": "Rules",
-      "_translations": {
-        "title": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Rules"
-        }
-      }
-    },
-    {
-      "id": "consequences",
-      "tag_list": [
-        "child"
-      ],
-      "number": 8,
-      "image_asset": "images/homescreen/consequences.svg",
-      "relax_id": "relax_2",
-      "check_in_id": "check_in_8",
-      "title": "Consequences",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Consequences"
-        }
-      }
-    },
-    {
-      "id": "problemsolving",
-      "tag_list": [
-        "child"
-      ],
-      "number": 9,
-      "image_asset": "images/homescreen/problemsolving.svg",
-      "relax_id": "relax_3",
-      "check_in_id": "check_in_9",
-      "title": "Solve Problems",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Solve Problems"
-        }
-      }
-    },
-    {
       "id": "selfcare_t",
       "tag_list": [
         "teen"
@@ -191,6 +14,7 @@
       "image_asset": "images/homescreen/self_care_t.svg",
       "relax_id": "relax_5",
       "check_in_id": "check_in_8",
+      "attached_single_doc": "https://docs.google.com/document/d/1cpweixtTIA5RygkDLXN27XvFdYzh3Ta7YSbi8HOhw4o",
       "title": "Taking Care of Yourself",
       "_translations": {
         "title": {}
@@ -511,7 +335,7 @@
       }
     }
   ],
-  "_xlsxPath": "data/ZA modules.xlsx",
+  "_xlsxPath": "data/TZ modules.xlsx",
   "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
   "_metadata": {
     "number": {

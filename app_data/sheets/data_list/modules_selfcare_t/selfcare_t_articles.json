@@ -11,7 +11,7 @@
       "category_id": "intro",
       "media_type": "audio",
       "media_asset": "/audio/teen/topic_intros/self_care_intro_t.mp3",
-      "attached_single_doc": "https://docs.google.com/document/d/1zd3jJs1AHYoo0psSJmo2PWYIXTtjx72rYr0sJ7sa76A",
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_1_facilitator": "Today's topic is about taking care of yourself.\n\nWe often don’t look after ourselves enough. But this is so important, especially as a parent!\n\nReducing our stress and treating ourselves well helps us AND our teenagers.",
       "_translations": {
         "text_1_facilitator": {},
@@ -397,6 +397,6 @@
       "media_transcript": "My dad was always busy. He would come home from work and snap at us when we started asking him questions.\n\n@global.app_name helped us a lot. We no longer fight. Now, when my dad comes home, he first sits down by himself for 5 minutes and then we do a relaxing activity from @global.app_name together, so we can all take a deep breath and relax. Then we can chat about our day, about anything good or bad that happened. Everyone is so much happier now."
     }
   ],
-  "_xlsxPath": "data/ZA modules.xlsx",
+  "_xlsxPath": "data/TZ modules.xlsx",
   "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
 }

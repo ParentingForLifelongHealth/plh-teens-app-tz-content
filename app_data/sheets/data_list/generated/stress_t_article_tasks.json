@@ -31,6 +31,7 @@
     },
     {
       "id": "check_in_5",
+      "attached_single_doc": "https://docs.google.com/document/d/1weBDi-7Z101TP408tO48rWUM3m75TIrW5KMnEDOeB9c",
       "_translatedFields": {
         "text_1": {
           "eng": "Looking after yourself matters. And how you feel matters too!"
@@ -61,7 +62,6 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1Jl8y0i5QYAdZazaezS-lRMhQdMghP1ElJU0GUPmrXUM",
       "text_1": "Looking after yourself matters. And how you feel matters too!",
       "_translations": {
         "text_1": {
@@ -100,6 +100,7 @@
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/stress_intro_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today's topic is about managing stress.\n\nWe know how stressful it is to bring up teenagers in these times. Learning to manage your stress helps you – and your family."
