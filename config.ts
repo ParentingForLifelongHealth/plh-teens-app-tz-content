@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_teens_tz", parent: "plh_kids"
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.3.0",
+  content_tag_latest: "1.3.1",
 };
 
 config.google_drive.sheets_folder_ids = [
@@ -51,7 +51,7 @@ config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.
 
 config.api.db_name = "plh_teens_tz";
 config.app_data.output_path = "./app_data";
-config.web.favicon_asset = "./app_data/assets/web/favicon.png";
+config.web.favicon_asset = "images/logos/favicon.png";
 
 config.app_config.APP_LANGUAGES.default = "tz_sw";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Teens TZ";

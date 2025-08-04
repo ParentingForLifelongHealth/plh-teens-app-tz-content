@@ -164,7 +164,7 @@
     {
       "type": "declare_global_constant",
       "name": "child_age_input_restriction",
-      "value": "@global.app_name only supports parents of children between 2 to 17.",
+      "value": "@global.app_name only supports parents of children between 10 and 17.",
       "_translations": {
         "value": {}
       }

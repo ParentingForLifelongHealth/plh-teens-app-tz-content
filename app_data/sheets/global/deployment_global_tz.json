@@ -18,7 +18,23 @@
     {
       "type": "declare_global_constant",
       "name": "app_name_full",
-      "value": "ParentApp Tanzania",
+      "value": "ParentApp for Teens Tanzania",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "home_screen_logo_asset",
+      "value": "images/logos/plh_logomark.png",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "home_screen_logo_height",
+      "value": "48px",
       "_translations": {
         "value": {}
       }
