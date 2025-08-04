@@ -273,7 +273,7 @@
     },
     {
       "name": "valid_child_age_input",
-      "value": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 2 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
+      "value": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 10 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
       "_translations": {
         "value": {}
       },
@@ -283,40 +283,40 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 2 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
+            "fullExpression": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 10 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
             "matchedExpression": "@local.child_age_input",
             "type": "local",
             "fieldName": "child_age_input"
           },
           {
-            "fullExpression": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 2 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
+            "fullExpression": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 10 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
             "matchedExpression": "@local.child_age_input",
             "type": "local",
             "fieldName": "child_age_input"
           },
           {
-            "fullExpression": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 2 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
+            "fullExpression": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 10 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
             "matchedExpression": "@local.child_age_input",
             "type": "local",
             "fieldName": "child_age_input"
           },
           {
-            "fullExpression": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 2 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
+            "fullExpression": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 10 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
             "matchedExpression": "@local.child_age_input",
             "type": "local",
             "fieldName": "child_age_input"
           },
           {
-            "fullExpression": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 2 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
+            "fullExpression": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 10 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
             "matchedExpression": "!@local.child_age_input",
             "type": "local",
             "fieldName": "child_age_input"
           },
           {
-            "fullExpression": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 2 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
-            "matchedExpression": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 2 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
+            "fullExpression": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 10 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
+            "matchedExpression": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 10 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)",
             "type": "calc",
-            "fieldName": "(/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 2 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input"
+            "fieldName": "(/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 10 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input"
           }
         ]
       },
@@ -330,7 +330,7 @@
         "!@local.child_age_input": [
           "value"
         ],
-        "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 2 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)": [
+        "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 10 && @local.child_age_input<= 17) || @local.child_age_input == '' || !@local.child_age_input)": [
           "value"
         ]
       }
