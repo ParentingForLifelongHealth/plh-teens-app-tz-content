@@ -27,6 +27,7 @@
       },
       "transcript": "When you take care of yourself, you take care of your children. We all need to connect. Try to talk to friends, family, and other support networks every day. If it has been a while since you reached out to someone, do it now!",
       "category_id": "relax",
+      "nested": false,
       "completed": false
     },
     {
@@ -59,6 +60,7 @@
         }
       },
       "category_id": "check_in",
+      "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -108,6 +110,7 @@
         }
       },
       "category_id": "notice",
+      "nested": false,
       "section_1_title": "⚠️ Sensitive Content",
       "_translations": {
         "section_1_title": {},
@@ -120,6 +123,7 @@
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/grief_intro_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today's topic is about coping with grief.\n\nGrief affects us all in different ways.\n\nWhatever you feel, you are grieving in your own way, and that is okay."
@@ -132,6 +136,7 @@
         }
       },
       "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "Today's topic is about coping with grief.\n\nGrief affects us all in different ways.\n\nWhatever you feel, you are grieving in your own way, and that is okay.",
       "_translations": {
         "text_1_facilitator": {},
@@ -146,6 +151,7 @@
       "id": "intro_2",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_grief_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Taking care of ourselves during grief helps us stay calm and present for our children. \nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported."
@@ -158,6 +164,7 @@
         }
       },
       "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "Taking care of ourselves during grief helps us stay calm and present for our children. \nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported.",
       "_translations": {
         "text_1_facilitator": {},
@@ -172,6 +179,7 @@
     },
     {
       "id": "explore_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Difficult emotions can lead to difficult behaviour – especially with children. Losing a caregiver or a loved one can make your teen feel worried, insecure, or angry, and can often make them act out.\n\nLet’s see what happened with @data.characters.f4_daughter_13.name who lost her mother 6 months ago:"
@@ -181,6 +189,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Difficult emotions can lead to difficult behaviour – especially with children. Losing a caregiver or a loved one can make your teen feel worried, insecure, or angry, and can often make them act out.\n\nLet’s see what happened with @data.characters.f4_daughter_13.name who lost her mother 6 months ago:",
       "_translations": {
         "text_1_facilitator": {},
@@ -193,6 +202,7 @@
     },
     {
       "id": "explore_2",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "@data.characters.f4_daughter_13.name, you need to stop crying. It has been months already! This crying will not bring your @data.characters.f1_mother.role_name back and you are doing worse and worse in school!"
@@ -202,6 +212,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/grief/grief_conflict_t_2.svg",
       "character_1_id": "f4_father",
       "character_1_text": "@data.characters.f4_daughter_13.name, you need to stop crying. It has been months already! This crying will not bring your @data.characters.f1_mother.role_name back and you are doing worse and worse in school!",
@@ -215,12 +226,14 @@
     },
     {
       "id": "explore_3",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Stop being so dramatic! Your behaviour is unacceptable!"
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/grief/grief_conflict_t_3.svg",
       "character_1_id": "f4_father",
       "character_1_text": "Stop being so dramatic! Your behaviour is unacceptable!",
@@ -231,6 +244,7 @@
     },
     {
       "id": "explore_4",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's think about what happened in this story."
@@ -285,6 +299,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/sad.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/confused.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/angry.svg",
@@ -342,6 +357,7 @@
     },
     {
       "id": "explore_5",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Thank you for thinking along!\n\nLet’s see what happens if @data.characters.f4_father.name tries to support @data.characters.f4_daughter_13.name:"
@@ -354,6 +370,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Thank you for thinking along!\n\nLet’s see what happens if @data.characters.f4_father.name tries to support @data.characters.f4_daughter_13.name:",
       "_translations": {
         "text_1_facilitator": {},
@@ -369,12 +386,14 @@
     },
     {
       "id": "explore_6",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I like that idea, let’s go see her on Saturday. Do you already want to tell me more about how you feel now?"
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/grief/grief_support_t_2.svg",
       "character_1_id": "f4_father",
       "character_1_text": "I like that idea, let’s go see her on Saturday. Do you already want to tell me more about how you feel now?",
@@ -385,12 +404,14 @@
     },
     {
       "id": "explore_7",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I honestly feel angry that she left. Is it okay to say that?"
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/grief/grief_support_t_3.svg",
       "character_1_id": "f4_daughter_13",
       "character_1_text": "I honestly feel angry that she left. Is it okay to say that?",
@@ -401,12 +422,14 @@
     },
     {
       "id": "explore_8",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Yes, it is normal to feel angry. We all have different feelings at different times, and that is okay. It is good to talk about this together, thank you for sharing with me."
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/grief/grief_support_t_4.svg",
       "character_1_id": "f4_father",
       "character_1_text": "Yes, it is normal to feel angry. We all have different feelings at different times, and that is okay. It is good to talk about this together, thank you for sharing with me.",
@@ -417,6 +440,7 @@
     },
     {
       "id": "explore_9",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's think about what happened in this story."
@@ -465,6 +489,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "quiz_1_feedback_1": "That’s right. Talking about her feelings helped @data.characters.f4_daughter_13.name feel lighter and less alone inside.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -509,6 +534,7 @@
     },
     {
       "id": "tips_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are some tips to help you and your family through times of grief:"
@@ -533,6 +559,7 @@
         }
       },
       "category_id": "practical_tips",
+      "nested": false,
       "section_1_title": "ACCEPT",
       "_translations": {
         "section_1_title": {
@@ -564,6 +591,7 @@
     },
     {
       "id": "practise_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "When we are going through a difficult time, it can help to talk about or write down how we feel.\n\nLet’s practise naming feelings. How do you feel now?"
@@ -609,6 +637,7 @@
         }
       },
       "category_id": "practise",
+      "nested": false,
       "quiz_1_feedback_1": "Someone who is grieving can feel many different emotions. They might also feel lost, shocked, numb, guilty, lonely, or even hopeful — all of these are normal.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -655,6 +684,7 @@
     },
     {
       "id": "home_activity_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "This week's home activity is to share with your teen how you feel, and ask them to also name their feelings.\n\nYou can remind your teen of some emotions they might feel - like happy, sad, scared, hopeful, angry, or lonely. There is no right or wrong feeling. Sharing emotions helps you both feel less alone."
@@ -682,6 +712,7 @@
         }
       },
       "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "That’s wonderful. Talking about emotions helps you and your teen cope and connect during difficult times.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -710,6 +741,7 @@
       "id": "teen_test_1",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_grief_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Grief can make both parents and teens feel alone - but talking about your feelings can help you cope together. Even small steps like checking in and sharing emotions can rebuild trust and connection."
@@ -722,6 +754,7 @@
         }
       },
       "category_id": "teen_test",
+      "nested": false,
       "text_1_facilitator": "Grief can make both parents and teens feel alone - but talking about your feelings can help you cope together. Even small steps like checking in and sharing emotions can rebuild trust and connection.",
       "_translations": {
         "text_1_facilitator": {},
@@ -736,6 +769,9 @@
     }
   ],
   "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
     "completed": {
       "type": "boolean"
     }

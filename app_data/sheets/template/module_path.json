@@ -43,7 +43,7 @@
         }
       ],
       "parameter_list": {
-        "filter": "@item.completed"
+        "filter": "@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag))"
       },
       "_nested_name": "compute_completed_length",
       "_dynamicFields": {
@@ -58,10 +58,28 @@
         "parameter_list": {
           "filter": [
             {
-              "fullExpression": "@item.completed",
+              "fullExpression": "@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag))",
               "matchedExpression": "@item.completed",
               "type": "item",
               "fieldName": "completed"
+            },
+            {
+              "fullExpression": "@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag))",
+              "matchedExpression": "!@item.tag_list",
+              "type": "item",
+              "fieldName": "tag_list"
+            },
+            {
+              "fullExpression": "@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag))",
+              "matchedExpression": "@item.tag_list.includes",
+              "type": "item",
+              "fieldName": "tag_list"
+            },
+            {
+              "fullExpression": "@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag))",
+              "matchedExpression": "@fields.child_age_tag",
+              "type": "fields",
+              "fieldName": "child_age_tag"
             }
           ]
         }
@@ -71,6 +89,15 @@
           "value"
         ],
         "@item.completed": [
+          "parameter_list.filter"
+        ],
+        "!@item.tag_list": [
+          "parameter_list.filter"
+        ],
+        "@item.tag_list.includes": [
+          "parameter_list.filter"
+        ],
+        "@fields.child_age_tag": [
           "parameter_list.filter"
         ]
       }
@@ -95,7 +122,8 @@
         }
       ],
       "parameter_list": {
-        "filter": "!@item.completed",
+        "filter": "!@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag))",
+        "sort": "number",
         "limit": "1"
       },
       "_nested_name": "compute_current_module_id",
@@ -111,10 +139,28 @@
         "parameter_list": {
           "filter": [
             {
-              "fullExpression": "!@item.completed",
+              "fullExpression": "!@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag))",
               "matchedExpression": "!@item.completed",
               "type": "item",
               "fieldName": "completed"
+            },
+            {
+              "fullExpression": "!@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag))",
+              "matchedExpression": "!@item.tag_list",
+              "type": "item",
+              "fieldName": "tag_list"
+            },
+            {
+              "fullExpression": "!@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag))",
+              "matchedExpression": "@item.tag_list.includes",
+              "type": "item",
+              "fieldName": "tag_list"
+            },
+            {
+              "fullExpression": "!@item.completed && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag))",
+              "matchedExpression": "@fields.child_age_tag",
+              "type": "fields",
+              "fieldName": "child_age_tag"
             }
           ]
         }
@@ -124,6 +170,15 @@
           "value"
         ],
         "!@item.completed": [
+          "parameter_list.filter"
+        ],
+        "!@item.tag_list": [
+          "parameter_list.filter"
+        ],
+        "@item.tag_list.includes": [
+          "parameter_list.filter"
+        ],
+        "@fields.child_age_tag": [
           "parameter_list.filter"
         ]
       }
@@ -162,11 +217,18 @@
       },
       "condition": "@local.completed_count !== undefined",
       "exclude_from_translation": true,
+      "style_list": [
+        "background-image: url(\"assets/app_data/assets/images/background_pattern_blue.svg\")",
+        "background-repeat: repeat",
+        "background-position: top center",
+        "background-size: 670px"
+      ],
       "rows": [
         {
-          "type": "plh_progress_path",
+          "type": "progress_path",
           "parameter_list": {
-            "background_image_asset": "@local.background_image_asset"
+            "variant": "curved",
+            "vertical_spacing": "10"
           },
           "exclude_from_translation": true,
           "rows": [
@@ -174,12 +236,16 @@
               "name": "is_highlighted",
               "value": false,
               "type": "set_variable",
-              "_nested_name": "dg_all_modules.plh_progress_path_1.is_highlighted"
+              "_nested_name": "dg_all_modules.progress_path_1.is_highlighted"
             },
             {
               "type": "data_items",
               "name": "task_cards",
               "value": "@data.module_tasks",
+              "parameter_list": {
+                "filter": "!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)",
+                "sort": "number"
+              },
               "exclude_from_translation": true,
               "rows": [
                 {
@@ -190,7 +256,7 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "dg_all_modules.plh_progress_path_1.task_cards.completed_midnight",
+                  "_nested_name": "dg_all_modules.progress_path_1.task_cards.completed_midnight",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -224,7 +290,7 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "dg_all_modules.plh_progress_path_1.task_cards.days_since_completed",
+                  "_nested_name": "dg_all_modules.progress_path_1.task_cards.days_since_completed",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -258,7 +324,7 @@
                   },
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "dg_all_modules.plh_progress_path_1.task_cards.is_highlighted",
+                  "_nested_name": "dg_all_modules.progress_path_1.task_cards.is_highlighted",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -307,7 +373,7 @@
                   },
                   "condition": "!(@item.id == @local.current_module_id || @item.completed)",
                   "exclude_from_translation": true,
-                  "_nested_name": "dg_all_modules.plh_progress_path_1.task_cards.locked_@item.id",
+                  "_nested_name": "dg_all_modules.progress_path_1.task_cards.locked_@item.id",
                   "_dynamicFields": {
                     "name": [
                       {
@@ -387,7 +453,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "dg_all_modules.plh_progress_path_1.task_cards.locked_@item.id",
+                        "fullExpression": "dg_all_modules.progress_path_1.task_cards.locked_@item.id",
                         "matchedExpression": "@item.id",
                         "type": "item",
                         "fieldName": "id"
@@ -440,7 +506,7 @@
                   },
                   "condition": "@item.id == @local.current_module_id || @item.completed",
                   "exclude_from_translation": true,
-                  "_nested_name": "dg_all_modules.plh_progress_path_1.task_cards.unlocked_@item.id",
+                  "_nested_name": "dg_all_modules.progress_path_1.task_cards.unlocked_@item.id",
                   "_dynamicFields": {
                     "name": [
                       {
@@ -520,7 +586,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "dg_all_modules.plh_progress_path_1.task_cards.unlocked_@item.id",
+                        "fullExpression": "dg_all_modules.progress_path_1.task_cards.unlocked_@item.id",
                         "matchedExpression": "@item.id",
                         "type": "item",
                         "fieldName": "id"
@@ -551,7 +617,7 @@
                   }
                 }
               ],
-              "_nested_name": "dg_all_modules.plh_progress_path_1.task_cards",
+              "_nested_name": "dg_all_modules.progress_path_1.task_cards",
               "_dynamicFields": {
                 "value": [
                   {
@@ -560,34 +626,48 @@
                     "type": "data",
                     "fieldName": "module_tasks"
                   }
-                ]
+                ],
+                "parameter_list": {
+                  "filter": [
+                    {
+                      "fullExpression": "!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)",
+                      "matchedExpression": "!@item.tag_list",
+                      "type": "item",
+                      "fieldName": "tag_list"
+                    },
+                    {
+                      "fullExpression": "!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)",
+                      "matchedExpression": "@item.tag_list.includes",
+                      "type": "item",
+                      "fieldName": "tag_list"
+                    },
+                    {
+                      "fullExpression": "!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)",
+                      "matchedExpression": "@fields.child_age_tag",
+                      "type": "fields",
+                      "fieldName": "child_age_tag"
+                    }
+                  ]
+                }
               },
               "_dynamicDependencies": {
                 "@data.module_tasks": [
                   "value"
+                ],
+                "!@item.tag_list": [
+                  "parameter_list.filter"
+                ],
+                "@item.tag_list.includes": [
+                  "parameter_list.filter"
+                ],
+                "@fields.child_age_tag": [
+                  "parameter_list.filter"
                 ]
               }
             }
           ],
-          "name": "plh_progress_path_1",
-          "_nested_name": "dg_all_modules.plh_progress_path_1",
-          "_dynamicFields": {
-            "parameter_list": {
-              "background_image_asset": [
-                {
-                  "fullExpression": "@local.background_image_asset",
-                  "matchedExpression": "@local.background_image_asset",
-                  "type": "local",
-                  "fieldName": "background_image_asset"
-                }
-              ]
-            }
-          },
-          "_dynamicDependencies": {
-            "@local.background_image_asset": [
-              "parameter_list.background_image_asset"
-            ]
-          }
+          "name": "progress_path_1",
+          "_nested_name": "dg_all_modules.progress_path_1"
         }
       ],
       "_nested_name": "dg_all_modules",

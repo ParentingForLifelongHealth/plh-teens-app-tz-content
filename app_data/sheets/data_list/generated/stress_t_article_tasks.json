@@ -27,6 +27,7 @@
       },
       "transcript": "Close your eyes. \n\nDo your children ever make you feel like screaming? \n\nGive yourself a 10-second pause. Breathe in and out slowly 5 times. \n\nThen try responding in a calmer way.\n\nMillions of parents say this helps – A LOT.",
       "category_id": "relax",
+      "nested": false,
       "completed": false
     },
     {
@@ -59,6 +60,7 @@
         }
       },
       "category_id": "check_in",
+      "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -113,6 +115,7 @@
         }
       },
       "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "Today's topic is about managing stress.\n\nWe know how stressful it is to bring up teenagers in these times. Learning to manage your stress helps you – and your family.",
       "_translations": {
         "text_1_facilitator": {},
@@ -127,6 +130,7 @@
       "id": "intro_2",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_stress_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "With a few small changes, you can feel more peaceful in your normal day-to-day life.\n\nWhen you are peaceful, your family members will get calmer too!"
@@ -139,6 +143,7 @@
         }
       },
       "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "With a few small changes, you can feel more peaceful in your normal day-to-day life.\n\nWhen you are peaceful, your family members will get calmer too!",
       "_translations": {
         "text_1_facilitator": {},
@@ -151,6 +156,7 @@
     },
     {
       "id": "explore_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s look at an example of how stress can sometimes just get too much, for all of us:"
@@ -160,6 +166,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Let’s look at an example of how stress can sometimes just get too much, for all of us:",
       "_translations": {
         "text_1_facilitator": {
@@ -173,6 +180,7 @@
     },
     {
       "id": "explore_2",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Can I have money to buy some airtime?"
@@ -182,6 +190,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/stress/stress1_t_2.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_father",
@@ -195,6 +204,7 @@
     },
     {
       "id": "explore_3",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "character_1_text": {
           "eng": "What did I do? You never listen!"
@@ -204,6 +214,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/stress/stress1_t_3.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_father",
@@ -217,12 +228,14 @@
     },
     {
       "id": "explore_4",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Look! I have made a house!"
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/stress/stress1_t_4.svg",
       "character_1_id": "f1_daughter_13",
       "character_1_text": "Look! I have made a house!",
@@ -233,12 +246,14 @@
     },
     {
       "id": "explore_5",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Who cares about your stupid house!"
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/stress/stress1_t_5.svg",
       "character_1_id": "f1_son_18",
       "character_1_text": "Who cares about your stupid house!",
@@ -249,6 +264,7 @@
     },
     {
       "id": "explore_6",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's think about what happened in this story."
@@ -342,6 +358,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "quiz_1_option_1_image_asset": "images/faces/sad.svg",
       "quiz_1_option_2_image_asset": "images/faces/scared.svg",
       "quiz_1_option_3_image_asset": "images/faces/confused.svg",
@@ -436,6 +453,7 @@
     },
     {
       "id": "explore_7",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Thank you for thinking along! Let’s go back in time and see what @data.characters.f1_father.name does now:"
@@ -451,6 +469,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Thank you for thinking along! Let’s go back in time and see what @data.characters.f1_father.name does now:",
       "_translations": {
         "text_1_facilitator": {},
@@ -468,6 +487,7 @@
     },
     {
       "id": "explore_8",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Oh no! I need a new school uniform."
@@ -477,6 +497,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/stress/stress2_t_2.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_father",
@@ -490,6 +511,7 @@
     },
     {
       "id": "explore_9",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Should I also help you look for work, @data.characters.f1_father.role_name?"
@@ -499,6 +521,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/stress/stress2_t_3.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_father",
@@ -512,6 +535,7 @@
     },
     {
       "id": "explore_10",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Let’s play some soccer together. It will help me get this stress off my mind for a bit."
@@ -521,6 +545,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/stress/stress2_t_4.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_son_18",
@@ -534,6 +559,7 @@
     },
     {
       "id": "explore_11",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Now let's look at an example where something simple, like a Safety Word, can help manage stress and keep your teen safe. \n\nFirst, think back to when you were a teenager. Was there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name! Let’s have a look:"
@@ -546,6 +572,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Now let's look at an example where something simple, like a Safety Word, can help manage stress and keep your teen safe. \n\nFirst, think back to when you were a teenager. Was there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name! Let’s have a look:",
       "_translations": {
         "text_1_facilitator": {},
@@ -561,12 +588,14 @@
     },
     {
       "id": "explore_12",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I think they are dealing drugs. We could all get arrested. But I can’t tell my parents – they will be so angry!"
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/stress/stress3_t_2.svg",
       "character_1_id": "f1_son_18",
       "character_1_text": "I think they are dealing drugs. We could all get arrested. But I can’t tell my parents – they will be so angry!",
@@ -577,12 +606,14 @@
     },
     {
       "id": "explore_13",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I am scared. Everyone is too drunk to drive me home. This guy says he will take me, but he wants us to go to his house first. I can’t tell my parents – I lied about coming to this party."
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/stress/stress3_t_3.svg",
       "character_1_id": "f1_daughter_16",
       "character_1_text": "I am scared. Everyone is too drunk to drive me home. This guy says he will take me, but he wants us to go to his house first. I can’t tell my parents – I lied about coming to this party.",
@@ -593,6 +624,7 @@
     },
     {
       "id": "explore_14",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "These are dangerous situations! Thankfully, @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name then remembered what their father told them:"
@@ -602,6 +634,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "These are dangerous situations! Thankfully, @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name then remembered what their father told them:",
       "_translations": {
         "text_1_facilitator": {},
@@ -614,6 +647,7 @@
     },
     {
       "id": "explore_15",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Hey father, how is Aunty Cecilia doing now?"
@@ -623,6 +657,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/stress/stress3_t_5.svg",
       "character_1_id": "f1_daughter_16",
       "character_2_id": "f1_father",
@@ -636,6 +671,7 @@
     },
     {
       "id": "explore_16",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "character_1_text": {
           "eng": "(🤔_thinking_) I think my friends are in trouble. I don’t want to stop being their friend, but I’m worried. Maybe @data.characters.f1_father.role_name knows what to do."
@@ -648,6 +684,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/stress/stress3_t_6.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_son_18",
@@ -664,6 +701,7 @@
     },
     {
       "id": "explore_17",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Having a Safety Word can help your teen stay safe too. You can choose any word as a Safety Word. Only your family knows it means ‘help’.\n\nYour teen can say this word to let you know they are in trouble without you getting angry or punishing them, so you can help them."
@@ -673,6 +711,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Having a Safety Word can help your teen stay safe too. You can choose any word as a Safety Word. Only your family knows it means ‘help’.\n\nYour teen can say this word to let you know they are in trouble without you getting angry or punishing them, so you can help them.",
       "_translations": {
         "text_1_facilitator": {},
@@ -683,6 +722,7 @@
     },
     {
       "id": "tips_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are a few skills to help you manage stress that you can use with your teens!"
@@ -713,6 +753,7 @@
         }
       },
       "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Here are a few skills to help you manage stress that you can use with your teens!",
       "_translations": {
         "text_1_facilitator": {},
@@ -755,6 +796,7 @@
     },
     {
       "id": "home_activity_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "There are two home activities for this week:\n\n1) Whenever you are feeling stressed or upset with your teen, take five breaths in and out before you react.\nAnd when you're both calm, share with each other how you feel. \n\n2) Choose a \"Safety Word\" with your teen, and think of a situation together when you could use this."
@@ -785,6 +827,7 @@
         }
       },
       "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "Great! Staying calm and having a “Safety Word” will help you and your family.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -815,6 +858,7 @@
       "id": "teen_test_1",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_stress_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Remember, when we practice responding calmly and sharing how we feel, our teens learn to do the same. This skill will help them their whole life!"
@@ -827,6 +871,7 @@
         }
       },
       "category_id": "teen_test",
+      "nested": false,
       "text_1_facilitator": "Remember, when we practice responding calmly and sharing how we feel, our teens learn to do the same. This skill will help them their whole life!",
       "_translations": {
         "text_1_facilitator": {},
@@ -839,6 +884,9 @@
     }
   ],
   "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
     "completed": {
       "type": "boolean"
     }

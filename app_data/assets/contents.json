@@ -1,19 +1,19 @@
 {
   "android/icon-background.png": {
-    "md5Checksum": "8711f369969c25216e0013c4010e0907",
-    "size_kb": 21.4
+    "md5Checksum": "eb62fccb250452852f36a12e0c54c7ac",
+    "size_kb": 3.9
   },
   "android/icon-foreground.png": {
-    "md5Checksum": "8fa0416dee7554964c6c543c87c800c3",
-    "size_kb": 58.3
+    "md5Checksum": "5d3eacc20be1218cce3fe496c818d436",
+    "size_kb": 193.7
   },
   "android/icon.png": {
-    "md5Checksum": "b43a9fbad47678f0da72a710e3cebbde",
-    "size_kb": 70.3
+    "md5Checksum": "736e66f191802f6eb0856e4fa7a79267",
+    "size_kb": 215.3
   },
   "android/splash.png": {
-    "md5Checksum": "dc4bee304ad1241ec865898775b3e586",
-    "size_kb": 239
+    "md5Checksum": "77151ab6ec409b7afb5a49de4688b63c",
+    "size_kb": 195.7
   },
   "audio/modules/connect/intro_connect_child.m4a": {
     "md5Checksum": "a1e0775dd6a9a752511b3bd13ec15840",
@@ -53,8 +53,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_1.mp3",
-          "md5Checksum": "238987ea4d6aec7ca7824027a0c6b649",
-          "size_kb": 669.4
+          "md5Checksum": "dcd2704d0fb1fad2494472d07e4c0831",
+          "size_kb": 148.8
         }
       }
     },
@@ -66,8 +66,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_10.mp3",
-          "md5Checksum": "8a498af4dc9f5b031718c5c7926c08e5",
-          "size_kb": 693.8
+          "md5Checksum": "180aeacd59808e4260627b9615c6113f",
+          "size_kb": 267.2
         }
       }
     },
@@ -75,15 +75,6 @@
   },
   "audio/relax/relax_11.mp3": {
     "md5Checksum": "afa01eb4bb93913db1b920c3303fbcba",
-    "overrides": {
-      "theme_default": {
-        "za_xh": {
-          "filePath": "audio/relax/za_xh/relax_11.mp3",
-          "md5Checksum": "037a9dab9a968a6f00fce104fd309852",
-          "size_kb": 1431.4
-        }
-      }
-    },
     "size_kb": 445.6
   },
   "audio/relax/relax_12.mp3": {
@@ -92,8 +83,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_12.mp3",
-          "md5Checksum": "0bbfa57f85dc65e90a86358b00075d2d",
-          "size_kb": 723.8
+          "md5Checksum": "c8c2f43def7030471b3b42e4d8bc0872",
+          "size_kb": 321.3
         }
       }
     },
@@ -105,8 +96,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_13.mp3",
-          "md5Checksum": "4ef06758895eb2c9aa948fae5962ac00",
-          "size_kb": 759.4
+          "md5Checksum": "362daa172e6cb8a7400c3b9b3ea47f27",
+          "size_kb": 235.6
         }
       }
     },
@@ -118,8 +109,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_14.mp3",
-          "md5Checksum": "56f1f49e2126ef417c42bf78c7d814ba",
-          "size_kb": 275.7
+          "md5Checksum": "adffd6eed1cb101e0dab8d81b6ede1b8",
+          "size_kb": 155
         }
       }
     },
@@ -131,8 +122,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_15.mp3",
-          "md5Checksum": "6c8fe0ff21beab850431485b991475d2",
-          "size_kb": 523.9
+          "md5Checksum": "730b5e621a6aed742686b81d532d8342",
+          "size_kb": 209.5
         }
       }
     },
@@ -144,8 +135,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_16.mp3",
-          "md5Checksum": "8cc1c5c6a411dd7ec4655279406694ab",
-          "size_kb": 630
+          "md5Checksum": "e8e5f09c0a2a648b3910ca2c28910f5f",
+          "size_kb": 279.1
         }
       }
     },
@@ -153,15 +144,6 @@
   },
   "audio/relax/relax_17.mp3": {
     "md5Checksum": "3641b81586acc34cbce05a2cbceb19b0",
-    "overrides": {
-      "theme_default": {
-        "za_xh": {
-          "filePath": "audio/relax/za_xh/relax_17.mp3",
-          "md5Checksum": "4584d92488fcba7248d1edfc5f36bc71",
-          "size_kb": 485.7
-        }
-      }
-    },
     "size_kb": 148
   },
   "audio/relax/relax_18.mp3": {
@@ -170,8 +152,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_18.mp3",
-          "md5Checksum": "5a7d6a8462b7aa1bfba333863b25b79f",
-          "size_kb": 1190.7
+          "md5Checksum": "ae3985f15165f6b0e3edc1c16dc852cf",
+          "size_kb": 432.2
         }
       }
     },
@@ -183,8 +165,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_19.mp3",
-          "md5Checksum": "5bb720f14d469a2f3f9e80f3a2ac5c84",
-          "size_kb": 1665
+          "md5Checksum": "1cfb94d048a32c30b0bb7a73d2e9a1b1",
+          "size_kb": 714.9
         }
       }
     },
@@ -196,8 +178,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_2.mp3",
-          "md5Checksum": "511b648f44b0d591d6cdae5d41ade36f",
-          "size_kb": 896.3
+          "md5Checksum": "4282137b37f7e4c1bb1bbd65fae78124",
+          "size_kb": 254.1
         }
       }
     },
@@ -209,8 +191,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_20.mp3",
-          "md5Checksum": "ddd18b67f338742c74e607992f4de6a9",
-          "size_kb": 2392.5
+          "md5Checksum": "6a0c2812ecaa6a2138831ae3ba35a163",
+          "size_kb": 751.4
         }
       }
     },
@@ -218,54 +200,18 @@
   },
   "audio/relax/relax_21.mp3": {
     "md5Checksum": "afe013b5bb230bb7e2d24ff43c3e9eb5",
-    "overrides": {
-      "theme_default": {
-        "za_xh": {
-          "filePath": "audio/relax/za_xh/relax_21.mp3",
-          "md5Checksum": "03c79e3e647be3511314778264f82a32",
-          "size_kb": 457.3
-        }
-      }
-    },
     "size_kb": 189.3
   },
   "audio/relax/relax_22.mp3": {
     "md5Checksum": "58cbec0a352126b0fcc50de7e3b0128f",
-    "overrides": {
-      "theme_default": {
-        "za_xh": {
-          "filePath": "audio/relax/za_xh/relax_22.mp3",
-          "md5Checksum": "953d5e6c04ba907a394bba4c955a4cb0",
-          "size_kb": 375.9
-        }
-      }
-    },
     "size_kb": 109.8
   },
   "audio/relax/relax_23.mp3": {
     "md5Checksum": "e819ffc55caa47550fa5818220944e8d",
-    "overrides": {
-      "theme_default": {
-        "za_xh": {
-          "filePath": "audio/relax/za_xh/relax_23.mp3",
-          "md5Checksum": "9c535b968f1cd7343be2f18d823eba3f",
-          "size_kb": 528.8
-        }
-      }
-    },
     "size_kb": 122.9
   },
   "audio/relax/relax_24.mp3": {
     "md5Checksum": "48b1dda6a44640930002f2bd641e5da5",
-    "overrides": {
-      "theme_default": {
-        "za_xh": {
-          "filePath": "audio/relax/za_xh/relax_24.mp3",
-          "md5Checksum": "49465c745ea126d6273921f0c9000ed3",
-          "size_kb": 401.3
-        }
-      }
-    },
     "size_kb": 121.3
   },
   "audio/relax/relax_3.mp3": {
@@ -274,8 +220,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_3.mp3",
-          "md5Checksum": "e82c07f03aeb155aadf0f3ebdd34233b",
-          "size_kb": 286.3
+          "md5Checksum": "d923e1dee2fa638f931365b8415717a7",
+          "size_kb": 136.6
         }
       }
     },
@@ -287,8 +233,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_4.mp3",
-          "md5Checksum": "8a66c4ca0b3ca3726a514d4ae4d4bc8f",
-          "size_kb": 1254.4
+          "md5Checksum": "17b1df7339b003fb88b9c893ef20f0f6",
+          "size_kb": 375.8
         }
       }
     },
@@ -300,8 +246,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_5.mp3",
-          "md5Checksum": "b0d0afe22c7500ab8e38eb7cedba4a7a",
-          "size_kb": 225
+          "md5Checksum": "80dee5337ee7906e7a66443b5799ec75",
+          "size_kb": 119.8
         }
       }
     },
@@ -309,15 +255,6 @@
   },
   "audio/relax/relax_6.mp3": {
     "md5Checksum": "fbd5169b3d0b2e8f45578e07912e2349",
-    "overrides": {
-      "theme_default": {
-        "za_xh": {
-          "filePath": "audio/relax/za_xh/relax_6.mp3",
-          "md5Checksum": "56f3281a068fedb641d346de12d37a26",
-          "size_kb": 482.8
-        }
-      }
-    },
     "size_kb": 280.7
   },
   "audio/relax/relax_7.mp3": {
@@ -326,8 +263,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_7.mp3",
-          "md5Checksum": "25521cbfeb54fdfd6d839bf928a0618a",
-          "size_kb": 371.4
+          "md5Checksum": "f6583c3caad341493ce7757284646b38",
+          "size_kb": 161.8
         }
       }
     },
@@ -339,8 +276,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_8.mp3",
-          "md5Checksum": "13c65abf540fc49e2736c662954b3ddc",
-          "size_kb": 492.9
+          "md5Checksum": "80c0ff008cdb728b505f8eae268d3f28",
+          "size_kb": 218.6
         }
       }
     },
@@ -352,8 +289,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/relax/za_xh/relax_9.mp3",
-          "md5Checksum": "a4243b4b5c216c699fd2c440a758a021",
-          "size_kb": 960.8
+          "md5Checksum": "bd9f331ffe6ca7e5042ac56764eefb5c",
+          "size_kb": 397.3
         }
       }
     },
@@ -365,8 +302,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_1on1_t.mp3",
-          "md5Checksum": "313e33d18f3397f52c5c48ff0b920e91",
-          "size_kb": 476.8
+          "md5Checksum": "e3f1a887458f0ea4b1bbac0b1d0db80a",
+          "size_kb": 295.3
         }
       }
     },
@@ -378,8 +315,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_consequence_t.mp3",
-          "md5Checksum": "6b8c5f0f4f10bfb9ebfbd80953075ad4",
-          "size_kb": 2472.6
+          "md5Checksum": "b094fe0da0f7354456f0002888d365f1",
+          "size_kb": 391.7
         }
       }
     },
@@ -391,8 +328,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_crisis_t.mp3",
-          "md5Checksum": "3e241e2397dda0bce82eb47d49b1d9f2",
-          "size_kb": 1625.6
+          "md5Checksum": "8145b55d72eed5fc05f5efaf2ff0d5df",
+          "size_kb": 257.3
         }
       }
     },
@@ -404,8 +341,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_grief_t.mp3",
-          "md5Checksum": "907a8222d789214433bcd4ed3bd75cde",
-          "size_kb": 495.2
+          "md5Checksum": "ce40fcda4432c9c62072d999779f47be",
+          "size_kb": 255.6
         }
       }
     },
@@ -417,8 +354,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_instruct_t.mp3",
-          "md5Checksum": "efd90a7be519d0fadf2a654f27f41b86",
-          "size_kb": 547.9
+          "md5Checksum": "01708b7f95389ea5155870dbedb78b8b",
+          "size_kb": 294.5
         }
       }
     },
@@ -430,8 +367,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_learn_t.mp3",
-          "md5Checksum": "8a422a617585da2f0c9bec02fd84820a",
-          "size_kb": 341
+          "md5Checksum": "af2f973088fb7b279eb42f7b82fea7df",
+          "size_kb": 232.3
         }
       }
     },
@@ -443,8 +380,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_money_t.mp3",
-          "md5Checksum": "d1d53ee3e5e8ec0a2eb730a4abb0ddbc",
-          "size_kb": 436.3
+          "md5Checksum": "3c543679254288c89544806ea390c8c4",
+          "size_kb": 239
         }
       }
     },
@@ -456,8 +393,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_praise_t.mp3",
-          "md5Checksum": "c80b3c8dc6d0d41f24210b263324b7ae",
-          "size_kb": 459.3
+          "md5Checksum": "37cb6047aaaf2fc0b0e324aa2f5114d5",
+          "size_kb": 228.4
         }
       }
     },
@@ -469,8 +406,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_rules_t.mp3",
-          "md5Checksum": "691626de9d5dd660e354f4311185d862",
-          "size_kb": 2555.2
+          "md5Checksum": "2df7dc3faf13decf47931ed9ecebe050",
+          "size_kb": 354.7
         }
       }
     },
@@ -482,8 +419,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_safe_t.mp3",
-          "md5Checksum": "65bda1a5e8a37a7f975a211be2076d77",
-          "size_kb": 2044
+          "md5Checksum": "0e84a16b34cfd31356bdb94f80004cd5",
+          "size_kb": 322.3
         }
       }
     },
@@ -495,8 +432,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_self_care_t.mp3",
-          "md5Checksum": "342a7cd8fdf5d01d086059cef2a2393d",
-          "size_kb": 267.7
+          "md5Checksum": "4e22d9fa0971beac65f5a9c4aa814d08",
+          "size_kb": 190.2
         }
       }
     },
@@ -508,8 +445,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_solve_t.mp3",
-          "md5Checksum": "d1b920acd4f394bfe38762791b30978a",
-          "size_kb": 487.9
+          "md5Checksum": "732bb640a9935e1dff58d98cee33a622",
+          "size_kb": 266.7
         }
       }
     },
@@ -521,8 +458,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_srh_t.mp3",
-          "md5Checksum": "6cd9259fa9167db18db0e2b554818d64",
-          "size_kb": 1101.3
+          "md5Checksum": "2ff5c4c6c8fe174e706491c668451c4f",
+          "size_kb": 283.8
         }
       }
     },
@@ -534,8 +471,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_stress_t.mp3",
-          "md5Checksum": "4d2c09a43a055e568d1d44d177c0a52c",
-          "size_kb": 361.4
+          "md5Checksum": "927f759c2ed1262dc42af330405019ec",
+          "size_kb": 213.1
         }
       }
     },
@@ -547,8 +484,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/caregiver/za_xh/caregiver_test_svp_t.mp3",
-          "md5Checksum": "bc45734824da1926d9ac82e528f70dc5",
-          "size_kb": 456.7
+          "md5Checksum": "3e015b51c511b0f706fb2f1bda7d824a",
+          "size_kb": 240.1
         }
       }
     },
@@ -560,8 +497,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_1on1_t.mp3",
-          "md5Checksum": "0fd2f111eecd99548fd3eff1005b1dd8",
-          "size_kb": 472.4
+          "md5Checksum": "6f43ec5ea0fa5b6ae2419feb684bb6f5",
+          "size_kb": 272.3
         }
       }
     },
@@ -573,8 +510,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_consequence_t.mp3",
-          "md5Checksum": "52d611516157415bdcfb471dbd4b8e60",
-          "size_kb": 2259.3
+          "md5Checksum": "985de99a54b42c3cebb52f2a7c8aa4d4",
+          "size_kb": 550.2
         }
       }
     },
@@ -586,8 +523,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_crisis_t.mp3",
-          "md5Checksum": "facedb6b11aec9abe9f847e7132de339",
-          "size_kb": 761.2
+          "md5Checksum": "b7f8bd25f049c1d73c75e58458cfd0df",
+          "size_kb": 460
         }
       }
     },
@@ -599,8 +536,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_grief_t.mp3",
-          "md5Checksum": "407bb87ab3833ce9ed85d11a69ffd021",
-          "size_kb": 461
+          "md5Checksum": "205fef4f5c2ea911f384c633e35d231d",
+          "size_kb": 230.2
         }
       }
     },
@@ -612,8 +549,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_instruct_t.mp3",
-          "md5Checksum": "4cd32c38cd2056e56e9eb2e1cb22ee12",
-          "size_kb": 377.5
+          "md5Checksum": "b22de8da830480fa3053d27925d86173",
+          "size_kb": 182.4
         }
       }
     },
@@ -625,8 +562,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_learn_t.mp3",
-          "md5Checksum": "de589605027d19efc17635c970288eb6",
-          "size_kb": 361
+          "md5Checksum": "b26532b357b2b185a8f2fa474b275184",
+          "size_kb": 210
         }
       }
     },
@@ -638,8 +575,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_money_t.mp3",
-          "md5Checksum": "b40664af92c7dd75faa7042cab77c35e",
-          "size_kb": 465.9
+          "md5Checksum": "cf506f581f1376d4cbc56313da433e42",
+          "size_kb": 254
         }
       }
     },
@@ -651,8 +588,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_praise_t.mp3",
-          "md5Checksum": "d2877a4ada8d580cadf26872514a1aea",
-          "size_kb": 490.8
+          "md5Checksum": "a18794bb7a92507e57b2f86e97319b50",
+          "size_kb": 287.8
         }
       }
     },
@@ -664,8 +601,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_rules_t.mp3",
-          "md5Checksum": "a026f9a3f23dc27cee4651f76dc5f478",
-          "size_kb": 663.7
+          "md5Checksum": "ed5d445a3f76d36baf5d184807a20dd3",
+          "size_kb": 416.4
         }
       }
     },
@@ -677,8 +614,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_safe_t.mp3",
-          "md5Checksum": "556493bfb9ba2e8a7df1bef840948910",
-          "size_kb": 908.6
+          "md5Checksum": "90db773ebd71e868a18069c8aeec79e6",
+          "size_kb": 548.8
         }
       }
     },
@@ -690,8 +627,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_self_care_t.mp3",
-          "md5Checksum": "d60dbc305e8d73a8e873be464905d76b",
-          "size_kb": 1112
+          "md5Checksum": "588402add5af127bb8a12a60b5f50065",
+          "size_kb": 186
         }
       }
     },
@@ -703,8 +640,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_solve_t.mp3",
-          "md5Checksum": "1a5fb20ef48e71114898403039bf60ad",
-          "size_kb": 417.5
+          "md5Checksum": "dea559f28d7d9ba73efe315b3eba6636",
+          "size_kb": 239.9
         }
       }
     },
@@ -716,8 +653,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_srh_t.mp3",
-          "md5Checksum": "62af9a170ce8312d3ee25e4ad086e4f8",
-          "size_kb": 543.4
+          "md5Checksum": "901af0afb74fec104fd3d4ffc7eedfc4",
+          "size_kb": 333.2
         }
       }
     },
@@ -729,8 +666,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_stress_t.mp3",
-          "md5Checksum": "1be0799851daffa9c599f422656f7370",
-          "size_kb": 1426.1
+          "md5Checksum": "9ca0a93618dfa15be96028a25051a2b9",
+          "size_kb": 260.1
         }
       }
     },
@@ -742,8 +679,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/testimonials/teen/za_xh/teen_test_svp_t.mp3",
-          "md5Checksum": "a6e19e494a37666db108f91b186483bb",
-          "size_kb": 485.1
+          "md5Checksum": "4f69d0f503b48d2b12f9eefe9a9b9440",
+          "size_kb": 290.7
         }
       }
     },
@@ -751,6 +688,15 @@
   },
   "audio/teen/topic_intros/1on1_intro_t.mp3": {
     "md5Checksum": "d4f76ba1bfc335ffa698168ed96f0102",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/teen/topic_intros/za_xh/1on1_intro_t.mp3",
+          "md5Checksum": "839fcbaec1dfc2eaeff1d4da30877c87",
+          "size_kb": 110.2
+        }
+      }
+    },
     "size_kb": 206
   },
   "audio/teen/topic_intros/celebrate_intro_t.mp3": {
@@ -759,8 +705,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/topic_intros/za_xh/celebrate_intro_t.mp3",
-          "md5Checksum": "c167edb6537364154edc36300cc0cd25",
-          "size_kb": 491.8
+          "md5Checksum": "f1dbd7bf600a16e5b6200fb4df8e5ce6",
+          "size_kb": 267.6
         }
       }
     },
@@ -768,10 +714,28 @@
   },
   "audio/teen/topic_intros/consequence_intro_t.mp3": {
     "md5Checksum": "79988fe3552172a7c4998680e6d96499",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/teen/topic_intros/za_xh/consequence_intro_t.mp3",
+          "md5Checksum": "030b5efbb47ab3d6e53361df8f998c51",
+          "size_kb": 164.4
+        }
+      }
+    },
     "size_kb": 239.1
   },
   "audio/teen/topic_intros/crisis_intro_t.mp3": {
     "md5Checksum": "eb582e1a0b1cc9e7bba7b5dab4bd556a",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/teen/topic_intros/za_xh/crisis_intro_t.mp3",
+          "md5Checksum": "9f0f43af592c51b6bfeab8e36233df4c",
+          "size_kb": 219.5
+        }
+      }
+    },
     "size_kb": 971.8
   },
   "audio/teen/topic_intros/grief_intro_t.mp3": {
@@ -780,8 +744,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/topic_intros/za_xh/grief_intro_t.mp3",
-          "md5Checksum": "6e12ce402e9680ebc1c75dc63e95d857",
-          "size_kb": 865.3
+          "md5Checksum": "a782c3bcdc9d2eb5261402067943326b",
+          "size_kb": 167.3
         }
       }
     },
@@ -793,8 +757,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/topic_intros/za_xh/instruct_intro_t.mp3",
-          "md5Checksum": "8a8cb0fca008b4ed56db1d9999bf639c",
-          "size_kb": 237.5
+          "md5Checksum": "1f84da49c29e75c3baea919227a602d0",
+          "size_kb": 128.2
         }
       }
     },
@@ -806,8 +770,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/topic_intros/za_xh/learn_intro_t.mp3",
-          "md5Checksum": "f721d7403fed3166a0fbad2a20275512",
-          "size_kb": 886.1
+          "md5Checksum": "ee8e529b1601bf5d171681a45988d513",
+          "size_kb": 162.6
         }
       }
     },
@@ -819,8 +783,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/topic_intros/za_xh/money_intro_t.mp3",
-          "md5Checksum": "1734d8a5ea080c5d8ec1e51ef2afeb90",
-          "size_kb": 329.9
+          "md5Checksum": "71a0efc0308e1f5dc8cf56fb68dc19e1",
+          "size_kb": 167.5
         }
       }
     },
@@ -828,10 +792,28 @@
   },
   "audio/teen/topic_intros/praise_intro_t.mp3": {
     "md5Checksum": "de0e049c103dd6e695cb35ee723fc1b4",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/teen/topic_intros/za_xh/praise_intro_t.mp3",
+          "md5Checksum": "5133cbda2a774386e5dee38302823420",
+          "size_kb": 102.5
+        }
+      }
+    },
     "size_kb": 532.2
   },
   "audio/teen/topic_intros/rules_intro_t.mp3": {
     "md5Checksum": "64c1f8d2607e4af37bd3bc380f70a66c",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/teen/topic_intros/za_xh/rules_intro_t.mp3",
+          "md5Checksum": "e5a990ae1ccca51532a6d2c473160c29",
+          "size_kb": 272
+        }
+      }
+    },
     "size_kb": 292.9
   },
   "audio/teen/topic_intros/safe_intro_t.mp3": {
@@ -840,8 +822,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/topic_intros/za_xh/safe_intro_t.mp3",
-          "md5Checksum": "be522a94d8fd75763c3fa7a6d98a4278",
-          "size_kb": 425.2
+          "md5Checksum": "aee54b6f5de97d28cc4eeacd4907042e",
+          "size_kb": 241.3
         }
       }
     },
@@ -853,8 +835,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/topic_intros/za_xh/self_care_intro_t.mp3",
-          "md5Checksum": "8e809d9377a6e8543c86617c7ddc2043",
-          "size_kb": 1674.6
+          "md5Checksum": "ad7325f5ad621293d81d07643768ae04",
+          "size_kb": 242.4
         }
       }
     },
@@ -866,8 +848,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/topic_intros/za_xh/solve_intro_t.mp3",
-          "md5Checksum": "55d0b1fbc8fd041abcdb9f552f63b72e",
-          "size_kb": 434.6
+          "md5Checksum": "0954be2c8fe202e3d9ab7ccfb1ac25b3",
+          "size_kb": 243.6
         }
       }
     },
@@ -879,8 +861,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/topic_intros/za_xh/srh_intro_t.mp3",
-          "md5Checksum": "70688d616be03b18f0b5c635998e80a9",
-          "size_kb": 314.8
+          "md5Checksum": "f1d1b5898841ef1501aaa726d04ff3ed",
+          "size_kb": 158.7
         }
       }
     },
@@ -892,8 +874,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/topic_intros/za_xh/stress_intro_t.mp3",
-          "md5Checksum": "fe7758991e4c81b9f89d6906885f0303",
-          "size_kb": 732.1
+          "md5Checksum": "cdbf623601dfdca5e848e75ae815dd6f",
+          "size_kb": 201.5
         }
       }
     },
@@ -905,8 +887,8 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/topic_intros/za_xh/svp_intro_t.mp3",
-          "md5Checksum": "fdb0a4d43a92686e3e2c57615c926e67",
-          "size_kb": 774
+          "md5Checksum": "f14d3eee60b4a5680bca35675218b5ef",
+          "size_kb": 138.8
         }
       }
     },
@@ -918,245 +900,246 @@
       "theme_default": {
         "za_xh": {
           "filePath": "audio/teen/topic_intros/za_xh/workshops_reflection_t.mp3",
-          "md5Checksum": "b78e5f33b358745d11da68febba34e8a",
-          "size_kb": 2579.7
+          "md5Checksum": "7042546af28f6104f6003a80403346c5",
+          "size_kb": 404.2
         }
       }
     },
     "size_kb": 258.6
   },
-  "audio/timer/bell_1.mp3": {
-    "md5Checksum": "19700b739837b47ca934707f1c16e7b7",
-    "size_kb": 121.6
-  },
   "audio/yc/1on1_audio_1.mp3": {
-    "md5Checksum": "914a60c81eff3b75236f87d3cc50aa0c",
+    "md5Checksum": "c44c5ab18153cf39a8b4f4a5faa003ed",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/1on1_audio_1.mp3",
-          "md5Checksum": "be695f4724e80820574cc014b774997b",
-          "size_kb": 311.6
+          "md5Checksum": "947a82bf28fe4b13f2dcb1bea79b96d4",
+          "size_kb": 185.4
         }
       }
     },
-    "size_kb": 891.7
+    "size_kb": 267.1
   },
   "audio/yc/1on1_audio_2.mp3": {
-    "md5Checksum": "404d9f956c13530e0f5f12b42ed0a18f",
+    "md5Checksum": "e8ca2e70cb50e8948f3e58821581c067",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/1on1_audio_2.mp3",
-          "md5Checksum": "3f340926347e532f9329a720fcb26125",
-          "size_kb": 1998.1
+          "md5Checksum": "daee4afddbca2befac95cea2578365e1",
+          "size_kb": 500.5
         }
       }
     },
-    "size_kb": 619.1
+    "size_kb": 401.8
   },
   "audio/yc/care_audio_1.mp3": {
-    "md5Checksum": "88e6da9cff143cb7f1a2238b9756c62c",
+    "md5Checksum": "91d61d16d1b8ccdbd5214e6ce73844de",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/care_audio_1.mp3",
-          "md5Checksum": "4a3ff309bdbe28a69f9a1d6fac7f2f76",
-          "size_kb": 237.4
+          "md5Checksum": "11285af1f57f61a4e0bb1e834df5af03",
+          "size_kb": 168.3
         }
       }
     },
-    "size_kb": 527.5
+    "size_kb": 267.3
   },
   "audio/yc/care_audio_2.mp3": {
-    "md5Checksum": "629bd89e0c85b0273249cc37c83b93cb",
+    "md5Checksum": "da26bfedf639c54b9fc9a854589c1a01",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/care_audio_2.mp3",
-          "md5Checksum": "32877e75d304cc34aba72f37866a482a",
-          "size_kb": 308.1
+          "md5Checksum": "b3e77f05d6e1c2019e1d6e394e37b4e6",
+          "size_kb": 172
         }
       }
     },
-    "size_kb": 1166.3
-  },
-  "audio/yc/celebrate_audio_1.mp3": {
-    "md5Checksum": "e117f1c42e911d67103d348f1da6c733",
-    "size_kb": 497.1
+    "size_kb": 130.8
   },
   "audio/yc/consequences_audio_1.mp3": {
-    "md5Checksum": "da966e25d73ece64a0185bbabea4ff55",
+    "md5Checksum": "dd572ceca20e7194cad4c1e453745828",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/consequences_audio_1.mp3",
-          "md5Checksum": "37c18f7d155cd9ad1196030cc387ed2c",
-          "size_kb": 211.6
+          "md5Checksum": "302eb5ef2f4b5f33b53cb6a7d0c41b1f",
+          "size_kb": 148.5
         }
       }
     },
-    "size_kb": 800.2
+    "size_kb": 245
   },
   "audio/yc/consequences_audio_2.mp3": {
-    "md5Checksum": "2eee64893d5391060a899f3b8b1cba9c",
+    "md5Checksum": "b968270cdea83ad3c5bc373cacfa0307",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/consequences_audio_2.mp3",
-          "md5Checksum": "54f9aa9eeb88ecaf0e4a0c7ff7e55fa5",
-          "size_kb": 1811.4
+          "md5Checksum": "f71c5bc3f189387dbf6cb46f3bee6366",
+          "size_kb": 263.1
         }
       }
     },
-    "size_kb": 1206.6
+    "size_kb": 369.1
   },
   "audio/yc/feelings_audio_1.mp3": {
-    "md5Checksum": "d84e95e3a4fc7d31a06679b66ddc83e2",
+    "md5Checksum": "c9f6541b3e90250513bab92b32007a72",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/feelings_audio_1.mp3",
-          "md5Checksum": "b3f1161d6e78935560a636e7031bd3b1",
-          "size_kb": 968.5
+          "md5Checksum": "816bc7db0aa684ce0b00bc71a6d317e7",
+          "size_kb": 152.7
         }
       }
     },
-    "size_kb": 336
+    "size_kb": 106.7
   },
   "audio/yc/feelings_audio_2.mp3": {
-    "md5Checksum": "dedc55e55a8afbae4868fed76695133a",
+    "md5Checksum": "026dee92519da5ee6cd411e98905b32d",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/feelings_audio_2.mp3",
-          "md5Checksum": "ac6327ad8c859dcf0f5984494b6d54aa",
-          "size_kb": 731.2
+          "md5Checksum": "184a6edd0b33b8c51839453b8db88d41",
+          "size_kb": 464.8
         }
       }
     },
-    "size_kb": 635.8
+    "size_kb": 132.4
   },
   "audio/yc/instructions_audio_1.mp3": {
-    "md5Checksum": "5a5683d533ea002a759babce524c68b5",
+    "md5Checksum": "467e96dc9cd1d1209e1a68d3699b3615",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/instructions_audio_1.mp3",
-          "md5Checksum": "5783596d6c4f7da3d0eb4628fc4ae621",
-          "size_kb": 993.2
+          "md5Checksum": "fcea885273637889884200a37b9bbba8",
+          "size_kb": 166.7
         }
       }
     },
-    "size_kb": 613.7
+    "size_kb": 309.2
   },
   "audio/yc/instructions_audio_2.mp3": {
-    "md5Checksum": "b26e8d93b7f12a64b5ef57a710075b9e",
+    "md5Checksum": "3a33b2d7768f58e6f9b81097b3a335f6",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/instructions_audio_2.mp3",
-          "md5Checksum": "ee65892b482a35f941f23281f250ea0e",
-          "size_kb": 2288.9
+          "md5Checksum": "042f94de1471dddd8a5775f9f9cc9247",
+          "size_kb": 362.4
         }
       }
     },
-    "size_kb": 784.2
+    "size_kb": 226.8
   },
   "audio/yc/learn_audio_1.mp3": {
-    "md5Checksum": "6b4099d05a18ee52d87c5807f4ac8e2f",
+    "md5Checksum": "8f2655a7df692ca45fc403562ca69240",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/learn_audio_1.mp3",
-          "md5Checksum": "24a9d4128ffc014090fd73dd4bb011e2",
-          "size_kb": 266.7
+          "md5Checksum": "dd44049df8dc423e7b26b6e02ad18dd9",
+          "size_kb": 184.9
         }
       }
     },
-    "size_kb": 563.1
+    "size_kb": 110.2
   },
   "audio/yc/learn_audio_2.mp3": {
-    "md5Checksum": "2b55c16546f204769edd6e55b48bf033",
+    "md5Checksum": "5f6c756cdf8fe953cda8670afadf9e3b",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/learn_audio_2.mp3",
-          "md5Checksum": "e251fb3550c7fdf39c9d2b7db8a47f23",
-          "size_kb": 243.6
+          "md5Checksum": "dec4378337ed12fc45df02157c32b2ac",
+          "size_kb": 173.7
         }
       }
     },
-    "size_kb": 254.5
+    "size_kb": 131.7
   },
   "audio/yc/praise_audio_1.mp3": {
-    "md5Checksum": "1538cf77eb8892d25c4a13638b554f6c",
+    "md5Checksum": "57866cabc1f5796bbc84d16b6c78b427",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/praise_audio_1.mp3",
-          "md5Checksum": "fc5ebf9ed1b528e20db5f31b2e9f6b8f",
-          "size_kb": 882.4
+          "md5Checksum": "bbab85c25e1462aed1488d53c65816f8",
+          "size_kb": 142.2
         }
       }
     },
-    "size_kb": 344
+    "size_kb": 93.9
   },
   "audio/yc/praise_audio_2.mp3": {
-    "md5Checksum": "daa1a94f320a65f047e646b825e77899",
+    "md5Checksum": "621b7defd365f1a93f795a3f9de5d5dd",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/praise_audio_2.mp3",
-          "md5Checksum": "049bc1f163c6b0538412f9e5d7b0ffd6",
-          "size_kb": 562.9
+          "md5Checksum": "439fa0d4e03643d6e1aed377a73004d1",
+          "size_kb": 352.9
         }
       }
     },
-    "size_kb": 1042.6
+    "size_kb": 515.4
   },
   "audio/yc/rules_audio_1.mp3": {
-    "md5Checksum": "fc3fdfff3c54fbff8e54da7c7bb86b9a",
+    "md5Checksum": "5ca459db3ac604297b3061b02791cfaf",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/rules_audio_1.mp3",
-          "md5Checksum": "c6e769754a2e932ed7422a71e0fe8390",
-          "size_kb": 250.3
+          "md5Checksum": "60e235ddab7053d0914a87e88580481c",
+          "size_kb": 141.4
         }
       }
     },
-    "size_kb": 427.6
+    "size_kb": 83.9
   },
   "audio/yc/rules_audio_2.mp3": {
-    "md5Checksum": "50855b061c28a61a2f790cf129fbb041",
+    "md5Checksum": "efb6223ce15e689fd12cc77644a10f54",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/rules_audio_2.mp3",
-          "md5Checksum": "2399c40c5fbaeb6f20f781e1b1e81037",
-          "size_kb": 832.9
+          "md5Checksum": "9b56f46345180af847ae638316576e16",
+          "size_kb": 544.3
         }
       }
     },
-    "size_kb": 742.7
+    "size_kb": 237.1
   },
   "audio/yc/solve_audio_1.mp3": {
-    "md5Checksum": "a559e78cb51fbf843a71b6478cb8de88",
-    "size_kb": 983.4
+    "md5Checksum": "6068243c33abc53a0de050ee1b75e6f7",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/solve_audio_1.mp3",
+          "md5Checksum": "065a28dc5ddbc8f7e8323cccf0c61a2a",
+          "size_kb": 446
+        }
+      }
+    },
+    "size_kb": 161.6
   },
   "audio/yc/solve_audio_2.mp3": {
-    "md5Checksum": "308831f3c5dff8b0f334d2385e2444cb",
+    "md5Checksum": "f1c49ab4d84c1a7c7893ae823be6441c",
     "overrides": {
       "theme_default": {
         "za_xh": {
           "filePath": "audio/yc/za_xh/solve_audio_2.mp3",
-          "md5Checksum": "678c7fe85061e425acc2a549a3c6108c",
-          "size_kb": 731.6
+          "md5Checksum": "f86ddfaa1ba7fe5175fd7e5bedd890d5",
+          "size_kb": 490.9
         }
       }
     },
-    "size_kb": 468.1
+    "size_kb": 187.6
   },
   "contents.json": {
     "md5Checksum": "f269da53d6bbfe0cd1cfd487258f0f3e",
@@ -1198,81 +1181,65 @@
     "md5Checksum": "124293c45f8dcb58e8f9db11cc242e4e",
     "size_kb": 38.9
   },
-  "images/activities/charades_icon.svg": {
-    "md5Checksum": "9cfa63c556f34a8ced65492ef7d93815",
-    "size_kb": 35.6
+  "images/activities/checkin_chat.svg": {
+    "md5Checksum": "9baefc918f7ed076f77b4ed6bb73fcf8",
+    "size_kb": 42.5
   },
   "images/activities/chores.svg": {
     "md5Checksum": "cf600daf4ad18d93c05b8b32bfd380c1",
     "size_kb": 110.2
   },
-  "images/activities/chores_icon.svg": {
-    "md5Checksum": "b84ab70fb7d4753b83088971ca5eed54",
-    "size_kb": 9.5
-  },
   "images/activities/circle_dance.svg": {
-    "md5Checksum": "41401d38dfb97fca39cf88a89ce4bcfb",
-    "size_kb": 117.2
+    "md5Checksum": "c73181bced101248835578f0ee356552",
+    "size_kb": 118.7
   },
   "images/activities/clean.svg": {
     "md5Checksum": "f728ca35aab3bd680551bd24715ccb9e",
     "size_kb": 39.9
   },
-  "images/activities/clean_icon.svg": {
-    "md5Checksum": "27af36e0a0d877452326c148f79046d9",
-    "size_kb": 35.4
-  },
   "images/activities/cook.svg": {
     "md5Checksum": "30a219436bf4ac290b4c1f6665495428",
     "size_kb": 45.1
-  },
-  "images/activities/cook_icon.svg": {
-    "md5Checksum": "b9bf2a22df7dfc15fdbef7c51255b9be",
-    "size_kb": 12.4
   },
   "images/activities/cook_traditional.svg": {
     "md5Checksum": "f403b4569501b082ca9cb930b319e008",
     "size_kb": 40.7
   },
-  "images/activities/cook_traditional_icon.svg": {
-    "md5Checksum": "bc574a8f3f3f008182212786ab32d8b5",
-    "size_kb": 56.1
-  },
   "images/activities/cooking_with_maths.svg": {
-    "md5Checksum": "69813c129f9f8f763dace796ead790c4",
-    "size_kb": 50.9
+    "md5Checksum": "618fd17645d70952cde8ef2bb6c72a72",
+    "size_kb": 190
   },
   "images/activities/dance.svg": {
     "md5Checksum": "4c7f146cd55ac436fa0ff1bd90e0cb96",
     "size_kb": 42.3
   },
-  "images/activities/dance_icon.svg": {
-    "md5Checksum": "e3243cab6faa1e91bb1cb9276b31b0bf",
-    "size_kb": 33
-  },
   "images/activities/dream_travel.svg": {
     "md5Checksum": "3eebe80fa26eee61a6f3760a15906716",
     "size_kb": 136.9
+  },
+  "images/activities/emotion_cards.svg": {
+    "md5Checksum": "50a2ae4a3a5a7518f40f015b5046b585",
+    "size_kb": 40.1
   },
   "images/activities/face_to_face_fun.svg": {
     "md5Checksum": "47714e7dc08b4e4bd06d4cda68d04288",
     "size_kb": 81.2
   },
+  "images/activities/famous_party.svg": {
+    "md5Checksum": "90a3a2ebeedfa6a411e65f11d0f1df78",
+    "size_kb": 77
+  },
   "images/activities/find_pair.svg": {
     "md5Checksum": "9ec3df214563fca68a39c9e305f675a9",
     "size_kb": 36.9
   },
-  "images/activities/find_pair_icon.svg": {
-    "md5Checksum": "74e72009a17b9a05b4405c83a965e0c6",
-    "size_kb": 29.1
+  "images/activities/friendly_chat.svg": {
+    "md5Checksum": "a75312842433301c235018cb55fb4745",
+    "size_kb": 127.1
   },
   "images/activities/garden.svg": {
     "md5Checksum": "cabf8df5c9ab9146ac75cf546b11dc0c",
     "size_kb": 109.9
-  },
-  "images/activities/garden_icon.svg": {
-    "md5Checksum": "4193470f7374052b39425e1c53037884",
-    "size_kb": 15.4
   },
   "images/activities/guess_emotion.svg": {
     "md5Checksum": "ab2916d2c577acf5405b167e144a52c4",
@@ -1290,10 +1257,6 @@
     "md5Checksum": "300a9fe366491f7c4f0569507a5c40ad",
     "size_kb": 59.8
   },
-  "images/activities/long_term_goal_icon.svg": {
-    "md5Checksum": "3bef4472d53f14418e7d51e731bbb16d",
-    "size_kb": 62.1
-  },
   "images/activities/make_story_child.svg": {
     "md5Checksum": "a6d36f5f9cce46c8b80642bcda8bc5ce",
     "size_kb": 66.1
@@ -1301,10 +1264,6 @@
   "images/activities/memory_game.svg": {
     "md5Checksum": "245b1dc2166ff8af98e5ceab9d9bc444",
     "size_kb": 40
-  },
-  "images/activities/memory_game_icon.svg": {
-    "md5Checksum": "d112bef480cdbe65fd8e859b5e201ebf",
-    "size_kb": 31.5
   },
   "images/activities/mystery_bag.svg": {
     "md5Checksum": "70e8a015344c1862c28b3d52b16cf483",
@@ -1314,33 +1273,33 @@
     "md5Checksum": "897c43c3119ab34894a89906d446c4ae",
     "size_kb": 58.4
   },
-  "images/activities/mystery_box_icon.svg": {
-    "md5Checksum": "d8297148af9b8fa82465da5f125a4393",
-    "size_kb": 28.4
-  },
   "images/activities/play_with_clothes.svg": {
     "md5Checksum": "c509eefad1553ff77d125d24ce8b279f",
     "size_kb": 102.7
+  },
+  "images/activities/reflect_positive.svg": {
+    "md5Checksum": "09e9bd6df5795d8d2809406fb18301f8",
+    "size_kb": 38.2
   },
   "images/activities/role_play.svg": {
     "md5Checksum": "ceaf14888ddd5b66d687b40a25f6ca29",
     "size_kb": 38.5
   },
-  "images/activities/role_play_icon.svg": {
-    "md5Checksum": "9f6ed206c823aeaa84f510c2b6f8c6a9",
-    "size_kb": 35.6
-  },
   "images/activities/rolling_ball_fun.svg": {
     "md5Checksum": "25a6bbbdaf1be49c3117b16cd6a2c3b0",
     "size_kb": 90.6
   },
+  "images/activities/secret_handshake.svg": {
+    "md5Checksum": "84d9c990a16c86aa866f1bc5eba5714b",
+    "size_kb": 56.1
+  },
+  "images/activities/shadow_play.svg": {
+    "md5Checksum": "f885a1c8388ddc5ccf0ca3b51bfdc06b",
+    "size_kb": 5.6
+  },
   "images/activities/short_term_goal.svg": {
     "md5Checksum": "682841dbe4a479cd10000c278c29c6a0",
     "size_kb": 41.9
-  },
-  "images/activities/short_term_goal_icon.svg": {
-    "md5Checksum": "8227d95be780ea2055425811e8ad2420",
-    "size_kb": 25
   },
   "images/activities/song.svg": {
     "md5Checksum": "0c5626a0c3fd782cab1ca7143f1cce4d",
@@ -1354,81 +1313,33 @@
     "md5Checksum": "c4c85224fdca4e4b30e05351e16beb26",
     "size_kb": 34.6
   },
-  "images/activities/talk_1.svg": {
-    "md5Checksum": "4554dfb6ecb01b51f9bde46c895dd850",
-    "size_kb": 76.9
-  },
-  "images/activities/talk_1_icon.svg": {
-    "md5Checksum": "3a69a60733e12baf2e221a05e1b9b57b",
-    "size_kb": 45
-  },
-  "images/activities/talk_2.svg": {
-    "md5Checksum": "d81608336cf37c88c23d91e896818b32",
-    "size_kb": 37
-  },
-  "images/activities/talk_2_icon.svg": {
-    "md5Checksum": "13cff143122bc66f976a634e3e354d09",
-    "size_kb": 19.1
-  },
-  "images/activities/talk_3.svg": {
-    "md5Checksum": "9baefc918f7ed076f77b4ed6bb73fcf8",
-    "size_kb": 42.5
-  },
-  "images/activities/talk_3_icon.svg": {
-    "md5Checksum": "1782cb7f15f2018b3184c56e3879623d",
-    "size_kb": 27.7
-  },
-  "images/activities/talk_4.svg": {
-    "md5Checksum": "90a3a2ebeedfa6a411e65f11d0f1df78",
-    "size_kb": 77
-  },
-  "images/activities/talk_4_icon.svg": {
-    "md5Checksum": "0fbc40651722d35a9f567a7b1e82eab1",
-    "size_kb": 46.3
-  },
-  "images/activities/talk_5.svg": {
-    "md5Checksum": "9f45b0499099a5194db5b4e490b22805",
-    "size_kb": 81.3
-  },
-  "images/activities/talk_5_icon.svg": {
-    "md5Checksum": "daa367d827df76d1925c2907210d35c5",
-    "size_kb": 53.3
+  "images/activities/take_a_pause.svg": {
+    "md5Checksum": "b61b7b9fa390f802f89be5810cd20fdf",
+    "size_kb": 44.8
   },
   "images/activities/talk_6.svg": {
     "md5Checksum": "948c8b45543cb7096cbc92dc9839e1d8",
     "size_kb": 37.5
   },
-  "images/activities/talk_6_icon.svg": {
-    "md5Checksum": "85cd3bdab5c3573d89cb5dfc84dd3e6f",
-    "size_kb": 23.5
-  },
-  "images/activities/talk_7.svg": {
-    "md5Checksum": "09e9bd6df5795d8d2809406fb18301f8",
-    "size_kb": 38.2
-  },
-  "images/activities/talk_7_icon.svg": {
-    "md5Checksum": "9babcf92f284b11971cebc4d19d569c4",
-    "size_kb": 22.9
-  },
-  "images/activities/tap_and_shake_band.svg": {
-    "md5Checksum": "c73181bced101248835578f0ee356552",
-    "size_kb": 118.7
-  },
   "images/activities/tell_stories.svg": {
     "md5Checksum": "8e4bf9e23d834b7a9a5c9804b0f5be64",
     "size_kb": 40.9
-  },
-  "images/activities/tell_stories_icon.svg": {
-    "md5Checksum": "e3cf4c777733a552004977b75617218e",
-    "size_kb": 28.6
   },
   "images/activities/thinking_games.svg": {
     "md5Checksum": "60219c1ce13c1f373dde3d6a6b386419",
     "size_kb": 107.3
   },
+  "images/activities/traffic_lights.svg": {
+    "md5Checksum": "5e3948b910f452522e7b04f7f9ec32ee",
+    "size_kb": 172.3
+  },
   "images/activities/tummy_time_safari.svg": {
     "md5Checksum": "27c3b4ba84cfa8926617d86d82346dbc",
     "size_kb": 106.2
+  },
+  "images/activities/two_truths.svg": {
+    "md5Checksum": "4554dfb6ecb01b51f9bde46c895dd850",
+    "size_kb": 76.9
   },
   "images/activities/unseen_guesses.svg": {
     "md5Checksum": "11037cea554c735f0313f926bf65a5cf",
@@ -1438,9 +1349,13 @@
     "md5Checksum": "02df3bef847be9127e82b84cc0b547d2",
     "size_kb": 101.3
   },
-  "images/activities/walk_icon.svg": {
-    "md5Checksum": "a5ab0f0590f8f928408c61fffa8d271b",
-    "size_kb": 98.4
+  "images/activities/yes_no_maybe.svg": {
+    "md5Checksum": "3dd39fbac80ce1f5135a20cdfc71b22c",
+    "size_kb": 58.2
+  },
+  "images/backgrounds/bottom_banner.svg": {
+    "md5Checksum": "6fd3925f566f90c9e8436c80392891d8",
+    "size_kb": 23.2
   },
   "images/backgrounds/homescreen_pattern.svg": {
     "md5Checksum": "5f3af7752ddded1343f7818e6ed7a868",
@@ -1454,13 +1369,9 @@
     "md5Checksum": "c84db4d3364362bea0912febbcd51ca1",
     "size_kb": 1358.6
   },
-  "images/backgrounds/mountains.svg": {
-    "md5Checksum": "7b41cc70d06d5766bd55599e5430acc4",
-    "size_kb": 1.9
-  },
   "images/backgrounds/mountains_trees.svg": {
-    "md5Checksum": "95c2c77b97291f9fd66996ec0d9e0752",
-    "size_kb": 51.5
+    "md5Checksum": "6fd3925f566f90c9e8436c80392891d8",
+    "size_kb": 23.2
   },
   "images/backgrounds/progress_arc.png": {
     "md5Checksum": "91bd746e278b1939a8eb7ad1ef6cc59d",
@@ -1575,8 +1486,8 @@
     "size_kb": 20.4
   },
   "images/character_icons/ZA_FACILITATOR.svg": {
-    "md5Checksum": "acc7b90fc8b5e99032eac24fe1d572e7",
-    "size_kb": 12.2
+    "md5Checksum": "2199174ba65218322839c6201663ae07",
+    "size_kb": 17.7
   },
   "images/character_icons/faces-22.svg": {
     "md5Checksum": "9a89a07129992c7a3ecdb318a6a4e791",
@@ -1639,8 +1550,8 @@
     "size_kb": 36.3
   },
   "images/homescreen/check_in/traditional_rondavel_closed.svg": {
-    "md5Checksum": "c44cdf8ed586621e4bc8bb85abda44fb",
-    "size_kb": 24.3
+    "md5Checksum": "7f3b4f9ea35b08cc8d07a7a29e73ed78",
+    "size_kb": 23.9
   },
   "images/homescreen/check_in/traditional_rondavel_open.svg": {
     "md5Checksum": "aa3e4dcd9c6c7857af8ced034c0331f6",
@@ -1722,10 +1633,6 @@
     "md5Checksum": "20584645e577eae3d8da9fb52caa5527",
     "size_kb": 59.9
   },
-  "images/homescreen/self_care_t.svg": {
-    "md5Checksum": "20584645e577eae3d8da9fb52caa5527",
-    "size_kb": 59.9
-  },
   "images/homescreen/solve_t.svg": {
     "md5Checksum": "1e5cb2e3048cea776976e1181e63dcb7",
     "size_kb": 53.7
@@ -1738,7 +1645,7 @@
     "md5Checksum": "31fa7d295703b97885392888bf8bafa7",
     "size_kb": 16.9
   },
-  "images/homescreen/svp.svg": {
+  "images/homescreen/svp_t.svg": {
     "md5Checksum": "67a36d22ec7ac03ff60c1af08227e4df",
     "size_kb": 25.4
   },
@@ -1787,16 +1694,12 @@
     "size_kb": 4.2
   },
   "images/icons/faces/angry.svg": {
-    "md5Checksum": "afa3590bde28880ce17edb81ab1bd941",
-    "size_kb": 4.9
+    "md5Checksum": "fbed8e862bed4c3a20cc76fddaa29f6f",
+    "size_kb": 1.1
   },
   "images/icons/faces/confused.svg": {
-    "md5Checksum": "7ade9cb0af364994384dee2ead1a914c",
-    "size_kb": 4.9
-  },
-  "images/icons/faces/flushed_face.svg": {
-    "md5Checksum": "e1c496d2e55c18fe4afb483183eac20c",
-    "size_kb": 4.9
+    "md5Checksum": "1b6c3e959c1a2fb7b60a0204f3f51252",
+    "size_kb": 1.8
   },
   "images/icons/faces/happier.svg": {
     "md5Checksum": "0950af49455cc3a0f45fdb58a7729f69",
@@ -1807,8 +1710,8 @@
     "size_kb": 1.3
   },
   "images/icons/faces/happy.svg": {
-    "md5Checksum": "056be25057fbefb2c2139313dda3e1b4",
-    "size_kb": 53.5
+    "md5Checksum": "286df85cf5a71405938907c42a200e67",
+    "size_kb": 0.6
   },
   "images/icons/faces/happy_face_new.svg": {
     "md5Checksum": "f9e913914cb1f406f1aab3665240f0a8",
@@ -1818,17 +1721,13 @@
     "md5Checksum": "8f4bc93561fb7114ea8802a04a220fb8",
     "size_kb": 0.5
   },
-  "images/icons/faces/ok.svg": {
-    "md5Checksum": "1bda2f17d0e45c0f3c1ac558c451013c",
-    "size_kb": 46.6
-  },
   "images/icons/faces/ok_face_new.svg": {
     "md5Checksum": "007a3aaa58f1c01005e9535ebf8d60dc",
     "size_kb": 0.5
   },
   "images/icons/faces/sad.svg": {
-    "md5Checksum": "b35fa09b6b8ffb8fce50480779fd92f9",
-    "size_kb": 48.2
+    "md5Checksum": "1020fc8785a8f8aeeadfa74de88c73d3",
+    "size_kb": 0.6
   },
   "images/icons/faces/sad_face_new.svg": {
     "md5Checksum": "c5647f9bebf9c8bfc4080b1eb458a2be",
@@ -1846,17 +1745,9 @@
     "md5Checksum": "0d9e5d9d570750a6e0e5afff188ccf3a",
     "size_kb": 2.1
   },
-  "images/icons/faces/smiling.svg": {
-    "md5Checksum": "dad935fedb4ad63c3beda9f7655e690e",
-    "size_kb": 5.1
-  },
-  "images/icons/faces/stressed.svg": {
-    "md5Checksum": "5874657c20f20dcbdc1bf0c9c2958ec2",
-    "size_kb": 60
-  },
   "images/icons/faces/tired.svg": {
-    "md5Checksum": "3b719301ffe50ddd0efa674c6e3ee2fe",
-    "size_kb": 54
+    "md5Checksum": "978273858b64560b36bcd41d09ca3fb5",
+    "size_kb": 2.4
   },
   "images/icons/feather.svg": {
     "md5Checksum": "cf69cc2e8ba1f0aa7d15366c4d8df711",
@@ -2087,12 +1978,8 @@
     "size_kb": 26.6
   },
   "images/logos/favicon.png": {
-    "md5Checksum": "2265c040569691441d445a1696bd5035",
-    "size_kb": 6.3
-  },
-  "images/logos/plh.jpeg": {
-    "md5Checksum": "b3a2f016979cf079bd53d7e4a83c194a",
-    "size_kb": 9.4
+    "md5Checksum": "4d69d00da738dcea1c6c54a1a7814b27",
+    "size_kb": 149.9
   },
   "images/logos/plh_logomark.png": {
     "md5Checksum": "50743ae3369e45e94d5495af2fe5b1e3",
@@ -2102,9 +1989,21 @@
     "md5Checksum": "e73f142f2fd4c4d5d66cc438699a032c",
     "size_kb": 12.8
   },
+  "images/logos/sino_horizontal.svg": {
+    "md5Checksum": "06a8668df87e64b5e494c555d73c4472",
+    "size_kb": 251
+  },
+  "images/logos/sino_mark.svg": {
+    "md5Checksum": "a89c023dc10e0b7c4b98dab70e9c1fbe",
+    "size_kb": 461.7
+  },
+  "images/logos/sino_white.svg": {
+    "md5Checksum": "13fd07dd63d468100f36e87dcb4c276a",
+    "size_kb": 256.1
+  },
   "images/onboarding/facilitator_onboarding_icon.svg": {
-    "md5Checksum": "6f40a5cfd432ea36005c090ef2f43cd1",
-    "size_kb": 18.2
+    "md5Checksum": "3589dbd3034e59b2c08b606fb8c7317c",
+    "size_kb": 29.4
   },
   "images/onboarding/frustrated.svg": {
     "md5Checksum": "23b81d9fc4c0db3713281de53d658618",
@@ -2266,6 +2165,10 @@
     "md5Checksum": "d816a0fd6b53cfd9a9a67a662c422b0b",
     "size_kb": 81.6
   },
+  "images/teen_modules/crisis/crisis_learn_t_5.svg": {
+    "md5Checksum": "3d9382856f1675506ffe21c4f72b640b",
+    "size_kb": 41.4
+  },
   "images/teen_modules/grief/grief_conflict_t_1.svg": {
     "md5Checksum": "1de6ae714efccf25da91e3bcde249d95",
     "size_kb": 28.3
@@ -2374,27 +2277,43 @@
     "md5Checksum": "b45987866cd3ef0f1839c12f2a482799",
     "size_kb": 38.9
   },
-  "images/teen_modules/money/money2_t_1.svg": {
+  "images/teen_modules/money/money1_t_2.svg": {
     "md5Checksum": "15d2158383f9367cba7d36a7bdcf7069",
     "size_kb": 44.9
   },
-  "images/teen_modules/money/money3_t_2.svg": {
+  "images/teen_modules/money/money2_t_1.svg": {
+    "md5Checksum": "765c284f07bf0a9bb1ab7fdf4743ffd9",
+    "size_kb": 702.9
+  },
+  "images/teen_modules/money/money2_t_2.svg": {
+    "md5Checksum": "87be48edaaf39faab85f5e500076c1ad",
+    "size_kb": 61.8
+  },
+  "images/teen_modules/money/money2_t_3.svg": {
+    "md5Checksum": "7e7ce2a505ab75e2e869095e805d7ff9",
+    "size_kb": 717.1
+  },
+  "images/teen_modules/money/money2_t_4.svg": {
+    "md5Checksum": "3c4db1843f2afa027a8d706513f00150",
+    "size_kb": 721.6
+  },
+  "images/teen_modules/money/money3_t_1.svg": {
     "md5Checksum": "c007c6c8bdca5fe95dd232a1056ea9d5",
     "size_kb": 35.3
   },
-  "images/teen_modules/money/money3_t_3.svg": {
+  "images/teen_modules/money/money3_t_2.svg": {
     "md5Checksum": "4bac645041f65f12aa13fe1a692f2265",
     "size_kb": 65
   },
-  "images/teen_modules/money/money3_t_4.svg": {
+  "images/teen_modules/money/money3_t_3.svg": {
     "md5Checksum": "95114326e00faa6192bda3732c194c50",
     "size_kb": 17.8
   },
-  "images/teen_modules/money/money3_t_5.svg": {
+  "images/teen_modules/money/money3_t_4.svg": {
     "md5Checksum": "3dd39fbac80ce1f5135a20cdfc71b22c",
     "size_kb": 58.2
   },
-  "images/teen_modules/money/money3_t_6.svg": {
+  "images/teen_modules/money/money3_t_5.svg": {
     "md5Checksum": "e4d330e4d6df286fd38add9729b92c00",
     "size_kb": 54
   },
@@ -2606,13 +2525,17 @@
     "md5Checksum": "cb60cc578bfb9edb40074554a7d49c97",
     "size_kb": 32.5
   },
+  "images/teen_modules/srh/srh1_t_2.svg": {
+    "md5Checksum": "650b8dbf709d24dd8ba722c80da19178",
+    "size_kb": 36.9
+  },
   "images/teen_modules/srh/srh1_t_3.svg": {
     "md5Checksum": "b712539fad09f066fcb6b921e9596be0",
     "size_kb": 30.6
   },
   "images/teen_modules/srh/srh1_t_4.svg": {
-    "md5Checksum": "650b8dbf709d24dd8ba722c80da19178",
-    "size_kb": 36.9
+    "md5Checksum": "2a9eb565e90e66fc9a30b81857799f0f",
+    "size_kb": 31
   },
   "images/teen_modules/srh/srh2_t_1.svg": {
     "md5Checksum": "891ec1dfe0c18eaf13f002f7f2cd2b2d",
@@ -3026,7 +2949,7 @@
     "md5Checksum": "b3786e45c415c9f00e47bccf824f90bc",
     "size_kb": 14.7
   },
-  "lottie/relax/breathing_heart.json": {
+  "lottie/relax/heart.json": {
     "md5Checksum": "28aa0b5c65bf540fe91c2f7da7863955",
     "size_kb": 46.7
   },

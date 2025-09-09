@@ -9,6 +9,7 @@
     {
       "id": "sensitive_content_notice",
       "category_id": "notice",
+      "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "section_1_title": "⚠️ Sensitive Content Notice",
       "_translations": {
@@ -30,6 +31,8 @@
       "category_id": "intro",
       "media_type": "audio",
       "media_asset": "/audio/teen/topic_intros/crisis_intro_t.mp3",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Today's topic is about dealing with crises.\n\nAll families experience crises. When we prepare together and know where to get help BEFORE something bad happens, we can overcome any crisis.",
       "_translations": {
         "text_1_facilitator": {},
@@ -55,6 +58,8 @@
       "category_id": "intro",
       "media_type": "audio",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_crisis_t.mp3",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Every crisis is a challenge, but it is also a chance to grow stronger as a family and show your teen that together, you can get through anything.",
       "_translations": {
         "text_1_facilitator": {},
@@ -80,6 +85,8 @@
       "category_id": "explore",
       "image_asset": "/images/teen_modules/crisis/crisis1_t_1.svg",
       "character_1_id": "f2_grandmother",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Crisis can happen to anyone.\n\nLet's see what happened with @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name:",
       "_translations": {
         "text_1_facilitator": {},
@@ -102,6 +109,8 @@
       "character_1_id": "f2_daughter_19",
       "character_2_id": "f2_grandmother",
       "character_3_id": "f2_grandmother",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "character_1_text": "It’s my Uncle, he… he… he touched me.",
       "_translations": {
         "character_1_text": {},
@@ -128,6 +137,8 @@
       "image_asset": "/images/teen_modules/crisis/crisis1_t_3.svg",
       "character_1_id": "f2_daughter_19",
       "character_2_id": "f2_grandmother",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "character_1_text": "It is true, he… he… made me do it! He made me have sex with him! I did not want to, I swear, and I even said NO, but he told me I would be in trouble.",
       "_translations": {
         "character_1_text": {},
@@ -150,6 +161,8 @@
       "character_1_id": "f2_daughter_19",
       "character_2_id": "f2_grandmother",
       "character_3_id": "f2_daughter_19",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "character_1_text": "Yesterday when you went to see your friend. He just came and that’s when it happened.",
       "_translations": {
         "character_1_text": {},
@@ -176,6 +189,8 @@
       "image_asset": "/images/teen_modules/crisis/crisis1_t_5.svg",
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "character_1_text": "Ah I know, let’s go to the clinic. They will know what we can do to help you. Does that sound okay to you?",
       "_translations": {
         "character_1_text": {},
@@ -196,6 +211,8 @@
       "category_id": "explore",
       "image_asset": "/images/teen_modules/crisis/crisis1_t_6.svg",
       "character_1_id": "f2_grandmother",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "character_1_text": "Of course I will. And @data.characters.f2_daughter_19.name? Remember this is not your fault. I love you. You are a good person. We will get through this.",
       "_translations": {
         "character_1_text": {}
@@ -209,6 +226,8 @@
     {
       "id": "explore_7",
       "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "This was such a difficult situation for @data.characters.f2_daughter_19.name and @data.characters.f2_grandmother.name! And this can happen to other girls, and boys too.\n\nThankfully, @data.characters.f2_grandmother.name gave great support to @data.characters.f2_daughter_19.name. Let's think about what she did well.",
       "_translations": {
         "text_1_facilitator": {},
@@ -289,6 +308,8 @@
       "category_id": "explore",
       "image_asset": "/images/teen_modules/crisis/crisis2_t_1.svg",
       "character_1_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Another problem that many parents are worried about is violence and crime. Let’s look at an example together.",
       "_translations": {
         "text_1_facilitator": {
@@ -312,6 +333,8 @@
       "image_asset": "/images/teen_modules/crisis/crisis2_t_2.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "character_1_text": "Yesterday, my friends and I went to a soccer match. Some guys who were drunk started a fight with my friend.",
       "_translations": {
         "character_1_text": {},
@@ -333,6 +356,8 @@
       "image_asset": "/images/teen_modules/crisis/crisis2_t_3.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "character_1_text": "I did not want to, but I could not just stand there and let them beat up my friend, so…",
       "_translations": {
         "character_1_text": {},
@@ -354,6 +379,8 @@
       "image_asset": "/images/teen_modules/crisis/crisis2_t_4.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "character_1_text": "Everyone was fighting. I saw someone lying on the field in a pool of blood. He looked… dead.",
       "_translations": {
         "character_1_text": {},
@@ -375,6 +402,8 @@
       "image_asset": "/images/teen_modules/crisis/crisis2_t_5.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_father",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "character_1_text": "Thank you, @data.characters.f1_father.role_name.",
       "_translations": {
         "character_1_text": {},
@@ -393,6 +422,8 @@
     {
       "id": "explore_13",
       "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "This was such a difficult situation for @data.characters.f1_son_18.name and his father!  \n\nLet's think about how @data.characters.f1_father.name supported @data.characters.f1_son_18.name through this crisis.",
       "_translations": {
         "text_1_facilitator": {},
@@ -472,6 +503,8 @@
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/speech_bubble_blue.png",
       "section_3_icon_asset": "images/icons/brain_blue.png",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Crisis can make us feel angry or helpless. But this is when our teens really need us to breathe, listen and think. \n\nHere are some tips to help you deal with a crisis!",
       "_translations": {
         "text_1_facilitator": {},
@@ -539,6 +572,8 @@
     {
       "id": "practise_1",
       "category_id": "practise",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "It is helpful to practise dealing with crises before something happens.\n\nLet's look at five family crisis examples together. Imagine you are the parent: What would you do?\n\nRemember: BREATHE - LISTEN - THINK",
       "_translations": {
         "text_1_facilitator": {}
@@ -554,6 +589,8 @@
       "category_id": "practise",
       "image_asset": "/images/teen_modules/crisis/crisis_learn_t_1.svg",
       "character_1_id": "f2_son_15",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Crisis 1: @data.characters.f2_son_15.name fights at school.\n\nHow could you respond to @data.characters.f2_son_15.name?",
       "_translations": {
         "text_1_facilitator": {},
@@ -574,6 +611,8 @@
       "category_id": "practise",
       "image_asset": "/images/teen_modules/crisis/crisis_learn_t_2.svg",
       "character_1_id": "f1_daughter_16",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Crisis 2: @data.characters.f1_daughter_16.name gets pregnant.\n\nHow could you respond to @data.characters.f1_daughter_16.name?",
       "_translations": {
         "text_1_facilitator": {},
@@ -594,6 +633,8 @@
       "category_id": "practise",
       "image_asset": "/images/teen_modules/crisis/crisis_learn_t_3.svg",
       "character_1_id": "f1_son_18",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Crisis 3: @data.characters.f1_son_18.name makes a girl pregnant.\n\nHow could you respond to @data.characters.f1_son_18.name?",
       "_translations": {
         "text_1_facilitator": {},
@@ -614,6 +655,8 @@
       "category_id": "practise",
       "image_asset": "/images/teen_modules/crisis/crisis_learn_t_4.svg",
       "character_1_id": "friend_female_1",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Crisis 4: Someone in the family may get sick.\n\nHow could you respond in this situation?",
       "_translations": {
         "text_1_facilitator": {},
@@ -634,6 +677,8 @@
       "category_id": "practise",
       "image_asset": "/images/teen_modules/crisis/crisis_learn_t_5.svg",
       "character_1_id": "f2_daughter_19",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Crisis 5: @data.characters.f2_daughter_19.name is pressured into sex by her boyfriend.\n\nHow could you respond to @data.characters.f2_daughter_19.name?",
       "_translations": {
         "text_1_facilitator": {},
@@ -652,6 +697,8 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "This week's home activity is to look back at the five crisis examples and discuss what you would do together if this happened to a friend or in your family.",
       "_translations": {
         "text_1_facilitator": {},
@@ -711,6 +758,8 @@
       "category_id": "teen_test",
       "media_type": "audio",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_crisis_t.mp3",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Remember to support and encourage each other. It is hard to remain calm and listen to each other in a crisis - you can be proud of yourself.",
       "_translations": {
         "text_1_facilitator": {},
@@ -733,5 +782,10 @@
     }
   ],
   "_xlsxPath": "data/TZ modules.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
 }
