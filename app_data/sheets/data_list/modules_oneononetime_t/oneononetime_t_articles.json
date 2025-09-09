@@ -11,6 +11,7 @@
       "category_id": "intro",
       "media_type": "audio",
       "media_asset": "/audio/teen/topic_intros/1on1_intro_t.mp3",
+      "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
       "text_1_facilitator": "Today's topic is about spending one-on-one time with our teens. \n\nBeing a parent can be so hard. Sometimes it feels like our teens never listen to us.\n\nBut science shows that spending just a few minutes each day of focused one-on-one time with your teen helps build trust and love.",
       "_translations": {
@@ -39,6 +40,8 @@
       "category_id": "intro",
       "media_type": "audio",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_1on1_t.mp3",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
       "text_1_facilitator": "Let's discuss, what is one-on-one time?\n\nOne-on-one time is when you focus on your teens, without distractions like TVs or phones. Let your teens take lead in choosing what you do or talk about.\n\nIt is great if you can spend fifteen minutes a day together, but even five minutes a day is really good.",
       "_translations": {
         "text_1_facilitator": {},
@@ -62,6 +65,8 @@
     {
       "id": "explore_1",
       "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
       "text_1_facilitator": "Let's think of ways to spend time with your teen.\n\nIt may take some time to get used to one-on-one time, but the more you do it, the better it gets!\n\nYou are an amazing parent for trying this.",
       "_translations": {
         "text_1_facilitator": {},
@@ -145,6 +150,8 @@
       "section_1_icon_asset": "images/icons/clock_blue.png",
       "section_2_icon_asset": "images/icons/heart_filled_blue.png",
       "section_3_icon_asset": "images/icons/star_filled_blue.png",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
       "text_1_facilitator": "Here are some skills to help guide you in spending one-on-one time with your teen!",
       "_translations": {
         "text_1_facilitator": {},
@@ -196,6 +203,8 @@
     {
       "id": "practise",
       "category_id": "practise",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
       "text_1_facilitator": "Spending one-on-one time with your teen can be hard to plan. Here are some easy ideas that worked for other parents.",
       "_translations": {
         "text_1_facilitator": {},
@@ -214,6 +223,8 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
       "text_1_facilitator": "This week's home activity is to spend 5-15 minutes of one-on-one time with your teen, every day that you can.",
       "_translations": {
         "text_1_facilitator": {},
@@ -268,6 +279,8 @@
       "category_id": "teen_test",
       "media_type": "audio",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_1on1_t.mp3",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
       "text_1_facilitator": "Remember, spending even a few minutes of one-on-one time with your teen each day can strengthen your relationship and build trust. \n\nListening closely and sharing small moments helps teens feel loved and supported.",
       "_translations": {
         "text_1_facilitator": {},
@@ -290,5 +303,10 @@
     }
   ],
   "_xlsxPath": "data/TZ modules.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
 }

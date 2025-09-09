@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 80
+        "count": 87
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 98
+        "count": 112
       },
       {
         "type": "debug_toggle",
@@ -43,11 +43,11 @@
       },
       {
         "type": "display_grid",
-        "count": 4
+        "count": 5
       },
       {
         "type": "display_group",
-        "count": 90
+        "count": 96
       },
       {
         "type": "drawer",
@@ -59,7 +59,7 @@
       },
       {
         "type": "image",
-        "count": 19
+        "count": 20
       },
       {
         "type": "items",
@@ -94,7 +94,7 @@
         "count": 3
       },
       {
-        "type": "plh_progress_path",
+        "type": "progress_path",
         "count": 1
       },
       {
@@ -103,11 +103,11 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 7
+        "count": 8
       },
       {
         "type": "round_button",
-        "count": 12
+        "count": 13
       },
       {
         "type": "select_text",
@@ -119,7 +119,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1972
+        "count": 2013
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "text",
-        "count": 120
+        "count": 160
       },
       {
         "type": "text_area",
@@ -159,11 +159,11 @@
       },
       {
         "type": "title",
-        "count": 44
+        "count": 45
       },
       {
         "type": "toggle_bar",
-        "count": 4
+        "count": 6
       },
       {
         "type": "update_action_list",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: force_reload",
-        "count": 3
+        "count": 4
       },
       {
         "type": "emit: force_reprocess",
@@ -227,7 +227,7 @@
       },
       {
         "type": "nav_stack",
-        "count": 177
+        "count": 179
       },
       {
         "type": "pop_up",
@@ -247,7 +247,7 @@
       },
       {
         "type": "set_data",
-        "count": 42
+        "count": 62
       },
       {
         "type": "set_field",
@@ -255,11 +255,11 @@
       },
       {
         "type": "set_item",
-        "count": 48
+        "count": 36
       },
       {
         "type": "set_local",
-        "count": 29
+        "count": 54
       },
       {
         "type": "share",
@@ -279,13 +279,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "59014 KB",
-        "MB": "59 MB"
+        "KB": "62280 KB",
+        "MB": "62.3 MB"
       },
       {
         "assets": "unused",
-        "KB": "75833 KB",
-        "MB": "75.8 MB"
+        "KB": "66424 KB",
+        "MB": "66.4 MB"
       }
     ]
   },
@@ -293,19 +293,19 @@
     "data": [
       {
         "path": "android/icon-background.png",
-        "size_kb": 21.4
+        "size_kb": 3.9
       },
       {
         "path": "android/icon-foreground.png",
-        "size_kb": 58.3
+        "size_kb": 193.7
       },
       {
         "path": "android/icon.png",
-        "size_kb": 70.3
+        "size_kb": 215.3
       },
       {
         "path": "android/splash.png",
-        "size_kb": 239
+        "size_kb": 195.7
       },
       {
         "path": "audio/modules/connect/intro_connect_child.m4a",
@@ -340,96 +340,76 @@
         "size_kb": 196.8
       },
       {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3",
-        "size_kb": 132.8
-      },
-      {
-        "path": "audio/teen/topic_intros/celebrate_intro_t.mp3",
-        "size_kb": 665.6
-      },
-      {
-        "path": "audio/teen/topic_intros/workshops_reflection_t.mp3",
-        "size_kb": 258.6
-      },
-      {
-        "path": "audio/timer/bell_1.mp3",
-        "size_kb": 121.6
-      },
-      {
         "path": "audio/yc/1on1_audio_1.mp3",
-        "size_kb": 891.7
+        "size_kb": 267.1
       },
       {
         "path": "audio/yc/1on1_audio_2.mp3",
-        "size_kb": 619.1
+        "size_kb": 401.8
       },
       {
         "path": "audio/yc/care_audio_1.mp3",
-        "size_kb": 527.5
+        "size_kb": 267.3
       },
       {
         "path": "audio/yc/care_audio_2.mp3",
-        "size_kb": 1166.3
-      },
-      {
-        "path": "audio/yc/celebrate_audio_1.mp3",
-        "size_kb": 497.1
+        "size_kb": 130.8
       },
       {
         "path": "audio/yc/consequences_audio_1.mp3",
-        "size_kb": 800.2
+        "size_kb": 245
       },
       {
         "path": "audio/yc/consequences_audio_2.mp3",
-        "size_kb": 1206.6
+        "size_kb": 369.1
       },
       {
         "path": "audio/yc/feelings_audio_1.mp3",
-        "size_kb": 336
+        "size_kb": 106.7
       },
       {
         "path": "audio/yc/feelings_audio_2.mp3",
-        "size_kb": 635.8
+        "size_kb": 132.4
       },
       {
         "path": "audio/yc/instructions_audio_1.mp3",
-        "size_kb": 613.7
+        "size_kb": 309.2
       },
       {
         "path": "audio/yc/instructions_audio_2.mp3",
-        "size_kb": 784.2
+        "size_kb": 226.8
       },
       {
         "path": "audio/yc/learn_audio_1.mp3",
-        "size_kb": 563.1
+        "size_kb": 110.2
       },
       {
         "path": "audio/yc/learn_audio_2.mp3",
-        "size_kb": 254.5
+        "size_kb": 131.7
       },
       {
         "path": "audio/yc/praise_audio_1.mp3",
-        "size_kb": 344
+        "size_kb": 93.9
       },
       {
         "path": "audio/yc/praise_audio_2.mp3",
-        "size_kb": 1042.6
+        "size_kb": 515.4
       },
       {
         "path": "audio/yc/rules_audio_1.mp3",
-        "size_kb": 427.6
+        "size_kb": 83.9
       },
       {
         "path": "audio/yc/rules_audio_2.mp3",
-        "size_kb": 742.7
+        "size_kb": 237.1
       },
       {
         "path": "audio/yc/solve_audio_1.mp3",
-        "size_kb": 983.4
+        "size_kb": 161.6
       },
       {
         "path": "audio/yc/solve_audio_2.mp3",
-        "size_kb": 468.1
+        "size_kb": 187.6
       },
       {
         "path": "contents.json",
@@ -468,60 +448,44 @@
         "size_kb": 183.7
       },
       {
-        "path": "images/activities/charades_icon.svg",
-        "size_kb": 35.6
+        "path": "images/activities/checkin_chat.svg",
+        "size_kb": 42.5
       },
       {
         "path": "images/activities/chores.svg",
         "size_kb": 110.2
       },
       {
-        "path": "images/activities/chores_icon.svg",
-        "size_kb": 9.5
-      },
-      {
         "path": "images/activities/circle_dance.svg",
-        "size_kb": 117.2
-      },
-      {
-        "path": "images/activities/clean_icon.svg",
-        "size_kb": 35.4
+        "size_kb": 118.7
       },
       {
         "path": "images/activities/cook.svg",
         "size_kb": 45.1
       },
       {
-        "path": "images/activities/cook_icon.svg",
-        "size_kb": 12.4
-      },
-      {
-        "path": "images/activities/cook_traditional_icon.svg",
-        "size_kb": 56.1
-      },
-      {
         "path": "images/activities/cooking_with_maths.svg",
-        "size_kb": 50.9
+        "size_kb": 190
       },
       {
-        "path": "images/activities/dance_icon.svg",
-        "size_kb": 33
+        "path": "images/activities/emotion_cards.svg",
+        "size_kb": 40.1
       },
       {
         "path": "images/activities/face_to_face_fun.svg",
         "size_kb": 81.2
       },
       {
+        "path": "images/activities/famous_party.svg",
+        "size_kb": 77
+      },
+      {
         "path": "images/activities/find_pair.svg",
         "size_kb": 36.9
       },
       {
-        "path": "images/activities/find_pair_icon.svg",
-        "size_kb": 29.1
-      },
-      {
-        "path": "images/activities/garden_icon.svg",
-        "size_kb": 15.4
+        "path": "images/activities/friendly_chat.svg",
+        "size_kb": 127.1
       },
       {
         "path": "images/activities/guess_emotion.svg",
@@ -540,20 +504,12 @@
         "size_kb": 59.8
       },
       {
-        "path": "images/activities/long_term_goal_icon.svg",
-        "size_kb": 62.1
-      },
-      {
         "path": "images/activities/make_story_child.svg",
         "size_kb": 66.1
       },
       {
         "path": "images/activities/memory_game.svg",
         "size_kb": 40
-      },
-      {
-        "path": "images/activities/memory_game_icon.svg",
-        "size_kb": 31.5
       },
       {
         "path": "images/activities/mystery_bag.svg",
@@ -564,24 +520,24 @@
         "size_kb": 58.4
       },
       {
-        "path": "images/activities/mystery_box_icon.svg",
-        "size_kb": 28.4
-      },
-      {
         "path": "images/activities/play_with_clothes.svg",
         "size_kb": 102.7
       },
       {
-        "path": "images/activities/role_play_icon.svg",
-        "size_kb": 35.6
+        "path": "images/activities/reflect_positive.svg",
+        "size_kb": 38.2
       },
       {
         "path": "images/activities/rolling_ball_fun.svg",
         "size_kb": 90.6
       },
       {
-        "path": "images/activities/short_term_goal_icon.svg",
-        "size_kb": 25
+        "path": "images/activities/secret_handshake.svg",
+        "size_kb": 56.1
+      },
+      {
+        "path": "images/activities/shadow_play.svg",
+        "size_kb": 5.6
       },
       {
         "path": "images/activities/song.svg",
@@ -596,64 +552,36 @@
         "size_kb": 34.6
       },
       {
-        "path": "images/activities/talk_1_icon.svg",
-        "size_kb": 45
-      },
-      {
-        "path": "images/activities/talk_2.svg",
-        "size_kb": 37
-      },
-      {
-        "path": "images/activities/talk_2_icon.svg",
-        "size_kb": 19.1
-      },
-      {
-        "path": "images/activities/talk_3_icon.svg",
-        "size_kb": 27.7
-      },
-      {
-        "path": "images/activities/talk_4_icon.svg",
-        "size_kb": 46.3
-      },
-      {
-        "path": "images/activities/talk_5.svg",
-        "size_kb": 81.3
-      },
-      {
-        "path": "images/activities/talk_5_icon.svg",
-        "size_kb": 53.3
-      },
-      {
-        "path": "images/activities/talk_6_icon.svg",
-        "size_kb": 23.5
-      },
-      {
-        "path": "images/activities/talk_7_icon.svg",
-        "size_kb": 22.9
-      },
-      {
-        "path": "images/activities/tap_and_shake_band.svg",
-        "size_kb": 118.7
-      },
-      {
-        "path": "images/activities/tell_stories_icon.svg",
-        "size_kb": 28.6
+        "path": "images/activities/take_a_pause.svg",
+        "size_kb": 44.8
       },
       {
         "path": "images/activities/thinking_games.svg",
         "size_kb": 107.3
       },
       {
+        "path": "images/activities/traffic_lights.svg",
+        "size_kb": 172.3
+      },
+      {
         "path": "images/activities/tummy_time_safari.svg",
         "size_kb": 106.2
+      },
+      {
+        "path": "images/activities/two_truths.svg",
+        "size_kb": 76.9
       },
       {
         "path": "images/activities/unseen_guesses.svg",
         "size_kb": 70.8
       },
       {
-        "path": "images/activities/walk_icon.svg",
-        "size_kb": 98.4
+        "path": "images/activities/yes_no_maybe.svg",
+        "size_kb": 58.2
+      },
+      {
+        "path": "images/backgrounds/bottom_banner.svg",
+        "size_kb": 23.2
       },
       {
         "path": "images/backgrounds/homescreen_pattern.svg",
@@ -716,11 +644,7 @@
         "size_kb": 58.8
       },
       {
-        "path": "images/homescreen/self_care.svg",
-        "size_kb": 59.9
-      },
-      {
-        "path": "images/homescreen/svp.svg",
+        "path": "images/homescreen/svp_t.svg",
         "size_kb": 25.4
       },
       {
@@ -736,10 +660,6 @@
         "size_kb": 0.7
       },
       {
-        "path": "images/icons/faces/flushed_face.svg",
-        "size_kb": 4.9
-      },
-      {
         "path": "images/icons/faces/happier.svg",
         "size_kb": 0.6
       },
@@ -752,10 +672,6 @@
         "size_kb": 0.5
       },
       {
-        "path": "images/icons/faces/ok.svg",
-        "size_kb": 46.6
-      },
-      {
         "path": "images/icons/faces/sadder.svg",
         "size_kb": 1.1
       },
@@ -764,16 +680,8 @@
         "size_kb": 2
       },
       {
-        "path": "images/icons/faces/smiling.svg",
-        "size_kb": 5.1
-      },
-      {
-        "path": "images/icons/faces/stressed.svg",
-        "size_kb": 60
-      },
-      {
         "path": "images/icons/faces/tired.svg",
-        "size_kb": 54
+        "size_kb": 2.4
       },
       {
         "path": "images/icons/fire.png",
@@ -837,35 +745,27 @@
       },
       {
         "path": "images/logos/favicon.png",
-        "size_kb": 6.3
-      },
-      {
-        "path": "images/logos/plh.jpeg",
-        "size_kb": 9.4
+        "size_kb": 149.9
       },
       {
         "path": "images/logos/plh_white.png",
         "size_kb": 12.8
       },
       {
+        "path": "images/logos/sino_horizontal.svg",
+        "size_kb": 251
+      },
+      {
+        "path": "images/logos/sino_mark.svg",
+        "size_kb": 461.7
+      },
+      {
+        "path": "images/logos/sino_white.svg",
+        "size_kb": 256.1
+      },
+      {
         "path": "images/teen_modules/consequence/consequence1_t_5.svg",
         "size_kb": 53.6
-      },
-      {
-        "path": "images/teen_modules/money/money3_t_6.svg",
-        "size_kb": 54
-      },
-      {
-        "path": "images/teen_modules/money/money4_t_1.svg",
-        "size_kb": 47.1
-      },
-      {
-        "path": "images/teen_modules/praise/praise1_t_2.svg",
-        "size_kb": 44.8
-      },
-      {
-        "path": "images/teen_modules/svp/svp_catcalling_t.svg",
-        "size_kb": 96.8
       },
       {
         "path": "images/yc_modules/1on1/one_on_one_yc_1.svg",
@@ -1080,10 +980,6 @@
         "size_kb": 140.5
       },
       {
-        "path": "lottie/relax/breathing_heart.json",
-        "size_kb": 46.7
-      },
-      {
         "path": "video/modules/connect/join_child.mp4",
         "size_kb": 10726.2
       },
@@ -1104,22 +1000,32 @@
   "assets_missing": {
     "data": [
       {
-        "path": "audio/teen/caregiver/caregiver_test_self_care_t.mp3",
+        "path": "images/activities/talk_1.svg",
         "count": 2,
         "missing": true
       },
       {
-        "path": "audio/teen/topic_intros/celebrate_intro.mp3",
+        "path": "images/activities/talk_3.svg",
         "count": 2,
         "missing": true
       },
       {
-        "path": "audio/teen/topic_intros/workshops_reflection.mp3",
+        "path": "images/activities/talk_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/activities/talk_7.svg",
         "count": 2,
         "missing": true
       },
       {
         "path": "images/backgrounds/activity_bottom_left.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/backgrounds/mountains.svg",
         "count": 1,
         "missing": true
       },
@@ -1171,56 +1077,6 @@
       {
         "path": "images/shell_open.png",
         "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis_learn_t_5.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/money/money3_t_1.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/money/money4_t_6.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/money/money_learn_t_1.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/money/money_learn_t_2.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/money/money_learn_t_3.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/money/money_learn_t_4.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/srh/srh1_t_2.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/svp/svp_warning_signs/catcalling_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "lottie/relax/heart.json",
-        "count": 8,
         "missing": true
       },
       {
@@ -1403,6 +1259,11 @@
         "size_kb": 167.5
       },
       {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3",
+        "count": 2,
+        "size_kb": 132.8
+      },
+      {
         "path": "audio/teen/testimonials/caregiver/caregiver_test_solve_t.mp3",
         "count": 2,
         "size_kb": 175
@@ -1503,6 +1364,11 @@
         "size_kb": 206
       },
       {
+        "path": "audio/teen/topic_intros/celebrate_intro_t.mp3",
+        "count": 2,
+        "size_kb": 665.6
+      },
+      {
         "path": "audio/teen/topic_intros/consequence_intro_t.mp3",
         "count": 2,
         "size_kb": 239.1
@@ -1573,6 +1439,11 @@
         "size_kb": 603.8
       },
       {
+        "path": "audio/teen/topic_intros/workshops_reflection_t.mp3",
+        "count": 2,
+        "size_kb": 258.6
+      },
+      {
         "path": "images/activities/charades.svg",
         "count": 2,
         "size_kb": 38.9
@@ -1613,29 +1484,9 @@
         "size_kb": 41.9
       },
       {
-        "path": "images/activities/talk_1.svg",
-        "count": 2,
-        "size_kb": 76.9
-      },
-      {
-        "path": "images/activities/talk_3.svg",
-        "count": 2,
-        "size_kb": 42.5
-      },
-      {
-        "path": "images/activities/talk_4.svg",
-        "count": 2,
-        "size_kb": 77
-      },
-      {
         "path": "images/activities/talk_6.svg",
         "count": 4,
         "size_kb": 37.5
-      },
-      {
-        "path": "images/activities/talk_7.svg",
-        "count": 2,
-        "size_kb": 38.2
       },
       {
         "path": "images/activities/tell_stories.svg",
@@ -1654,18 +1505,13 @@
       },
       {
         "path": "images/backgrounds/library_top_right.png",
-        "count": 1,
+        "count": 3,
         "size_kb": 1358.6
-      },
-      {
-        "path": "images/backgrounds/mountains.svg",
-        "count": 1,
-        "size_kb": 1.9
       },
       {
         "path": "images/backgrounds/mountains_trees.svg",
         "count": 1,
-        "size_kb": 51.5
+        "size_kb": 23.2
       },
       {
         "path": "images/backgrounds/progress_arc.png",
@@ -1805,7 +1651,7 @@
       {
         "path": "images/character_icons/ZA_FACILITATOR.svg",
         "count": 1,
-        "size_kb": 12.2
+        "size_kb": 17.7
       },
       {
         "path": "images/faces/angry.svg",
@@ -1860,7 +1706,7 @@
       {
         "path": "images/homescreen/check_in/traditional_rondavel_closed.svg",
         "count": 1,
-        "size_kb": 24.3
+        "size_kb": 23.9
       },
       {
         "path": "images/homescreen/check_in/traditional_rondavel_open.svg",
@@ -1918,7 +1764,7 @@
         "size_kb": 23.9
       },
       {
-        "path": "images/homescreen/self_care_t.svg",
+        "path": "images/homescreen/self_care.svg",
         "count": 2,
         "size_kb": 59.9
       },
@@ -1949,12 +1795,12 @@
       },
       {
         "path": "images/icons/diamond.png",
-        "count": 1,
+        "count": 2,
         "size_kb": 1.8
       },
       {
         "path": "images/icons/diamond_active.png",
-        "count": 1,
+        "count": 2,
         "size_kb": 1.7
       },
       {
@@ -1980,17 +1826,17 @@
       {
         "path": "images/icons/faces/angry.svg",
         "count": 2,
-        "size_kb": 4.9
+        "size_kb": 1.1
       },
       {
         "path": "images/icons/faces/confused.svg",
         "count": 4,
-        "size_kb": 4.9
+        "size_kb": 1.8
       },
       {
         "path": "images/icons/faces/happy.svg",
         "count": 2,
-        "size_kb": 53.5
+        "size_kb": 0.6
       },
       {
         "path": "images/icons/faces/happy_face_new.svg",
@@ -2005,7 +1851,7 @@
       {
         "path": "images/icons/faces/sad.svg",
         "count": 3,
-        "size_kb": 48.2
+        "size_kb": 0.6
       },
       {
         "path": "images/icons/faces/sad_face_new.svg",
@@ -2024,17 +1870,17 @@
       },
       {
         "path": "images/icons/heart.png",
-        "count": 2,
+        "count": 3,
         "size_kb": 1.3
       },
       {
         "path": "images/icons/heart_filled.png",
-        "count": 1,
+        "count": 2,
         "size_kb": 1.4
       },
       {
         "path": "images/icons/heart_filled_active.png",
-        "count": 1,
+        "count": 2,
         "size_kb": 1.5
       },
       {
@@ -2044,7 +1890,7 @@
       },
       {
         "path": "images/icons/heart_filled_red.png",
-        "count": 2,
+        "count": 3,
         "size_kb": 1.4
       },
       {
@@ -2084,7 +1930,7 @@
       },
       {
         "path": "images/icons/locked.png",
-        "count": 6,
+        "count": 7,
         "size_kb": 0.7
       },
       {
@@ -2194,12 +2040,12 @@
       },
       {
         "path": "images/icons/trophy.png",
-        "count": 1,
+        "count": 2,
         "size_kb": 1.6
       },
       {
         "path": "images/icons/trophy_active.png",
-        "count": 1,
+        "count": 2,
         "size_kb": 1.7
       },
       {
@@ -2235,7 +2081,7 @@
       {
         "path": "images/onboarding/facilitator_onboarding_icon.svg",
         "count": 1,
-        "size_kb": 18.2
+        "size_kb": 29.4
       },
       {
         "path": "images/onboarding/frustrated.svg",
@@ -2433,6 +2279,11 @@
         "size_kb": 81.6
       },
       {
+        "path": "images/teen_modules/crisis/crisis_learn_t_5.svg",
+        "count": 2,
+        "size_kb": 41.4
+      },
+      {
         "path": "images/teen_modules/grief/grief_conflict_t_1.svg",
         "count": 2,
         "size_kb": 28.3
@@ -2568,34 +2419,69 @@
         "size_kb": 38.9
       },
       {
-        "path": "images/teen_modules/money/money2_t_1.svg",
+        "path": "images/teen_modules/money/money1_t_2.svg",
         "count": 2,
         "size_kb": 44.9
       },
       {
-        "path": "images/teen_modules/money/money3_t_2.svg",
+        "path": "images/teen_modules/money/money2_t_1.svg",
+        "count": 2,
+        "size_kb": 702.9
+      },
+      {
+        "path": "images/teen_modules/money/money2_t_2.svg",
+        "count": 2,
+        "size_kb": 61.8
+      },
+      {
+        "path": "images/teen_modules/money/money2_t_3.svg",
+        "count": 2,
+        "size_kb": 717.1
+      },
+      {
+        "path": "images/teen_modules/money/money2_t_4.svg",
+        "count": 2,
+        "size_kb": 721.6
+      },
+      {
+        "path": "images/teen_modules/money/money3_t_1.svg",
         "count": 2,
         "size_kb": 35.3
       },
       {
-        "path": "images/teen_modules/money/money3_t_3.svg",
+        "path": "images/teen_modules/money/money3_t_2.svg",
         "count": 2,
         "size_kb": 65
       },
       {
-        "path": "images/teen_modules/money/money3_t_4.svg",
+        "path": "images/teen_modules/money/money3_t_3.svg",
         "count": 2,
         "size_kb": 17.8
       },
       {
-        "path": "images/teen_modules/money/money3_t_5.svg",
+        "path": "images/teen_modules/money/money3_t_4.svg",
         "count": 2,
         "size_kb": 58.2
       },
       {
+        "path": "images/teen_modules/money/money3_t_5.svg",
+        "count": 2,
+        "size_kb": 54
+      },
+      {
+        "path": "images/teen_modules/money/money4_t_1.svg",
+        "count": 2,
+        "size_kb": 47.1
+      },
+      {
         "path": "images/teen_modules/praise/praise1_t_1.svg",
-        "count": 4,
+        "count": 2,
         "size_kb": 164.8
+      },
+      {
+        "path": "images/teen_modules/praise/praise1_t_2.svg",
+        "count": 2,
+        "size_kb": 44.8
       },
       {
         "path": "images/teen_modules/rules/rules1_t_1.svg",
@@ -2804,17 +2690,17 @@
       },
       {
         "path": "images/teen_modules/solve/solve3_t_1.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 31.5
       },
       {
         "path": "images/teen_modules/solve/solve3_t_2.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 31.9
       },
       {
         "path": "images/teen_modules/solve/solve3_t_3.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 31.3
       },
       {
@@ -2843,6 +2729,11 @@
         "size_kb": 32.5
       },
       {
+        "path": "images/teen_modules/srh/srh1_t_2.svg",
+        "count": 2,
+        "size_kb": 36.9
+      },
+      {
         "path": "images/teen_modules/srh/srh1_t_3.svg",
         "count": 2,
         "size_kb": 30.6
@@ -2850,7 +2741,7 @@
       {
         "path": "images/teen_modules/srh/srh1_t_4.svg",
         "count": 2,
-        "size_kb": 36.9
+        "size_kb": 31
       },
       {
         "path": "images/teen_modules/srh/srh2_t_1.svg",
@@ -2879,77 +2770,77 @@
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_age_t_1.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 125
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_age_t_2.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 70.9
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_age_t_3.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 25.6
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_1.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 70
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_2.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 28.8
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_3.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 44
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_4.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 60.7
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_5.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 76.4
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_1.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 58.6
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_2.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 95.4
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_3.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 203.3
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_4.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 52.8
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_who_t_1.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 27.1
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_who_t_2.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 69.1
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_who_t_3.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 105
       },
       {
@@ -3028,6 +2919,11 @@
         "size_kb": 74.5
       },
       {
+        "path": "images/teen_modules/svp/svp_catcalling_t.svg",
+        "count": 2,
+        "size_kb": 96.8
+      },
+      {
         "path": "images/teen_modules/svp/svp_controlling_boyfriend_t.svg",
         "count": 2,
         "size_kb": 63.4
@@ -3096,6 +2992,11 @@
         "path": "lottie/relax/blue_dots.json",
         "count": 7,
         "size_kb": 14.7
+      },
+      {
+        "path": "lottie/relax/heart.json",
+        "count": 8,
+        "size_kb": 46.7
       },
       {
         "path": "lottie/relax/looping_rings.json",
@@ -3294,7 +3195,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 99
+        "total": 100
       },
       {
         "type": "template",

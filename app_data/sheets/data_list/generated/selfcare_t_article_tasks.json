@@ -28,6 +28,7 @@
       },
       "transcript": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
       "category_id": "relax",
+      "nested": false,
       "completed": false
     },
     {
@@ -60,6 +61,7 @@
         }
       },
       "category_id": "check_in",
+      "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -114,6 +116,7 @@
         }
       },
       "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "Today's topic is about taking care of yourself.\n\nWe often don’t look after ourselves enough. But this is so important, especially as a parent!\n\nReducing our stress and treating ourselves well helps us AND our teenagers.",
       "_translations": {
         "text_1_facilitator": {},
@@ -128,8 +131,9 @@
     },
     {
       "id": "intro_2",
-      "media_asset": "/audio/teen/caregiver/caregiver_test_self_care_t.mp3",
+      "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Why self-care?\n\nWe often don’t look after ourselves enough. But this is so important, especially as a parent!\n\nReducing our stress and treating ourselves well helps us AND our teenagers."
@@ -142,6 +146,7 @@
         }
       },
       "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "Why self-care?\n\nWe often don’t look after ourselves enough. But this is so important, especially as a parent!\n\nReducing our stress and treating ourselves well helps us AND our teenagers.",
       "_translations": {
         "text_1_facilitator": {},
@@ -154,6 +159,7 @@
     },
     {
       "id": "explore_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Appreciating ourselves is one way to care for ourselves. \n\nLet’s give it a try."
@@ -199,6 +205,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "quiz_1_feedback_1": "Say it aloud if you can.\n\nHere is one thing you deserve praise for: Well done for using @global.app_name!",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -246,6 +253,7 @@
     },
     {
       "id": "explore_2",
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Treating ourselves well is another way of looking after ourselves.\n\nYou can give yourself a small reward every day, and it does not have to cost a thing!"
@@ -285,6 +293,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "quiz_1_feedback_1": "Nice! Taking care of yourself is an important parenting skill!",
       "_translations": {
         "quiz_1_feedback_1": {
@@ -332,6 +341,7 @@
     },
     {
       "id": "tips_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are some tips to help you take care of yourself."
@@ -374,6 +384,7 @@
         }
       },
       "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Here are some tips to help you take care of yourself.",
       "_translations": {
         "text_1_facilitator": {},
@@ -417,6 +428,7 @@
     },
     {
       "id": "home_activity_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Remember: Small moments of self-care matter. This week, find time to relax, recognize your efforts, and reward yourself whenever you can.\n \nCare for yourself every day. You deserve it!"
@@ -444,6 +456,7 @@
         }
       },
       "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "That's great! Every small step you take to care for yourself makes a big difference for your family.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -472,6 +485,7 @@
       "id": "teen_test_1",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_self_care_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Remember, taking small moments for self-care helps us stay calm, strong, and connected to our families. \n\nWhen we look after ourselves, we are better able to support our teens!"
@@ -484,6 +498,7 @@
         }
       },
       "category_id": "teen_test",
+      "nested": false,
       "text_1_facilitator": "Remember, taking small moments for self-care helps us stay calm, strong, and connected to our families. \n\nWhen we look after ourselves, we are better able to support our teens!",
       "_translations": {
         "text_1_facilitator": {},
@@ -496,6 +511,9 @@
     }
   ],
   "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
     "completed": {
       "type": "boolean"
     }

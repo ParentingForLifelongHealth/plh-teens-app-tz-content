@@ -28,6 +28,7 @@
       },
       "transcript": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
       "category_id": "relax",
+      "nested": false,
       "completed": false
     },
     {
@@ -60,6 +61,7 @@
         }
       },
       "category_id": "check_in",
+      "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -114,6 +116,7 @@
         }
       },
       "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "Today's topic is about rules.\n\nRules help teens understand what is expected of them.\n\nTeens are more likely to follow rules if you create the rules WITH your teen and praise them for it!",
       "_translations": {
         "text_1_facilitator": {},
@@ -128,6 +131,7 @@
       "id": "intro_2",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_rules_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected - not just to control them. Setting rules as a family helps build trust and responsibility for both teens and parents."
@@ -140,6 +144,7 @@
         }
       },
       "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected - not just to control them. Setting rules as a family helps build trust and responsibility for both teens and parents.",
       "_translations": {
         "text_1_facilitator": {},
@@ -152,6 +157,7 @@
     },
     {
       "id": "explore_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's read what happened with @data.characters.f1_son_18.name and his mother, @data.characters.f1_mother.name:"
@@ -164,6 +170,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Let's read what happened with @data.characters.f1_son_18.name and his mother, @data.characters.f1_mother.name:",
       "_translations": {
         "text_1_facilitator": {},
@@ -179,6 +186,7 @@
     },
     {
       "id": "explore_2",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s see how @data.characters.f1_mother.name and her son,  @data.characters.f1_son_18.name, did the next day:"
@@ -191,6 +199,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Let’s see how @data.characters.f1_mother.name and her son,  @data.characters.f1_son_18.name, did the next day:",
       "_translations": {
         "text_1_facilitator": {},
@@ -206,12 +215,14 @@
     },
     {
       "id": "explore_3",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "That is right. It is also not safe in this area to be outside after sunset. What do you think would be a good time for you to be home?"
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/rules/rules1_t_3.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "That is right. It is also not safe in this area to be outside after sunset. What do you think would be a good time for you to be home?",
@@ -222,6 +233,7 @@
     },
     {
       "id": "explore_4",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I could come home at 10pm?"
@@ -231,6 +243,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/rules/rules1_t_4.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
@@ -244,6 +257,7 @@
     },
     {
       "id": "explore_5",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Maybe we can agree I will come home at 6pm on school nights and 10pm on Fridays and Saturdays?"
@@ -253,6 +267,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/rules/rules1_t_5.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
@@ -266,6 +281,7 @@
     },
     {
       "id": "explore_6",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Okay, @data.characters.f1_mother.role_name."
@@ -275,6 +291,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/rules/rules1_t_6.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
@@ -288,6 +305,7 @@
     },
     {
       "id": "explore_7",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_2": {
           "eng": "*The next day...*"
@@ -297,6 +315,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/rules/rules1_t_7.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "Thank you, @data.characters.f1_son_18.name, for coming home on time. After you finish your schoolwork, we can have your favourite meal for dinner.",
@@ -309,6 +328,7 @@
     },
     {
       "id": "explore_8",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's think about what happened in this story."
@@ -357,6 +377,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "quiz_1_feedback_1": "That is right, making clear rules together in a calm and positive way works so well!",
       "_translations": {
         "quiz_1_feedback_1": {
@@ -411,6 +432,7 @@
     },
     {
       "id": "tips_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are this week’s takeaway skills to help learn how to set rules with your teen!"
@@ -435,6 +457,7 @@
         }
       },
       "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Here are this week’s takeaway skills to help learn how to set rules with your teen!",
       "_translations": {
         "text_1_facilitator": {},
@@ -470,6 +493,7 @@
     },
     {
       "id": "explore_9",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Rules are important to keep your teens safe – not only offline, but also online. There’s more about this in the lesson on teen safety, but let’s already have a first look now!"
@@ -482,6 +506,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Rules are important to keep your teens safe – not only offline, but also online. There’s more about this in the lesson on teen safety, but let’s already have a first look now!",
       "_translations": {
         "text_1_facilitator": {},
@@ -497,6 +522,7 @@
     },
     {
       "id": "explore_10",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "You are a really great dancer! Tell me about why you like Tiktok."
@@ -506,6 +532,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/rules/rules2_t_2.svg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_daughter_13",
@@ -519,12 +546,14 @@
     },
     {
       "id": "explore_11",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at Tiktok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens."
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/rules/rules2_t_3.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at Tiktok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens.",
@@ -535,12 +564,14 @@
     },
     {
       "id": "explore_12",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use Tiktok, but with a private account? I trust you to know who to accept!"
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/rules/rules2_t_4.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use Tiktok, but with a private account? I trust you to know who to accept!",
@@ -551,12 +582,14 @@
     },
     {
       "id": "explore_13",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I’m proud of you, @data.characters.f1_daughter_13.name!"
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/rules/rules2_t_5.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "I’m proud of you, @data.characters.f1_daughter_13.name!",
@@ -567,6 +600,7 @@
     },
     {
       "id": "practise",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "It was wonderful to see @data.characters.f1_mother.name and her daughter, @data.characters.f1_daughter_13.name, make a rule together. \n\nNow let's practise making rules.\n\nWrite down one important rule you would like to make with your teenager – you will be doing this as your home practice this week."
@@ -576,6 +610,7 @@
         }
       },
       "category_id": "practise",
+      "nested": false,
       "text_1_facilitator": "It was wonderful to see @data.characters.f1_mother.name and her daughter, @data.characters.f1_daughter_13.name, make a rule together. \n\nNow let's practise making rules.\n\nWrite down one important rule you would like to make with your teenager – you will be doing this as your home practice this week.",
       "_translations": {
         "text_1_facilitator": {},
@@ -586,6 +621,7 @@
     },
     {
       "id": "home_activity_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "This week's home activity is to set one rule together with your teen.\n\nRemember to praise your teen afterwards!"
@@ -616,6 +652,7 @@
         }
       },
       "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "Fantastic! Setting a rule together helps your teen feel involved and respected. It is a big step toward building trust and cooperation.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -646,6 +683,7 @@
       "id": "teen_test_1",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_rules_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Clear, simple rules made together with your teen are not about control - they are about keeping them safe and building responsibility. When teens understand the reasons behind the rules, they are more likely to follow them."
@@ -658,6 +696,7 @@
         }
       },
       "category_id": "teen_test",
+      "nested": false,
       "text_1_facilitator": "Clear, simple rules made together with your teen are not about control - they are about keeping them safe and building responsibility. When teens understand the reasons behind the rules, they are more likely to follow them.",
       "_translations": {
         "text_1_facilitator": {},
@@ -670,6 +709,9 @@
     }
   ],
   "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
     "completed": {
       "type": "boolean"
     }

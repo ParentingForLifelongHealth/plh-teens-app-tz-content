@@ -27,6 +27,7 @@
       },
       "transcript": "Here is something fun to help you let go of stress:   \n\nChoose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?   \n\nMake a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together. \n\nEven a few minutes of movement can be enough to release stress and lift your mood!",
       "category_id": "relax",
+      "nested": false,
       "completed": false
     },
     {
@@ -59,6 +60,7 @@
         }
       },
       "category_id": "check_in",
+      "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -108,6 +110,7 @@
         }
       },
       "category_id": "notice",
+      "nested": false,
       "section_1_title": "⚠️ Sensitive Content Notice",
       "_translations": {
         "section_1_title": {},
@@ -120,6 +123,7 @@
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/crisis_intro_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today's topic is about dealing with crises.\n\nAll families experience crises. When we prepare together and know where to get help BEFORE something bad happens, we can overcome any crisis."
@@ -132,6 +136,7 @@
         }
       },
       "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "Today's topic is about dealing with crises.\n\nAll families experience crises. When we prepare together and know where to get help BEFORE something bad happens, we can overcome any crisis.",
       "_translations": {
         "text_1_facilitator": {},
@@ -146,6 +151,7 @@
       "id": "intro_2",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_crisis_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Every crisis is a challenge, but it is also a chance to grow stronger as a family and show your teen that together, you can get through anything."
@@ -158,6 +164,7 @@
         }
       },
       "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "Every crisis is a challenge, but it is also a chance to grow stronger as a family and show your teen that together, you can get through anything.",
       "_translations": {
         "text_1_facilitator": {},
@@ -170,6 +177,7 @@
     },
     {
       "id": "explore_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Crisis can happen to anyone.\n\nLet's see what happened with @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name:"
@@ -179,6 +187,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Crisis can happen to anyone.\n\nLet's see what happened with @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name:",
       "_translations": {
         "text_1_facilitator": {},
@@ -191,6 +200,7 @@
     },
     {
       "id": "explore_2",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "It’s my Uncle, he… he… he touched me."
@@ -203,6 +213,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/crisis/crisis1_t_2.svg",
       "character_1_id": "f2_daughter_19",
       "character_1_text": "It’s my Uncle, he… he… he touched me.",
@@ -219,6 +230,7 @@
     },
     {
       "id": "explore_3",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "It is true, he… he… made me do it! He made me have sex with him! I did not want to, I swear, and I even said NO, but he told me I would be in trouble."
@@ -228,6 +240,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/crisis/crisis1_t_3.svg",
       "character_1_id": "f2_daughter_19",
       "character_1_text": "It is true, he… he… made me do it! He made me have sex with him! I did not want to, I swear, and I even said NO, but he told me I would be in trouble.",
@@ -241,6 +254,7 @@
     },
     {
       "id": "explore_4",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Yesterday when you went to see your friend. He just came and that’s when it happened."
@@ -253,6 +267,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/crisis/crisis1_t_4.svg",
       "character_1_id": "f2_daughter_19",
       "character_1_text": "Yesterday when you went to see your friend. He just came and that’s when it happened.",
@@ -269,6 +284,7 @@
     },
     {
       "id": "explore_5",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Ah I know, let’s go to the clinic. They will know what we can do to help you. Does that sound okay to you?"
@@ -278,6 +294,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/crisis/crisis1_t_5.svg",
       "character_1_id": "f2_grandmother",
       "character_1_text": "Ah I know, let’s go to the clinic. They will know what we can do to help you. Does that sound okay to you?",
@@ -291,12 +308,14 @@
     },
     {
       "id": "explore_6",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Of course I will. And @data.characters.f2_daughter_19.name? Remember this is not your fault. I love you. You are a good person. We will get through this."
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/crisis/crisis1_t_6.svg",
       "character_1_id": "f2_grandmother",
       "character_1_text": "Of course I will. And @data.characters.f2_daughter_19.name? Remember this is not your fault. I love you. You are a good person. We will get through this.",
@@ -307,6 +326,7 @@
     },
     {
       "id": "explore_7",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "This was such a difficult situation for @data.characters.f2_daughter_19.name and @data.characters.f2_grandmother.name! And this can happen to other girls, and boys too.\n\nThankfully, @data.characters.f2_grandmother.name gave great support to @data.characters.f2_daughter_19.name. Let's think about what she did well."
@@ -346,6 +366,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "quiz_1_feedback_1": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -386,6 +407,7 @@
     },
     {
       "id": "explore_8",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Another problem that many parents are worried about is violence and crime. Let’s look at an example together."
@@ -395,6 +417,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Another problem that many parents are worried about is violence and crime. Let’s look at an example together.",
       "_translations": {
         "text_1_facilitator": {
@@ -409,6 +432,7 @@
     },
     {
       "id": "explore_9",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Yesterday, my friends and I went to a soccer match. Some guys who were drunk started a fight with my friend."
@@ -418,6 +442,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/crisis/crisis2_t_2.svg",
       "character_1_id": "f1_son_18",
       "character_1_text": "Yesterday, my friends and I went to a soccer match. Some guys who were drunk started a fight with my friend.",
@@ -431,6 +456,7 @@
     },
     {
       "id": "explore_10",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I did not want to, but I could not just stand there and let them beat up my friend, so…"
@@ -440,6 +466,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/crisis/crisis2_t_3.svg",
       "character_1_id": "f1_son_18",
       "character_1_text": "I did not want to, but I could not just stand there and let them beat up my friend, so…",
@@ -453,6 +480,7 @@
     },
     {
       "id": "explore_11",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Everyone was fighting. I saw someone lying on the field in a pool of blood. He looked… dead."
@@ -462,6 +490,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/crisis/crisis2_t_4.svg",
       "character_1_id": "f1_son_18",
       "character_1_text": "Everyone was fighting. I saw someone lying on the field in a pool of blood. He looked… dead.",
@@ -475,6 +504,7 @@
     },
     {
       "id": "explore_12",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Thank you, @data.characters.f1_father.role_name."
@@ -484,6 +514,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/crisis/crisis2_t_5.svg",
       "character_1_id": "f1_son_18",
       "character_1_text": "Thank you, @data.characters.f1_father.role_name.",
@@ -497,6 +528,7 @@
     },
     {
       "id": "explore_13",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "This was such a difficult situation for @data.characters.f1_son_18.name and his father!  \n\nLet's think about how @data.characters.f1_father.name supported @data.characters.f1_son_18.name through this crisis."
@@ -536,6 +568,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "quiz_1_feedback_1": "That's right! \n\nAll these skills can help in a crisis.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -574,6 +607,7 @@
     },
     {
       "id": "tips_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Crisis can make us feel angry or helpless. But this is when our teens really need us to breathe, listen and think. \n\nHere are some tips to help you deal with a crisis!"
@@ -604,6 +638,7 @@
         }
       },
       "category_id": "practical_tips",
+      "nested": false,
       "section_1_title": "BREATHE",
       "_translations": {
         "section_1_title": {
@@ -645,12 +680,14 @@
     },
     {
       "id": "practise_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "It is helpful to practise dealing with crises before something happens.\n\nLet's look at five family crisis examples together. Imagine you are the parent: What would you do?\n\nRemember: BREATHE - LISTEN - THINK"
         }
       },
       "category_id": "practise",
+      "nested": false,
       "text_1_facilitator": "It is helpful to practise dealing with crises before something happens.\n\nLet's look at five family crisis examples together. Imagine you are the parent: What would you do?\n\nRemember: BREATHE - LISTEN - THINK",
       "_translations": {
         "text_1_facilitator": {}
@@ -659,6 +696,7 @@
     },
     {
       "id": "practise_2",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Crisis 1: @data.characters.f2_son_15.name fights at school.\n\nHow could you respond to @data.characters.f2_son_15.name?"
@@ -668,6 +706,7 @@
         }
       },
       "category_id": "practise",
+      "nested": false,
       "text_1_facilitator": "Crisis 1: @data.characters.f2_son_15.name fights at school.\n\nHow could you respond to @data.characters.f2_son_15.name?",
       "_translations": {
         "text_1_facilitator": {},
@@ -680,6 +719,7 @@
     },
     {
       "id": "practise_3",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Crisis 2: @data.characters.f1_daughter_16.name gets pregnant.\n\nHow could you respond to @data.characters.f1_daughter_16.name?"
@@ -689,6 +729,7 @@
         }
       },
       "category_id": "practise",
+      "nested": false,
       "text_1_facilitator": "Crisis 2: @data.characters.f1_daughter_16.name gets pregnant.\n\nHow could you respond to @data.characters.f1_daughter_16.name?",
       "_translations": {
         "text_1_facilitator": {},
@@ -701,6 +742,7 @@
     },
     {
       "id": "practise_4",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Crisis 3: @data.characters.f1_son_18.name makes a girl pregnant.\n\nHow could you respond to @data.characters.f1_son_18.name?"
@@ -710,6 +752,7 @@
         }
       },
       "category_id": "practise",
+      "nested": false,
       "text_1_facilitator": "Crisis 3: @data.characters.f1_son_18.name makes a girl pregnant.\n\nHow could you respond to @data.characters.f1_son_18.name?",
       "_translations": {
         "text_1_facilitator": {},
@@ -722,6 +765,7 @@
     },
     {
       "id": "practise_5",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Crisis 4: Someone in the family may get sick.\n\nHow could you respond in this situation?"
@@ -731,6 +775,7 @@
         }
       },
       "category_id": "practise",
+      "nested": false,
       "text_1_facilitator": "Crisis 4: Someone in the family may get sick.\n\nHow could you respond in this situation?",
       "_translations": {
         "text_1_facilitator": {},
@@ -743,6 +788,7 @@
     },
     {
       "id": "practise_6",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Crisis 5: @data.characters.f2_daughter_19.name is pressured into sex by her boyfriend.\n\nHow could you respond to @data.characters.f2_daughter_19.name?"
@@ -752,6 +798,7 @@
         }
       },
       "category_id": "practise",
+      "nested": false,
       "text_1_facilitator": "Crisis 5: @data.characters.f2_daughter_19.name is pressured into sex by her boyfriend.\n\nHow could you respond to @data.characters.f2_daughter_19.name?",
       "_translations": {
         "text_1_facilitator": {},
@@ -764,6 +811,7 @@
     },
     {
       "id": "home_activity_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "This week's home activity is to look back at the five crisis examples and discuss what you would do together if this happened to a friend or in your family."
@@ -794,6 +842,7 @@
         }
       },
       "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "That's wonderful! Talking about this now will help your teen feel supported and safe. You are doing great.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -824,6 +873,7 @@
       "id": "teen_test_1",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_crisis_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Remember to support and encourage each other. It is hard to remain calm and listen to each other in a crisis - you can be proud of yourself."
@@ -836,6 +886,7 @@
         }
       },
       "category_id": "teen_test",
+      "nested": false,
       "text_1_facilitator": "Remember to support and encourage each other. It is hard to remain calm and listen to each other in a crisis - you can be proud of yourself.",
       "_translations": {
         "text_1_facilitator": {},
@@ -848,6 +899,9 @@
     }
   ],
   "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
     "completed": {
       "type": "boolean"
     }
