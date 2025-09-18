@@ -27,6 +27,7 @@
       },
       "transcript": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
       "category_id": "relax",
+      "nested": false,
       "completed": false
     },
     {
@@ -59,6 +60,7 @@
         }
       },
       "category_id": "check_in",
+      "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -113,6 +115,7 @@
         }
       },
       "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "Today's topic is about calm consequences.\n\nOur actions have consequences. Some consequences happen naturally (“if you break something, you can’t use it anymore”). Other consequences we set as a family to motivate us to follow the rules (“if you come home late, you can’t go out with friends tomorrow”).\n\nHOW you set and use consequences together matters.\n\nGetting consequences right helps teens behave better and makes family life calmer.",
       "_translations": {
         "text_1_facilitator": {},
@@ -127,6 +130,7 @@
       "id": "intro_2",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_consequence_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Calm consequences work best when they are fair, agreed on together, and followed through consistently - not in anger."
@@ -139,6 +143,7 @@
         }
       },
       "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "Calm consequences work best when they are fair, agreed on together, and followed through consistently - not in anger.",
       "_translations": {
         "text_1_facilitator": {},
@@ -151,6 +156,7 @@
     },
     {
       "id": "explore_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's read what happened with @data.characters.f1_son_18.name and his father, @data.characters.f1_father.name:"
@@ -160,6 +166,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Let's read what happened with @data.characters.f1_son_18.name and his father, @data.characters.f1_father.name:",
       "_translations": {
         "text_1_facilitator": {},
@@ -172,6 +179,7 @@
     },
     {
       "id": "explore_2",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Sorry @data.characters.f1_father.role_name – you can go back to sleep."
@@ -181,6 +189,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/consequence/consequence1_t_2.svg",
       "character_1_id": "f1_son_18",
       "character_1_text": "Sorry @data.characters.f1_father.role_name – you can go back to sleep.",
@@ -194,6 +203,7 @@
     },
     {
       "id": "explore_3",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I can explain, @data.characters.f1_father.role_name, I can."
@@ -203,6 +213,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/consequence/consequence1_t_3.svg",
       "character_1_id": "f1_son_18",
       "character_1_text": "I can explain, @data.characters.f1_father.role_name, I can.",
@@ -216,12 +227,14 @@
     },
     {
       "id": "explore_4",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
           "eng": "That’s unfair! You never listen to me!! I hate you!"
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/consequence/consequence1_t_4.svg",
       "character_1_id": "f1_son_18",
       "character_1_text": "That’s unfair! You never listen to me!! I hate you!",
@@ -232,6 +245,7 @@
     },
     {
       "id": "explore_5",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's think about what happened in this story."
@@ -265,6 +279,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "quiz_1_feedback_1": "Yes, a strong reaction like that just made everyone more angry and upset.",
       "_translations": {
         "quiz_1_feedback_1": {
@@ -305,6 +320,7 @@
     },
     {
       "id": "explore_6",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Teens often break rules. This is normal - growing up is a difficult time when they are learning about who they are.\n\nLuckily, there are ways to discipline without getting angry or using violence… and they work well!\n\nGiving calm consequences is important because it helps teens learn from their actions and take responsibility for their choices."
@@ -332,6 +348,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "quiz_1_feedback_1": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -359,6 +376,7 @@
     },
     {
       "id": "explore_7",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "Now imagine @data.characters.f1_daughter_16.name and @data.characters.f1_daughter_13.name fight over a phone. \nWhat consequence would help here?"
@@ -395,6 +413,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "quiz_1_feedback_1": "Great idea! Calm consequences work best when they are fair, happen soon after the behaviour, and are used the same way each time. This helps your teen understand what to expect and gives them a clear chance to learn from their actions.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -434,6 +453,7 @@
     },
     {
       "id": "explore_8",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "Now imagine @data.characters.f2_son_15.name is helping with a special chore. \nWhat consequence would help here?"
@@ -470,6 +490,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "quiz_1_feedback_1": "Wonderful! Positive consequences like this build trust and show your teen that helpful behaviour is noticed and appreciated. When rewards are fair, timely, and consistent, they motivate teens to keep making good choices and strengthen your bond too.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -503,6 +524,7 @@
     },
     {
       "id": "tips_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are some tips to help you with calm consequences:"
@@ -545,6 +567,7 @@
         }
       },
       "category_id": "practical_tips",
+      "nested": false,
       "text_1_facilitator": "Here are some tips to help you with calm consequences:",
       "_translations": {
         "text_1_facilitator": {},
@@ -590,6 +613,7 @@
     },
     {
       "id": "explore_9",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Now let's go back to @data.characters.f1_son_18.name and his father, @data.characters.f1_father.name:"
@@ -602,6 +626,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "text_1_facilitator": "Now let's go back to @data.characters.f1_son_18.name and his father, @data.characters.f1_father.name:",
       "_translations": {
         "text_1_facilitator": {},
@@ -617,6 +642,7 @@
     },
     {
       "id": "explore_10",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
           "eng": "That is a good idea! And what should we do if you don’t follow the rule?"
@@ -626,6 +652,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/consequence/consequence3_t_2.svg",
       "character_1_id": "f1_father",
       "character_1_text": "That is a good idea! And what should we do if you don’t follow the rule?",
@@ -639,6 +666,7 @@
     },
     {
       "id": "explore_11",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Oh come on, I know you have some ideas."
@@ -648,6 +676,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/consequence/consequence3_t_3.svg",
       "character_1_id": "f1_father",
       "character_1_text": "Oh come on, I know you have some ideas.",
@@ -661,6 +690,7 @@
     },
     {
       "id": "explore_12",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
           "eng": "You have to do your homework anyway. If you forget the rule, is it fair that you will not be able to see your friends the next day?"
@@ -670,6 +700,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/consequence/consequence3_t_4.svg",
       "character_1_id": "f1_father",
       "character_1_text": "You have to do your homework anyway. If you forget the rule, is it fair that you will not be able to see your friends the next day?",
@@ -683,6 +714,7 @@
     },
     {
       "id": "explore_13",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_2": {
           "eng": "*The next day...*"
@@ -692,6 +724,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/consequence/consequence3_t_5.svg",
       "character_1_id": "f1_father",
       "character_1_text": "@data.characters.f1_son_18.name! What time is it! It is late!",
@@ -704,6 +737,7 @@
     },
     {
       "id": "explore_14",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Sorry @data.characters.f1_father.role_name – you can go back to sleep."
@@ -713,6 +747,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/consequence/consequence3_t_6.svg",
       "character_1_id": "f1_son_18",
       "character_1_text": "Sorry @data.characters.f1_father.role_name – you can go back to sleep.",
@@ -726,6 +761,7 @@
     },
     {
       "id": "explore_15",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I can explain, @data.characters.f1_father.role_name, I can."
@@ -735,6 +771,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/consequence/consequence3_t_7.svg",
       "character_1_id": "f1_son_18",
       "character_1_text": "I can explain, @data.characters.f1_father.role_name, I can.",
@@ -748,6 +785,7 @@
     },
     {
       "id": "explore_16",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
           "eng": "My friends wanted me to stay longer. They were calling me a baby for having to go home already."
@@ -757,6 +795,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/consequence/consequence3_t_8.svg",
       "character_1_id": "f1_son_18",
       "character_1_text": "My friends wanted me to stay longer. They were calling me a baby for having to go home already.",
@@ -770,6 +809,7 @@
     },
     {
       "id": "explore_17",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I am sorry I worried you and @data.characters.f1_mother.role_name."
@@ -779,6 +819,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "image_asset": "/images/teen_modules/consequence/consequence3_t_9.svg",
       "character_1_id": "f1_son_18",
       "character_1_text": "I am sorry I worried you and @data.characters.f1_mother.role_name.",
@@ -792,6 +833,7 @@
     },
     {
       "id": "explore_18",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's think about this story."
@@ -831,6 +873,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "quiz_1_feedback_1": "Exactly! Consequences work best when they are set calmly, agreed on together, and followed through with care. By listening to your teen and staying firm but kind, you are correcting behaviour AND building trust and helping them learn responsibility.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -869,6 +912,7 @@
     },
     {
       "id": "explore_19",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "It is time to learn and practise!\n\nPlan a calm consequence for your teenagers arguing with each other during dinner."
@@ -923,6 +967,7 @@
         }
       },
       "category_id": "explore",
+      "nested": false,
       "quiz_1_feedback_1": "Negative Consequence: Cannot see friends the next day.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -967,6 +1012,7 @@
     },
     {
       "id": "home_activity_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "It is time to learn and practise!\n\nYour home activity this week is to try using one **positive consequence** when your teen does something well — and one **negative consequence** when they break a household rule."
@@ -997,6 +1043,7 @@
         }
       },
       "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "That's fantastic! When teens help choose their own consequences - both positive and negative - they are more likely to understand and stick to them. You are helping them grow into a responsible young adult.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -1027,6 +1074,7 @@
       "id": "teen_test_1",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_consequence_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "When consequences are calm, clear, and agreed on together, teens are more likely to follow the rules. They will feel respected, not punished, and that is the best way to help our teens learn."
@@ -1039,6 +1087,7 @@
         }
       },
       "category_id": "teen_test",
+      "nested": false,
       "text_1_facilitator": "When consequences are calm, clear, and agreed on together, teens are more likely to follow the rules. They will feel respected, not punished, and that is the best way to help our teens learn.",
       "_translations": {
         "text_1_facilitator": {},
@@ -1053,6 +1102,9 @@
     }
   ],
   "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
     "completed": {
       "type": "boolean"
     }
