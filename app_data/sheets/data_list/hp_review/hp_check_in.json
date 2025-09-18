@@ -11,8 +11,9 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "Your goal was to spend one-on-one time with your teen.",
+      "notification_text": "How did one-on-one time go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {
           "tz_sw": true
         },
@@ -38,6 +39,9 @@
         "outro_text": {}
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did one-on-one time go?"
+        },
         "text_goal": {
           "eng": "Your goal was to spend one-on-one time with your teen."
         },
@@ -66,6 +70,7 @@
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
         }
       },
+      "text_goal": "Your goal was to spend one-on-one time with your teen.",
       "reply_happy": "That’s wonderful! Well done for spending time together. It lays the foundation for a great relationship with your teen!",
       "reply_ok": "Sometimes it will be easy and fun to spend time with your teens and sometimes it will be more challenging. Spending time together will definitely improve your relationship!",
       "reply_sad": "Sorry to hear that it was difficult for you to spend time with your teen. We all have challenges sometimes. Just be patient with yourself and your teen – things will get better. Well done for trying!",
@@ -81,8 +86,9 @@
       "happy_image_asset": "images/faces/happy.svg",
       "ok_image_asset": "images/faces/neutral.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "Your goal was to praise your teen once a day.",
+      "notification_text": "How did praising your teen go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {},
         "reply_no": {
           "tz_sw": true
@@ -106,6 +112,9 @@
         }
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did praising your teen go?"
+        },
         "text_goal": {
           "eng": "Your goal was to praise your teen once a day."
         },
@@ -134,6 +143,7 @@
           "eng": "How did it go?"
         }
       },
+      "text_goal": "Your goal was to praise your teen once a day.",
       "reply_no": "It can sometimes be hard to remember to praise our teens. Next time you spend one-on-one time with your teen, try and think of one thing you can praise them for. You can even say, “Thank you for spending time with me!”",
       "reply_happy": "Great to hear it went well! Keep up the praise – you will see your teen do more and more of the behaviour you like to see!",
       "reply_ok": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference – you will see.",
@@ -149,8 +159,9 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "Your goal was to try and resolve a problem together with your teen using the four steps of problem-solving: Know It, Solve It, Try It, Test It.",
+      "notification_text": "How did solving a problem together go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {},
         "reply_happy": {
           "tz_sw": true
@@ -174,6 +185,9 @@
         "outro_text": {}
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did solving a problem together go?"
+        },
         "text_goal": {
           "eng": "Your goal was to try and resolve a problem together with your teen using the four steps of problem-solving: Know It, Solve It, Try It, Test It."
         },
@@ -202,6 +216,7 @@
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
         }
       },
+      "text_goal": "Your goal was to try and resolve a problem together with your teen using the four steps of problem-solving: Know It, Solve It, Try It, Test It.",
       "reply_happy": "Great to hear it went well! When your teen learns how to solve problems, they can use that skill their whole life. What a gift!",
       "reply_ok": "Solving problems together takes some practice. The more often you involve your teen when you are both calm, the better it will go. Well done for trying!",
       "reply_sad": "Sorry that this was hard. Sometimes we just have to keep trying. Find a time when you and your teen are calm and try again to talk through a problem using the four steps of problem-solving. Together, you can do so much!",
@@ -217,8 +232,9 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "Your home activity was to relax, recognise your efforts, and reward yourself.",
+      "notification_text": "How did taking care of yourself go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {},
         "reply_happy": {},
         "reply_ok": {},
@@ -236,6 +252,9 @@
         "outro_text": {}
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did taking care of yourself go?"
+        },
         "text_goal": {
           "eng": "Your home activity was to relax, recognise your efforts, and reward yourself."
         },
@@ -264,6 +283,7 @@
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
         }
       },
+      "text_goal": "Your home activity was to relax, recognise your efforts, and reward yourself.",
       "reply_happy": "Great to hear you took time for yourself! Taking care of yourself helps you be the best parent you can be.",
       "reply_ok": "Taking time for yourself can be challenging, but you’re doing great. Keep it up — you deserve it!",
       "reply_sad": "Sorry to hear that it was difficult to prioritise yourself. Remember, taking care of yourself is essential and will help you take care of others even better!",
@@ -279,8 +299,9 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "Your home practice was to give your teen positive instructions.",
+      "notification_text": "How did giving clear instructions go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {},
         "reply_happy": {
           "tz_sw": true
@@ -304,6 +325,9 @@
         "outro_text": {}
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did giving clear instructions go?"
+        },
         "text_goal": {
           "eng": "Your home practice was to give your teen positive instructions."
         },
@@ -332,6 +356,7 @@
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
         }
       },
+      "text_goal": "Your home practice was to give your teen positive instructions.",
       "reply_happy": "Great to hear it went well. You are a star!",
       "reply_ok": "Sorry to hear it was difficult for you. Well done for trying!",
       "reply_sad": "Giving instructions in a new way takes some practice. Keep trying, you will soon see the difference it makes!",
@@ -347,8 +372,9 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "This week, your goal was to respond calmly and talk to your teen about how you both felt in a stressful situation.\n\nYour other goal was to pick a Safety Word together.",
+      "notification_text": "How did keeping calm under stress go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {},
         "reply_happy": {
           "tz_sw": true
@@ -372,6 +398,9 @@
         "outro_text": {}
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did keeping calm under stress go?"
+        },
         "text_goal": {
           "eng": "This week, your goal was to respond calmly and talk to your teen about how you both felt in a stressful situation.\n\nYour other goal was to pick a Safety Word together."
         },
@@ -400,6 +429,7 @@
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
         }
       },
+      "text_goal": "This week, your goal was to respond calmly and talk to your teen about how you both felt in a stressful situation.\n\nYour other goal was to pick a Safety Word together.",
       "reply_happy": "Wonderful! You deserve all the happy times!",
       "reply_ok": "Sorry that this was difficult for you. You are a star for trying!",
       "reply_sad": "Life can be so stressful. Every small step counts. Keep up the good work!",
@@ -415,8 +445,9 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "Your goal was to set one rule together with your teen.",
+      "notification_text": "How did setting a rule go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {},
         "reply_happy": {
           "tz_sw": true
@@ -442,6 +473,9 @@
         }
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did setting a rule go?"
+        },
         "text_goal": {
           "eng": "Your goal was to set one rule together with your teen."
         },
@@ -470,6 +504,7 @@
           "eng": "How did it go?"
         }
       },
+      "text_goal": "Your goal was to set one rule together with your teen.",
       "reply_happy": "Great to hear it went well! Consistent rules help make our teens feel secure and keep them safe!",
       "reply_ok": "It can be hard to create your first rule together, but you will see the benefits of involving your family. Keep trying!",
       "reply_sad": "Sorry that this has been difficult. Creating rules together requires some practice but it is worth it!",
@@ -485,8 +520,9 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "Your goal was to introduce one POSITIVE consequence (for your teen taking good actions) and one NEGATIVE consequence (for your teen breaking a household rule).",
+      "notification_text": "How did introducing a positive consequence go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {},
         "reply_happy": {
           "tz_sw": true
@@ -510,6 +546,9 @@
         "outro_text": {}
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did introducing a positive consequence go?"
+        },
         "text_goal": {
           "eng": "Your goal was to introduce one POSITIVE consequence (for your teen taking good actions) and one NEGATIVE consequence (for your teen breaking a household rule)."
         },
@@ -538,6 +577,7 @@
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
         }
       },
+      "text_goal": "Your goal was to introduce one POSITIVE consequence (for your teen taking good actions) and one NEGATIVE consequence (for your teen breaking a household rule).",
       "reply_happy": "Great to hear it went well! Getting consequences right helps teens behave better and makes family life calmer.",
       "reply_ok": "Staying calm and consistent can be hard, but you are doing so well. You can do this!",
       "reply_sad": "Sorry that this was difficult for you. Setting consequences together will make your teen want to follow the rules more often!",
@@ -553,8 +593,9 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "Your goal was to make two maps with your teen of safe and unsafe places – both in your community and online.",
+      "notification_text": "How did making safety maps go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {},
         "reply_happy": {
           "tz_sw": true
@@ -578,6 +619,9 @@
         "outro_text": {}
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did making safety maps go?"
+        },
         "text_goal": {
           "eng": "Your goal was to make two maps with your teen of safe and unsafe places – both in your community and online."
         },
@@ -606,6 +650,7 @@
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
         }
       },
+      "text_goal": "Your goal was to make two maps with your teen of safe and unsafe places – both in your community and online.",
       "reply_happy": "Great to hear it went well! Talking about risks and support options prevents problems and really helps to keep your teen safe.",
       "reply_ok": "Even if it did not go so well yet, you will get there! Mapping risks and support systems together will help your family. Well done for trying.",
       "reply_sad": "Sorry that this was hard. Mapping risks and places to get support can be challenging and emotional. It really does help to keep your teen safe!",
@@ -621,8 +666,9 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "Your goal was to discuss a possible crisis situation with your teen and make a plan for how you could respond together.",
+      "notification_text": "How did talking about a crisis plan go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {},
         "reply_happy": {
           "tz_sw": true
@@ -644,6 +690,9 @@
         "outro_text": {}
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did talking about a crisis plan go?"
+        },
         "text_goal": {
           "eng": "Your goal was to discuss a possible crisis situation with your teen and make a plan for how you could respond together."
         },
@@ -672,6 +721,7 @@
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
         }
       },
+      "text_goal": "Your goal was to discuss a possible crisis situation with your teen and make a plan for how you could respond together.",
       "reply_happy": "Great to hear it went well!",
       "reply_ok": "It can be hard to think and talk about a crisis happening in your family. By trying you are already on the right path. Keep up the good work!",
       "reply_sad": "Sorry it didn’t go so well. This can be tough. Try sitting down with your teen again — and think about whether someone they trust could join the conversation to help.",
@@ -687,8 +737,9 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "Your goal was to make a family budget.",
+      "notification_text": "How did making a family budget go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {},
         "reply_happy": {
           "tz_sw": true
@@ -712,6 +763,9 @@
         }
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did making a family budget go?"
+        },
         "text_goal": {
           "eng": "Your goal was to make a family budget."
         },
@@ -740,6 +794,7 @@
           "eng": "How did it go?"
         }
       },
+      "text_goal": "Your goal was to make a family budget.",
       "reply_happy": "Great to hear it went well. Talking about your finances together really makes your family stronger!",
       "reply_ok": "It is never easy to talk about money. Well done on starting the conversation and teaching your teen about this.",
       "reply_sad": "Sorry to hear it was difficult for you. Well done for trying. Helping your teen understand money better will benefit them so much in life!",
@@ -755,8 +810,9 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "Your goal was to look at the stories in this module together with your teen and use them to start a conversation about body changes and relationships.",
+      "notification_text": "How did reading the stories and talking about body changes go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {},
         "reply_happy": {
           "tz_sw": true
@@ -782,6 +838,9 @@
         }
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did reading the stories and talking about body changes go?"
+        },
         "text_goal": {
           "eng": "Your goal was to look at the stories in this module together with your teen and use them to start a conversation about body changes and relationships."
         },
@@ -810,6 +869,7 @@
           "eng": "How did it go?"
         }
       },
+      "text_goal": "Your goal was to look at the stories in this module together with your teen and use them to start a conversation about body changes and relationships.",
       "reply_happy": "Well done for trying it out – you took a very important step to help your teen!",
       "reply_ok": "Talking about these sensitive topics can be uncomfortable for both you and your teen. The more you try, the better it will get. It is worth every bit of your effort!",
       "reply_sad": "It can be hard to talk to your teen about these things. That is okay. Well done for trying, you will get another opportunity again soon!",
@@ -825,8 +885,9 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "Your goal was to discuss the Staying Safe module with your teen.",
+      "notification_text": "How did talking about staying safe with your teen go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {},
         "reply_happy": {
           "tz_sw": true
@@ -850,6 +911,9 @@
         "outro_text": {}
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did talking about staying safe with your teen go?"
+        },
         "text_goal": {
           "eng": "Your goal was to discuss the Staying Safe module with your teen."
         },
@@ -878,6 +942,7 @@
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
         }
       },
+      "text_goal": "Your goal was to discuss the Staying Safe module with your teen.",
       "reply_happy": "Well done for involving your teen! Discussing these difficult topics can help keep your teen safe when it matters most.",
       "reply_ok": "Talking about potentially dangerous situations with your teen can be challenging, but just know that you started an important conversation! Keep up the good work.",
       "reply_sad": "Discussing potential dangers and how to respond can be a trigger for any parent and teen. The fact that you tried already makes a big difference and really shows you care.",
@@ -893,8 +958,9 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "This week, your goal was to share with your teen how you feel, and ask them to also name their feelings.",
+      "notification_text": "How did sharing feelings of grief with your teen go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {},
         "reply_happy": {
           "tz_sw": true
@@ -918,6 +984,9 @@
         "outro_text": {}
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did sharing feelings of grief with your teen go?"
+        },
         "text_goal": {
           "eng": "This week, your goal was to share with your teen how you feel, and ask them to also name their feelings."
         },
@@ -946,6 +1015,7 @@
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
         }
       },
+      "text_goal": "This week, your goal was to share with your teen how you feel, and ask them to also name their feelings.",
       "reply_happy": "Well done! Sharing feelings will help your family to support each other and get through this difficult time together.",
       "reply_ok": "Talking about feelings can be challenging at first. Try again another time. It will help you and your family.",
       "reply_sad": "Losing someone impacts everyone differently. Be kind to yourself and take some time to notice and share how you feel when you are ready. You will see it will help you and your family.",
@@ -961,8 +1031,9 @@
       "ok_image_asset": "images/faces/neutral.svg",
       "sad_image_asset": "images/faces/sad.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
-      "text_goal": "Your goal was to try a fun activity with your teen.",
+      "notification_text": "How did trying a fun activity with your teen go?",
       "_translations": {
+        "notification_text": {},
         "text_goal": {},
         "reply_happy": {},
         "reply_ok": {},
@@ -980,6 +1051,9 @@
         "outro_text": {}
       },
       "_translatedFields": {
+        "notification_text": {
+          "eng": "How did trying a fun activity with your teen go?"
+        },
         "text_goal": {
           "eng": "Your goal was to try a fun activity with your teen."
         },
@@ -1008,6 +1082,7 @@
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
         }
       },
+      "text_goal": "Your goal was to try a fun activity with your teen.",
       "reply_happy": "Great to hear it went well! Spending fun, relaxed time with your teen helps them learn important life skills  —  and it strengthens your bond.",
       "reply_ok": "You're doing well! Even small moments of fun and conversation can help your teen feel valued and motivated. Keep it up!",
       "reply_sad": "Taking time for yourself can be challenging, but you’re doing great. Keep it up — you deserve it!",
