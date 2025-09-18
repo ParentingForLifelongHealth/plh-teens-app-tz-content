@@ -708,6 +708,16 @@
               "trigger": "click",
               "action_id": "set_field",
               "args": [
+                "child_age_tag",
+                "teen"
+              ],
+              "_raw": "click | set_field: child_age_tag: teen",
+              "_cleaned": "click | set_field: child_age_tag: teen"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
                 "household_children",
                 "@local.household_children_input"
               ],
@@ -771,7 +781,7 @@
                   }
                 ]
               },
-              "1": {
+              "2": {
                 "args": {
                   "1": [
                     {
@@ -821,9 +831,9 @@
               "action_list.0._cleaned"
             ],
             "@local.household_children_input": [
-              "action_list.1.args.1",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.2.args.1",
+              "action_list.2._raw",
+              "action_list.2._cleaned"
             ],
             "!@local.completed_enabled": [
               "parameter_list.disabled"
