@@ -71,7 +71,7 @@
 | reset_data | 3 |
 | save_to_device | 2 |
 | set_data | 62 |
-| set_field | 62 |
+| set_field | 63 |
 | set_item | 38 |
 | set_local | 57 |
 | share | 2 |
@@ -84,8 +84,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 62283 KB | 62.3 MB |
-| unused | 67327 KB | 67.3 MB |
+| total | 62854 KB | 62.9 MB |
+| unused | 66756 KB | 66.8 MB |
 </details>
 
 <details open>
@@ -179,35 +179,18 @@ Assets that appear in app-data but do not have references within sheets
 | images/homescreen/developmentplay.svg | 75.2 |
 | images/homescreen/feelings.svg | 75.4 |
 | images/homescreen/instructions.svg | 40.6 |
-| images/homescreen/listview/celebrate_t.svg | 31.1 |
-| images/homescreen/listview/consequence_t.svg | 29.3 |
 | images/homescreen/listview/consequences.svg | 37.5 |
-| images/homescreen/listview/crisis_t.svg | 44 |
 | images/homescreen/listview/developmentplay.svg | 65.4 |
 | images/homescreen/listview/feelings.svg | 53.4 |
-| images/homescreen/listview/grief_t.svg | 26.8 |
-| images/homescreen/listview/instruct_t.svg | 37.9 |
 | images/homescreen/listview/instructions.svg | 31.7 |
-| images/homescreen/listview/learn_t.svg | 25.4 |
-| images/homescreen/listview/money_t.svg | 31.7 |
-| images/homescreen/listview/one_on_one_t.svg | 39.8 |
 | images/homescreen/listview/one_on_one_time.svg | 43.7 |
 | images/homescreen/listview/praise.svg | 72.2 |
-| images/homescreen/listview/praise_t.svg | 33.7 |
 | images/homescreen/listview/problemsolving.svg | 28.6 |
-| images/homescreen/listview/rules_t.svg | 35.8 |
 | images/homescreen/listview/rulesroutines.svg | 51.8 |
-| images/homescreen/listview/safe_t.svg | 20.6 |
-| images/homescreen/listview/self_care.svg | 52.6 |
-| images/homescreen/listview/solve_t.svg | 33.5 |
-| images/homescreen/listview/srh_t.svg | 40.9 |
-| images/homescreen/listview/stress_t.svg | 15.5 |
-| images/homescreen/listview/svp_t.svg | 20.3 |
 | images/homescreen/one_on_one_time.svg | 47.4 |
 | images/homescreen/praise.svg | 99.9 |
 | images/homescreen/problemsolving.svg | 39.4 |
 | images/homescreen/rulesroutines.svg | 58.8 |
-| images/homescreen/svp_t.svg | 25.4 |
 | images/icons/balance_blue.png | 4.7 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |
@@ -232,7 +215,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/repeat_blue.png | 5.4 |
 | images/icons/spark.png | 1.6 |
 | images/icons/star_outline_white.svg | 1 |
-| images/logos/PLH.png | 26.6 |
 | images/logos/favicon.png | 149.9 |
 | images/logos/plh_white.png | 12.8 |
 | images/logos/sino_horizontal.svg | 251 |
@@ -461,15 +443,32 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/homescreen/grief_t.svg | 30.8 | 2 |
 | images/homescreen/instruct_t.svg | 40.6 | 2 |
 | images/homescreen/learn_t.svg | 28.4 | 2 |
+| images/homescreen/listview/celebrate_t.svg | 31.1 | 2 |
+| images/homescreen/listview/consequence_t.svg | 29.3 | 2 |
+| images/homescreen/listview/crisis_t.svg | 44 | 2 |
+| images/homescreen/listview/grief_t.svg | 26.8 | 2 |
+| images/homescreen/listview/instruct_t.svg | 37.9 | 2 |
+| images/homescreen/listview/learn_t.svg | 25.4 | 2 |
+| images/homescreen/listview/money_t.svg | 31.7 | 2 |
+| images/homescreen/listview/one_on_one_t.svg | 39.8 | 2 |
+| images/homescreen/listview/praise_t.svg | 33.7 | 2 |
+| images/homescreen/listview/rules_t.svg | 35.8 | 2 |
+| images/homescreen/listview/safe_t.svg | 20.6 | 2 |
+| images/homescreen/listview/self_care.svg | 52.6 | 2 |
+| images/homescreen/listview/solve_t.svg | 33.5 | 2 |
+| images/homescreen/listview/srh_t.svg | 40.9 | 2 |
+| images/homescreen/listview/stress_t.svg | 15.5 | 2 |
+| images/homescreen/listview/svp_t.svg | 20.3 | 2 |
 | images/homescreen/money_t.svg | 37.1 | 2 |
 | images/homescreen/one_on_one_t.svg | 48.5 | 2 |
 | images/homescreen/praise_t.svg | 32.2 | 2 |
 | images/homescreen/rules_t.svg | 41.2 | 2 |
-| images/homescreen/safe_t.svg | 23.9 | 4 |
+| images/homescreen/safe_t.svg | 23.9 | 2 |
 | images/homescreen/self_care.svg | 59.9 | 2 |
 | images/homescreen/solve_t.svg | 53.7 | 2 |
 | images/homescreen/srh_t.svg | 46.2 | 2 |
 | images/homescreen/stress_t.svg | 16.9 | 2 |
+| images/homescreen/svp_t.svg | 25.4 | 2 |
 | images/icons/brain_blue.png | 5.2 | 8 |
 | images/icons/clock_blue.png | 4.5 | 4 |
 | images/icons/diamond.png | 1.8 | 2 |
@@ -531,6 +530,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/verified.svg | 0.5 | 1 |
 | images/icons/world.svg | 6.2 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
+| images/logos/PLH.png | 26.6 | 1 |
 | images/logos/plh_logomark.png | 20.5 | 3 |
 | images/onboarding/facilitator_onboarding_icon.svg | 29.4 | 1 |
 | images/onboarding/frustrated.svg | 22.5 | 1 |

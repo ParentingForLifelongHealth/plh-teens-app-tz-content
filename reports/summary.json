@@ -251,7 +251,7 @@
       },
       {
         "type": "set_field",
-        "count": 62
+        "count": 63
       },
       {
         "type": "set_item",
@@ -279,13 +279,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "62283 KB",
-        "MB": "62.3 MB"
+        "KB": "62854 KB",
+        "MB": "62.9 MB"
       },
       {
         "assets": "unused",
-        "KB": "67327 KB",
-        "MB": "67.3 MB"
+        "KB": "66756 KB",
+        "MB": "66.8 MB"
       }
     ]
   },
@@ -628,20 +628,8 @@
         "size_kb": 40.6
       },
       {
-        "path": "images/homescreen/listview/celebrate_t.svg",
-        "size_kb": 31.1
-      },
-      {
-        "path": "images/homescreen/listview/consequence_t.svg",
-        "size_kb": 29.3
-      },
-      {
         "path": "images/homescreen/listview/consequences.svg",
         "size_kb": 37.5
-      },
-      {
-        "path": "images/homescreen/listview/crisis_t.svg",
-        "size_kb": 44
       },
       {
         "path": "images/homescreen/listview/developmentplay.svg",
@@ -652,28 +640,8 @@
         "size_kb": 53.4
       },
       {
-        "path": "images/homescreen/listview/grief_t.svg",
-        "size_kb": 26.8
-      },
-      {
-        "path": "images/homescreen/listview/instruct_t.svg",
-        "size_kb": 37.9
-      },
-      {
         "path": "images/homescreen/listview/instructions.svg",
         "size_kb": 31.7
-      },
-      {
-        "path": "images/homescreen/listview/learn_t.svg",
-        "size_kb": 25.4
-      },
-      {
-        "path": "images/homescreen/listview/money_t.svg",
-        "size_kb": 31.7
-      },
-      {
-        "path": "images/homescreen/listview/one_on_one_t.svg",
-        "size_kb": 39.8
       },
       {
         "path": "images/homescreen/listview/one_on_one_time.svg",
@@ -684,44 +652,12 @@
         "size_kb": 72.2
       },
       {
-        "path": "images/homescreen/listview/praise_t.svg",
-        "size_kb": 33.7
-      },
-      {
         "path": "images/homescreen/listview/problemsolving.svg",
         "size_kb": 28.6
       },
       {
-        "path": "images/homescreen/listview/rules_t.svg",
-        "size_kb": 35.8
-      },
-      {
         "path": "images/homescreen/listview/rulesroutines.svg",
         "size_kb": 51.8
-      },
-      {
-        "path": "images/homescreen/listview/safe_t.svg",
-        "size_kb": 20.6
-      },
-      {
-        "path": "images/homescreen/listview/self_care.svg",
-        "size_kb": 52.6
-      },
-      {
-        "path": "images/homescreen/listview/solve_t.svg",
-        "size_kb": 33.5
-      },
-      {
-        "path": "images/homescreen/listview/srh_t.svg",
-        "size_kb": 40.9
-      },
-      {
-        "path": "images/homescreen/listview/stress_t.svg",
-        "size_kb": 15.5
-      },
-      {
-        "path": "images/homescreen/listview/svp_t.svg",
-        "size_kb": 20.3
       },
       {
         "path": "images/homescreen/one_on_one_time.svg",
@@ -738,10 +674,6 @@
       {
         "path": "images/homescreen/rulesroutines.svg",
         "size_kb": 58.8
-      },
-      {
-        "path": "images/homescreen/svp_t.svg",
-        "size_kb": 25.4
       },
       {
         "path": "images/icons/balance_blue.png",
@@ -838,10 +770,6 @@
       {
         "path": "images/icons/star_outline_white.svg",
         "size_kb": 1
-      },
-      {
-        "path": "images/logos/PLH.png",
-        "size_kb": 26.6
       },
       {
         "path": "images/logos/favicon.png",
@@ -1839,6 +1767,86 @@
         "size_kb": 28.4
       },
       {
+        "path": "images/homescreen/listview/celebrate_t.svg",
+        "count": 2,
+        "size_kb": 31.1
+      },
+      {
+        "path": "images/homescreen/listview/consequence_t.svg",
+        "count": 2,
+        "size_kb": 29.3
+      },
+      {
+        "path": "images/homescreen/listview/crisis_t.svg",
+        "count": 2,
+        "size_kb": 44
+      },
+      {
+        "path": "images/homescreen/listview/grief_t.svg",
+        "count": 2,
+        "size_kb": 26.8
+      },
+      {
+        "path": "images/homescreen/listview/instruct_t.svg",
+        "count": 2,
+        "size_kb": 37.9
+      },
+      {
+        "path": "images/homescreen/listview/learn_t.svg",
+        "count": 2,
+        "size_kb": 25.4
+      },
+      {
+        "path": "images/homescreen/listview/money_t.svg",
+        "count": 2,
+        "size_kb": 31.7
+      },
+      {
+        "path": "images/homescreen/listview/one_on_one_t.svg",
+        "count": 2,
+        "size_kb": 39.8
+      },
+      {
+        "path": "images/homescreen/listview/praise_t.svg",
+        "count": 2,
+        "size_kb": 33.7
+      },
+      {
+        "path": "images/homescreen/listview/rules_t.svg",
+        "count": 2,
+        "size_kb": 35.8
+      },
+      {
+        "path": "images/homescreen/listview/safe_t.svg",
+        "count": 2,
+        "size_kb": 20.6
+      },
+      {
+        "path": "images/homescreen/listview/self_care.svg",
+        "count": 2,
+        "size_kb": 52.6
+      },
+      {
+        "path": "images/homescreen/listview/solve_t.svg",
+        "count": 2,
+        "size_kb": 33.5
+      },
+      {
+        "path": "images/homescreen/listview/srh_t.svg",
+        "count": 2,
+        "size_kb": 40.9
+      },
+      {
+        "path": "images/homescreen/listview/stress_t.svg",
+        "count": 2,
+        "size_kb": 15.5
+      },
+      {
+        "path": "images/homescreen/listview/svp_t.svg",
+        "count": 2,
+        "size_kb": 20.3
+      },
+      {
         "path": "images/homescreen/money_t.svg",
         "count": 2,
         "size_kb": 37.1
@@ -1860,7 +1868,7 @@
       },
       {
         "path": "images/homescreen/safe_t.svg",
-        "count": 4,
+        "count": 2,
         "size_kb": 23.9
       },
       {
@@ -1882,6 +1890,11 @@
         "path": "images/homescreen/stress_t.svg",
         "count": 2,
         "size_kb": 16.9
+      },
+      {
+        "path": "images/homescreen/svp_t.svg",
+        "count": 2,
+        "size_kb": 25.4
       },
       {
         "path": "images/icons/brain_blue.png",
@@ -2187,6 +2200,11 @@
         "path": "images/logos/IDEMS.png",
         "count": 1,
         "size_kb": 84.6
+      },
+      {
+        "path": "images/logos/PLH.png",
+        "count": 1,
+        "size_kb": 26.6
       },
       {
         "path": "images/logos/plh_logomark.png",
