@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_teens_tz", parent: "plh_kids"
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.3.3",
+  content_tag_latest: "1.3.4",
 };
 
 config.google_drive.sheets_folder_ids = [
@@ -61,8 +61,8 @@ config.app_config.APP_FOOTER_DEFAULTS.template = "footer";
 config.app_config.APP_FOOTER_DEFAULTS.background = "none";
 config.app_config.NOTIFICATION_DEFAULTS.title = "New message from ParentApp for Teens TZ";
 config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from ParentApp for Teens TZ";
-config.app_config.APP_THEMES.available = ["plh_kids_kw"];
-config.app_config.APP_THEMES.defaultThemeName = "plh_kids_kw";
+config.app_config.APP_THEMES.available = ["plh_kids_teens_za"];
+config.app_config.APP_THEMES.defaultThemeName = "plh_kids_teens_za";
 config.error_logging = { dsn: "https://a2fb8833a9814e349432edb70448da40@app.glitchtip.com/6888" };
 
 
