@@ -1,0 +1,508 @@
+{
+  "audio/testimonials/caregiver/caregiver_test_1on1_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_1on1_t.mp3",
+          "md5Checksum": "62dcb492572a98fab72e70f3a83102e9",
+          "size_kb": 274.7
+        }
+      }
+    }
+  },
+  "audio/testimonials/caregiver/caregiver_test_consequence_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_consequence_t.mp3",
+          "md5Checksum": "1a3238e80196d9ec8f0d5cec6fc6c8b3",
+          "size_kb": 295.3
+        }
+      }
+    }
+  },
+  "audio/testimonials/caregiver/caregiver_test_crisis_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_crisis_t.mp3",
+          "md5Checksum": "de0c37275410efec429a9fb336c8a0b2",
+          "size_kb": 128.5
+        }
+      }
+    }
+  },
+  "audio/testimonials/caregiver/caregiver_test_grief_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_grief_t.mp3",
+          "md5Checksum": "986815b2e27d1310dc8e6fb8dfc8c02f",
+          "size_kb": 184
+        }
+      }
+    }
+  },
+  "audio/testimonials/caregiver/caregiver_test_instruct_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_instruct_t.mp3",
+          "md5Checksum": "fef3ba317f79514cbc8dd641efb89280",
+          "size_kb": 227
+        }
+      }
+    }
+  },
+  "audio/testimonials/caregiver/caregiver_test_learn_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_learn_t.mp3",
+          "md5Checksum": "58dcca264fea4b796e618e3fdb8f28cd",
+          "size_kb": 215.2
+        }
+      }
+    }
+  },
+  "audio/testimonials/caregiver/caregiver_test_money_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_money_t.mp3",
+          "md5Checksum": "c9400e89df54753182ff12d515094702",
+          "size_kb": 256.4
+        }
+      }
+    }
+  },
+  "audio/testimonials/caregiver/caregiver_test_praise_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_praise_t.mp3",
+          "md5Checksum": "e559703aed946a9459760823d8fa6903",
+          "size_kb": 235.6
+        }
+      }
+    }
+  },
+  "audio/testimonials/caregiver/caregiver_test_rules_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_rules_t.mp3",
+          "md5Checksum": "aa564674f12cb265c8c0ff09ed0bf573",
+          "size_kb": 310.9
+        }
+      }
+    }
+  },
+  "audio/testimonials/caregiver/caregiver_test_safe_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_safe_t.mp3",
+          "md5Checksum": "3a6ecd373b1613c5870ddf87c74b936e",
+          "size_kb": 244.5
+        }
+      }
+    }
+  },
+  "audio/testimonials/caregiver/caregiver_test_self_care_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_self_care_t.mp3",
+          "md5Checksum": "2a1abfe1a4acc1da961be32822740ed4",
+          "size_kb": 192.5
+        }
+      }
+    }
+  },
+  "audio/testimonials/caregiver/caregiver_test_solve_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_solve_t.mp3",
+          "md5Checksum": "f95ea61911dd85f84ca0a6d9536dad55",
+          "size_kb": 194.4
+        }
+      }
+    }
+  },
+  "audio/testimonials/caregiver/caregiver_test_srh_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_srh_t.mp3",
+          "md5Checksum": "b266cd71fb9391d6859adba067683eef",
+          "size_kb": 332.4
+        }
+      }
+    }
+  },
+  "audio/testimonials/caregiver/caregiver_test_stress_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_stress_t.mp3",
+          "md5Checksum": "cb8cf17b5b76ff0ad8865ddca3abc087",
+          "size_kb": 177
+        }
+      }
+    }
+  },
+  "audio/testimonials/caregiver/caregiver_test_svp_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/caregiver/caregiver_test_svp_t.mp3",
+          "md5Checksum": "0055ed9eed4a10f3bf382f78fcb5196c",
+          "size_kb": 207.8
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_1on1_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_1on1_t.mp3",
+          "md5Checksum": "7e546541b4493924d997b9655e965632",
+          "size_kb": 250.1
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_consequence_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_consequence_t.mp3",
+          "md5Checksum": "ab356edda60988b024f949693d36da97",
+          "size_kb": 217.5
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_crisis_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_crisis_t.mp3",
+          "md5Checksum": "4a06cea240c6908037876cab24ecc4c5",
+          "size_kb": 197
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_grief_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_grief_t.mp3",
+          "md5Checksum": "d35f070b89da05f2641dd29f8b101fbb",
+          "size_kb": 242.1
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_instruct_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_instruct_t.mp3",
+          "md5Checksum": "f4704a2dc667ad20d6123afbc470366c",
+          "size_kb": 265.3
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_learn_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_learn_t.mp3",
+          "md5Checksum": "c18868d419f82ab01b9f4964a203a2e9",
+          "size_kb": 223.2
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_money_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_money_t.mp3",
+          "md5Checksum": "4d0e5fb1f199f5522038e34fc24e807d",
+          "size_kb": 318.9
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_praise_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_praise_t.mp3",
+          "md5Checksum": "b300386464288c01d9f23d7f2ff46543",
+          "size_kb": 278.4
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_rules_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_rules_t.mp3",
+          "md5Checksum": "886440d43f7b75f3416e8522fe8a3b2f",
+          "size_kb": 195
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_safe_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_safe_t.mp3",
+          "md5Checksum": "b1ae06fc6f5a5cd54c0fda31221f58f4",
+          "size_kb": 229.2
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_self_care_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_self_care_t.mp3",
+          "md5Checksum": "f935bef3004fa6f24232d8886452b317",
+          "size_kb": 212.7
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_solve_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_solve_t.mp3",
+          "md5Checksum": "e2c16eeb2deac1c00ebb00659f785ad1",
+          "size_kb": 237
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_srh_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_srh_t.mp3",
+          "md5Checksum": "e4d21da252e944068385deb0f444177f",
+          "size_kb": 359.9
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_stress_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_stress_t.mp3",
+          "md5Checksum": "4ee173181fad7a412ace99c5970fa19a",
+          "size_kb": 205
+        }
+      }
+    }
+  },
+  "audio/testimonials/teen/teen_test_svp_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/testimonials/tz_sw/teen/teen_test_svp_t.mp3",
+          "md5Checksum": "07fb2b31bd4b2db1eff417c6f7bd6832",
+          "size_kb": 266.5
+        }
+      }
+    }
+  },
+  "audio/topic_intros/1on1_intro_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/1on1_intro_t.mp3",
+          "md5Checksum": "d5cc22f3681eb0456e5370b5efc74bfc",
+          "size_kb": 98.1
+        }
+      }
+    }
+  },
+  "audio/topic_intros/celebrate_intro_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/celebrate_intro_t.mp3",
+          "md5Checksum": "edef84f8c0c4cd2093d4330a01341f09",
+          "size_kb": 109.7
+        }
+      }
+    }
+  },
+  "audio/topic_intros/consequence_intro_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/consequence_intro_t.mp3",
+          "md5Checksum": "d6fd682d87eb6bfbc482fb5c3c585be4",
+          "size_kb": 147.3
+        }
+      }
+    }
+  },
+  "audio/topic_intros/crisis_intro_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/crisis_intro_t.mp3",
+          "md5Checksum": "bb8da4a1c519661ff182643c9a646d17",
+          "size_kb": 214.2
+        }
+      }
+    }
+  },
+  "audio/topic_intros/grief_intro_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/grief_intro_t.mp3",
+          "md5Checksum": "5726b2722b4e229190d03fb5a3356730",
+          "size_kb": 113.1
+        }
+      }
+    }
+  },
+  "audio/topic_intros/instruct_intro_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/instruct_intro_t.mp3",
+          "md5Checksum": "2c94be9651da70216d0a4cf0860e3ecb",
+          "size_kb": 108
+        }
+      }
+    }
+  },
+  "audio/topic_intros/learn_intro_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/learn_intro_t.mp3",
+          "md5Checksum": "d3b05e53c61aee42c9eccb5e24a92b87",
+          "size_kb": 383.5
+        }
+      }
+    }
+  },
+  "audio/topic_intros/money_intro_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/money_intro_t.mp3",
+          "md5Checksum": "bac28cbd63e02a1753d32d13dcec3964",
+          "size_kb": 160.1
+        }
+      }
+    }
+  },
+  "audio/topic_intros/praise_intro_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/praise_intro_t.mp3",
+          "md5Checksum": "3fa89e0609bc37f70ad24e50857219c3",
+          "size_kb": 103.6
+        }
+      }
+    }
+  },
+  "audio/topic_intros/rules_intro_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/rules_intro_t.mp3",
+          "md5Checksum": "83da50991815fa29bc019418e826cc20",
+          "size_kb": 110
+        }
+      }
+    }
+  },
+  "audio/topic_intros/safe_intro_t.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/safe_intro_t.mp3",
+          "md5Checksum": "b3177e9f2aabaee7f103ebbe736c59ff",
+          "size_kb": 197
+        }
+      }
+    }
+  },
+  "audio/topic_intros/self_care_intro.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/self_care_intro.mp3",
+          "md5Checksum": "d23fd753340e73d789d7037770b056ca",
+          "size_kb": 170.4
+        }
+      }
+    }
+  },
+  "audio/topic_intros/solve_intro.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/solve_intro.mp3",
+          "md5Checksum": "790c6ff963aae6f037d68ec83a928ecd",
+          "size_kb": 234.3
+        }
+      }
+    }
+  },
+  "audio/topic_intros/srh_intro.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/srh_intro.mp3",
+          "md5Checksum": "478cbc86eb0513a4fa9d030e95e2f801",
+          "size_kb": 135
+        }
+      }
+    }
+  },
+  "audio/topic_intros/stress_intro.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/stress_intro.mp3",
+          "md5Checksum": "bd23edd93cd252743f58ebb691cf763c",
+          "size_kb": 183.1
+        }
+      }
+    }
+  },
+  "audio/topic_intros/svp_intro.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/topic_intros/tz_sw/svp_intro.mp3",
+          "md5Checksum": "1577d3ba2d8b8b46e1b0e24a99a28f1b",
+          "size_kb": 116.2
+        }
+      }
+    }
+  }
+}

@@ -85,7 +85,7 @@
     {
       "id": "explore_1",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/grief/grief_conflict_t_1.svg",
+      "image_asset": "/images/teen_modules/grief/grief1_t_1.svg",
       "character_1_id": "f4_daughter_13",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
@@ -107,7 +107,7 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/grief/grief_conflict_t_2.svg",
+      "image_asset": "/images/teen_modules/grief/grief1_t_2.svg",
       "character_1_id": "f4_father",
       "character_2_id": "f4_daughter_13",
       "nested": false,
@@ -130,7 +130,7 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/grief/grief_conflict_t_3.svg",
+      "image_asset": "/images/teen_modules/grief/grief1_t_3.svg",
       "character_1_id": "f4_father",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
@@ -259,7 +259,7 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/grief/grief_support_t_1.svg",
+      "image_asset": "/images/teen_modules/grief/grief2_t_1.svg",
       "character_1_id": "f4_father",
       "character_2_id": "f4_daughter_13",
       "nested": false,
@@ -287,7 +287,7 @@
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/grief/grief_support_t_2.svg",
+      "image_asset": "/images/teen_modules/grief/grief2_t_2.svg",
       "character_1_id": "f4_father",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
@@ -304,7 +304,7 @@
     {
       "id": "explore_7",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/grief/grief_support_t_3.svg",
+      "image_asset": "/images/teen_modules/grief/grief2_t_3.svg",
       "character_1_id": "f4_daughter_13",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
@@ -321,7 +321,7 @@
     {
       "id": "explore_8",
       "category_id": "explore",
-      "image_asset": "/images/teen_modules/grief/grief_support_t_4.svg",
+      "image_asset": "/images/teen_modules/grief/grief2_t_4.svg",
       "character_1_id": "f4_father",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
