@@ -27,11 +27,11 @@
       },
       {
         "type": "button",
-        "count": 88
+        "count": 82
       },
       {
         "type": "combo_box",
-        "count": 10
+        "count": 9
       },
       {
         "type": "data_items",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 94
+        "count": 87
       },
       {
         "type": "drawer",
@@ -71,7 +71,7 @@
       },
       {
         "type": "nested_properties",
-        "count": 118
+        "count": 117
       },
       {
         "type": "number_selector",
@@ -119,7 +119,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2036
+        "count": 1971
       },
       {
         "type": "simple_checkbox",
@@ -135,11 +135,11 @@
       },
       {
         "type": "template",
-        "count": 646
+        "count": 636
       },
       {
         "type": "text",
-        "count": 162
+        "count": 156
       },
       {
         "type": "text_area",
@@ -191,7 +191,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 474
+        "count": 473
       },
       {
         "type": "emit: force_reload",
@@ -223,7 +223,7 @@
       },
       {
         "type": "go_to",
-        "count": 23
+        "count": 16
       },
       {
         "type": "nav_stack",
@@ -231,7 +231,7 @@
       },
       {
         "type": "pop_up",
-        "count": 48
+        "count": 45
       },
       {
         "type": "reset_app",
@@ -247,7 +247,7 @@
       },
       {
         "type": "set_field",
-        "count": 63
+        "count": 62
       },
       {
         "type": "set_item",
@@ -255,7 +255,7 @@
       },
       {
         "type": "set_local",
-        "count": 57
+        "count": 56
       },
       {
         "type": "share",
@@ -1144,11 +1144,6 @@
       {
         "path": "images/teen_modules/instruct/instruct2_t_8.svg",
         "count": 2,
-        "missing": true
-      },
-      {
-        "path": "plh_images/characters/elder/large.svg",
-        "count": 1,
         "missing": true
       }
     ]
@@ -3142,7 +3137,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 101
+        "total": 98
       },
       {
         "type": "template",

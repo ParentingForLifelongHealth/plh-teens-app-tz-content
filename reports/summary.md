@@ -9,18 +9,18 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 88 |
-| combo_box | 10 |
+| button | 82 |
+| combo_box | 9 |
 | data_items | 113 |
 | debug_toggle | 1 |
 | display_grid | 5 |
-| display_group | 94 |
+| display_group | 87 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 20 |
 | items | 17 |
 | lottie_animation | 4 |
-| nested_properties | 118 |
+| nested_properties | 117 |
 | number_selector | 1 |
 | plh_activity_check_in | 1 |
 | plh_bottom_nav | 1 |
@@ -32,12 +32,12 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2036 |
+| set_variable | 1971 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 3 |
-| template | 646 |
-| text | 162 |
+| template | 636 |
+| text | 156 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 5 |
@@ -56,7 +56,7 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 474 |
+| emit: completed | 473 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
@@ -64,15 +64,15 @@
 | emit: set_language | 2 |
 | emit: uncompleted | 481 |
 | feedback | 13 |
-| go_to | 23 |
+| go_to | 16 |
 | nav_stack | 181 |
-| pop_up | 48 |
+| pop_up | 45 |
 | reset_app | 4 |
 | reset_data | 3 |
 | set_data | 62 |
-| set_field | 63 |
+| set_field | 62 |
 | set_item | 38 |
-| set_local | 57 |
+| set_local | 56 |
 | share | 2 |
 | task | 3 |
 | user | 3 |
@@ -302,7 +302,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/teen_modules/instruct/instruct2_t_6.svg | 2 |
 | images/teen_modules/instruct/instruct2_t_7.svg | 2 |
 | images/teen_modules/instruct/instruct2_t_8.svg | 2 |
-| plh_images/characters/elder/large.svg | 1 |
 </details>
 
 <details >
@@ -715,7 +714,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
-| template |  | 101 |
+| template |  | 98 |
 | template | generated | 501 |
 | template | legal_terms | 4 |
 </details>
