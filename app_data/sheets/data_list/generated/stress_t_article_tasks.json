@@ -100,7 +100,7 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "/audio/topic_intros/stress_intro_t.mp3",
+      "media_asset": "/audio/topic_intros/stress_intro.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
@@ -128,7 +128,7 @@
     },
     {
       "id": "intro_2",
-      "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_stress_t.mp3",
+      "media_asset": "/audio/testimonials/caregiver/caregiver_test_stress.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
@@ -856,7 +856,7 @@
     },
     {
       "id": "teen_test_1",
-      "media_asset": "/audio/testimonials/teen/teen_test_stress_t.mp3",
+      "media_asset": "/audio/testimonials/teen/teen_test_stress.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
