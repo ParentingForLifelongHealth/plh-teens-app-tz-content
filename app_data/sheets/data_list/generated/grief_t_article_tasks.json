@@ -195,7 +195,7 @@
         "text_1_facilitator": {},
         "character_1_text": {}
       },
-      "image_asset": "/images/teen_modules/grief/grief_conflict_t_1.svg",
+      "image_asset": "/images/teen_modules/grief/grief1_t_1.svg",
       "character_1_id": "f4_daughter_13",
       "character_1_text": "I miss @data.characters.f1_mother.role_name so much...",
       "completed": false
@@ -213,7 +213,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/grief/grief_conflict_t_2.svg",
+      "image_asset": "/images/teen_modules/grief/grief1_t_2.svg",
       "character_1_id": "f4_father",
       "character_1_text": "@data.characters.f4_daughter_13.name, you need to stop crying. It has been months already! This crying will not bring your @data.characters.f1_mother.role_name back and you are doing worse and worse in school!",
       "_translations": {
@@ -234,7 +234,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/grief/grief_conflict_t_3.svg",
+      "image_asset": "/images/teen_modules/grief/grief1_t_3.svg",
       "character_1_id": "f4_father",
       "character_1_text": "Stop being so dramatic! Your behaviour is unacceptable!",
       "_translations": {
@@ -377,7 +377,7 @@
         "character_1_text": {},
         "character_2_text": {}
       },
-      "image_asset": "/images/teen_modules/grief/grief_support_t_1.svg",
+      "image_asset": "/images/teen_modules/grief/grief2_t_1.svg",
       "character_1_id": "f4_father",
       "character_1_text": "I know you are sad, @data.characters.f4_daughter_13.name. I also miss @data.characters.f1_mother.role_name. What do you think we can do to help you feel better?",
       "character_2_id": "f4_daughter_13",
@@ -394,7 +394,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/grief/grief_support_t_2.svg",
+      "image_asset": "/images/teen_modules/grief/grief2_t_2.svg",
       "character_1_id": "f4_father",
       "character_1_text": "I like that idea, let’s go see her on Saturday. Do you already want to tell me more about how you feel now?",
       "_translations": {
@@ -412,7 +412,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/grief/grief_support_t_3.svg",
+      "image_asset": "/images/teen_modules/grief/grief2_t_3.svg",
       "character_1_id": "f4_daughter_13",
       "character_1_text": "I honestly feel angry that she left. Is it okay to say that?",
       "_translations": {
@@ -430,7 +430,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/grief/grief_support_t_4.svg",
+      "image_asset": "/images/teen_modules/grief/grief2_t_4.svg",
       "character_1_id": "f4_father",
       "character_1_text": "Yes, it is normal to feel angry. We all have different feelings at different times, and that is okay. It is good to talk about this together, thank you for sharing with me.",
       "_translations": {

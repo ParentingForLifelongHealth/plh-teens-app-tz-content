@@ -6,8 +6,179 @@
   "flow_subtype": "activities",
   "rows": [
     {
+      "id": "skipping_rope_song",
+      "image_asset": "images/activities/song.svg",
+      "child_age_list": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Skipping Rope Song",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Skipping Rope Song"
+        },
+        "intro_text": {
+          "eng": "Let’s get moving with a skipping game. 🎈\n \nThis energetic game builds coordination, confidence, and teamwork. 🌈"
+        },
+        "steps_text": {
+          "eng": "🎈 Find a long rope or make one from tied-up tights or string. \n\n2️⃣ Two people turn the rope while one jumps in the middle. \n\n🎵 Sing a song together as they jump – do you remember one from your childhood or can you use a different song you all know? \n\n🏆 You can add fun moves like hopping, clapping, or even dancing while skipping. \n\n💛 Then switch places so everyone gets a turn."
+        }
+      },
+      "intro_text": "Let’s get moving with a skipping game. 🎈\n \nThis energetic game builds coordination, confidence, and teamwork. 🌈",
+      "steps_text": "🎈 Find a long rope or make one from tied-up tights or string. \n\n2️⃣ Two people turn the rope while one jumps in the middle. \n\n🎵 Sing a song together as they jump – do you remember one from your childhood or can you use a different song you all know? \n\n🏆 You can add fun moves like hopping, clapping, or even dancing while skipping. \n\n💛 Then switch places so everyone gets a turn."
+    },
+    {
+      "id": "round_round",
+      "image_asset": "images/activities/song.svg",
+      "child_age_list": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Round & Round",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Round & Round"
+        },
+        "intro_text": {
+          "eng": "Let’s make a circle, sing, and get moving with some fun and silly moves! 🎶 \n\nThis activity builds connection, encourages coordination and balance, and sparks lots of laughter and creativity 😃"
+        },
+        "steps_text": {
+          "eng": "👋 Grab each other’s hands and form a circle. \n\n🎵 Walk round and round while you sing a song you know - it could be one from your childhood like “Ring-a-Rosy” or “Sawa Sonke”, or a favourite your child loves. \n\n🎉 As you go round, add some silly moves to make it even more fun. Try hopping on one leg, see if you can put your leg over the next person’s arm, or gently fall to the ground when the song finishes. \n\n🔄 Take turns choosing the next move or song!"
+        }
+      },
+      "intro_text": "Let’s make a circle, sing, and get moving with some fun and silly moves! 🎶 \n\nThis activity builds connection, encourages coordination and balance, and sparks lots of laughter and creativity 😃",
+      "steps_text": "👋 Grab each other’s hands and form a circle. \n\n🎵 Walk round and round while you sing a song you know - it could be one from your childhood like “Ring-a-Rosy” or “Sawa Sonke”, or a favourite your child loves. \n\n🎉 As you go round, add some silly moves to make it even more fun. Try hopping on one leg, see if you can put your leg over the next person’s arm, or gently fall to the ground when the song finishes. \n\n🔄 Take turns choosing the next move or song!"
+    },
+    {
+      "id": "catch_it",
+      "image_asset": "images/activities/can_you_catch_it.svg",
+      "child_age_list": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Can You Catch It?",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {},
+        "tips_text": {},
+        "attribution": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Can You Catch It?"
+        },
+        "intro_text": {
+          "eng": "Let’s see if you can follow instructions while catching a ball! ⚽ \n\nThis activity is a great way to improve coordination, concentration, and quick thinking - all while having fun! 💡"
+        },
+        "steps_text": {
+          "eng": "✅ Start by standing about three metres apart and gently throw a ball at each other. After a few easy throws, it’s time to introduce the rules!\n\n1️⃣ When the thrower shouts ‘one’, the catcher has to catch the ball with their right hand and put their left foot out. \n\n2️⃣ If the thrower shouts ‘two’, the catcher catches with their left hand and puts their right foot out.\n\n⭐ Once you’re confident, add some extra numbers and rules! \n\n⏰ For the game to work, make sure the number is called before you throw the ball, so the catcher has time to react!"
+        },
+        "tips_text": {
+          "eng": "🚩 You can adjust the rules to make it perfect for every age."
+        },
+        "attribution": {
+          "eng": "Adapted from Learning Through Play: https://learningthroughplay.com/let-s-play/can-you-catch-it"
+        }
+      },
+      "intro_text": "Let’s see if you can follow instructions while catching a ball! ⚽ \n\nThis activity is a great way to improve coordination, concentration, and quick thinking - all while having fun! 💡",
+      "steps_text": "✅ Start by standing about three metres apart and gently throw a ball at each other. After a few easy throws, it’s time to introduce the rules!\n\n1️⃣ When the thrower shouts ‘one’, the catcher has to catch the ball with their right hand and put their left foot out. \n\n2️⃣ If the thrower shouts ‘two’, the catcher catches with their left hand and puts their right foot out.\n\n⭐ Once you’re confident, add some extra numbers and rules! \n\n⏰ For the game to work, make sure the number is called before you throw the ball, so the catcher has time to react!",
+      "tips_text": "🚩 You can adjust the rules to make it perfect for every age.",
+      "attribution": "Adapted from Learning Through Play: https://learningthroughplay.com/let-s-play/can-you-catch-it"
+    },
+    {
+      "id": "unseen_guesses",
+      "image_asset": "images/activities/unseen_guesses.svg",
+      "child_age_list": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "title": "Unseen Guesses",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {},
+        "attribution": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Unseen Guesses"
+        },
+        "intro_text": {
+          "eng": "You can do this activity when you are together with at least three people in total. 3️⃣  \n\nThis game is not only fun but also helps children develop strong communication skills and teaches them how to work together to achieve a goal. 💚"
+        },
+        "steps_text": {
+          "eng": "👀 Ask your child and another child/adult to sit next to each other. Blindfold both using a scarf or hat. \n\n🚗 Give your child an object and ask them to feel it and describe it, without saying the name of the object!\n\n🎁 The other person’s job is to figure out what the object is based on the description. \n\n✅ The “guesser” can ask questions, but the “speaker” can only answer with \"yes\" or \"no\".\n\n🔄 After each round, swap roles and play again, giving everyone a chance to be the “speaker” and “guesser” and the one to provides the object."
+        },
+        "attribution": {
+          "eng": "Adapted from Learning Through Play: https://learningthroughplay.com/let-s-play/unseen-guesses"
+        }
+      },
+      "intro_text": "You can do this activity when you are together with at least three people in total. 3️⃣  \n\nThis game is not only fun but also helps children develop strong communication skills and teaches them how to work together to achieve a goal. 💚",
+      "steps_text": "👀 Ask your child and another child/adult to sit next to each other. Blindfold both using a scarf or hat. \n\n🚗 Give your child an object and ask them to feel it and describe it, without saying the name of the object!\n\n🎁 The other person’s job is to figure out what the object is based on the description. \n\n✅ The “guesser” can ask questions, but the “speaker” can only answer with \"yes\" or \"no\".\n\n🔄 After each round, swap roles and play again, giving everyone a chance to be the “speaker” and “guesser” and the one to provides the object.",
+      "attribution": "Adapted from Learning Through Play: https://learningthroughplay.com/let-s-play/unseen-guesses"
+    },
+    {
       "id": "friendly_chat",
-      "image_asset": "images/activities/talk_6.svg",
+      "image_asset": "images/activities/friendly_chat.svg",
       "activity_group_list": [
         "quick",
         "calm"
@@ -22,8 +193,7 @@
         "16",
         "17"
       ],
-      "attached_single_doc": "https://docs.google.com/document/d/1LMcjvNTlrz9vAHMMGK_LuIMfFf7WHVs4uUeKarGWtas",
-      "title": "A friendly chat",
+      "title": "A Friendly Chat",
       "_translations": {
         "title": {},
         "intro_text": {},
@@ -32,7 +202,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "A friendly chat"
+          "eng": "A Friendly Chat"
         },
         "intro_text": {
           "eng": "Want to connect with your teen? Start by talking about what they care about! 😃\n\nThese small chats can lead to stronger connections and bigger conversations down the road.👂❤️"
@@ -50,7 +220,7 @@
     },
     {
       "id": "reflect_positive",
-      "image_asset": "images/activities/talk_7.svg",
+      "image_asset": "images/activities/reflect_positive.svg",
       "activity_group_list": [
         "calm",
         "quick"
@@ -65,17 +235,15 @@
         "16",
         "17"
       ],
-      "title": "Reflect on the positive",
+      "title": "Reflect on the Positive",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {},
         "steps_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Reflect on the positive"
+          "eng": "Reflect on the Positive"
         },
         "intro_text": {
           "eng": "Looking for a simple way to boost your mood and connect as a family? Try this quick daily check-in! 🌈\n\nSharing positive moments - big or small - helps everyone feel more grateful and supported."
@@ -105,17 +273,15 @@
         "16",
         "17"
       ],
-      "title": "Dance moves",
+      "title": "Dance Moves",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {},
         "steps_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Dance moves"
+          "eng": "Dance Moves"
         },
         "intro_text": {
           "eng": "Let's get moving! 👋 Dancing is a great way to exercise, have fun, and bond with your teen at the same time!  🎵"
@@ -129,7 +295,7 @@
     },
     {
       "id": "checkin_chat",
-      "image_asset": "images/activities/talk_3.svg",
+      "image_asset": "images/activities/checkin_chat.svg",
       "activity_group_list": [
         "quick",
         "calm"
@@ -142,20 +308,18 @@
         "14",
         "15",
         "16",
-        "17"
+        "18"
       ],
-      "title": "Check-in chat",
+      "title": "Check-in Chat",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {},
         "steps_text": {},
         "tips_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Check-in chat"
+          "eng": "Check-in Chat"
         },
         "intro_text": {
           "eng": "Actively checking in on one another helps to keep relationships healthy! ⭐"
@@ -187,7 +351,7 @@
         "14",
         "15",
         "16",
-        "17"
+        "19"
       ],
       "title": "Express Yourself",
       "_translations": {
@@ -223,7 +387,7 @@
         "14",
         "15",
         "16",
-        "17"
+        "20"
       ],
       "title": "Weekly Goal Setting",
       "_translations": {
@@ -261,7 +425,7 @@
         "14",
         "15",
         "16",
-        "17"
+        "21"
       ],
       "title": "Role play",
       "_translations": {
@@ -300,7 +464,7 @@
         "14",
         "15",
         "16",
-        "17"
+        "22"
       ],
       "title": "Make Housework Fun",
       "_translations": {
@@ -338,19 +502,17 @@
         "14",
         "15",
         "16",
-        "17"
+        "23"
       ],
-      "title": "Walking together",
+      "title": "Walking Together",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {},
         "steps_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Walking together"
+          "eng": "Walking Together"
         },
         "intro_text": {
           "eng": "Walking together is a fun, healthy way to connect and help your teen learn more about their community. 🚶‍♂️🌿"
@@ -373,7 +535,7 @@
         "14",
         "15",
         "16",
-        "17"
+        "24"
       ],
       "title": "Gardening",
       "_translations": {
@@ -408,7 +570,7 @@
         "14",
         "15",
         "16",
-        "17"
+        "25"
       ],
       "title": "Charades",
       "_translations": {
@@ -448,7 +610,7 @@
         "14",
         "15",
         "16",
-        "17"
+        "26"
       ],
       "title": "Cooking",
       "_translations": {
@@ -488,7 +650,7 @@
         "14",
         "15",
         "16",
-        "17"
+        "27"
       ],
       "title": "Storytelling",
       "_translations": {
@@ -528,20 +690,18 @@
         "14",
         "15",
         "16",
-        "17"
+        "28"
       ],
-      "title": "Music and dance",
+      "title": "Music and Dance",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {},
         "steps_text": {},
         "tips_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Music and dance"
+          "eng": "Music and Dance"
         },
         "intro_text": {
           "eng": "Dancing is a fun way to get exercise, and a great way to learn about your teen’s interests. 🎶"
@@ -568,19 +728,17 @@
         "14",
         "15",
         "16",
-        "17"
+        "29"
       ],
-      "title": "Dream travel",
+      "title": "Dream Travel",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {},
         "steps_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Dream travel"
+          "eng": "Dream Travel"
         },
         "intro_text": {
           "eng": "Exploring the world through imagination is a fun way to bond and spark your teen’s curiosity - no suitcase needed! ✈️"
@@ -594,7 +752,7 @@
     },
     {
       "id": "famous_party",
-      "image_asset": "images/activities/talk_4.svg",
+      "image_asset": "images/activities/famous_party.svg",
       "child_age_list": [
         "10",
         "11",
@@ -603,19 +761,17 @@
         "14",
         "15",
         "16",
-        "17"
+        "30"
       ],
-      "title": "Famous party",
+      "title": "Famous Party",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {},
         "steps_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Famous party"
+          "eng": "Famous Party"
         },
         "intro_text": {
           "eng": "Planning a dream party is a fun and creative way to spark conversation with your teen - and learn more about who inspires them! 🌟"
@@ -629,7 +785,7 @@
     },
     {
       "id": "two_truths",
-      "image_asset": "images/activities/talk_1.svg",
+      "image_asset": "images/activities/two_truths.svg",
       "child_age_list": [
         "10",
         "11",
@@ -638,19 +794,17 @@
         "14",
         "15",
         "16",
-        "17"
+        "31"
       ],
-      "title": "Two truths, one lie",
+      "title": "Two Truths, One Lie",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {},
         "steps_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Two truths, one lie"
+          "eng": "Two Truths, One Lie"
         },
         "intro_text": {
           "eng": "Want a fun way to laugh and learn more about each other? Try this quick game of “Two Truths and a Lie” with your teen! 🤗"
@@ -673,7 +827,7 @@
         "14",
         "15",
         "16",
-        "17"
+        "32"
       ],
       "title": "Superpower",
       "_translations": {
@@ -706,19 +860,17 @@
         "14",
         "15",
         "16",
-        "17"
+        "33"
       ],
-      "title": "The interrupter",
+      "title": "The Interrupter",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "intro_text": {},
         "steps_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "The interrupter"
+          "eng": "The Interrupter"
         },
         "intro_text": {
           "eng": "This fun and silly storytelling game is a great way to boost creativity and laughter with your teen! 💥"
@@ -729,6 +881,320 @@
       },
       "intro_text": "This fun and silly storytelling game is a great way to boost creativity and laughter with your teen! 💥",
       "steps_text": "📚 Choose a storyteller to start making up a story.\n\n🗣️ Listeners can jump in anytime with any word, at any time.\n\n🔄 The storyteller must include that word in their story - no matter how silly!\n\n🎉 When the story ends, switch roles and let someone else be the storyteller!"
+    },
+    {
+      "id": "get_active",
+      "image_asset": "images/activities/dance.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "34"
+      ],
+      "title": "Get Active",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Get Active"
+        },
+        "intro_text": {
+          "eng": "Exercise is a great way to spend time together and it is so good for your health. Find a sport or exercise that both you and your teen want to do and try it out together! 🌱"
+        },
+        "steps_text": {
+          "eng": "⏰ Even walking for 10 minutes a day is good for you. \n\n⚽ Together you can walk, run, play soccer, swim, dance, or do any other sport..\n\n🏆 Together, think of ways to make it even more fun. Can you jog to a certain point? Take turns being the coach? Can there be a small, free reward, like getting to decide the next activity?"
+        }
+      },
+      "intro_text": "Exercise is a great way to spend time together and it is so good for your health. Find a sport or exercise that both you and your teen want to do and try it out together! 🌱",
+      "steps_text": "⏰ Even walking for 10 minutes a day is good for you. \n\n⚽ Together you can walk, run, play soccer, swim, dance, or do any other sport..\n\n🏆 Together, think of ways to make it even more fun. Can you jog to a certain point? Take turns being the coach? Can there be a small, free reward, like getting to decide the next activity?"
+    },
+    {
+      "id": "who_i_am",
+      "image_asset": "images/activities/talk_6.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "35"
+      ],
+      "title": "This is Who I Am",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "This is Who I Am"
+        },
+        "intro_text": {
+          "eng": "Self-esteem is the way you value yourself, either in a positive or negative way. Helping your teen to have high self-esteem is a recipe for success! 🏆"
+        },
+        "steps_text": {
+          "eng": "⭐Share with your teen 3 things you like about yourself!\n\n3️⃣ Ask your teen to tell you 3 things they like about themselves. \nFor example: I am great at treating others kindly. I am great at styling my hair. I am great at football. ⚽"
+        },
+        "tips_text": {
+          "eng": "📝 If your teen does not feel comfortable sharing these, ask them to write them down."
+        }
+      },
+      "intro_text": "Self-esteem is the way you value yourself, either in a positive or negative way. Helping your teen to have high self-esteem is a recipe for success! 🏆",
+      "steps_text": "⭐Share with your teen 3 things you like about yourself!\n\n3️⃣ Ask your teen to tell you 3 things they like about themselves. \nFor example: I am great at treating others kindly. I am great at styling my hair. I am great at football. ⚽",
+      "tips_text": "📝 If your teen does not feel comfortable sharing these, ask them to write them down."
+    },
+    {
+      "id": "traffic_lights",
+      "image_asset": "images/activities/traffic_lights.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "36"
+      ],
+      "title": "Traffic Lights",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Traffic Lights"
+        },
+        "intro_text": {
+          "eng": "A group activity is a great way to bond with others! 💛"
+        },
+        "steps_text": {
+          "eng": "💡 Choose one person to turn and face a wall. This will be the traffic officer. \n\n🏁 Everyone else will begin the game at the other side of the room, or if you are outside, at a starting line. Set a long distance between the traffic officer and the players. \n\n💚 The game begins when the officer shouts “Green”, and everyone can start moving towards the traffic officer at any speed they choose. \n\n🔴 The officer can shout “Red!” at any time, without looking behind them. When they shout this, everyone must stop and freeze! \n\n⏸ The officer turns around to see if everyone is frozen. If they see anyone moving, they have to send them back to the start line.\n\n🏆 The winner is the first person to get to the officer without being sent back to the start.\n\n👑 The winner then becomes the traffic officer and you can play another round!"
+        }
+      },
+      "intro_text": "A group activity is a great way to bond with others! 💛",
+      "steps_text": "💡 Choose one person to turn and face a wall. This will be the traffic officer. \n\n🏁 Everyone else will begin the game at the other side of the room, or if you are outside, at a starting line. Set a long distance between the traffic officer and the players. \n\n💚 The game begins when the officer shouts “Green”, and everyone can start moving towards the traffic officer at any speed they choose. \n\n🔴 The officer can shout “Red!” at any time, without looking behind them. When they shout this, everyone must stop and freeze! \n\n⏸ The officer turns around to see if everyone is frozen. If they see anyone moving, they have to send them back to the start line.\n\n🏆 The winner is the first person to get to the officer without being sent back to the start.\n\n👑 The winner then becomes the traffic officer and you can play another round!"
+    },
+    {
+      "id": "cakes_candle",
+      "image_asset": "images/activities/short_term_goal.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "37"
+      ],
+      "title": "Think Big, Think Small",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Think Big, Think Small"
+        },
+        "intro_text": {
+          "eng": "Working towards big goals can be hard! Here is a way you can help your teen set new goals for the things they want to achieve. 👑"
+        },
+        "steps_text": {
+          "eng": "👑 Ask your teen to come up with three things that they are good at, and discuss what they did to become so good at them. For example: keeping their room neat, helping your family with housework, or playing a sport.\n\n🏆 Next, ask your teen what they wish they were good at. \n\n🔑 Remind them that it took work and practice to become good at the skills they have. They will have to do the same for any new goal.\n\n⏰ Help your teen break down their goal and set up smaller goals they need to achieve to reach their greater goal."
+        },
+        "tips_text": {
+          "eng": "📝 It is much easier to achieve a goal if you write it down! This way, you can be reminded of it as you work towards it."
+        }
+      },
+      "intro_text": "Working towards big goals can be hard! Here is a way you can help your teen set new goals for the things they want to achieve. 👑",
+      "steps_text": "👑 Ask your teen to come up with three things that they are good at, and discuss what they did to become so good at them. For example: keeping their room neat, helping your family with housework, or playing a sport.\n\n🏆 Next, ask your teen what they wish they were good at. \n\n🔑 Remind them that it took work and practice to become good at the skills they have. They will have to do the same for any new goal.\n\n⏰ Help your teen break down their goal and set up smaller goals they need to achieve to reach their greater goal.",
+      "tips_text": "📝 It is much easier to achieve a goal if you write it down! This way, you can be reminded of it as you work towards it."
+    },
+    {
+      "id": "take_a_pause",
+      "image_asset": "images/activities/take_a_pause.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "38"
+      ],
+      "title": "Take A Pause with your Teen",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Take A Pause with your Teen"
+        },
+        "intro_text": {
+          "eng": "Take a pause with your teen. This helps them deal with stress in a healthy way!"
+        },
+        "steps_text": {
+          "eng": "👂 Sit down together and close your eyes. Listen to your breath as it goes in and out. Notice how you feel. \n\n⭐ Take 5 more deep breaths.\n\n👀 When you are ready, open your eyes again. Do you feel any different? \n\n⏸ Ask your teen what it was like to take a pause. Listen and accept whatever they say about it."
+        }
+      },
+      "intro_text": "Take a pause with your teen. This helps them deal with stress in a healthy way!",
+      "steps_text": "👂 Sit down together and close your eyes. Listen to your breath as it goes in and out. Notice how you feel. \n\n⭐ Take 5 more deep breaths.\n\n👀 When you are ready, open your eyes again. Do you feel any different? \n\n⏸ Ask your teen what it was like to take a pause. Listen and accept whatever they say about it."
+    },
+    {
+      "id": "name_tune",
+      "image_asset": "images/activities/song.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "39"
+      ],
+      "title": "Name That Tune",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Name That Tune"
+        },
+        "intro_text": {
+          "eng": "Listening to music is a great way to lower your stress and have fun with your family. 💚"
+        },
+        "steps_text": {
+          "eng": "📻 Gather your family members and choose one person to play, sing or hum a song.\n\n❓ Everyone else must guess the name and artist of the song.\n\n🎉 The first one to guess it right becomes the next person to sing or play a song. \n\n🔄 Keep going around until everyone has been able to play their favourite song and let the rest hear."
+        }
+      },
+      "intro_text": "Listening to music is a great way to lower your stress and have fun with your family. 💚",
+      "steps_text": "📻 Gather your family members and choose one person to play, sing or hum a song.\n\n❓ Everyone else must guess the name and artist of the song.\n\n🎉 The first one to guess it right becomes the next person to sing or play a song. \n\n🔄 Keep going around until everyone has been able to play their favourite song and let the rest hear."
+    },
+    {
+      "id": "whats_new",
+      "image_asset": "images/activities/act_emotions.svg",
+      "activity_group_list": [
+        "active"
+      ],
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "40"
+      ],
+      "title": "What’s New?",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "What’s New?"
+        },
+        "intro_text": {
+          "eng": "Learning is fun! 🎓"
+        },
+        "steps_text": {
+          "eng": "❓ Ask your teen to think of a new, fun skill you could learn together. \n- For example: keeping a ball in the air with your foot, juggling, making soup, moonwalking, whistling, saying the alphabet backwards, learning all the countries in Africa. \n\n🔄 Take turns trying out the new skill.  Make sure to praise each other and learn and play together!\n\n💛 Approach learning the skill in a kind and fun way, and do not judge your teen or yourself for your ability in the skill."
+        }
+      },
+      "intro_text": "Learning is fun! 🎓",
+      "steps_text": "❓ Ask your teen to think of a new, fun skill you could learn together. \n- For example: keeping a ball in the air with your foot, juggling, making soup, moonwalking, whistling, saying the alphabet backwards, learning all the countries in Africa. \n\n🔄 Take turns trying out the new skill.  Make sure to praise each other and learn and play together!\n\n💛 Approach learning the skill in a kind and fun way, and do not judge your teen or yourself for your ability in the skill."
+    },
+    {
+      "id": "yes_no_maybe",
+      "image_asset": "images/activities/yes_no_maybe.svg",
+      "activity_group_list": [
+        "quick",
+        "calm"
+      ],
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "41"
+      ],
+      "title": "Yes, No or Maybe",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Yes, No or Maybe"
+        },
+        "intro_text": {
+          "eng": "Are you tired of hearing your teen say yes, no, or maybe to all of your questions? Turn your chat into a game, and don’t allow one-word answers. 🎈"
+        },
+        "steps_text": {
+          "eng": "⭐ Take turns asking each other questions. The only rule is that you cannot use one-word responses, such as Yes, No, Maybe, Fine, and Okay.\n⚽ You can ask about things your teen likes or what they did today. For example, how was your day? What are you excited for? Is there anything worrying you?\n🔄 It is important to let your teen ask a question as well. Trust is built when your teen can see that you are also sharing your life with them, and not only trying to learn about their life."
+        }
+      },
+      "intro_text": "Are you tired of hearing your teen say yes, no, or maybe to all of your questions? Turn your chat into a game, and don’t allow one-word answers. 🎈",
+      "steps_text": "⭐ Take turns asking each other questions. The only rule is that you cannot use one-word responses, such as Yes, No, Maybe, Fine, and Okay.\n⚽ You can ask about things your teen likes or what they did today. For example, how was your day? What are you excited for? Is there anything worrying you?\n🔄 It is important to let your teen ask a question as well. Trust is built when your teen can see that you are also sharing your life with them, and not only trying to learn about their life."
+    },
+    {
+      "id": "secret_handshake",
+      "image_asset": "images/activities/secret_handshake.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "42"
+      ],
+      "title": "Secret Handshake",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Secret Handshake"
+        },
+        "intro_text": {
+          "eng": "Let’s make a special, fun, and unique handshake that only you and your child share 👋  \n\nThis isn’t just about having fun - it helps build your child’s confidence and teamwork skills while creating a special tradition you both can enjoy. ✅"
+        },
+        "steps_text": {
+          "eng": "🔶 First, sit down together and talk about the kind of handshake you want. Should it be quick and silly, or cool and complicated? It’s totally up to you! \n\n🎵 You can start by choosing a few simple moves like clapping patterns, high fives, fist bumps, or snapping fingers.\n\n🔄 Next, practice adding different steps. Maybe a spin, a shoulder tap, or even a fun dance move. The more creative and playful, the better!\n\n💛 Once you’ve mastered your moves, make your secret handshake a part of your routine! Use it as a fun greeting after school, or anytime you want to feel that special connection."
+        }
+      },
+      "intro_text": "Let’s make a special, fun, and unique handshake that only you and your child share 👋  \n\nThis isn’t just about having fun - it helps build your child’s confidence and teamwork skills while creating a special tradition you both can enjoy. ✅",
+      "steps_text": "🔶 First, sit down together and talk about the kind of handshake you want. Should it be quick and silly, or cool and complicated? It’s totally up to you! \n\n🎵 You can start by choosing a few simple moves like clapping patterns, high fives, fist bumps, or snapping fingers.\n\n🔄 Next, practice adding different steps. Maybe a spin, a shoulder tap, or even a fun dance move. The more creative and playful, the better!\n\n💛 Once you’ve mastered your moves, make your secret handshake a part of your routine! Use it as a fun greeting after school, or anytime you want to feel that special connection."
     }
   ],
   "_xlsxPath": "data/TZ activities.xlsx",

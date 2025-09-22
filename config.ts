@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_teens_tz", parent: "plh_kids"
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.3.4",
+  content_tag_latest: "1.3.5",
 };
 
 config.google_drive.sheets_folder_ids = [
@@ -17,7 +17,7 @@ config.google_drive.sheets_folder_ids = [
 ];
 config.google_drive.assets_folder_ids = [
   "13COzYq0iK7sXXZYekPgkwloWtuGoxBNt", // kids_teens_global
-  "1T93qsaSBbYa-lCF6ChPkfoX85PLugJCZ" // kids_teens_za
+  "1DnLu9oZg7OgbGoaWrWCekCvgt67DNm7V" // teens_tz
 ];
 
 config.firebase = {
@@ -26,7 +26,7 @@ config.firebase = {
 
 config.android = {
   app_id:'international.idems.plh_teens_tz',
-  app_name:'PLH Teens TZ',
+  app_name:'FurahaApp',
   splash_asset_path: "./app_data/assets/android/splash.png",
   icon_asset_path: "./app_data/assets/android/icon.png",
   icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
@@ -35,7 +35,7 @@ config.android = {
 
 config.ios = {
   app_id: "international.idems.plh-teens-tz",
-  app_name: "PLH Teens TZ",
+  app_name: "FurahaApp",
 };
 
 config.auth = {
@@ -54,13 +54,13 @@ config.app_data.output_path = "./app_data";
 config.web.favicon_asset = "images/logos/favicon.png";
 
 config.app_config.APP_LANGUAGES.default = "tz_sw";
-config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp for Teens TZ";
-config.app_config.APP_HEADER_DEFAULTS.title = "ParentApp for Teens TZ";
+config.app_config.APP_SIDEMENU_DEFAULTS.title = "FurahaApp";
+config.app_config.APP_HEADER_DEFAULTS.title = "FurahaApp";
 config.app_config.APP_HEADER_DEFAULTS.hidden = true;
 config.app_config.APP_FOOTER_DEFAULTS.template = "footer";
 config.app_config.APP_FOOTER_DEFAULTS.background = "none";
-config.app_config.NOTIFICATION_DEFAULTS.title = "New message from ParentApp for Teens TZ";
-config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from ParentApp for Teens TZ";
+config.app_config.NOTIFICATION_DEFAULTS.title = "New message from FurahaApp";
+config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from FurahaApp";
 config.app_config.APP_THEMES.available = ["plh_kids_teens_za"];
 config.app_config.APP_THEMES.defaultThemeName = "plh_kids_teens_za";
 config.error_logging = { dsn: "https://a2fb8833a9814e349432edb70448da40@app.glitchtip.com/6888" };
