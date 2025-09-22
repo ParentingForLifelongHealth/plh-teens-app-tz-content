@@ -101,7 +101,7 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "/audio/topic_intros/rules_intro.mp3",
+      "media_asset": "/audio/teen/topic_intros/rules_intro_t.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
@@ -129,7 +129,7 @@
     },
     {
       "id": "intro_2",
-      "media_asset": "/audio/testimonials/caregiver/caregiver_test_rules.mp3",
+      "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_rules_t.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
@@ -681,7 +681,7 @@
     },
     {
       "id": "teen_test_1",
-      "media_asset": "/audio/testimonials/teen/teen_test_rules.mp3",
+      "media_asset": "/audio/teen/testimonials/teen/teen_test_rules_t.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
