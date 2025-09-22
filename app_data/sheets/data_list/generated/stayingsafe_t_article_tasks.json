@@ -121,7 +121,7 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "/audio/teen/topic_intros/svp_intro_t.mp3",
+      "media_asset": "/audio/topic_intros/svp_intro_t.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "_translatedFields": {
@@ -1021,7 +1021,7 @@
     },
     {
       "id": "teen_test_1",
-      "media_asset": "/audio/teen/testimonials/teen/teen_test_svp_t.mp3",
+      "media_asset": "/audio/testimonials/teen/teen_test_svp_t.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "_translatedFields": {

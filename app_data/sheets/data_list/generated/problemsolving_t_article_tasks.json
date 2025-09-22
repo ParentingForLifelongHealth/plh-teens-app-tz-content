@@ -100,7 +100,7 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "/audio/teen/topic_intros/solve_intro_t.mp3",
+      "media_asset": "/audio/topic_intros/solve_intro_t.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {
@@ -752,7 +752,7 @@
     },
     {
       "id": "teen_test_1",
-      "media_asset": "/audio/teen/testimonials/teen/teen_test_solve_t.mp3",
+      "media_asset": "/audio/testimonials/teen/teen_test_solve_t.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {

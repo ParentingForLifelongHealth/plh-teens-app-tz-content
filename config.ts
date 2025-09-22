@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_teens_tz", parent: "plh_kids"
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.3.5",
+  content_tag_latest: "1.3.6",
 };
 
 config.google_drive.sheets_folder_ids = [
@@ -45,9 +45,12 @@ config.auth = {
 // Hacky fix to point extended deployment to translations within its own repo
 config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
 
-// To reduce app size, exclude uncompressed assets and unused
-
-config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("uncompressed")
+// To reduce app size, exclude uncompressed and unused assets
+config.app_data.assets_filter_function = (fileEntry) => 
+  !fileEntry.relativePath.includes("uncompressed")&&
+  !fileEntry.relativePath.includes("unused")&&
+  !fileEntry.relativePath.includes("/flags/")&& // custom path to remove stubborn files that are not visible in drive
+  !fileEntry.relativePath.includes("modules/connect"); // custom path to remove stubborn files that are not visible in drive
 
 config.api.db_name = "plh_teens_tz";
 config.app_data.output_path = "./app_data";

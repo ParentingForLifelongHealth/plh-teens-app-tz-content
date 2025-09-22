@@ -100,7 +100,7 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "/audio/teen/topic_intros/money_intro_t.mp3",
+      "media_asset": "/audio/topic_intros/money_intro_t.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {
@@ -768,7 +768,7 @@
     },
     {
       "id": "teen_test_1",
-      "media_asset": "/audio/teen/testimonials/teen/teen_test_money_t.mp3",
+      "media_asset": "/audio/testimonials/teen/teen_test_money_t.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1gtri2Il0XemRYtaXoD04GuSbftlltQM_8-OgIL9aAvQ",
       "_translatedFields": {

@@ -121,7 +121,7 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "/audio/teen/topic_intros/srh_intro_t.mp3",
+      "media_asset": "/audio/topic_intros/srh_intro_t.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
@@ -1050,7 +1050,7 @@
     },
     {
       "id": "teen_test_1",
-      "media_asset": "/audio/teen/testimonials/teen/teen_test_srh_t.mp3",
+      "media_asset": "/audio/testimonials/teen/teen_test_srh_t.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "_translatedFields": {
