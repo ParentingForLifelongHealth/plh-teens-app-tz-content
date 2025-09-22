@@ -101,7 +101,7 @@
     },
     {
       "id": "intro_1",
-      "media_asset": "/audio/teen/topic_intros/self_care_intro_t.mp3",
+      "media_asset": "/audio/topic_intros/self_care_intro_t.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "_translatedFields": {
@@ -483,7 +483,7 @@
     },
     {
       "id": "teen_test_1",
-      "media_asset": "/audio/teen/testimonials/teen/teen_test_self_care_t.mp3",
+      "media_asset": "/audio/testimonials/teen/teen_test_self_care_t.mp3",
       "media_type": "audio",
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "_translatedFields": {
