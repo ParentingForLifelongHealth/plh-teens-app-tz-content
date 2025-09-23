@@ -75,7 +75,9 @@
       "name": "deployment_terms_text",
       "value": "5 December 2024",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {

@@ -36,19 +36,45 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I did not have enough time",
       "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "question_text": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "text_challenge_5": {
+          "tz_sw": true
+        },
+        "reply_challenge_5": {
+          "tz_sw": true
+        },
+        "text_challenge_6": {
+          "tz_sw": true
+        },
+        "reply_challenge_6": {
+          "tz_sw": true
+        },
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -142,21 +168,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I forgot to do the activity",
       "_translations": {
-        "text_challenge_1": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
         "reply_challenge_1": {
           "tz_sw": true
         },
-        "text_challenge_2": {},
+        "text_challenge_2": {
+          "tz_sw": true
+        },
         "reply_challenge_2": {
           "tz_sw": true
         },
-        "text_challenge_3": {},
+        "text_challenge_3": {
+          "tz_sw": true
+        },
         "reply_challenge_3": {
           "tz_sw": true
         },
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "question_text": {},
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -233,21 +271,45 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I got very angry when my teen broke the rules",
       "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "text_challenge_5": {
+          "tz_sw": true
+        },
         "reply_challenge_5": {
           "tz_sw": true
         },
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "question_text": {},
+        "text_challenge_6": {
+          "tz_sw": true
+        },
+        "reply_challenge_6": {
+          "tz_sw": true
+        },
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -341,21 +403,39 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I forgot the steps of problem-solving",
       "_translations": {
-        "text_challenge_1": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
         "reply_challenge_1": {
           "tz_sw": true
         },
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
         "reply_challenge_4": {
           "tz_sw": true
         },
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "question_text": {},
+        "text_challenge_5": {
+          "tz_sw": true
+        },
+        "reply_challenge_5": {
+          "tz_sw": true
+        },
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -442,15 +522,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I forgot to do the activity",
       "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "question_text": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -529,15 +627,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I forgot to do the activity",
       "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "question_text": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -615,17 +731,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "My teenager did not want to follow the instruction",
       "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
         "reply_challenge_3": {
           "tz_sw": true
         },
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "question_text": {},
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -704,19 +836,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I was afraid my teen would think I was weak",
       "_translations": {
-        "text_challenge_1": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
         "reply_challenge_1": {
           "tz_sw": true
         },
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
         "reply_challenge_3": {
           "tz_sw": true
         },
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "question_text": {},
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -795,25 +941,45 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "My teen and I could not agree on a rule",
       "_translations": {
-        "text_challenge_1": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
         "reply_challenge_1": {
           "tz_sw": true
         },
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
         "reply_challenge_4": {
           "tz_sw": true
         },
-        "text_challenge_5": {},
+        "text_challenge_5": {
+          "tz_sw": true
+        },
         "reply_challenge_5": {
           "tz_sw": true
         },
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "question_text": {},
+        "text_challenge_6": {
+          "tz_sw": true
+        },
+        "reply_challenge_6": {
+          "tz_sw": true
+        },
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -906,29 +1072,45 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "My teen and I disagree on which areas and online activities were unsafe",
       "_translations": {
-        "text_challenge_1": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
         "reply_challenge_1": {
           "tz_sw": true
         },
-        "text_challenge_2": {},
+        "text_challenge_2": {
+          "tz_sw": true
+        },
         "reply_challenge_2": {
           "tz_sw": true
         },
-        "text_challenge_3": {},
+        "text_challenge_3": {
+          "tz_sw": true
+        },
         "reply_challenge_3": {
           "tz_sw": true
         },
-        "text_challenge_4": {},
+        "text_challenge_4": {
+          "tz_sw": true
+        },
         "reply_challenge_4": {
           "tz_sw": true
         },
-        "text_challenge_5": {},
+        "text_challenge_5": {
+          "tz_sw": true
+        },
         "reply_challenge_5": {
           "tz_sw": true
         },
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "question_text": {},
+        "text_challenge_6": {
+          "tz_sw": true
+        },
+        "reply_challenge_6": {
+          "tz_sw": true
+        },
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -1022,15 +1204,27 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "My teen told me that something serious happened to them and I did not know how to handle it",
       "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
         "reply_challenge_2": {
           "tz_sw": true
         },
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "question_text": {},
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -1100,17 +1294,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I did not want to tell my family how much I earn",
       "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
         "reply_challenge_2": {
           "tz_sw": true
         },
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "question_text": {},
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -1190,15 +1400,27 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "It made me uncomfortable",
       "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
         "reply_challenge_3": {
           "tz_sw": true
         },
-        "question_text": {},
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -1268,17 +1490,27 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "My teen and/or I felt uncomfortable",
       "_translations": {
-        "text_challenge_1": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
         "reply_challenge_1": {
           "tz_sw": true
         },
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
         "reply_challenge_3": {
           "tz_sw": true
         },
-        "question_text": {},
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -1354,19 +1586,33 @@
         "reply_challenge_1": {
           "tz_sw": true
         },
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
         "reply_challenge_3": {
           "tz_sw": true
         },
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "text_challenge_5": {
+          "tz_sw": true
+        },
         "reply_challenge_5": {
           "tz_sw": true
         },
-        "question_text": {},
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }
@@ -1451,19 +1697,45 @@
       "attached_single_doc": "https://docs.google.com/document/d/1D-HuoKEPUvB2tDyirlOJjWUIOn_OCbktSDiMmEesqak",
       "text_challenge_1": "I did not have enough time",
       "_translations": {
-        "text_challenge_1": {},
-        "reply_challenge_1": {},
-        "text_challenge_2": {},
-        "reply_challenge_2": {},
-        "text_challenge_3": {},
-        "reply_challenge_3": {},
-        "text_challenge_4": {},
-        "reply_challenge_4": {},
-        "text_challenge_5": {},
-        "reply_challenge_5": {},
-        "text_challenge_6": {},
-        "reply_challenge_6": {},
-        "question_text": {},
+        "text_challenge_1": {
+          "tz_sw": true
+        },
+        "reply_challenge_1": {
+          "tz_sw": true
+        },
+        "text_challenge_2": {
+          "tz_sw": true
+        },
+        "reply_challenge_2": {
+          "tz_sw": true
+        },
+        "text_challenge_3": {
+          "tz_sw": true
+        },
+        "reply_challenge_3": {
+          "tz_sw": true
+        },
+        "text_challenge_4": {
+          "tz_sw": true
+        },
+        "reply_challenge_4": {
+          "tz_sw": true
+        },
+        "text_challenge_5": {
+          "tz_sw": true
+        },
+        "reply_challenge_5": {
+          "tz_sw": true
+        },
+        "text_challenge_6": {
+          "tz_sw": true
+        },
+        "reply_challenge_6": {
+          "tz_sw": true
+        },
+        "question_text": {
+          "tz_sw": true
+        },
         "top_text": {
           "tz_sw": true
         }

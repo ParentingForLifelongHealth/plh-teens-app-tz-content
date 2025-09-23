@@ -122,7 +122,9 @@
       ],
       "title": "Feelings of anxiety or sadness",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "introduction": {}
       },
       "_translatedFields": {

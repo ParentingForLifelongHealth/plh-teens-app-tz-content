@@ -196,9 +196,15 @@
       "title": "A Friendly Chat",
       "_translations": {
         "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -237,9 +243,15 @@
       ],
       "title": "Reflect on the Positive",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -276,8 +288,12 @@
       "title": "Dance Moves",
       "_translations": {
         "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -313,9 +329,15 @@
       "title": "Check-in Chat",
       "_translations": {
         "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -355,9 +377,15 @@
       ],
       "title": "Express Yourself",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -391,10 +419,18 @@
       ],
       "title": "Weekly Goal Setting",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -432,8 +468,12 @@
         "title": {
           "tz_sw": true
         },
-        "intro_text": {},
-        "steps_text": {}
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -468,10 +508,18 @@
       ],
       "title": "Make Housework Fun",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -506,9 +554,15 @@
       ],
       "title": "Walking Together",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -542,8 +596,12 @@
         "title": {
           "tz_sw": true
         },
-        "intro_text": {},
-        "steps_text": {}
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -577,9 +635,15 @@
         "title": {
           "tz_sw": true
         },
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -617,9 +681,15 @@
         "title": {
           "tz_sw": true
         },
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -657,9 +727,15 @@
         "title": {
           "tz_sw": true
         },
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -695,9 +771,15 @@
       "title": "Music and Dance",
       "_translations": {
         "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -732,9 +814,15 @@
       ],
       "title": "Dream Travel",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -765,9 +853,15 @@
       ],
       "title": "Famous Party",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -799,8 +893,12 @@
       "title": "Two Truths, One Lie",
       "_translations": {
         "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -831,9 +929,15 @@
       ],
       "title": "Superpower",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -864,9 +968,15 @@
       ],
       "title": "The Interrupter",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1145,7 +1255,9 @@
       ],
       "title": "Yes, No or Maybe",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {},
         "steps_text": {}
       },

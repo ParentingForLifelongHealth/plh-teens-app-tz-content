@@ -7,9 +7,7 @@
       "name": "module_id",
       "value": "praise",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
@@ -19,9 +17,7 @@
       "name": "module_data_list_name",
       "value": "modules",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",

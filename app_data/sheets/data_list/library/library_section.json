@@ -47,7 +47,9 @@
       "image": "images/icons/smile_eyes_down.svg",
       "title": "Take a Pause",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

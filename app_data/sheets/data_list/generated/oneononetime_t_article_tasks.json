@@ -85,7 +85,9 @@
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         }
@@ -119,8 +121,12 @@
       "nested": false,
       "text_1_facilitator": "Today's topic is about spending one-on-one time with our teens. \n\nBeing a parent can be so hard. Sometimes it feels like our teens never listen to us.\n\nBut science shows that spending just a few minutes each day of focused one-on-one time with your teen helps build trust and love.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }
@@ -149,9 +155,15 @@
       "nested": false,
       "text_1_facilitator": "Let's discuss, what is one-on-one time?\n\nOne-on-one time is when you focus on your teens, without distractions like TVs or phones. Let your teens take lead in choosing what you do or talk about.\n\nIt is great if you can spend fifteen minutes a day together, but even five minutes a day is really good.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "Hear how one-on-one time helped @data.characters.media_female_1.name and her teen",
       "media_transcript": "When I first heard I had to spend One-on-One Time with my teen, it was hard for me. I did not know when to do it or what to say. I did not want to spoil my teen so that he thinks we have to do everything together.\n\nBut I really wanted to build my relationship with my teen and I wanted him to open up about what was troubling him. So we tried the One-on-One Time.\n\nFirst, it felt weird, but it turned out to be fun! Now we watch his TV programme together and we chat about it. And we can even talk about how my son is changing into adolescence and even about girlfriends and those things!",
@@ -202,9 +214,15 @@
       "nested": false,
       "quiz_1_feedback_1": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -217,15 +235,21 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_4": {},
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        },
         "quiz_1_option_5_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_5": {}
+        "quiz_1_feedback_5": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
       "quiz_1_feedback_3": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
@@ -270,7 +294,9 @@
       "nested": false,
       "text_1_facilitator": "Here are some skills to help guide you in spending one-on-one time with your teen!",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "section_1_title": {
           "tz_sw": true
         },
@@ -280,11 +306,15 @@
         "section_2_title": {
           "tz_sw": true
         },
-        "section_2_text": {},
+        "section_2_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {}
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "section_1_icon_asset": "images/icons/clock_blue.png",
       "section_2_icon_asset": "images/icons/heart_filled_blue.png",
@@ -312,8 +342,12 @@
       "nested": false,
       "text_1_facilitator": "Spending one-on-one time with your teen can be hard to plan. Here are some easy ideas that worked for other parents.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "text_2": "**Ideas for one-on-one time with your teen:**\n- Walk to the shops\n- Play a game/sport\n- Do a chore together\n- Prepare dinner\n- Eat breakfast/lunch/dinner\n- Have tea after school\n- Watch a TV show\n- Review homework\n- Chat before bedtime\n\n\n**Remember to use your new skills:**\n📅 **DAY**: try to do it every day,\n⚽ **PLAY**: let your teen choose how to spend one-on-one time, and \n🎯 **STAY**: be focused on your teen!",
       "completed": false
@@ -351,18 +385,30 @@
       "nested": false,
       "quiz_1_feedback_1": "That's great! Parents who spend focused one-on-one time with their teens can build trust and love!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "You can do it! Try spending just a few minutes each day with your teen. Remember that you can always think of ways that do not take up extra time, like walking to the shop or preparing dinner together.",
       "quiz_1_feedback_3": "That's okay. Spending focused time with your teen will become easier as you build a routine. At first, you can try to think of ways that do not take up extra time, like doing a chore together.",
@@ -393,8 +439,12 @@
       "nested": false,
       "text_1_facilitator": "Remember, spending even a few minutes of one-on-one time with your teen each day can strengthen your relationship and build trust. \n\nListening closely and sharing small moments helps teens feel loved and supported.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {}
       },
       "media_title": "Here's what @data.characters.media_daughter_1.name has to say about one-on-one time with her mother",
