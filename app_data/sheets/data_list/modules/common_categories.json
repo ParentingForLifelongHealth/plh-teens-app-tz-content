@@ -26,7 +26,9 @@
       "icon_asset": "images/icons/smile_eyes_up.svg",
       "title": "Check-in",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -82,7 +84,9 @@
       "icon_asset": "images/icons/pencil.svg",
       "title": "Practise",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -110,7 +114,9 @@
       "icon_asset": "images/icons/star_outline_blue.svg",
       "title": "Teen Testimonial",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -123,7 +129,9 @@
       "icon_asset": "images/icons/pause.svg",
       "title": "Content Notice",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

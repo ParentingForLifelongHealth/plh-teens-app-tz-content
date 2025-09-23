@@ -79,7 +79,9 @@
       "name": "user_id_text",
       "value": "User ID",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {

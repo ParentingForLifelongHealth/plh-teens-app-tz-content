@@ -18,7 +18,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1cpweixtTIA5RygkDLXN27XvFdYzh3Ta7YSbi8HOhw4o",
       "title": "Taking Care of Yourself",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -126,7 +128,9 @@
       "check_in_id": "check_in_1",
       "title": "Solve Problems",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -234,7 +238,9 @@
       "check_in_id": "check_in_11",
       "title": "Crisis",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -342,7 +348,9 @@
       "check_in_id": "check_in_1",
       "title": "Celebration",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
