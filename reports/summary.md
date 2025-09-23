@@ -9,15 +9,15 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 82 |
+| button | 80 |
 | combo_box | 9 |
 | data_items | 113 |
 | debug_toggle | 1 |
 | display_grid | 5 |
-| display_group | 87 |
+| display_group | 84 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 20 |
+| image | 19 |
 | items | 17 |
 | lottie_animation | 4 |
 | nested_properties | 117 |
@@ -32,12 +32,12 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1969 |
+| set_variable | 1962 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 3 |
 | template | 636 |
-| text | 156 |
+| text | 153 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 5 |
@@ -73,7 +73,6 @@
 | set_field | 62 |
 | set_item | 38 |
 | set_local | 56 |
-| share | 2 |
 | task | 3 |
 | user | 3 |
 </details>
@@ -84,7 +83,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 63385 KB | 63.4 MB |
-| unused | 5608 KB | 5.6 MB |
+| unused | 5605 KB | 5.6 MB |
 </details>
 
 <details open>
@@ -98,7 +97,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| contents.json | 9.6 |
+| contents.json | 5.9 |
 | images/activities/act_animal.svg | 135.4 |
 | images/activities/act_animal_infant.svg | 111.5 |
 | images/activities/animal_sounds.svg | 84.2 |
@@ -178,9 +177,6 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| images/backgrounds/activity_bottom_left.png | 1 |
-| images/icons/share.svg | 2 |
-| images/logos/app_logo.png | 1 |
 </details>
 
 <details >
@@ -647,7 +643,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
-| template |  | 98 |
+| template |  | 97 |
 | template | generated | 501 |
 | template | legal_terms | 4 |
 </details>

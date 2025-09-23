@@ -82,7 +82,9 @@
       "name": "login",
       "value": "Sign in",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -130,7 +132,9 @@
       "name": "logout",
       "value": "Sign out",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -162,7 +166,9 @@
       "name": "logged_in_new",
       "value": "Welcome!",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {

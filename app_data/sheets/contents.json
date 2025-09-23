@@ -7153,12 +7153,6 @@
       "_xlsxPath": "templates/modules/articles.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
     },
-    "message_element": {
-      "flow_type": "template",
-      "flow_name": "message_element",
-      "_xlsxPath": "templates/TZ article_elements.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
-    },
     "module": {
       "flow_type": "template",
       "flow_name": "module",

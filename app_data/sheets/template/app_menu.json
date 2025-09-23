@@ -21,7 +21,9 @@
           "name": "button_delay_days",
           "value": "Change countdown days",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "action_list": [
             {
@@ -63,7 +65,9 @@
           "name": "button_dynamic_data",
           "value": "Dynamic data",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "action_list": [
             {
@@ -197,7 +201,9 @@
           "name": "button_import_user",
           "value": "Import user",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "action_list": [
             {

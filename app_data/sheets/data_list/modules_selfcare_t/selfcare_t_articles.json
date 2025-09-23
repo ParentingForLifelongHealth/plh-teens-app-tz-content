@@ -15,8 +15,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_1_facilitator": "Today's topic is about taking care of yourself.\n\nWe often don’t look after ourselves enough. But this is so important, especially as a parent!\n\nReducing our stress and treating ourselves well helps us AND our teenagers.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }
@@ -44,9 +48,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_1_facilitator": "Why self-care?\n\nWe often don’t look after ourselves enough. But this is so important, especially as a parent!\n\nReducing our stress and treating ourselves well helps us AND our teenagers.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -70,32 +80,48 @@
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_1_facilitator": "Appreciating ourselves is one way to care for ourselves. \n\nLet’s give it a try.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_4": {},
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        },
         "quiz_1_option_5_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_5": {},
+        "quiz_1_feedback_5": {
+          "tz_sw": true
+        },
         "quiz_1_option_6_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_6": {}
+        "quiz_1_feedback_6": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -163,7 +189,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_1_facilitator": "Treating ourselves well is another way of looking after ourselves.\n\nYou can give yourself a small reward every day, and it does not have to cost a thing!",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -179,15 +207,21 @@
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_option_4_text": {},
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_4": {
           "tz_sw": true
         },
-        "quiz_1_option_5_text": {},
+        "quiz_1_option_5_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_5": {
           "tz_sw": true
         }
@@ -252,27 +286,45 @@
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_1_facilitator": "Here are some tips to help you take care of yourself.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "section_1_title": {
           "tz_sw": true
         },
         "section_1_text": {
           "tz_sw": true
         },
-        "section_1_button_text": {},
-        "section_1_extra_text": {},
+        "section_1_button_text": {
+          "tz_sw": true
+        },
+        "section_1_extra_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },
-        "section_2_text": {},
-        "section_2_button_text": {},
-        "section_2_extra_text": {},
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_2_button_text": {
+          "tz_sw": true
+        },
+        "section_2_extra_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {},
-        "section_3_button_text": {},
-        "section_3_extra_text": {}
+        "section_3_text": {
+          "tz_sw": true
+        },
+        "section_3_button_text": {
+          "tz_sw": true
+        },
+        "section_3_extra_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -335,18 +387,30 @@
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_1_facilitator": "Remember: Small moments of self-care matter. This week, find time to relax, recognize your efforts, and reward yourself whenever you can.\n \nCare for yourself every day. You deserve it!",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {}
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -391,9 +455,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "text_1_facilitator": "Remember, taking small moments for self-care helps us stay calm, strong, and connected to our families. \n\nWhen we look after ourselves, we are better able to support our teens!",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

@@ -15,9 +15,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "Today's topic is about praise.\n\nPraise is a powerful parenting skill.\n\nIf we praise our teens when they do something well, we will see them do more and more positive things!",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -42,9 +48,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "Praise is an easy way to build your teen’s confidence and strengthen your connection. It really works!",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -73,17 +85,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "Let’s reflect on our own experience with praise.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_2_question": {},
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
@@ -173,8 +201,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "Praise really is powerful.\n\nLet’s look at the example of @data.characters.f1_mother.name and her daughters:",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -195,7 +227,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "character_1_text": "Thank you for doing your schoolwork, @data.characters.f1_daughter_13.name, and thank you for helping your sister, @data.characters.f1_daughter_16.name. I'm so proud of you!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -216,26 +250,54 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_2_question": {
           "tz_sw": true
         },
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {},
-        "quiz_2_option_4_text": {},
-        "quiz_2_feedback_4": {}
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_2_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_4": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -317,7 +379,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "Here are some skills to help you praise your teens.\nYou can also praise other adults in your household, too. Notice how they respond!",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "section_1_title": {
           "tz_sw": true
         },
@@ -374,8 +438,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "It can be hard to think of reasons to praise your teen! Here are some ideas from other parents:",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -394,18 +462,30 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "This week's home activity is to praise your teen once a day. It will only take 10 seconds!",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {}
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -450,9 +530,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "Remember, praise is a powerful tool. The more attention you give to positive behaviour, the more positive behaviour you will see.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
