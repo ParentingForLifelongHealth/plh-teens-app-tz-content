@@ -710,6 +710,18 @@
         }
       }
     },
+    "onboarding_splash_slides": {
+      "flow_type": "data_list",
+      "flow_subtype": "onboarding",
+      "flow_name": "onboarding_splash_slides",
+      "_xlsxPath": "data/TZ onboarding.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+      "_metadata": {
+        "duration_sec": {
+          "type": "number"
+        }
+      }
+    },
     "onboarding_settings_pages": {
       "flow_type": "data_list",
       "flow_name": "onboarding_settings_pages",
@@ -724,12 +736,6 @@
           "type": "number"
         }
       }
-    },
-    "onboarding_splash_slides": {
-      "flow_type": "data_list",
-      "flow_name": "onboarding_splash_slides",
-      "_xlsxPath": "PLH onboarding.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR"
     },
     "organisation": {
       "flow_type": "data_list",
@@ -4350,6 +4356,13 @@
       "flow_name": "onboarding_global",
       "_xlsxPath": "PLH onboarding.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR"
+    },
+    "onboarding_global_tz": {
+      "flow_type": "global",
+      "flow_subtype": "onboarding",
+      "flow_name": "onboarding_global_tz",
+      "_xlsxPath": "data/TZ onboarding.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
     },
     "user_data_global": {
       "flow_type": "global",
