@@ -319,6 +319,7 @@
     {
       "type": "display_group",
       "name": "dg_resources",
+      "condition": false,
       "style_list": [
         "justify-content: space-evenly"
       ],
@@ -980,7 +981,7 @@
     {
       "type": "items",
       "value": "@local.number_json",
-      "condition": "@item.id =<5",
+      "condition": false,
       "exclude_from_translation": true,
       "rows": [
         {
@@ -1488,22 +1489,11 @@
             "type": "local",
             "fieldName": "number_json"
           }
-        ],
-        "condition": [
-          {
-            "fullExpression": "@item.id =<5",
-            "matchedExpression": "@item.id",
-            "type": "item",
-            "fieldName": "id"
-          }
         ]
       },
       "_dynamicDependencies": {
         "@local.number_json": [
           "value"
-        ],
-        "@item.id": [
-          "condition"
         ]
       }
     },
