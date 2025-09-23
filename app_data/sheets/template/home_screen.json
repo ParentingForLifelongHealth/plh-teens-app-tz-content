@@ -12,36 +12,10 @@
   "rows": [
     {
       "name": "home_screen_logo",
-      "value": "images/logos/app_logo.png",
-      "_translations": {
-        "value": {}
-      },
-      "condition": "!@global.home_screen_logo_asset",
-      "type": "set_variable",
-      "_nested_name": "home_screen_logo",
-      "_dynamicFields": {
-        "condition": [
-          {
-            "fullExpression": "!@global.home_screen_logo_asset",
-            "matchedExpression": "!@global.home_screen_logo_asset",
-            "type": "global",
-            "fieldName": "home_screen_logo_asset"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "!@global.home_screen_logo_asset": [
-          "condition"
-        ]
-      }
-    },
-    {
-      "name": "home_screen_logo",
       "value": "@global.home_screen_logo_asset",
       "_translations": {
         "value": {}
       },
-      "condition": "!!@global.home_screen_logo_asset",
       "type": "set_variable",
       "_nested_name": "home_screen_logo",
       "_dynamicFields": {
@@ -52,22 +26,11 @@
             "type": "global",
             "fieldName": "home_screen_logo_asset"
           }
-        ],
-        "condition": [
-          {
-            "fullExpression": "!!@global.home_screen_logo_asset",
-            "matchedExpression": "!@global.home_screen_logo_asset",
-            "type": "global",
-            "fieldName": "home_screen_logo_asset"
-          }
         ]
       },
       "_dynamicDependencies": {
         "@global.home_screen_logo_asset": [
           "value"
-        ],
-        "!@global.home_screen_logo_asset": [
-          "condition"
         ]
       }
     },
