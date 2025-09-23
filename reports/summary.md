@@ -83,8 +83,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 48591 KB | 48.6 MB |
-| unused | 19768 KB | 19.8 MB |
+| total | 48661 KB | 48.7 MB |
+| unused | 21214 KB | 21.2 MB |
 </details>
 
 <details open>
@@ -98,53 +98,53 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| audio/testimonials/caregiver/caregiver_test_w_1on1.mp3 | 258.8 |
-| audio/testimonials/caregiver/caregiver_test_w_consequence.mp3 | 312.3 |
-| audio/testimonials/caregiver/caregiver_test_w_crisis.mp3 | 178.3 |
-| audio/testimonials/caregiver/caregiver_test_w_grief.mp3 | 306.5 |
-| audio/testimonials/caregiver/caregiver_test_w_instruct.mp3 | 281.3 |
-| audio/testimonials/caregiver/caregiver_test_w_learn.mp3 | 209.4 |
-| audio/testimonials/caregiver/caregiver_test_w_money.mp3 | 243.5 |
-| audio/testimonials/caregiver/caregiver_test_w_praise.mp3 | 232.3 |
-| audio/testimonials/caregiver/caregiver_test_w_rules.mp3 | 241.1 |
-| audio/testimonials/caregiver/caregiver_test_w_safe.mp3 | 167.5 |
-| audio/testimonials/caregiver/caregiver_test_w_self_care.mp3 | 132.8 |
-| audio/testimonials/caregiver/caregiver_test_w_solve.mp3 | 175 |
-| audio/testimonials/caregiver/caregiver_test_w_srh.mp3 | 263.5 |
-| audio/testimonials/caregiver/caregiver_test_w_stress.mp3 | 178.1 |
-| audio/testimonials/caregiver/caregiver_test_w_svp.mp3 | 174.8 |
-| audio/testimonials/teen/teen_test_w_1on1.mp3 | 210.8 |
-| audio/testimonials/teen/teen_test_w_consequence.mp3 | 211.3 |
-| audio/testimonials/teen/teen_test_w_crisis.mp3 | 191.9 |
-| audio/testimonials/teen/teen_test_w_grief.mp3 | 207.9 |
-| audio/testimonials/teen/teen_test_w_instruct.mp3 | 212.2 |
-| audio/testimonials/teen/teen_test_w_learn.mp3 | 160.2 |
-| audio/testimonials/teen/teen_test_w_money.mp3 | 282.3 |
-| audio/testimonials/teen/teen_test_w_praise.mp3 | 148 |
-| audio/testimonials/teen/teen_test_w_rules.mp3 | 111.2 |
-| audio/testimonials/teen/teen_test_w_safe.mp3 | 136.9 |
-| audio/testimonials/teen/teen_test_w_self_care.mp3 | 227.8 |
-| audio/testimonials/teen/teen_test_w_solve.mp3 | 264.6 |
-| audio/testimonials/teen/teen_test_w_srh.mp3 | 263.5 |
-| audio/testimonials/teen/teen_test_w_stress.mp3 | 267.8 |
-| audio/testimonials/teen/teen_test_w_svp.mp3 | 202.9 |
-| audio/topic_intros/w_1on1_intro.mp3 | 206 |
-| audio/topic_intros/w_celebrate_intro.mp3 | 665.6 |
-| audio/topic_intros/w_consequence_intro.mp3 | 369.4 |
-| audio/topic_intros/w_crisis_intro.mp3 | 433.4 |
-| audio/topic_intros/w_grief_intro.mp3 | 294.6 |
-| audio/topic_intros/w_instruct_intro.mp3 | 172.6 |
-| audio/topic_intros/w_learn_intro.mp3 | 296.9 |
-| audio/topic_intros/w_money_intro.mp3 | 348.8 |
-| audio/topic_intros/w_praise_intro.mp3 | 201.9 |
-| audio/topic_intros/w_rules_intro.mp3 | 292.9 |
-| audio/topic_intros/w_safe_intro.mp3 | 545.9 |
-| audio/topic_intros/w_self_care_intro.mp3 | 407.6 |
-| audio/topic_intros/w_solve_intro.mp3 | 508 |
-| audio/topic_intros/w_srh_intro.mp3 | 369.2 |
-| audio/topic_intros/w_stress_intro.mp3 | 370.3 |
-| audio/topic_intros/w_svp_intro.mp3 | 288.9 |
-| audio/topic_intros/workshops_reflection.mp3 | 258.6 |
+| audio/testimonials/caregiver/caregiver_test_1on1_t.mp3 | 258.8 |
+| audio/testimonials/caregiver/caregiver_test_consequence_t.mp3 | 312.3 |
+| audio/testimonials/caregiver/caregiver_test_crisis_t.mp3 | 178.3 |
+| audio/testimonials/caregiver/caregiver_test_grief_t.mp3 | 306.5 |
+| audio/testimonials/caregiver/caregiver_test_instruct_t.mp3 | 281.3 |
+| audio/testimonials/caregiver/caregiver_test_learn_t.mp3 | 209.4 |
+| audio/testimonials/caregiver/caregiver_test_money_t.mp3 | 243.5 |
+| audio/testimonials/caregiver/caregiver_test_praise_t.mp3 | 232.3 |
+| audio/testimonials/caregiver/caregiver_test_rules_t.mp3 | 241.1 |
+| audio/testimonials/caregiver/caregiver_test_safe_t.mp3 | 167.5 |
+| audio/testimonials/caregiver/caregiver_test_self_care_t.mp3 | 132.8 |
+| audio/testimonials/caregiver/caregiver_test_solve_t.mp3 | 175 |
+| audio/testimonials/caregiver/caregiver_test_srh_t.mp3 | 263.5 |
+| audio/testimonials/caregiver/caregiver_test_stress_t.mp3 | 178.1 |
+| audio/testimonials/caregiver/caregiver_test_svp_t.mp3 | 174.8 |
+| audio/testimonials/teen/teen_test_1on1_t.mp3 | 210.8 |
+| audio/testimonials/teen/teen_test_consequence_t.mp3 | 211.3 |
+| audio/testimonials/teen/teen_test_crisis_t.mp3 | 191.9 |
+| audio/testimonials/teen/teen_test_grief_t.mp3 | 207.9 |
+| audio/testimonials/teen/teen_test_instruct_t.mp3 | 212.2 |
+| audio/testimonials/teen/teen_test_learn_t.mp3 | 160.2 |
+| audio/testimonials/teen/teen_test_money_t.mp3 | 282.3 |
+| audio/testimonials/teen/teen_test_praise_t.mp3 | 148 |
+| audio/testimonials/teen/teen_test_rules_t.mp3 | 111.2 |
+| audio/testimonials/teen/teen_test_safe_t.mp3 | 136.9 |
+| audio/testimonials/teen/teen_test_self_care_t.mp3 | 227.8 |
+| audio/testimonials/teen/teen_test_solve_t.mp3 | 264.6 |
+| audio/testimonials/teen/teen_test_srh_t.mp3 | 263.5 |
+| audio/testimonials/teen/teen_test_stress_t.mp3 | 267.8 |
+| audio/testimonials/teen/teen_test_svp_t.mp3 | 202.9 |
+| audio/topic_intros/1on1_intro_t.mp3 | 206 |
+| audio/topic_intros/celebrate_intro_t.mp3 | 665.6 |
+| audio/topic_intros/consequence_intro_t.mp3 | 239.1 |
+| audio/topic_intros/crisis_intro_t.mp3 | 971.8 |
+| audio/topic_intros/grief_intro_t.mp3 | 690.8 |
+| audio/topic_intros/instruct_intro_t.mp3 | 231 |
+| audio/topic_intros/learn_intro_t.mp3 | 592.2 |
+| audio/topic_intros/money_intro_t.mp3 | 348.8 |
+| audio/topic_intros/praise_intro_t.mp3 | 532.2 |
+| audio/topic_intros/rules_intro_t.mp3 | 292.9 |
+| audio/topic_intros/safe_intro_t.mp3 | 545.9 |
+| audio/topic_intros/self_care_intro_t.mp3 | 407.6 |
+| audio/topic_intros/solve_intro_t.mp3 | 508 |
+| audio/topic_intros/srh_intro_t.mp3 | 369.2 |
+| audio/topic_intros/stress_intro_t.mp3 | 370.3 |
+| audio/topic_intros/svp_intro_t.mp3 | 603.8 |
+| audio/topic_intros/workshops_reflection_t.mp3 | 258.6 |
 | contents.json | 9.6 |
 | images/activities/act_animal.svg | 135.4 |
 | images/activities/act_animal_infant.svg | 111.5 |
@@ -153,7 +153,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/activities/blanket_forts.svg | 81.2 |
 | images/activities/books.svg | 72.6 |
 | images/activities/chores.svg | 110.2 |
-| images/activities/circle_dance(1).svg | 117.2 |
 | images/activities/circle_dance.svg | 118.7 |
 | images/activities/cook.svg | 45.1 |
 | images/activities/cooking_with_maths.svg | 190 |
@@ -177,14 +176,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/activities/tummy_time_safari.svg | 106.2 |
 | images/backgrounds/bottom_banner.svg | 23.2 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
-| images/character_icons/F1_DAUGHTER_2.svg | 9.9 |
-| images/character_icons/F1_DAUGHTER_6.svg | 59.9 |
-| images/character_icons/F1_SON_5.svg | 11.6 |
-| images/character_icons/F2_DAUGHTER_3.svg | 9.2 |
 | images/character_icons/F2_SON_8.svg | 12.5 |
-| images/character_icons/F3_DAUGHTER_7.svg | 43.3 |
-| images/character_icons/F3_SON_4.svg | 10.8 |
-| images/character_icons/faces-22.svg | 24.9 |
+| images/character_icons/ZA_FACILITATOR.svg | 17.7 |
 | images/faces/sadder.svg | 1.1 |
 | images/faces/saddest.svg | 2 |
 | images/homescreen/consequences.svg | 40.6 |
@@ -224,14 +217,14 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/sino_horizontal.svg | 251 |
 | images/logos/sino_mark.svg | 461.7 |
 | images/logos/sino_white.svg | 256.1 |
-| images/teen_modules/instruct/instruct3_t_1.svg | 47 |
-| images/teen_modules/instruct/instruct3_t_2.svg | 39.7 |
-| images/teen_modules/instruct/instruct3_t_3.svg | 43.4 |
-| images/teen_modules/instruct/instruct3_t_4.svg | 42.5 |
-| images/teen_modules/instruct/instruct3_t_5.svg | 53.4 |
+| images/onboarding/facilitator_onboarding_icon.svg | 29.4 |
+| images/onboarding/frustrated.svg | 22.5 |
+| images/onboarding/join_parents.svg | 37.6 |
+| images/onboarding/loving_parent.svg | 25.7 |
 | images/teen_modules/srh/srh_learn_sex_talk_age_t_3(1).svg | 25.6 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
+| lottie/checkmark.json | 23.6 |
 | video/plh_video/lets_slow_down.srt | 1.7 |
 | video/plh_video/lets_slow_down.vtt | 1.8 |
 </details>
@@ -290,18 +283,13 @@ Assets that have references within sheets but do not appear in app-data
 | audio/teen/topic_intros/stress_intro_t.mp3 | 2 |
 | audio/teen/topic_intros/svp_intro_t.mp3 | 2 |
 | audio/teen/topic_intros/workshops_reflection_t.mp3 | 2 |
+| images/TZ_FACILITATOR.svg | 1 |
 | images/backgrounds/activity_bottom_left.png | 1 |
-| images/backgrounds/mountains.svg | 1 |
+| images/character_icons/TZ_FACILITATOR.svg | 1 |
 | images/icons/share.svg | 2 |
-| images/kw_facilitator.svg | 1 |
 | images/logos/app_logo.png | 1 |
 | images/shell_closed.png | 1 |
 | images/shell_open.png | 1 |
-| images/teen_modules/instruct/instruct2_t_4.svg | 2 |
-| images/teen_modules/instruct/instruct2_t_5.svg | 2 |
-| images/teen_modules/instruct/instruct2_t_6.svg | 2 |
-| images/teen_modules/instruct/instruct2_t_7.svg | 2 |
-| images/teen_modules/instruct/instruct2_t_8.svg | 2 |
 </details>
 
 <details >
@@ -383,7 +371,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/character_icons/FRIEND_MALE_2.svg | 22 | 1 |
 | images/character_icons/MAN_IN_CAR.svg | 13.2 | 1 |
 | images/character_icons/TEACHER_1.svg | 20.4 | 1 |
-| images/character_icons/ZA_FACILITATOR.svg | 17.7 | 1 |
 | images/faces/angry.svg | 1.1 | 8 |
 | images/faces/confused.svg | 1.8 | 8 |
 | images/faces/happier.svg | 0.6 | 2 |
@@ -489,11 +476,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/world.svg | 6.2 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
-| images/logos/plh_logomark.png | 20.5 | 3 |
-| images/onboarding/facilitator_onboarding_icon.svg | 29.4 | 1 |
-| images/onboarding/frustrated.svg | 22.5 | 1 |
-| images/onboarding/join_parents.svg | 37.6 | 1 |
-| images/onboarding/loving_parent.svg | 25.7 | 1 |
+| images/logos/plh_logomark.png | 20.5 | 2 |
 | images/teen_modules/celebrate/celebrate_cup.svg | 60.9 | 2 |
 | images/teen_modules/celebrate/celebrate_t_1.svg | 152.3 | 2 |
 | images/teen_modules/celebrate/celebrate_t_2.svg | 34.9 | 2 |
@@ -544,6 +527,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/instruct/instruct2_t_1.svg | 47.3 | 2 |
 | images/teen_modules/instruct/instruct2_t_2.svg | 37.4 | 2 |
 | images/teen_modules/instruct/instruct2_t_3.svg | 42.6 | 2 |
+| images/teen_modules/instruct/instruct3_t_1.svg | 47 | 2 |
+| images/teen_modules/instruct/instruct3_t_2.svg | 39.7 | 2 |
+| images/teen_modules/instruct/instruct3_t_3.svg | 43.4 | 2 |
+| images/teen_modules/instruct/instruct3_t_4.svg | 42.5 | 2 |
+| images/teen_modules/instruct/instruct3_t_5.svg | 53.4 | 2 |
 | images/teen_modules/learn/learn_conflict_t_1.svg | 51.8 | 2 |
 | images/teen_modules/learn/learn_conflict_t_2.svg | 69.4 | 2 |
 | images/teen_modules/learn/learn_conflict_t_3.svg | 47.4 | 2 |
@@ -665,7 +653,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/svp/svp_usebody_t_3.gif | 844.1 | 2 |
 | images/teen_modules/svp/svp_usevoice_t.svg | 18.4 | 2 |
 | lottie/bulging_circles.json | 11.8 | 2 |
-| lottie/checkmark.json | 23.6 | 1 |
 | lottie/gift_box.json | 674.5 | 1 |
 | lottie/relax/blue_dots.json | 14.7 | 7 |
 | lottie/relax/heart.json | 46.7 | 8 |
@@ -680,7 +667,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 9 |
+| data_list |  | 10 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | check_in | 1 |
@@ -706,14 +693,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | modules_srh_t | 1 |
 | data_list | modules_stayingsafe_t | 1 |
 | data_list | modules_stress_t | 1 |
-| data_list | onboarding | 1 |
 | data_list | relax | 1 |
 | data_pipe |  | 3 |
 | data_pipe | generated | 32 |
 | generator |  | 31 |
 | global |  | 5 |
 | global | legal_terms | 1 |
-| global | onboarding | 2 |
+| global | onboarding | 1 |
 | template |  | 98 |
 | template | generated | 501 |
 | template | legal_terms | 4 |
