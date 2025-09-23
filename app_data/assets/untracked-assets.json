@@ -1,0 +1,68 @@
+{
+  "audio/teen/topic_intros/self_care_intro.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/topic_intros/tz_sw/self_care_intro.mp3",
+          "md5Checksum": "d23fd753340e73d789d7037770b056ca",
+          "size_kb": 170.4
+        }
+      }
+    }
+  },
+  "audio/teen/topic_intros/solve_intro.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/topic_intros/tz_sw/solve_intro.mp3",
+          "md5Checksum": "790c6ff963aae6f037d68ec83a928ecd",
+          "size_kb": 234.3
+        }
+      }
+    }
+  },
+  "audio/teen/topic_intros/srh_intro.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/topic_intros/tz_sw/srh_intro.mp3",
+          "md5Checksum": "478cbc86eb0513a4fa9d030e95e2f801",
+          "size_kb": 135
+        }
+      }
+    }
+  },
+  "audio/teen/topic_intros/stress_intro.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/topic_intros/tz_sw/stress_intro.mp3",
+          "md5Checksum": "bd23edd93cd252743f58ebb691cf763c",
+          "size_kb": 183.1
+        }
+      }
+    }
+  },
+  "audio/teen/topic_intros/svp_intro.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/topic_intros/tz_sw/svp_intro.mp3",
+          "md5Checksum": "1577d3ba2d8b8b46e1b0e24a99a28f1b",
+          "size_kb": 116.2
+        }
+      }
+    }
+  },
+  "audio/teen/topic_intros/workshops_reflection.mp3": {
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/topic_intros/tz_sw/workshops_reflection.mp3",
+          "md5Checksum": "d9525f555027a8fe44a1a06d63534f8c",
+          "size_kb": 363.9
+        }
+      }
+    }
+  }
+}

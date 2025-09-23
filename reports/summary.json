@@ -119,7 +119,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1971
+        "count": 1969
       },
       {
         "type": "simple_checkbox",
@@ -275,13 +275,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "49079 KB",
-        "MB": "49.1 MB"
+        "KB": "63385 KB",
+        "MB": "63.4 MB"
       },
       {
         "assets": "unused",
-        "KB": "6508 KB",
-        "MB": "6.5 MB"
+        "KB": "5608 KB",
+        "MB": "5.6 MB"
       }
     ]
   },
@@ -428,10 +428,6 @@
         "size_kb": 12.5
       },
       {
-        "path": "images/character_icons/ZA_FACILITATOR.svg",
-        "size_kb": 17.7
-      },
-      {
         "path": "images/faces/sadder.svg",
         "size_kb": 1.1
       },
@@ -569,23 +565,11 @@
       },
       {
         "path": "images/logos/favicon.png",
-        "size_kb": 149.9
+        "size_kb": 6.3
       },
       {
         "path": "images/logos/plh_white.png",
         "size_kb": 12.8
-      },
-      {
-        "path": "images/logos/sino_horizontal.svg",
-        "size_kb": 251
-      },
-      {
-        "path": "images/logos/sino_mark.svg",
-        "size_kb": 461.7
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_age_t_3(1).svg",
-        "size_kb": 25.6
       },
       {
         "path": "lottie/bulging_circles.txt",
@@ -608,252 +592,7 @@
   "assets_missing": {
     "data": [
       {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_1on1_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_consequence_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_crisis_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_grief_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_instruct_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_learn_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_money_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_praise_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_rules_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_safe_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_solve_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_srh_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_stress_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_svp_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_1on1_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_consequence_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_crisis_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_grief_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_instruct_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_learn_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_money_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_praise_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_rules_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_safe_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_self_care_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_solve_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_srh_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_stress_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/testimonials/teen/teen_test_svp_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/1on1_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/celebrate_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/consequence_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/crisis_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/grief_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/instruct_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/learn_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/money_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/praise_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/rules_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/safe_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/self_care_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/solve_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/srh_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/stress_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/svp_intro_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "audio/teen/topic_intros/workshops_reflection_t.mp3",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/TZ_FACILITATOR.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
         "path": "images/backgrounds/activity_bottom_left.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/character_icons/TZ_FACILITATOR.svg",
         "count": 1,
         "missing": true
       },
@@ -864,16 +603,6 @@
       },
       {
         "path": "images/logos/app_logo.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/shell_closed.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/shell_open.png",
         "count": 1,
         "missing": true
       }
@@ -1000,6 +729,241 @@
         "path": "audio/relax/relax_9.mp3",
         "count": 3,
         "size_kb": 576.6
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_1on1_t.mp3",
+        "count": 2,
+        "size_kb": 258.8
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_consequence_t.mp3",
+        "count": 2,
+        "size_kb": 312.3
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_crisis_t.mp3",
+        "count": 2,
+        "size_kb": 178.3
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_grief_t.mp3",
+        "count": 2,
+        "size_kb": 306.5
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_instruct_t.mp3",
+        "count": 2,
+        "size_kb": 281.3
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_learn_t.mp3",
+        "count": 2,
+        "size_kb": 209.4
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_money_t.mp3",
+        "count": 2,
+        "size_kb": 243.5
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_praise_t.mp3",
+        "count": 2,
+        "size_kb": 232.3
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_rules_t.mp3",
+        "count": 2,
+        "size_kb": 241.1
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_safe_t.mp3",
+        "count": 2,
+        "size_kb": 167.5
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3",
+        "count": 2,
+        "size_kb": 132.8
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_solve_t.mp3",
+        "count": 2,
+        "size_kb": 175
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_srh_t.mp3",
+        "count": 2,
+        "size_kb": 263.5
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_stress_t.mp3",
+        "count": 2,
+        "size_kb": 178.1
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_svp_t.mp3",
+        "count": 2,
+        "size_kb": 174.8
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_1on1_t.mp3",
+        "count": 2,
+        "size_kb": 210.8
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_consequence_t.mp3",
+        "count": 2,
+        "size_kb": 211.3
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_crisis_t.mp3",
+        "count": 2,
+        "size_kb": 191.9
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_grief_t.mp3",
+        "count": 2,
+        "size_kb": 207.9
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_instruct_t.mp3",
+        "count": 2,
+        "size_kb": 212.2
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_learn_t.mp3",
+        "count": 2,
+        "size_kb": 160.2
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_money_t.mp3",
+        "count": 2,
+        "size_kb": 282.3
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_praise_t.mp3",
+        "count": 2,
+        "size_kb": 148
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_rules_t.mp3",
+        "count": 2,
+        "size_kb": 111.2
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_safe_t.mp3",
+        "count": 2,
+        "size_kb": 136.9
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_self_care_t.mp3",
+        "count": 2,
+        "size_kb": 227.8
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_solve_t.mp3",
+        "count": 2,
+        "size_kb": 264.6
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_srh_t.mp3",
+        "count": 2,
+        "size_kb": 263.5
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_stress_t.mp3",
+        "count": 2,
+        "size_kb": 267.8
+      },
+      {
+        "path": "audio/teen/testimonials/teen/teen_test_svp_t.mp3",
+        "count": 2,
+        "size_kb": 202.9
+      },
+      {
+        "path": "audio/teen/topic_intros/1on1_intro_t.mp3",
+        "count": 2,
+        "size_kb": 206
+      },
+      {
+        "path": "audio/teen/topic_intros/celebrate_intro_t.mp3",
+        "count": 2,
+        "size_kb": 665.6
+      },
+      {
+        "path": "audio/teen/topic_intros/consequence_intro_t.mp3",
+        "count": 2,
+        "size_kb": 239.1
+      },
+      {
+        "path": "audio/teen/topic_intros/crisis_intro_t.mp3",
+        "count": 2,
+        "size_kb": 971.8
+      },
+      {
+        "path": "audio/teen/topic_intros/grief_intro_t.mp3",
+        "count": 2,
+        "size_kb": 690.8
+      },
+      {
+        "path": "audio/teen/topic_intros/instruct_intro_t.mp3",
+        "count": 2,
+        "size_kb": 231
+      },
+      {
+        "path": "audio/teen/topic_intros/learn_intro_t.mp3",
+        "count": 2,
+        "size_kb": 592.2
+      },
+      {
+        "path": "audio/teen/topic_intros/money_intro_t.mp3",
+        "count": 2,
+        "size_kb": 348.8
+      },
+      {
+        "path": "audio/teen/topic_intros/praise_intro_t.mp3",
+        "count": 2,
+        "size_kb": 532.2
+      },
+      {
+        "path": "audio/teen/topic_intros/rules_intro_t.mp3",
+        "count": 2,
+        "size_kb": 292.9
+      },
+      {
+        "path": "audio/teen/topic_intros/safe_intro_t.mp3",
+        "count": 2,
+        "size_kb": 545.9
+      },
+      {
+        "path": "audio/teen/topic_intros/self_care_intro_t.mp3",
+        "count": 2,
+        "size_kb": 407.6
+      },
+      {
+        "path": "audio/teen/topic_intros/solve_intro_t.mp3",
+        "count": 2,
+        "size_kb": 508
+      },
+      {
+        "path": "audio/teen/topic_intros/srh_intro_t.mp3",
+        "count": 2,
+        "size_kb": 369.2
+      },
+      {
+        "path": "audio/teen/topic_intros/stress_intro_t.mp3",
+        "count": 2,
+        "size_kb": 370.3
+      },
+      {
+        "path": "audio/teen/topic_intros/svp_intro_t.mp3",
+        "count": 2,
+        "size_kb": 603.8
+      },
+      {
+        "path": "audio/teen/topic_intros/workshops_reflection_t.mp3",
+        "count": 2,
+        "size_kb": 258.6
       },
       {
         "path": "images/activities/act_emotions.svg",
@@ -1245,6 +1209,11 @@
         "path": "images/character_icons/TEACHER_1.svg",
         "count": 1,
         "size_kb": 20.4
+      },
+      {
+        "path": "images/character_icons/TZ_FACILITATOR.svg",
+        "count": 2,
+        "size_kb": 17.7
       },
       {
         "path": "images/faces/angry.svg",
@@ -1777,7 +1746,7 @@
         "size_kb": 20.5
       },
       {
-        "path": "images/logos/sino_white.svg",
+        "path": "images/logos/plh_white.svg",
         "count": 1,
         "size_kb": 256.1
       },

@@ -98,7 +98,7 @@
     {
       "type": "declare_global_constant",
       "name": "facilitator_face_asset",
-      "value": "images/TZ_FACILITATOR.svg",
+      "value": "images/character_icons/TZ_FACILITATOR.svg",
       "_translations": {
         "value": {}
       },
