@@ -83,7 +83,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 63385 KB | 63.4 MB |
-| unused | 5608 KB | 5.6 MB |
+| unused | 5605 KB | 5.6 MB |
 </details>
 
 <details open>
@@ -97,7 +97,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| contents.json | 9.6 |
+| contents.json | 5.9 |
 | images/activities/act_animal.svg | 135.4 |
 | images/activities/act_animal_infant.svg | 111.5 |
 | images/activities/animal_sounds.svg | 84.2 |

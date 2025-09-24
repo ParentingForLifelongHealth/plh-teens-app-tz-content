@@ -276,7 +276,7 @@
       },
       {
         "assets": "unused",
-        "KB": "5608 KB",
+        "KB": "5605 KB",
         "MB": "5.6 MB"
       }
     ]
@@ -301,7 +301,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 9.6
+        "size_kb": 5.9
       },
       {
         "path": "images/activities/act_animal.svg",
