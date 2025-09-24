@@ -6,7 +6,7 @@
   "rows": [
     {
       "id": "facilitator",
-      "name": "Aisha",
+      "name": "Neema",
       "role": "facilitator",
       "image_asset": "/images/character_icons/TZ_FACILITATOR.svg"
     },
@@ -82,7 +82,7 @@
       "id": "f2_grandmother",
       "caps_id": "F2_GRANDMOTHER",
       "family_no": 2,
-      "name": "Mira",
+      "name": "Aisha",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F2_GRANDMOTHER.svg",
       "Flag if column E has duplicate names": "Duplicate",
@@ -122,7 +122,7 @@
       "name": "Neema",
       "role": "child",
       "image_asset": "/images/character_icons/F2_DAUGHTER_19.svg",
-      "Flag if column E has duplicate names": ""
+      "Flag if column E has duplicate names": "Duplicate"
     },
     {
       "id": "f2_son_15",
@@ -385,7 +385,7 @@
       "caps_id": "MEDIA_FEMALE_10",
       "name": "Mira",
       "Media Details  (Teens)": "srh_t",
-      "Flag if column E has duplicate names": "Duplicate"
+      "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_female_11",

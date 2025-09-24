@@ -11,10 +11,10 @@
 | audio | 3 |
 | button | 80 |
 | combo_box | 9 |
-| data_items | 113 |
+| data_items | 116 |
 | debug_toggle | 1 |
 | display_grid | 5 |
-| display_group | 84 |
+| display_group | 85 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 19 |
@@ -32,11 +32,11 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1967 |
+| set_variable | 1971 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 3 |
-| template | 636 |
+| template | 637 |
 | text | 153 |
 | text_area | 2 |
 | text_box | 12 |
@@ -72,7 +72,7 @@
 | set_data | 62 |
 | set_field | 62 |
 | set_item | 38 |
-| set_local | 56 |
+| set_local | 58 |
 | task | 3 |
 | user | 3 |
 </details>
@@ -83,7 +83,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 63385 KB | 63.4 MB |
-| unused | 5605 KB | 5.6 MB |
+| unused | 5608 KB | 5.6 MB |
 </details>
 
 <details open>
@@ -97,7 +97,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| contents.json | 5.9 |
+| contents.json | 9.6 |
 | images/activities/act_animal.svg | 135.4 |
 | images/activities/act_animal_infant.svg | 111.5 |
 | images/activities/animal_sounds.svg | 84.2 |
@@ -643,7 +643,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
-| template |  | 97 |
+| template |  | 98 |
 | template | generated | 501 |
 | template | legal_terms | 4 |
 </details>

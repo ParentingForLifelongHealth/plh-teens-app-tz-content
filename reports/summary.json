@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 113
+        "count": 116
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 84
+        "count": 85
       },
       {
         "type": "drawer",
@@ -119,7 +119,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1967
+        "count": 1971
       },
       {
         "type": "simple_checkbox",
@@ -135,7 +135,7 @@
       },
       {
         "type": "template",
-        "count": 636
+        "count": 637
       },
       {
         "type": "text",
@@ -255,7 +255,7 @@
       },
       {
         "type": "set_local",
-        "count": 56
+        "count": 58
       },
       {
         "type": "task",
@@ -276,7 +276,7 @@
       },
       {
         "assets": "unused",
-        "KB": "5605 KB",
+        "KB": "5608 KB",
         "MB": "5.6 MB"
       }
     ]
@@ -301,7 +301,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 5.9
+        "size_kb": 9.6
       },
       {
         "path": "images/activities/act_animal.svg",
@@ -2847,7 +2847,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 97
+        "total": 98
       },
       {
         "type": "template",
