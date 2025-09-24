@@ -40,7 +40,9 @@
       "Flag if column E has duplicate names": "Duplicate",
       "role_name": "Baba",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -88,7 +90,9 @@
       "Flag if column E has duplicate names": "Duplicate",
       "role_name": "Bibi",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -106,7 +110,9 @@
       "Flag if column E has duplicate names": "",
       "role_name": "Babu",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -163,7 +169,9 @@
       "Flag if column E has duplicate names": "Duplicate",
       "role_name": "Mjomba",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -201,7 +209,9 @@
       "Flag if column E has duplicate names": "",
       "role_name": "Baba",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {

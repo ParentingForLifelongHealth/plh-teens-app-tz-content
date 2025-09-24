@@ -26,9 +26,15 @@
       ],
       "title": "Skipping Rope Song",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -67,9 +73,15 @@
       ],
       "title": "Round & Round",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -105,11 +117,21 @@
       ],
       "title": "Can You Catch It?",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {},
-        "attribution": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        },
+        "attribution": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -153,10 +175,18 @@
       ],
       "title": "Unseen Guesses",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "attribution": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "attribution": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -195,7 +225,9 @@
       ],
       "title": "A Friendly Chat",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -287,7 +319,9 @@
       ],
       "title": "Dance Moves",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -328,7 +362,9 @@
       ],
       "title": "Check-in Chat",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -770,7 +806,9 @@
       ],
       "title": "Music and Dance",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -892,7 +930,9 @@
       ],
       "title": "Two Truths, One Lie",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
@@ -1007,9 +1047,15 @@
       ],
       "title": "Get Active",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1040,10 +1086,18 @@
       ],
       "title": "This is Who I Am",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1078,9 +1132,15 @@
       ],
       "title": "Traffic Lights",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1111,10 +1171,18 @@
       ],
       "title": "Think Big, Think Small",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1149,9 +1217,15 @@
       ],
       "title": "Take A Pause with your Teen",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1182,9 +1256,15 @@
       ],
       "title": "Name That Tune",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1218,9 +1298,15 @@
       ],
       "title": "What’s New?",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1258,8 +1344,12 @@
         "title": {
           "tz_sw": true
         },
-        "intro_text": {},
-        "steps_text": {}
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1290,9 +1380,15 @@
       ],
       "title": "Secret Handshake",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true
+        },
+        "steps_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

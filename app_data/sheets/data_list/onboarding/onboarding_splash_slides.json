@@ -10,7 +10,9 @@
       "duration_sec": 4,
       "text": "Raising teenagers is hard",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -40,7 +42,9 @@
       "duration_sec": 4,
       "text": "Join over 200 million parents who have used our resources",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text": {

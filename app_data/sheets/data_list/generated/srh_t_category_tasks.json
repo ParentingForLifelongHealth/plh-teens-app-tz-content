@@ -39,7 +39,9 @@
       "icon_asset": "images/icons/picture_book.svg",
       "title": "Today's Topic",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
