@@ -7436,6 +7436,12 @@
       "_xlsxPath": "PLH module_navigation.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1GnKk8luhnYcWobeeEfbR23ZSoZakcNF9"
     },
+    "module_list_testing": {
+      "flow_type": "template",
+      "flow_name": "module_list_testing",
+      "_xlsxPath": "templates/TZ module_navigation.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+    },
     "module_overview": {
       "flow_type": "template",
       "flow_name": "module_overview",
