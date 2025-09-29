@@ -862,31 +862,85 @@
   },
   "audio/teen/topic_intros/self_care_intro_t.mp3": {
     "md5Checksum": "e4d59f7822d67839382d1719d190fd18",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/topic_intros/tz_sw/self_care_intro_t.mp3",
+          "md5Checksum": "d23fd753340e73d789d7037770b056ca",
+          "size_kb": 170.4
+        }
+      }
+    },
     "size_kb": 407.6
   },
   "audio/teen/topic_intros/solve_intro_t.mp3": {
     "md5Checksum": "45c9e322279da0af832fa18a9c531742",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/topic_intros/tz_sw/solve_intro_t.mp3",
+          "md5Checksum": "790c6ff963aae6f037d68ec83a928ecd",
+          "size_kb": 234.3
+        }
+      }
+    },
     "size_kb": 508
   },
   "audio/teen/topic_intros/srh_intro_t.mp3": {
     "md5Checksum": "7e9a4ce5845d86b659c47111be58a136",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/topic_intros/tz_sw/srh_intro_t.mp3",
+          "md5Checksum": "478cbc86eb0513a4fa9d030e95e2f801",
+          "size_kb": 135
+        }
+      }
+    },
     "size_kb": 369.2
   },
   "audio/teen/topic_intros/stress_intro_t.mp3": {
     "md5Checksum": "a293f9c19a4f9c06138a89dd3d229af6",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/topic_intros/tz_sw/stress_intro_t.mp3",
+          "md5Checksum": "bd23edd93cd252743f58ebb691cf763c",
+          "size_kb": 183.1
+        }
+      }
+    },
     "size_kb": 370.3
   },
   "audio/teen/topic_intros/svp_intro_t.mp3": {
     "md5Checksum": "51c28a546316b81bbe4bd2a3909a04a1",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/topic_intros/tz_sw/svp_intro_t.mp3",
+          "md5Checksum": "1577d3ba2d8b8b46e1b0e24a99a28f1b",
+          "size_kb": 116.2
+        }
+      }
+    },
     "size_kb": 603.8
   },
   "audio/teen/topic_intros/workshops_reflection_t.mp3": {
     "md5Checksum": "048e28d794f82d00f927de44bc93e28e",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/topic_intros/tz_sw/workshops_reflection_t.mp3",
+          "md5Checksum": "d9525f555027a8fe44a1a06d63534f8c",
+          "size_kb": 363.9
+        }
+      }
+    },
     "size_kb": 258.6
   },
   "contents.json": {
-    "md5Checksum": "de673bcd3c0e01fb5655eba3e0cfc008",
-    "size_kb": 5.9
+    "md5Checksum": "df9c81f319411188b557a9430db42686",
+    "size_kb": 6.1
   },
   "images/activities/act_animal.svg": {
     "md5Checksum": "0b8848cb7ff06bed8f94069b51caa429",

@@ -11,7 +11,7 @@
 | audio | 3 |
 | button | 80 |
 | combo_box | 9 |
-| data_items | 116 |
+| data_items | 131 |
 | debug_toggle | 1 |
 | display_grid | 5 |
 | display_group | 85 |
@@ -37,7 +37,7 @@
 | task_card | 6 |
 | task_progress_bar | 3 |
 | template | 637 |
-| text | 153 |
+| text | 168 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 5 |
@@ -97,7 +97,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| contents.json | 5.9 |
+| contents.json | 6.1 |
 | images/activities/act_animal.svg | 135.4 |
 | images/activities/act_animal_infant.svg | 111.5 |
 | images/activities/animal_sounds.svg | 84.2 |
