@@ -11,6 +11,11 @@
       "image_asset": "/images/character_icons/TZ_FACILITATOR.svg"
     },
     {
+      "id": "facilitator_male",
+      "name": "Steven",
+      "role": "facilitator"
+    },
+    {
       "id": "f1_mother",
       "caps_id": "F1_MOTHER",
       "family_no": 1,
@@ -134,10 +139,10 @@
       "id": "f2_son_15",
       "caps_id": "F2_SON_15",
       "family_no": 2,
-      "name": "Sanka",
+      "name": "John",
       "role": "child",
       "image_asset": "/images/character_icons/F2_SON_15.svg",
-      "Flag if column E has duplicate names": "Duplicate"
+      "Flag if column E has duplicate names": ""
     },
     {
       "id": "f3_mother",
@@ -166,7 +171,7 @@
       "name": "Sendeu",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F3_UNCLE.svg",
-      "Flag if column E has duplicate names": "Duplicate",
+      "Flag if column E has duplicate names": "",
       "role_name": "Mjomba",
       "_translations": {
         "role_name": {
@@ -203,7 +208,7 @@
       "id": "f4_father",
       "caps_id": "F4_FATHER",
       "family_no": 4,
-      "name": "Senge",
+      "name": "Mabula",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F4_FATHER.svg",
       "Flag if column E has duplicate names": "",
@@ -228,23 +233,23 @@
     {
       "id": "man_in_car",
       "caps_id": "MAN_IN_CAR",
-      "name": "Gibu",
+      "name": "Samwel",
       "image_asset": "/images/character_icons/MAN_IN_CAR.svg",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "boyfriend_1",
       "caps_id": "BOYFRIEND_1",
-      "name": "Sanka",
+      "name": "Benjamin",
       "image_asset": "/images/character_icons/BOYFRIEND_1.svg",
-      "Flag if column E has duplicate names": "Duplicate"
+      "Flag if column E has duplicate names": ""
     },
     {
       "id": "man_threat",
       "caps_id": "MAN_THREAT",
-      "name": "Sendeu",
+      "name": "Kelvin",
       "image_asset": "/images/character_icons/BOYFRIEND_1.svg",
-      "Flag if column E has duplicate names": "Duplicate"
+      "Flag if column E has duplicate names": ""
     },
     {
       "id": "girlfriend_1",
@@ -255,40 +260,40 @@
     {
       "id": "teacher_1",
       "caps_id": "TEACHER_1",
-      "name": "Teacher",
+      "name": "Mwalimu",
       "image_asset": "/images/character_icons/TEACHER_1.svg",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "friend_female_1",
       "caps_id": "FRIEND_FEMALE_1",
-      "name": "Akhona",
+      "name": "Joyce",
       "image_asset": "/images/character_icons/FRIEND_FEMALE_1.svg",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "friend_female_2",
       "caps_id": "FRIEND_FEMALE_2",
-      "name": "Nombuso",
+      "name": "Veronica",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "friend_female_3",
       "caps_id": "FRIEND_FEMALE_3",
-      "name": "Lonwando",
+      "name": "Maria",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "friend_male_1",
       "caps_id": "FRIEND_MALE_1",
-      "name": "Lonwabo",
+      "name": "God",
       "image_asset": "/images/character_icons/FRIEND_MALE_1.svg",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "friend_male_2",
       "caps_id": "FRIEND_MALE_2",
-      "name": "Pule",
+      "name": "Emanuel",
       "image_asset": "/images/character_icons/FRIEND_MALE_2.svg",
       "Flag if column E has duplicate names": ""
     },
@@ -444,7 +449,7 @@
       "id": "media_son_3",
       "caps_id": "MEDIA_SON_3",
       "name": "Sanka",
-      "Flag if column E has duplicate names": "Duplicate"
+      "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_son_4",

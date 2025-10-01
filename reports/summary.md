@@ -11,7 +11,7 @@
 | audio | 3 |
 | button | 80 |
 | combo_box | 9 |
-| data_items | 131 |
+| data_items | 102 |
 | debug_toggle | 1 |
 | display_grid | 5 |
 | display_group | 85 |
@@ -32,12 +32,12 @@
 | round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1971 |
+| set_variable | 1956 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 3 |
-| template | 637 |
-| text | 168 |
+| template | 653 |
+| text | 138 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 5 |
@@ -56,23 +56,23 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 473 |
+| emit: completed | 474 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 481 |
+| emit: uncompleted | 482 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 181 |
 | pop_up | 45 |
 | reset_app | 4 |
 | reset_data | 3 |
-| set_data | 62 |
-| set_field | 62 |
+| set_data | 48 |
+| set_field | 48 |
 | set_item | 38 |
-| set_local | 58 |
+| set_local | 43 |
 | task | 3 |
 | user | 3 |
 </details>
@@ -97,7 +97,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| contents.json | 5.9 |
+| contents.json | 6.1 |
 | images/activities/act_animal.svg | 135.4 |
 | images/activities/act_animal_infant.svg | 111.5 |
 | images/activities/animal_sounds.svg | 84.2 |
@@ -643,7 +643,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
-| template |  | 98 |
+| template |  | 99 |
 | template | generated | 501 |
 | template | legal_terms | 4 |
 </details>

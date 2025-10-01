@@ -8,21 +8,17 @@
     {
       "type": "declare_global_constant",
       "name": "app_name",
-      "value": "FurahaApp",
+      "value": "ParentApp",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
       "name": "app_name_full",
-      "value": "FurahaApp",
+      "value": "ParentApp",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
