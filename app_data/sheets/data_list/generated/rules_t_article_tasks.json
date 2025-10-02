@@ -4,12 +4,12 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_9",
+      "id": "relax_5",
       "in_library": "yes",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_9.mp3",
+      "lottie_asset": "lottie/relax/blue_dots.json",
+      "media_asset": "audio/relax/relax_5.mp3",
       "media_type": "audio",
-      "title": "Body scan",
+      "title": "In and out",
       "_translations": {
         "title": {
           "tz_sw": true
@@ -20,13 +20,13 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Body scan"
+          "eng": "In and out"
         },
         "transcript": {
-          "eng": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!"
+          "eng": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!"
         }
       },
-      "transcript": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
+      "transcript": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -111,7 +111,7 @@
           "eng": "Today's topic is about rules.\n\nRules help teens understand what is expected of them.\n\nTeens are more likely to follow rules if you create the rules WITH your teen and praise them for it!"
         },
         "media_title": {
-          "eng": "Should rules be important for you and your family? Click play to find out"
+          "eng": "Should rules be important for you and your family? Tap play to find out"
         },
         "media_transcript": {
           "eng": "Greetings, everyone.\n\nToday's topic is rules.\n\nRules promote peace within the household and promote understanding amongst family members.\n\nRules promote responsibilities for each family member; therefore, it is important to have family rules.\n\nA household with family rules lives in peace."
@@ -124,14 +124,12 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "media_title": {
-          "tz_sw": true
-        },
+        "media_title": {},
         "media_transcript": {
           "tz_sw": true
         }
       },
-      "media_title": "Should rules be important for you and your family? Click play to find out",
+      "media_title": "Should rules be important for you and your family? Tap play to find out",
       "media_transcript": "Greetings, everyone.\n\nToday's topic is rules.\n\nRules promote peace within the household and promote understanding amongst family members.\n\nRules promote responsibilities for each family member; therefore, it is important to have family rules.\n\nA household with family rules lives in peace.",
       "completed": false
     },

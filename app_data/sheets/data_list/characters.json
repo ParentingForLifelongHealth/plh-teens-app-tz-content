@@ -20,40 +20,20 @@
       "caps_id": "F1_MOTHER",
       "family_no": 1,
       "name": "Amina",
+      "role_name": "Mama",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F1_MOTHER.svg",
-      "Flag if column E has duplicate names": "Duplicate",
-      "role_name": "Mama",
-      "_translations": {
-        "role_name": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "role_name": {
-          "eng": "Mama"
-        }
-      }
+      "Flag if column E has duplicate names": "Duplicate"
     },
     {
       "id": "f1_father",
       "caps_id": "F1_FATHER",
       "family_no": 1,
       "name": "Jumanne",
+      "role_name": "Baba",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F1_FATHER.svg",
-      "Flag if column E has duplicate names": "Duplicate",
-      "role_name": "Baba",
-      "_translations": {
-        "role_name": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "role_name": {
-          "eng": "Baba"
-        }
-      }
+      "Flag if column E has duplicate names": "Duplicate"
     },
     {
       "id": "f1_son_18",
@@ -90,40 +70,20 @@
       "caps_id": "F2_GRANDMOTHER",
       "family_no": 2,
       "name": "Aisha",
+      "role_name": "Bibi",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F2_GRANDMOTHER.svg",
-      "Flag if column E has duplicate names": "Duplicate",
-      "role_name": "Bibi",
-      "_translations": {
-        "role_name": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "role_name": {
-          "eng": "Bibi"
-        }
-      }
+      "Flag if column E has duplicate names": "Duplicate"
     },
     {
       "id": "f2_grandfather",
       "caps_id": "F2_GRANDFATHER",
       "family_no": 2,
       "name": "Saguda",
+      "role_name": "Babu",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F2_GRANDFATHER.svg",
-      "Flag if column E has duplicate names": "",
-      "role_name": "Babu",
-      "_translations": {
-        "role_name": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "role_name": {
-          "eng": "Babu"
-        }
-      }
+      "Flag if column E has duplicate names": ""
     },
     {
       "id": "f2_daughter_19",
@@ -149,40 +109,20 @@
       "caps_id": "F3_MOTHER",
       "family_no": 3,
       "name": "Zulpha",
+      "role_name": "Mama",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F3_MOTHER.svg",
-      "Flag if column E has duplicate names": "Duplicate",
-      "role_name": "Mama",
-      "_translations": {
-        "role_name": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "role_name": {
-          "eng": "Mama"
-        }
-      }
+      "Flag if column E has duplicate names": "Duplicate"
     },
     {
       "id": "f3_uncle",
       "caps_id": "F3_UNCLE",
       "family_no": 3,
       "name": "Sendeu",
+      "role_name": "Mjomba",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F3_UNCLE.svg",
-      "Flag if column E has duplicate names": "",
-      "role_name": "Mjomba",
-      "_translations": {
-        "role_name": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "role_name": {
-          "eng": "Mjomba"
-        }
-      }
+      "Flag if column E has duplicate names": ""
     },
     {
       "id": "f3_daughter_12",
@@ -209,26 +149,16 @@
       "caps_id": "F4_FATHER",
       "family_no": 4,
       "name": "Mabula",
+      "role_name": "Baba",
       "role": "caregiver",
       "image_asset": "/images/character_icons/F4_FATHER.svg",
-      "Flag if column E has duplicate names": "",
-      "role_name": "Baba",
-      "_translations": {
-        "role_name": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "role_name": {
-          "eng": "Baba"
-        }
-      }
+      "Flag if column E has duplicate names": ""
     },
     {
       "id": "f4_aunt",
       "caps_id": "F4_AUNT",
       "family_no": 4,
-      "name": "Aunty Esta"
+      "name": "Shangazi Esta"
     },
     {
       "id": "man_in_car",
@@ -300,19 +230,19 @@
     {
       "id": "friend_male_3",
       "caps_id": "FRIEND_MALE_3",
-      "name": "Rudzani",
+      "name": "Furaha",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "friend_male_4",
       "caps_id": "FRIEND_MALE_4",
-      "name": "Buhle",
+      "name": "Hassan",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_male_1",
       "caps_id": "MEDIA_MALE_1",
-      "name": "Thato",
+      "name": "Joshua",
       "Media Details  (Teens)": "Selfcare_t (caregiver & teens)",
       "Media Details  (YC)": "selfcare",
       "Flag if column E has duplicate names": ""
@@ -320,13 +250,13 @@
     {
       "id": "media_male_2",
       "caps_id": "MEDIA_MALE_2",
-      "name": "Sbusiso",
+      "name": "Jackson",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_male_3",
       "caps_id": "MEDIA_MALE_3",
-      "name": "Katlego",
+      "name": "Goodluck",
       "Flag if column E has duplicate names": ""
     },
     {
@@ -348,9 +278,9 @@
     {
       "id": "media_female_3",
       "caps_id": "MEDIA_FEMALE_3",
-      "name": "Mtumwa",
+      "name": "Aisha",
       "Media Details  (Teens)": "instructions_t",
-      "Flag if column E has duplicate names": ""
+      "Flag if column E has duplicate names": "Duplicate"
     },
     {
       "id": "media_female_4",
@@ -398,7 +328,7 @@
     {
       "id": "media_female_10",
       "caps_id": "MEDIA_FEMALE_10",
-      "name": "Mira",
+      "name": "Aneth",
       "Media Details  (Teens)": "srh_t",
       "Flag if column E has duplicate names": ""
     },
@@ -412,16 +342,16 @@
     {
       "id": "media_female_12",
       "caps_id": "MEDIA_FEMALE_12",
-      "name": "Salama",
+      "name": "Anjela",
       "Media Details  (Teens)": "grief_t",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_female_13",
       "caps_id": "MEDIA_FEMALE_13",
-      "name": "Wanjiru",
+      "name": "Irene",
       "Media Details  (Teens)": "consequences_t",
-      "Flag if column E has duplicate names": ""
+      "Flag if column E has duplicate names": "Duplicate"
     },
     {
       "id": "media_female_14",
@@ -441,14 +371,14 @@
     {
       "id": "media_son_2",
       "caps_id": "MEDIA_SON_2",
-      "name": "Petseo",
+      "name": "Jafari",
       "Media Details  (Teens)": "stress_t",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_son_3",
       "caps_id": "MEDIA_SON_3",
-      "name": "Sanka",
+      "name": "Doto",
       "Flag if column E has duplicate names": ""
     },
     {
@@ -460,91 +390,91 @@
     {
       "id": "media_daughter_1",
       "caps_id": "MEDIA_DAUGHTER_1",
-      "name": "Khwezi",
+      "name": "Siwema",
       "Media Details  (Teens)": "1on1_t",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_daughter_2",
       "caps_id": "MEDIA_DAUGHTER_2",
-      "name": "Thuli",
+      "name": "Rose",
       "Media Details  (Teens)": "praise_t",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_daughter_3",
       "caps_id": "MEDIA_DAUGHTER_3",
-      "name": "Asive",
+      "name": "Irene",
       "Media Details  (Teens)": "instructiosn_t",
-      "Flag if column E has duplicate names": ""
+      "Flag if column E has duplicate names": "Duplicate"
     },
     {
       "id": "media_daughter_4",
       "caps_id": "MEDIA_DAUGHTER_4",
-      "name": "Zama",
+      "name": "Zuwena",
       "Media Details  (Teens)": "Budget_t",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_daughter_5",
       "caps_id": "MEDIA_DAUGHTER_5",
-      "name": "Minenhle",
+      "name": "Nuru",
       "Media Details  (Teens)": "Rules_t",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_daughter_6",
       "caps_id": "MEDIA_DAUGHTER_6",
-      "name": "Iminathi",
+      "name": "Victoria",
       "Media Details  (Teens)": "Consequences_t",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_daughter_7",
       "caps_id": "MEDIA_DAUGHTER_7",
-      "name": "Beauty",
+      "name": "Jamila",
       "Media Details  (Teens)": "safety_t",
-      "Flag if column E has duplicate names": "Duplicate"
+      "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_daughter_8",
       "caps_id": "MEDIA_DAUGHTER_8",
-      "name": "Babalwa",
+      "name": "Sauda",
       "Media Details  (Teens)": "srh_t",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_daughter_9",
       "caps_id": "MEDIA_DAUGHTER_9",
-      "name": "Bongani",
+      "name": "Lilian",
       "Media Details  (Teens)": "stayingsafe_t",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_daughter_10",
       "caps_id": "MEDIA_DAUGHTER_10",
-      "name": "Lulama",
+      "name": "Farida",
       "Media Details  (Teens)": "grief",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_daughter_11",
       "caps_id": "MEDIA_DAUGHTER_11",
-      "name": "Anathi",
+      "name": "Emmy",
       "Media Details  (Teens)": "learn_t",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_daughter_12",
       "caps_id": "MEDIA_DAUGHTER_12",
-      "name": "Aphiwe",
+      "name": "Magreth",
       "Media Details  (Teens)": "crisis_t",
       "Flag if column E has duplicate names": ""
     },
     {
       "id": "doll_name",
       "caps_id": "DOLL_NAME",
-      "name": "Beauty"
+      "name": "Wema"
     }
   ],
   "_xlsxPath": "data/TZ characters.xlsx",
