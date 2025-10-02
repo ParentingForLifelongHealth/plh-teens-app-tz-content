@@ -42,9 +42,7 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "media_title": {
-          "tz_sw": true
-        },
+        "media_title": {},
         "media_transcript": {
           "tz_sw": true
         }
@@ -54,13 +52,13 @@
           "eng": "Our topic today is staying safe.\n\nTo keep our teens safe, we need to understand their reality and the potential risky situations they can find themselves in.\n\nWe can help our teens know how to use their thoughts, voice, AND body in dangerous situations. It makes a big difference!"
         },
         "media_title": {
-          "eng": "Why is discussing safety with your teen important? Click play to find out"
+          "eng": "Why is discussing safety with your teen important? Tap play to find out"
         },
         "media_transcript": {
           "eng": "Greetings everyone.\n\nOur topic is staying safe.\n\nAs parents it is important to ensure that our teens are safe at all times. Our safety and our children’s safety is important. We may need to have discussions with our children about their safety, and how they can keep themselves safe always."
         }
       },
-      "media_title": "Why is discussing safety with your teen important? Click play to find out",
+      "media_title": "Why is discussing safety with your teen important? Tap play to find out",
       "media_transcript": "Greetings everyone.\n\nOur topic is staying safe.\n\nAs parents it is important to ensure that our teens are safe at all times. Our safety and our children’s safety is important. We may need to have discussions with our children about their safety, and how they can keep themselves safe always."
     },
     {
