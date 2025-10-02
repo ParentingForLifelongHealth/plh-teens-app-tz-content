@@ -556,9 +556,7 @@
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {
           "tz_sw": true
         },
