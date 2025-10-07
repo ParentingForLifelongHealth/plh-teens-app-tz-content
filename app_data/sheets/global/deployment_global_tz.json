@@ -8,7 +8,7 @@
     {
       "type": "declare_global_constant",
       "name": "app_name",
-      "value": "ParentApp",
+      "value": "ParentApp Teens",
       "_translations": {
         "value": {}
       }
@@ -16,7 +16,7 @@
     {
       "type": "declare_global_constant",
       "name": "app_name_full",
-      "value": "ParentApp",
+      "value": "ParentApp Teens",
       "_translations": {
         "value": {}
       }
@@ -95,15 +95,6 @@
       "type": "declare_global_constant",
       "name": "has_optional_login",
       "value": false,
-      "exclude_from_translation": true
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "facilitator_face_asset",
-      "value": "images/character_icons/TZ_FACILITATOR.svg",
-      "_translations": {
-        "value": {}
-      },
       "exclude_from_translation": true
     },
     {

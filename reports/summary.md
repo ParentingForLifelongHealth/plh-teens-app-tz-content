@@ -291,7 +291,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/character_icons/FRIEND_MALE_2.svg | 22 | 1 |
 | images/character_icons/MAN_IN_CAR.svg | 13.2 | 1 |
 | images/character_icons/TEACHER_1.svg | 20.4 | 1 |
-| images/character_icons/TZ_FACILITATOR.svg | 17.7 | 2 |
+| images/character_icons/TZ_FACILITATOR.svg | 17.7 | 1 |
 | images/faces/angry.svg | 1.1 | 8 |
 | images/faces/confused.svg | 1.8 | 8 |
 | images/faces/happier.svg | 0.6 | 2 |
