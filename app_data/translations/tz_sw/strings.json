@@ -1629,7 +1629,7 @@
   "Raising teenagers is hard": "Kulea vijana ni kazi ngumu",
   "You are the best parent your teen could have": "Wewe ni mzazi bora sana ambaye kijana wako anaye",
   "Join over 200 million parents who have used our resources": "Jiunge na zaidi ya wazazi milioni 200 ambao wametumia rasilimali zetu",
-  "**Hello! My name is @data.characters.facilitator.name. I’m so glad you’re here!**\n\nI’ll be helping you learn using @global.app_name! In the next few steps, I’ll ask you a few questions, so that I can make your learning experience just right for you!": "**Habari! Jina langu ni @data.characters.facilitator.name. Nimefurahi sana kuwa hapa na wewe!**\n\nNitakusaidia kujifunza kwa kutumia @global.app_name! Katika hatua chache zijazo, nitakuuliza maswali machache ili niweze kufanya uzoefu wako wa kujifunza uwe bora kwako!",
+  "**Hello! My name is @fields.facilitator_name. I’m so glad you’re here!**\n\nI’ll be helping you learn using @global.app_name! In the next few steps, I’ll ask you a few questions, so that I can make your learning experience just right for you!": "**Habari! Jina langu ni @fields.facilitator_name. Nimefurahi sana kuwa hapa na wewe!**\n\nNitakusaidia kujifunza kwa kutumia @global.app_name! Katika hatua chache zijazo, nitakuuliza maswali machache ili niweze kufanya uzoefu wako wa kujifunza uwe bora kwako!",
   "What is your name?": "Jina lako ni nani?",
   "Enter name": "Ingiza jina",
   "What is your gender?": "Jinsia yako ni ipi?",
