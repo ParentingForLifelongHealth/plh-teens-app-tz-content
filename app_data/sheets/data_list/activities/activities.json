@@ -1420,7 +1420,9 @@
       "title": "Bao",
       "_translations": {
         "title": {},
-        "intro_text": {},
+        "intro_text": {
+          "tz_sw": true
+        },
         "steps_text": {},
         "tips_text": {}
       },

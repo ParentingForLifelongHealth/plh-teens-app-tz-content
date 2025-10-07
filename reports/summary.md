@@ -83,7 +83,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 63683 KB | 63.7 MB |
-| unused | 2096 KB | 2.1 MB |
+| unused | 2095 KB | 2.1 MB |
 </details>
 
 <details open>
@@ -97,7 +97,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| contents.json | 6.1 |
+| contents.json | 5.9 |
 | images/activities/chores.svg | 110.2 |
 | images/activities/cook.svg | 45.1 |
 | images/activities/cooking_with_maths.svg | 190 |
