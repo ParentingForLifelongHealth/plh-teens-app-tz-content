@@ -1325,7 +1325,7 @@
     },
     {
       "id": "name_tune",
-      "image_asset": "images/activities/song.svg",
+      "image_asset": "images/activities/name_tune.svg",
       "child_age_list": [
         "10",
         "11",
@@ -1494,6 +1494,47 @@
       },
       "intro_text": "Let’s make a special, fun, and unique handshake that only you and your child share 👋  \n\nThis isn’t just about having fun - it helps build your child’s confidence and teamwork skills while creating a special tradition you both can enjoy. ✅",
       "steps_text": "🔶 First, sit down together and talk about the kind of handshake you want. Should it be quick and silly, or cool and complicated? It’s totally up to you! \n\n🎵 You can start by choosing a few simple moves like clapping patterns, high fives, fist bumps, or snapping fingers.\n\n🔄 Next, practice adding different steps. Maybe a spin, a shoulder tap, or even a fun dance move. The more creative and playful, the better!\n\n💛 Once you’ve mastered your moves, make your secret handshake a part of your routine! Use it as a fun greeting after school, or anytime you want to feel that special connection.",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "bao",
+      "image_asset": "images/activities/bao.svg",
+      "child_age_list": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "42"
+      ],
+      "title": "Bao",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {},
+        "tips_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Bao"
+        },
+        "intro_text": {
+          "eng": "Playing Bao can be a fun way to spend time with your teen. They will be excited to play a game with you and not only do chores."
+        },
+        "steps_text": {
+          "eng": "🪣 Draw a board in the sand — 2 rows of 8 small holes and 2 big holes at the ends.\n🌱 Find 32 small seeds or stones.\n\n1️⃣ Put 2 seeds in each small hole. Leave the big holes empty.\n2️⃣ Choose who starts. Take the 2 seeds from one hole and drop them one by one into the next holes going around. Then it’s the other person’s turn.\n3️⃣ Keep playing until no one can move. The person with more seeds in their big hole wins! 🏆"
+        },
+        "tips_text": {
+          "eng": "- If you played before, tell your teen stories about you playing the game.\n- Play a practice game to help your teen understand the rules.\n- Celebrate your teen’s successes and encourage them to keep practising, even if they do not win right away."
+        }
+      },
+      "intro_text": "Playing Bao can be a fun way to spend time with your teen. They will be excited to play a game with you and not only do chores.",
+      "steps_text": "🪣 Draw a board in the sand — 2 rows of 8 small holes and 2 big holes at the ends.\n🌱 Find 32 small seeds or stones.\n\n1️⃣ Put 2 seeds in each small hole. Leave the big holes empty.\n2️⃣ Choose who starts. Take the 2 seeds from one hole and drop them one by one into the next holes going around. Then it’s the other person’s turn.\n3️⃣ Keep playing until no one can move. The person with more seeds in their big hole wins! 🏆",
+      "tips_text": "- If you played before, tell your teen stories about you playing the game.\n- Play a practice game to help your teen understand the rules.\n- Celebrate your teen’s successes and encourage them to keep practising, even if they do not win right away.",
       "accessed": false,
       "locked": true,
       "favourite": false

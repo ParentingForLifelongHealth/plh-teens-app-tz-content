@@ -203,6 +203,11 @@
       "flow_name": "activity_secret_handshake",
       "flow_subtype": "generated",
       "flow_type": "template"
+    },
+    {
+      "flow_name": "activity_bao",
+      "flow_subtype": "generated",
+      "flow_type": "template"
     }
   ]
 }

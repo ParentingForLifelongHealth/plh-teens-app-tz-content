@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_teens_tz", parent: "plh_kids"
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.3.20",
+  content_tag_latest: "1.3.21",
 };
 
 config.google_drive.sheets_folder_ids = [

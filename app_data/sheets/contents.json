@@ -1775,6 +1775,11 @@
           "flow_name": "activity_secret_handshake",
           "flow_subtype": "generated",
           "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_bao",
+          "flow_subtype": "generated",
+          "flow_type": "template"
         }
       ]
     },
@@ -4516,6 +4521,11 @@
       "flow_name": "footer",
       "_xlsxPath": "templates/TZ app_navigation.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+    },
+    "activity_bao": {
+      "flow_name": "activity_bao",
+      "flow_subtype": "generated",
+      "flow_type": "template"
     },
     "activity_cakes_candle": {
       "flow_name": "activity_cakes_candle",

@@ -412,7 +412,7 @@
           "eng": "I know you are sad, @data.characters.f4_daughter_13.name. I also miss @data.characters.f1_mother.role_name. What do you think we can do to help you feel better?"
         },
         "character_2_text": {
-          "eng": "Maybe we can visit @data.characters.f4_aunt.name, so we can share stories about @data.characters.f1_mother.role_name?"
+          "eng": "Maybe we can visit @data.characters.f4_aunt.role_name, so we can share stories about @data.characters.f1_mother.role_name?"
         }
       },
       "category_id": "explore",
@@ -425,15 +425,13 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "image_asset": "/images/teen_modules/grief/grief2_t_1.svg",
       "character_1_id": "f4_father",
       "character_1_text": "I know you are sad, @data.characters.f4_daughter_13.name. I also miss @data.characters.f1_mother.role_name. What do you think we can do to help you feel better?",
       "character_2_id": "f4_daughter_13",
-      "character_2_text": "Maybe we can visit @data.characters.f4_aunt.name, so we can share stories about @data.characters.f1_mother.role_name?",
+      "character_2_text": "Maybe we can visit @data.characters.f4_aunt.role_name, so we can share stories about @data.characters.f1_mother.role_name?",
       "completed": false
     },
     {

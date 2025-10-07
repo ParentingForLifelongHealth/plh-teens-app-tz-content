@@ -1297,9 +1297,7 @@
         "text_challenge_1": {
           "tz_sw": true
         },
-        "reply_challenge_1": {
-          "tz_sw": true
-        },
+        "reply_challenge_1": {},
         "text_challenge_2": {
           "tz_sw": true
         },
@@ -1330,7 +1328,7 @@
           "eng": "I did not want to tell my family how much I earn"
         },
         "reply_challenge_1": {
-          "eng": "You do not have to reveal the exact amount you earn; you could give an estimate. You could say, “In this household, we have R2000 every month” rather than, “I make R2000.”"
+          "eng": "You do not have to reveal the exact amount you earn; you could give an estimate. You could say, “In this household, we have TSh2000 every month” rather than, “I make TSh2000.”"
         },
         "text_challenge_2": {
           "eng": "When budgeting, we could not agree on what should fall under needs and what should fall under wants"
@@ -1357,7 +1355,7 @@
           "eng": "Challenges other parents experience:"
         }
       },
-      "reply_challenge_1": "You do not have to reveal the exact amount you earn; you could give an estimate. You could say, “In this household, we have R2000 every month” rather than, “I make R2000.”",
+      "reply_challenge_1": "You do not have to reveal the exact amount you earn; you could give an estimate. You could say, “In this household, we have TSh2000 every month” rather than, “I make TSh2000.”",
       "text_challenge_2": "When budgeting, we could not agree on what should fall under needs and what should fall under wants",
       "reply_challenge_2": "People’s wants and needs are different sometimes. Talking about them together can help you and your teen to understand each other, respect your differences and see where you can compromise.",
       "text_challenge_3": "I did not understand what to do",

@@ -175,6 +175,24 @@
       "name": "display_modules_as_list",
       "value": true,
       "exclude_from_translation": true
+    },
+    {
+      "type": "declare_field_default",
+      "name": "facilitator_id",
+      "value": "facilitator",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_field_default",
+      "name": "facilitator_name",
+      "value": "@data.characters.facilitator.name",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "data/deployment_data_tz.xlsx",
