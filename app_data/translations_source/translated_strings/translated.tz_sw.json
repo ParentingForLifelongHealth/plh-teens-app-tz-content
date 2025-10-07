@@ -10368,10 +10368,10 @@
     "note": ""
   },
   {
-    "SourceText": "**Hello! My name is @data.characters.facilitator.name. I’m so glad you’re here!**\n\nI’ll be helping you learn using @global.app_name! In the next few steps, I’ll ask you a few questions, so that I can make your learning experience just right for you!",
-    "text": "**Habari! Jina langu ni @data.characters.facilitator.name. Nimefurahi sana kuwa hapa na wewe!**\n\nNitakusaidia kujifunza kwa kutumia @global.app_name! Katika hatua chache zijazo, nitakuuliza maswali machache ili niweze kufanya uzoefu wako wa kujifunza uwe bora kwako!",
+    "SourceText": "**Hello! My name is @fields.facilitator_name. I’m so glad you’re here!**\n\nI’ll be helping you learn using @global.app_name! In the next few steps, I’ll ask you a few questions, so that I can make your learning experience just right for you!",
+    "text": "**Habari! Jina langu ni @fields.facilitator_name. Nimefurahi sana kuwa hapa na wewe!**\n\nNitakusaidia kujifunza kwa kutumia @global.app_name! Katika hatua chache zijazo, nitakuuliza maswali machache ili niweze kufanya uzoefu wako wa kujifunza uwe bora kwako!",
     "type": "global",
-    "note": "The following strings should not be translated:\n@data.characters.facilitator.name.\n@global.app_name!"
+    "note": "The following strings should not be translated:\n@fields.facilitator_name.\n@global.app_name!"
   },
   {
     "SourceText": "What is your name?",
