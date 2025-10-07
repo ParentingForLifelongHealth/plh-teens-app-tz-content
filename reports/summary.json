@@ -276,7 +276,7 @@
       },
       {
         "assets": "unused",
-        "KB": "2096 KB",
+        "KB": "2095 KB",
         "MB": "2.1 MB"
       }
     ]
@@ -301,7 +301,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 6.1
+        "size_kb": 5.9
       },
       {
         "path": "images/activities/chores.svg",
