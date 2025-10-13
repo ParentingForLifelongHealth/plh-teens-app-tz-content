@@ -223,7 +223,7 @@
   },
   {
     "SourceText": "Let’s start acting! ⭐\n\nRole-playing is when you pretend to be someone in a certain situation, and act out how you think things will go. \n\nThis is a fun way to help your teen understand how others might act or feel, and for you to learn more about how your teen thinks and feels. ✨",
-    "text": "Tuanze kuigiza! ⭐\n\nIgizo ni pale ambapo unajifanya kuwa mtu katika hali fulani na igiza namna unafikiri vitu vitakavyoenda. \n\nHii ni njia ya furaha ya kumsaidia kijana wako aelewe jinsi wengine watafanya au kujisikia na kwa ajili yako kujifunza zaidi kuhusu namna kijana wako anavofikiria na kujisikia. ✨",
+    "text": "Tuanze kuigiza! ⭐\n\nIgizo ni pale ambapo unajifanya kuwa mtu katika hali fulani na  kuigiza namna unafikiri vitu vitakavyoenda. \n\nHii ni njia ya furaha ya kumsaidia kijana wako aelewe jinsi wengine watafanya au kujisikia na kwa ajili yako kujifunza zaidi kuhusu namna kijana wako anavofikiria na kujisikia. ✨",
     "type": "data_list",
     "note": ""
   },
@@ -654,8 +654,26 @@
     "note": ""
   },
   {
+    "SourceText": "Bao",
+    "text": "Bao",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Playing Bao can be a fun way to spend time with your teen. They will be excited to play a game with you and not only do chores.",
     "text": "Kucheza Bao inaweza kuwa njia ya kufurahisha ya kutumia muda pamoja na kijana wako. Watakuwa na hamasa kucheza mchezo pamoja na wewe na sio tu kufanya kazi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "🪣 Draw a board in the sand — 2 rows of 8 small holes and 2 big holes at the ends.\n🌱 Find 32 small seeds or stones.\n\n1️⃣ Put 2 seeds in each small hole. Leave the big holes empty.\n2️⃣ Choose who starts. Take the 2 seeds from one hole and drop them one by one into the next holes going around. Then it’s the other person’s turn.\n3️⃣ Keep playing until no one can move. The person with more seeds in their big hole wins! 🏆",
+    "text": "🪣 Chora ubao kwenye mchanga — mistari 2 yenye mashimo madogo 8 kila moja na mashimo 2 makubwa kwenye ncha zake.\n🌱 Tafuta mbegu ndogo au mawe madogo 32.\n\n1️⃣ Weka mbegu 2 katika kila shimo dogo. Acha mashimo makubwa yakiwa matupu.\n2️⃣ Chagueni ni nani ataanza. Chukua mbegu 2 kutoka shimo moja na ziweke moja moja kwenye mashimo yanayofuata kwa kuzunguka. Kisha ni zamu ya mtu mwingine.\n3️⃣ Endeleeni kucheza hadi hakuna anayeweza kufanya mzunguko tena. Mtu mwenye mbegu nyingi zaidi kwenye shimo lake kubwa ndiye mshindi! 🏆",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "- If you played before, tell your teen stories about you playing the game.\n- Play a practice game to help your teen understand the rules.\n- Celebrate your teen’s successes and encourage them to keep practising, even if they do not win right away.",
+    "text": "- Ikiwa uliwahi kucheza hapo awali, mwambie kijana wako hadithi kuhusu ulivyokuwa ukicheza mchezo huo.\n\n- Chezeni mchezo wa majaribio ili kumsaidia kijana wako kuelewa sheria.\n\n- Sherehekea mafanikio ya kijana wako na umtie moyo aendelee kufanya mazoezi, hata kama hajashinda  hata mara moja.",
     "type": "data_list",
     "note": ""
   },
@@ -2082,6 +2100,12 @@
     "note": ""
   },
   {
+    "SourceText": "You do not have to reveal the exact amount you earn; you could give an estimate. You could say, “In this household, we have TSh2000 every month” rather than, “I make TSh2000.”",
+    "text": "Hauhitaji kusema kiasi halisi unachopata; unaweza kutoa makadirio tu. Unaweza kusema, “Katika nyumba hii tunapata TSh2000 kila mwezi” badala ya kusema, “Ninapata TSh2000.”",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "When budgeting, we could not agree on what should fall under needs and what should fall under wants",
     "text": "Wakati wa kuteengeneza bajeti, hatukuweza kufikia muafaka ni kitu kipi ni mahitaji na kitu kipi ni matamanio",
     "type": "data_list",
@@ -2454,6 +2478,12 @@
     "note": ""
   },
   {
+    "SourceText": "These @global.terms_and_conditions are an agreement between you and Parenting for Lifelong Health  (“PLH”) which furthermore sets out the rules for your use of @global.app_name_full (or “App”).\n\n@global.app_name_full is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 17 years.\n\n@global.app_name_full is brought to you by the collaboration of partners including PLH, University of Oxford, IDEMS International, INNODEMS as well as the University of Cape Town and Stellenbosch University (“@global.app_name_full team”).\n\nPlease read these @global.terms_and_conditions carefully. By downloading or using the app, you agree that you have read, understood, and accepted the @global.terms_and_conditions   contained below.\n\nYour privacy is important to us – please also read our @global.privacy_policy, which will detail how we collect, store and use the information that you provide to us. By using @global.app_name_full you are confirming to us that you reviewed  our @global.privacy_policy, as set out separately.",
+    "text": "@global.terms_and_conditions ni makubaliano kati yako na Parenting for Lifelong Health (“PLH”) ambayo zaidi ya hayo yanaweka sheria za matumizi yako ya @global.app_name_full (au Program)\n\n@global.app_name_full ni toleo la bure la programu ya Parenting for Lifelong Health Kwa Watoto lililotengenezwa mahsusi kwa ajili ya wazazi na walezi wa watoto wenye umri wa miaka 2 hadi 17.\n\n@global.app_name_full inaletwa kwako kwa kushirikiana na PLH, Chuo Kikuu cha Oxford, IDEMS International, INNODEMS, pamoja na Chuo Kikuu cha Cape Town na Chuo Kikuu cha Stellenbosch (“the @global.app_name_full team”).\n\nTafadhali soma @global.terms_and_conditions kwa makini. Kwa kupakua au kutumia programu, unakubali kwamba umesoma, umeelewa, na umekubaliana na @global.terms_and_conditions vilivyopo hapa chini.\n\nFaragha yako ni muhimu kwetu – tafadhali soma pia sera yetu ya faragha @global.privacy_policy, ambayo itaeleza kwa undani jinsi tunavyokusanya, kuhifadhi na kutumia taarifa unazotupa. Kwa kutumia @global.app_name_full unatuthibitishia kuwa umeisoma sera yetu ya faragha @global.privacy_policy, kama ilivyowekwa kando.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@global.terms_and_conditions\n@global.app_name_full\n@global.app_name_full\n@global.app_name_full\n(“@global.app_name_full\n@global.terms_and_conditions\n@global.terms_and_conditions\n@global.privacy_policy,\n@global.app_name_full\n@global.privacy_policy,"
+  },
+  {
     "SourceText": "Rules of Usage",
     "text": "Kanuni za Matumizi",
     "type": "data_list",
@@ -2521,7 +2551,7 @@
   },
   {
     "SourceText": "The app uses third party services that declare their own @global.terms_and_conditions and may link to other websites and resources that are not under the PLH’s control.\n\nLinks to @global.terms_and_conditions of third party service providers used by the app include:\n\n-   [Apple Store Services](https://www.apple.com/legal/internet-services/itunes/)\n-   [Google Play Services](https://policies.google.com/terms)\n-   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)\n-   [Sentry](https://sentry.io/terms/)\n-   [Matomo](https://matomo.org/matomo-cloud-terms-of-service/)\n-   [GlitchTip](https://glitchtip.com/legal/tos)\n\nThe inclusion of such links does not imply an endorsement or approval by PLH and/or its partners of any website, product, or service. Similarly, PLH and the @global.app_name_full team affiliated developers and collaborators do not assume any responsibility or liability in respect of such websites, product, or service, including, for example, responsibility or liability for the accuracy or reliability of any information, data, opinions, advice or statements made on those web sites.",
-    "text": "Programu hutumia huduma za wahusika wengine zinazotangaza @global.terms_and_conditions zao wenyewe na kuunganisha kwenye tovuti na nyenzo ambazo haziko chini ya udhibiti wa programu.\n\nViungo vya @global.terms_and_conditions vya watoa huduma wengine vinavyotumiwa na programu pamoja na:\n\n- [Huduma za Google Play](https://policies.google.com/terms)\n- [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)\n- [Sentry](https://sentry.io/terms/)\n- [Matomo](https://matomo.org/matomo-cloud-terms-of-service/)\n- [GlitchTip](https://glitchtip.com/legal/tos)\n\nUwepo wa viunganishi kama hivyo hakumaanishi uidhinishaji au uthibitishaji wa programu na/au washirika wake wa tovuti, bidhaa au huduma yoyote. Vile vile na timu ya @global.app_name_full wasanidi programu na wakati hawachukui jukumu au dhima kama programu hizo na tovuti, bidhaa au huduma, ikijumuisha, kwa mfano, wajibu au dhima ya usahihi au kutegemewa kwa taarifa yoyote, data, maoni, ushauri au taarifa zilizotolewa kwenye tovuti hizo.",
+    "text": "Programu hutumia huduma za wahusika wengine zinazotangaza @global.terms_and_conditions zao wenyewe na kuunganisha kwenye tovuti na nyenzo ambazo haziko chini ya udhibiti wa PLH.\n\nViungo vya @global.terms_and_conditions vya watoa huduma wengine vinavyotumiwa na programu ni pamoja na:\n\n- [Huduma za App Store]\nhttps://www.apple.com/legal/internet-services/itunes/\n- [Huduma za Google Play](https://policies.google.com/terms)\n- [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)\n- [Sentry](https://sentry.io/terms/)\n- [Matomo](https://matomo.org/matomo-cloud-terms-of-service/)\n- [GlitchTip](https://glitchtip.com/legal/tos)\n\nUwepo wa viunganishi kama hivyo hakumaanishi uidhinishaji au uthibitishaji wa PLH na/au washirika wake wa tovuti, bidhaa au huduma yoyote. Vile vile na timu ya @global.app_name_full watengenezaji, na washirika hawachukui jukumu juu ya tovuti, bidhaa au huduma, ikijumuisha, kwa mfano, wajibu au dhima ya usahihi au kutegemewa kwa taarifa yoyote, data, maoni, ushauri au taarifa zilizotolewa kwenye tovuti hizo.",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@global.terms_and_conditions\n@global.terms_and_conditions\n@global.app_name_full"
   },
@@ -3012,8 +3042,8 @@
     "note": ""
   },
   {
-    "SourceText": "ParentApp",
-    "text": "ParentApp",
+    "SourceText": "ParentApp Teens",
+    "text": "Programu Tumishi ya Malezi kwa Vijana",
     "type": "global",
     "note": ""
   },
@@ -3721,7 +3751,7 @@
   },
   {
     "SourceText": "Close your eyes and relax.\n\nThink of your family life before you started your journey with this app.\n\nThink back on skills you learned:\n\nSelf-care\nOne-on-one time\nPraise\nPositive instructions\nManaging stress\nFamily budgeting\nRules\nCalm consequences\nProblem solving\nTeen safety\nDealing with crisis\nReflect on the journey – how was it for you to:\n\nShare ideas and experiences\nReflect on and learn from the stories\nPractice skills with your teen\nDid anything change for you and your family?\n\nWhat do you need to continue to use skills?",
-    "text": "Fumba macho na chukua pumziko.\n\nFikiria maisha ya familia yako yalivyokuwa kabla ya kuanza safari yako kwenye programu hii.\n\nJikumbushe ujuzi uliojifunza:\n* Kujithamini\n* Muda wa kutumia pamoja wawili\n* Kusifia\n* Maelekezo chanya\n* Kudhibiti msongo wa mawazo\n* Kutengeneza bajeti ya familia\n* Sheria\n* Njia za kufanya athari nyepesi\n* Kutatua matatizo\n* Usalama wa vijana\n* Kushughulikia hali ya matatizo\n\n Tafakari kuhusu safari – je, ilikuwaje kwako:\n* Kushirikishana na wengine mawazo na uzoefu\n* Kutafakari na kujifunza kutokana na Hadithi\n* Kutumia ujuzi kwa kijana wako\n\nJe, kulikuwa na mabadiliko yoyote kwako na kwa familia yako?\n\nJe, unahitaji nini ili kuendelea kutumia ujuzi?",
+    "text": "Fumba macho na pumzika.\n\nFikiria maisha ya familia yako yalivyokuwa kabla ya kuanza safari yako kwenye programu hii.\n\nJikumbushe ujuzi uliojifunza:\n* Ujitunzaji\n* Muda wa kuzungumza wawili\n* Usifiaji\n* Maagizo chanya\n* Kudhibiti msongo wa mawazo\n* Kutengeneza bajeti ya familia\n* Sheria\n* Njia za kufanya athari nyepesi\n* Kutatua matatizo\n* Usalama wa vijana\n* Kushughulikia hali ya hatari\n\n Tafakari kuhusu safari – je, ilikuwaje kwako:\n* Kushirikishana na wengine mawazo na uzoefu\n* Kutafakari na kujifunza kutokana na simulizi\n* Kutumia ujuzi kwa kijana wako\n\nJe, ulikuwa na mabadiliko yoyote kwako na familia yako?\n\nJe, unahitaji nini ili kuendelea kutumia ujuzi?",
     "type": "data_list",
     "note": ""
   },
@@ -4434,6 +4464,12 @@
     "note": ""
   },
   {
+    "SourceText": "Can skills to handle crises help your family? Tap play to find out",
+    "text": "Je, ujuzi wa kukabiliana na changamoto unaweza kuisaidia familia yako? Gusa cheza ili kujua",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Greetings, everyone.\n\nToday's topic is dealing with crises.\n\nCrisis may occur anywhere. Crisis may occur anytime. Therefore, it is important as a family to have plans in place should any family member find themselves in a crisis situation.\n\nIt is important to have plans so that every family member may feel protected.\n\nWhen we are dealing with crises, remember to take a pause, breathe and keep yourself calm. That will help you to deal with crises better.",
     "text": "Habari zenu?\n\nKipindi cha leo kinahusu kushughulikia hali ya hatari.\n\nHali ya hatari inaweza kutokea mahali popote. Hali ya hatari inaweza kutokea wakati wowote. Kwa hiyo, kama familia, ni muhimu kuwa na mipango ya kukabiliana na hatari kwa ajili ya mwanafamilia yeyote atakayejikuta kwenye hali ya hatari.\n\nNi muhimu kuwa na mipango ili kila mwanafamilia ahisi kulindwa.\n\nUnaposhughulikia hali ya hatari, kumbuka kupumzika, kupumua na kutulia. Kufanya hivyo kutakusaidia kushughulikia hali ya hatari vizuri zaidi.",
     "type": "data_list",
@@ -4885,7 +4921,7 @@
   },
   {
     "SourceText": "Greetings.\n\nToday's topic is coping with grief.\n\nTaking care of ourselves is important, especially when we are facing challenging and difficult times such as coping with grief. We need to stay calm in order to think and act positively whenever we find ourselves overwhelmed. We may use techniques such as taking a pause to calm ourselves down.",
-    "text": "Salamu\n\nMada ya leo ni kukabiliana na majonzi.\n\nKujitunza ni muhimu, hasa tunapokabiliana na changamoto na nyakati ngumu kama kukabiliana na majonzi. Tunahitaji kukaa kwa utulivu ili kufikiri na kuchukua hatua chanya wakati tunapojikuta tumeelemewa. Tunaweza kutumia mbinu kama vile kupumzika ili kupata utulivu.",
+    "text": "Mada ya leo ni kukabiliana na huzuni.\n\nKujitunza ni muhimu, hasa tunapokabiliana na nyakati ngumu kama vile kukabiliana na huzuni. Tunatakiwa kuwa watuliviu ili kufikiri kutenda vema kila tunapojikuta tumeelemewa. Tunaweza kutumia mbinu kama vile kutulia ili kujituliza.",
     "type": "data_list",
     "note": ""
   },
@@ -5004,6 +5040,12 @@
     "note": "The following strings should not be translated:\n@data.characters.f4_daughter_13.name.\n@data.characters.f1_mother.role_name."
   },
   {
+    "SourceText": "Maybe we can visit @data.characters.f4_aunt.role_name, so we can share stories about @data.characters.f1_mother.role_name?",
+    "text": "Labda tunaweza kumtembelea @data.characters.f4_aunt.role_name, ili tushirikishane hadithi kuhusu @data.characters.f1_mother.role_name?",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@data.characters.f4_aunt.role_name,\n@data.characters.f1_mother.role_name?"
+  },
+  {
     "SourceText": "I like that idea, let’s go see her on Saturday. Do you already want to tell me more about how you feel now?",
     "text": "Nimependa wazo hilo, twende tukamwone Jumamosi. Je, tayari unataka kuniambia zaidi kuhusu jinsi unavyohisi sasa?",
     "type": "data_list",
@@ -5056,6 +5098,12 @@
     "text": "\nKufarijiwa",
     "type": "data_list",
     "note": ""
+  },
+  {
+    "SourceText": "Exactly. Sharing her sadness and anger openly made @data.characters.f4_daughter_13.name feel comforted and closer to her father.",
+    "text": "Sahihi. Kushirikisha huzuni na hasira yake kwa uwazi kulimfanya @data.characters.f4_daughter_13.name ajisikie ametulizwa na kuwa karibu zaidi na baba yake.",
+    "type": "data_list",
+    "note": "The string @data.characters.f4_daughter_13.name should not be translated."
   },
   {
     "SourceText": "What could have happened if @data.characters.f4_father.name got angry at his daughter, @data.characters.f4_daughter_13.name, when she shared that she was feeling angry?",
@@ -5719,7 +5767,7 @@
   },
   {
     "SourceText": "Greetings everyone!\n\nToday's topic is helping your teen to learn.\n\nThere are different fun ways and activities that we can use as parents to help our teens learn. Some of those activities could be playing games together or doing house chores together. Remember, our teens learn better when they are having fun!",
-    "text": "Habari zenu wote!\n\nMada ya leo ni kumsaidia kijana wako kujifunza.\n\nKuna njia kadhaa zakufurahisha na shughuli ambazo tunaweza kutumia kama wazazi kusaidia vijana wetu kujifunza. Baadhi ya shughuli hizo zinaweza kuwa kucheza michezo pamoja au kufanya kazi za nyumbani pamoja. Kumbuka, vijana wetu hujifunza vyema zaidi wanapoburudika!",
+    "text": "Habari!\n\nMada ya leo ni kumsaidia kijana wako kujifunza.\n\nKuna njia tofauti za kujifunza na shughuli ambazo tunaweza kutumia kama wazazi kusaidia vijana wetu kujifunza. Baadhi ya shughuli hizo zinaweza kuwa kucheza michezo pamoja au kufanya kazi za nyumbani pamoja. Kumbuka, vijana wetu hujifunza vyema zaidi wanapoburudika!",
     "type": "data_list",
     "note": ""
   },
@@ -6115,7 +6163,7 @@
   },
   {
     "SourceText": "In the past there were times my mom got angry and she would shout at me before beating me. But since my mom started using @global.app_name, she tries to create time for us to interact and for us to have fun discussions.\n\nWe play games, we sing together and other stuff… She takes time to listen before jumping to conclusions, like she listens and then she calms down and takes her time to explain, and then be like “what you did is not good” and such.",
-    "text": "Kuna wakati hapo nyuma mama yangu alikasirika na alikuwa ananifokea kabla ya kunipiga. Lakini tangu mama yangu aanze kutumia @global.app_name, anajaribu kutengeneza muda wa pamoja na kuwa na maongezi ya furaha.\n\nTunacheza michezo, tunaimba pamoja na mambo mengineyo… Yeye huchukua muda wakusikiliza kabla hajafika hitimisho, kama vile anasikiliza kisha anatulia na anachukua muda wake kueleza, na kisha hunena kama \"ulichofanya sio vizuri\" na kadhalika.",
+    "text": "Katika kipindi cha nyuma mama yangu alikuwa na hasira na muda mwingine alikuwa ananifokea kabla ya kunipiga. Lakini tangu mama aanze kutumia @global.app_name, anajaribu kutafuta muda wa kufanya mazungumzo na kufurahi pamoja nasi.\n\nTunacheza michezo, tunaimba pamoja na kufanya mambo mengine. Anachukua muda kunisikiliza kabla ya kufanya maamuzi, ananisikiliza halafu anatulia na anachukua muda kuelezea, na anasema\"ulichofanya sio kizuri\" na usirudie tena.",
     "type": "data_list",
     "note": "The string @global.app_name, should not be translated."
   },
@@ -6548,6 +6596,12 @@
   {
     "SourceText": "Today's topic is about spending one-on-one time with our teens. \n\nBeing a parent can be so hard. Sometimes it feels like our teens never listen to us.\n\nBut science shows that spending just a few minutes each day of focused one-on-one time with your teen helps build trust and love.",
     "text": "Mada ya leo inahusu kutumia muda wa pamoja wawili na vijana wetu.\n\nKuwa mzazi kunaweza kuwa kugumu sana. Wakati mwingine inaonekana kama vijana wetu hawatusikilizi kabisa.\n\nLakini sayansi inaonyesha kwamba kutumia dakika chache tu kila siku za muda wa pekee na kijana wako kunasaidia kujenga uaminifu na upendo.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Why is spending one-on-one time with your teens important? Tap play to learn",
+    "text": "Kwa nini kutumia muda wa pamoja wawili na kijana wako ni muhimu? Gusa cheza ili kujifunza",
     "type": "data_list",
     "note": ""
   },
@@ -7512,6 +7566,12 @@
     "note": ""
   },
   {
+    "SourceText": "Should rules be important for you and your family? Tap play to find out",
+    "text": "Je, sheria ni muhimu kwako na familia yako? Gusa cheza ili kujua",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Greetings, everyone.\n\nToday's topic is rules.\n\nRules promote peace within the household and promote understanding amongst family members.\n\nRules promote responsibilities for each family member; therefore, it is important to have family rules.\n\nA household with family rules lives in peace.",
     "text": "Salamu, kila mmoja.\n\nMada ya leo ni sheria.\n\nSheria huendeleza amani ndani ya kaya na kukuza uelewano kati ya wanafamilia.\n\nKanuni zinakuza wajibu kwa kila mwanafamilia; kwa hiyo, ni muhimu kuwa na sheria za familia.\n\nKaya yenye sheria za familia inaishi kwa amani.",
     "type": "data_list",
@@ -8311,7 +8371,7 @@
   },
   {
     "SourceText": "When my friends or I got into trouble, I would always try to hide it from my mother because she would get so angry and shout at me.\n\nWhen we made the map of safe and unsafe places, I learnt a lot – also why it is dangerous to share every picture online. My mother told me I can always ask her if there is a problem and she promised she would not get mad.\n\nShe kept her promise, so now if I have a problem or I do not feel safe I know we can always come up with a solution together. I can even talk to my mother about the things I do online now!",
-    "text": "Wakati mimi au marafiki zangu tulipopata matatizo, nilikuwa najaribu kumficha mama yangu kwa sababu alikuwa akikasirika sana na kunifokea.\n\nTulipotengeneza ramani ya maeneo salama na yasiyo salama, nilijifunza mambo mengi – pia kwa nini ni hatari kushiriki kila picha mtandaoni. Mama yangu aliniambia kuwa naweza kumuuliza kila mara kunapokuwa na tatizo na akaahidi hatakasirika.\n\nAliweka ahadi yake, hivyo sasa nikiwa na tatizo au nikihisi kutokuwa salama, najua tunaweza kutafuta suluhisho pamoja. Hata pia ninaweza kuzungumza na mama yangu kuhusu mambo ninayofanya mtandaoni sasa!\nWakati mimi au marafiki zangu tulipopata matatizo, nilikuwa najaribu kumficha mama yangu kwa sababu alikuwa akikasirika sana na kunifokea.\n\n\nTulipotengeneza ramani ya maeneo salama na yasiyo salama, nilijifunza mambo mengi – pia kwa nini ni hatari kushiriki kila picha mtandaoni. Mama yangu aliniambia kuwa naweza kumuuliza kila mara kunapokuwa na tatizo na akaahidi hatakasirika.\nAliweka ahadi yake, hivyo sasa nikiwa na tatizo au nikihisi kutokuwa salama, najua tunaweza kutafuta suluhisho pamoja. Hata pia ninaweza kuzungumza na mama yangu kuhusu mambo ninayofanya mtandaoni sasa!",
+    "text": "Wakati mimi au marafiki zangu tulipopata matatizo, nilikuwa najaribu kumficha mama yangu kwa sababu alikuwa akikasirika sana na kunifokea.\n\nTulipotengeneza ramani ya maeneo salama na yasiyo salama, nilijifunza mambo mengi – pia kwa nini ni hatari kushiriki kila picha mtandaoni. Mama yangu aliniambia kuwa naweza kumuuliza kila mara kunapokuwa na tatizo na akaahidi hatakasirika.\n\nAliweka ahadi yake, hivyo sasa nikiwa na tatizo au nikihisi kutokuwa salama, najua tunaweza kutafuta suluhisho pamoja. Hata pia ninaweza kuzungumza na mama yangu kuhusu mambo ninayofanya mtandaoni sasa!",
     "type": "data_list",
     "note": ""
   },
@@ -8617,7 +8677,7 @@
   },
   {
     "SourceText": "Greetings, everyone.\n\nToday's topic is body changes and intimate relationships.\n\nDiscussing body and intimate relationships with your child can be difficult. However, it is important to have these discussions in order for your teen to understand that this stage of life is normal. This will help them to acknowledge the changes in their bodies and be able to make positive decisions regarding intimate relationships.",
-    "text": "Habari, wote.\n\nMada ya leo ni mabadiliko ya kimwili na mahusiano ya kimapenzi.\n\nKujadili maswala ya mwili na mahusiano ya kimapenzi na mtoto wako inaweza kuwa ngumu. Lakini, ni muhimu kuwa na majadiliano haya ili kijana wako aelewe hii hatua ya maisha ni ya kawaida. Hii itawasaidia kukubali mabadiliko kwenye miili yao na kuweza kuchukua maamuzi chanya kuhusu mahusiano ya kimapenzi.",
+    "text": "Habari zenu.\n\nMada ya leo ni mabadiliko ya mwili na mahusiano ya kimapenzi.\n\nKujadili mabadiliko ya mwili na mahusiano ya kimapenzi na mtoto wako inaweza kuwa ngumu. Hata hivyo, ni muhimu kuwa na majadiliano haya ili kijana wako aelewe kwamba hatua hii ya maisha ni ya kawaida. Hii itawasaidia kutambua mabadiliko katika miili yao na kuwa na uwezo wa kufanya maamuzi chanya kuhusu mahusiano ya kimapenzi.",
     "type": "data_list",
     "note": ""
   },
@@ -9301,13 +9361,19 @@
   },
   {
     "SourceText": "Our topic today is staying safe.\n\nTo keep our teens safe, we need to understand their reality and the potential risky situations they can find themselves in.\n\nWe can help our teens know how to use their thoughts, voice, AND body in dangerous situations. It makes a big difference!",
-    "text": "Mada yetu ya leo ni Kubaki Salama.\nIli kuwalinda vijana wetu, tunahitaji kuelewa hali halisi ya maisha yao na hali hatari wanazoweza kujikuta ndani yake.\n\nTunaweza kuwasaidia vijana wetu kufahamu jinsi ya kutumia mawazo yao, sauti na mwili wao katika hali ya hatari. Itafanya mabadiliko makubwa!",
+    "text": "Mada yetu ni Kukaa Salama.\n\nKama wazazi ni muhimu kuhakikisha kwamba vijana wetu wako salama wakati wote. Usalama wetu na usalama wa watoto wetu ni muhimu. \n\nHuenda tukahitaji kuwa na majadiliano na watoto wetu kuhusu usalama wao na jinsi wanavyoweza kujiweka salama kila wakati!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Why is discussing safety with your teen important? Tap play to find out",
+    "text": "Kwanini kujadili usalama na kijana wako ni muhimu? Bofya kitufe cha kucheza ili kujua",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Greetings everyone.\n\nOur topic is staying safe.\n\nAs parents it is important to ensure that our teens are safe at all times. Our safety and our children’s safety is important. We may need to have discussions with our children about their safety, and how they can keep themselves safe always.",
-    "text": "Habari zenu.\nMada yetu ya leo ni kubaki salama.\n\n\nkama wazazi ni muhimu kuhakikisha vijana wetu wako salama muda wote. Usalama wetu na usalama wa watoto wetu ni muhimu. Tunaweza kuhitaji kuwa na mjadala na watoto wetu juu ya usalama wao, na ni kwa namna gani wanaweza kujiweka salama muda wote.",
+    "text": "Mada yetu ya leo ni kubaki salama.\n\nkama wazazi ni muhimu kuhakikisha vijana wetu wako salama muda wote. Usalama wetu na usalama wa watoto wetu ni muhimu. Tunaweza kuhitaji kuwa na mjadala na watoto wetu juu ya usalama wao, na ni kwa namna gani wanaweza kujiweka salama muda wote.",
     "type": "data_list",
     "note": ""
   },
@@ -9319,7 +9385,7 @@
   },
   {
     "SourceText": "Hear how learning warning signs kept @data.characters.media_female_11.name's teen safe",
-    "text": "Sikiliza jinsi kujifunza ishara za onyo kulivyomsaidia kijana wa @data.characters.media_female_11.name kubaki salama",
+    "text": "Sikiliza jinsi kujifunza ishara za onyo kulivyomsaidia mtoto wa @data.characters.media_female_11.name kubaki salama",
     "type": "data_list",
     "note": "The string @data.characters.media_female_11.name's should not be translated."
   },
@@ -10188,6 +10254,12 @@
     "note": ""
   },
   {
+    "SourceText": "Hey @data.characters.f1_father.role_name, how is Aunty Cecilia doing now?",
+    "text": "Habari @data.characters.f1_father.role_name, Shangazi Cecilia anaendeleaje sasa?",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_father.role_name, should not be translated."
+  },
+  {
     "SourceText": "*(on the other side of the phone)* Not well. We need you at home. I will come pick you up right away. Where are you?",
     "text": "*(upande wa pili wa simu)* Sio vizuri. Tunakuhitaji nyumbani. Nitakuja kukuchukua mara moja. Uko wapi?",
     "type": "data_list",
@@ -10470,6 +10542,36 @@
     "note": "The string @global.app_name? should not be translated."
   },
   {
+    "SourceText": "Welcome to @global.app_name! To participate, you'll need a partner in parenting. There are 2 parenting experts to choose from:",
+    "text": "Karibu kwenye @global.app_name! Kushiriki utahitaji Mwenza katika malezi. Kuna watalaamu wawili wa malezi unaweza kuchagua:",
+    "type": "global",
+    "note": "The string @global.app_name! should not be translated."
+  },
+  {
+    "SourceText": "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting. Who would you like to learn with?",
+    "text": "Karibu kwenye @global.app_name! Tunafurahi sana uko hapa! Ebu tutafute muongozo sahihi wa kukusaidia katika malezi yako. Ungependa kujifunza na nani?",
+    "type": "global",
+    "note": "The string @global.app_name! should not be translated."
+  },
+  {
+    "SourceText": "Hi, I am @fields.facilitator_name! I am a grandmother of three and a retired social worker. I love sharing tools for parenting with love and respect.",
+    "text": "Habari! Naitwa @fields.facilitator_name! Mimi ni bibi wa wajukuu watatu na mstaafu wa kazi ya ustawi wa jamii. Napenda kushirikishana nyenzo za malezi kwa upendo na heshima.",
+    "type": "global",
+    "note": "The string @fields.facilitator_name! should not be translated."
+  },
+  {
+    "SourceText": "Hi, I am @fields.facilitator_name! I am a retired teacher and a grandfather of two. I guide parents with warmth, firmness, and care.",
+    "text": "Habari, ninaitwa @fields.facilitator_name! Mimi ni mwalimu mstaafu na babu wa wajukuu wawili. Naongoza wazazi kwa Upendo, upole na kwa kujali.",
+    "type": "global",
+    "note": "The string @fields.facilitator_name! should not be translated."
+  },
+  {
+    "SourceText": "Who would you like to be your guide?",
+    "text": "Je, ungependa Nani awe kiongozi wako?",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "Skip",
     "text": "Ruka",
     "type": "global",
@@ -10729,7 +10831,7 @@
   },
   {
     "SourceText": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out.",
-    "text": "Fumba macho yako.\n\nTumia muda kuhisi ardhi iliyopo chini ya miguu yako.\nFikiria kuhusu jambo unalolishukuru.\nFuatilia upumuaji wako.\nVuta pumzi na kuzishusha.\n\nVuta na kushusha pumzi.",
+    "text": "Fumba macho yako.\n\nTumia muda kuhisi ardhi iliyopo chini ya miguu yako.\nFikiria kuhusu jambo unalolishukuru.\nMakinikia upumuaji wako.\nVuta pumzi na kuzishusha.\n\nKuvuta na kushusha.",
     "type": "data_list",
     "note": ""
   },
@@ -10741,7 +10843,7 @@
   },
   {
     "SourceText": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
-    "text": "Habari! Unajisikiaje sasa hivi? Furaha, huzuni, hasira, taharuki, wasiwasi?\n\nChunguza mahali unapohisi hali hiyo kwenye mwili wako. Chunguza ni mawazo yapi yanayohusiana na hisia hiyo. Vuta pumzi ndefu.\n\nJishukuru kwa kuchukua muda wa kuangalia hisia na mawazo yako!",
+    "text": "Hello! Unajisikiaje sasa hivi? Furaha, huzuni, hasira, taharuki, wasiwasi?\n\nChunguza mahali unapohisi hali hiyo kwenye mwili wako. Chunguza ni mawazo yapi yanayohusiana na hisia hiyo. Vuta pumzi ndefu.\n\nHongera kwa kutumia muda ili kuangalia hisia na mawazo yako!",
     "type": "data_list",
     "note": ""
   },
@@ -10765,7 +10867,7 @@
   },
   {
     "SourceText": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!",
-    "text": "Kujisifia kunaweza kusaidia sana, hasa wakati tunapokuwa na siku ngumu.\n\nFikiria jinsi wiki ilivyokuendea halafu umalizie tungo ifuatayo: \"Wiki hii, ninajivunia kwa…\" Kinaweza kuwa kitu chochote, siyo mambo ya malezi tu!\n\nFikiria jambo moja ulilofanya vizuri leo. Sasa jifumbate kwa mikono yako mwenyewe halafu UJIKUMBATIE kwa nguvu!",
+    "text": "Kujisifia kunaweza kusaidia sana, hasa kwenye siku zinazotuendea vibaya.\n\nFikiria jinsi wiki ilivyokuendea halafu umalizie tungo ifuatayo: \"Wiki hii, ninajionea fahari kwa…\" Kinaweza kuwa kitu chochote, siyo mambo ya malezi tu!\n\nFikiria jambo moja ulilofanya vizuri leo. Sasa jifumbate kwa mikono yako mwenyewe halafu UJIKUMBATIE kwa nguvu!",
     "type": "data_list",
     "note": ""
   },
@@ -10801,7 +10903,7 @@
   },
   {
     "SourceText": "Stand up and stretch your arms up to the sky. Push away any clouds and let the sun shine down on you. Stretch to both sides. Stretch to the front and to the back.\n\nLet your hands hang by your side. Squeeze your shoulders tightly up to your ears as you breathe in, scrunch your eyes, and hold your breath. Release your shoulders as you relax your body.\n\nRelax your arms and let them swing sideways while you turn your upper body. Your arms should gently hit your back as you twist from side to side.\n\nPlace one foot in front of the other and make small circles from your ankles – remember to turn to both sides. Do each foot with four circles in each direction.\n\nNow shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!\n\nClose your eyes and raise your arms slowly above your head as you breathe in. Lower your arms slowly to your side as you breathe out.\n\nTake a moment to reflect on your experience.\n\nWell done! You can do this activity at any time whenever you feel like you need to release stress and energise your mind and body.",
-    "text": "Simama na unyooshe mikono yako juu angani. Sukuma mawingu yote na uache jua likuangazie. Jinyooshe kwenda kulia na kushoto. Jinyooshe kwenda mbele na nyuma.\n\nAcha mikono yako ining'inie ubavuni mwako. Kaza mabega yako na kuyapandisha hadi kwenye masikio yako huku ukipumua, bana macho yako, na ushikilie pumzi yako. Legeza mabega yako wakati unapolegeza mwili wako.\n\nLegeza mikono yako na uibembeze ubavuni, wakati unabinua upande wa juu wa kiwiliwili chako. Mikono yako inapaswa kupiga polepole mgongo wako unapojigeuza kutoka upande mmoja hadi mwingine.\n\nWeka mguu mmoja mbele ya mwingine na fanya miduara midogo kwa kutumia vifundo vya miguu - kumbuka kugeukia pande zote mbili. Kila mguu ufanye miduara minne kwa kila upande.\n\nSasa tikisa mwili wako wote haraka kadri uwezavyo. Tikisa upande wa juu kabisa! Tikisa upande wa chini kabisa! Tikisa mwili wote!\n\nFumba macho yako na uinue mikono yako polepole kuzidi kichwa chako huku ukivuta pumzi. Teremsha mikono yako polepole kuelekea ubavuni mwako huku ukishusha pumzi.\n\nTumia muda kutafakari hali uliyoipitia.\n\nUmefanya vizuri! Unaweza kufanya shughuli hii wakati wowote unapohisi kama unahitaji kutoa msongo wa mawazo na kutia nguvu akili na mwili wako.",
+    "text": "Simama na unyooshe mikono yako juu angani. Sukuma mawingu yote na uache jua likuangazie. Jinyooshe kwenda kulia na kushoto. Jinyooshe kwenda mbele na nyuma.\n\nAcha mkono yako ining'inie ubavuni mwako. Kaza mabega yako na kuyapandisha hadi kwenye masikio yako huku ukipumua, bana macho yako, na ushikilie pumzi yako. Legeza mabega yako wakati unapolegeza mwili wako.\n\nLegeza mikono yako na uibembeze ubavuni, halafu binua upande wa juu wa kiwiliwili chako. Mikono yako inapaswa kupiga polepole mgongo wako unapojigeuza kutoka upande mmoja hadi mwingine.\n\nWeka mguu mmoja mbele ya mwingine na fanya miduara midogo kwa kutumia vifundo vya miguu - kumbuka kugeukia pande zote mbili. Kila mguu ufanye miduara minne kwa kila upande.\n\nSasa tikisa mwili wako wote haraka kadri unavyoweza. Tikisa upande wa juu kabisa! Tikisa upande wa chini kabisa! Tikisa mwili wote!\n\nFumba macho yako na uinue mikono yako polepole kuzidi kichwa chako huku ukivuta pumzi. Teremsha mikono yako polepole kuelekea ubavuni mwako huku ukishusha pumzi.\n\nTumia muda kutafakari hali uliyoipitia.\n\nHongera! Unaweza kufanya shughuli hii wakati wowote unapohisi kama unahitaji kutoa msongo wa mawazo na kutia nguvu akili na mwili wako.",
     "type": "data_list",
     "note": ""
   },

@@ -1513,12 +1513,18 @@
       ],
       "title": "Bao",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {
           "tz_sw": true
         },
-        "steps_text": {},
-        "tips_text": {}
+        "steps_text": {
+          "tz_sw": true
+        },
+        "tips_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
