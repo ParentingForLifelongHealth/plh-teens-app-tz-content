@@ -457,6 +457,19 @@
     },
     "size_kb": 167.5
   },
+  "audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3": {
+    "md5Checksum": "f50d277e34d891818fddc9e45d8cad33",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/testimonials/tz_sw/caregiver/caregiver_test_self_care_t.mp3",
+          "md5Checksum": "76aed3990741eeab5a2eb90cf2742ca7",
+          "size_kb": 560.5
+        }
+      }
+    },
+    "size_kb": 132.8
+  },
   "audio/teen/testimonials/caregiver/caregiver_test_solve_t.mp3": {
     "md5Checksum": "03701c3ba30fb39fc0415ff2ca14695f",
     "overrides": {
@@ -508,10 +521,6 @@
       }
     },
     "size_kb": 174.8
-  },
-  "audio/teen/testimonials/caregiver/old_caregiver_test_self_care_t.mp3": {
-    "md5Checksum": "f50d277e34d891818fddc9e45d8cad33",
-    "size_kb": 132.8
   },
   "audio/teen/testimonials/teen/teen_test_1on1_t.mp3": {
     "md5Checksum": "5c71c6376501d2b0842f713fd4f7361a",
