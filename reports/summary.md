@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 63550 KB | 63.5 MB |
-| unused | 2228 KB | 2.2 MB |
+| total | 63683 KB | 63.7 MB |
+| unused | 2095 KB | 2.1 MB |
 </details>
 
 <details open>
@@ -97,7 +97,6 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| audio/teen/testimonials/caregiver/old_caregiver_test_self_care_t.mp3 | 132.8 |
 | contents.json | 5.9 |
 | images/activities/chores.svg | 110.2 |
 | images/activities/cook.svg | 45.1 |
@@ -161,7 +160,6 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3 | 2 |
 | images/activities/act_emotions.svg | 2 |
 </details>
 
@@ -206,6 +204,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/teen/testimonials/caregiver/caregiver_test_praise_t.mp3 | 232.3 | 2 |
 | audio/teen/testimonials/caregiver/caregiver_test_rules_t.mp3 | 241.1 | 2 |
 | audio/teen/testimonials/caregiver/caregiver_test_safe_t.mp3 | 167.5 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3 | 132.8 | 2 |
 | audio/teen/testimonials/caregiver/caregiver_test_solve_t.mp3 | 175 | 2 |
 | audio/teen/testimonials/caregiver/caregiver_test_srh_t.mp3 | 263.5 | 2 |
 | audio/teen/testimonials/caregiver/caregiver_test_stress_t.mp3 | 178.1 | 2 |
