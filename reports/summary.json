@@ -271,13 +271,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "63683 KB",
-        "MB": "63.7 MB"
+        "KB": "63550 KB",
+        "MB": "63.5 MB"
       },
       {
         "assets": "unused",
-        "KB": "2095 KB",
-        "MB": "2.1 MB"
+        "KB": "2228 KB",
+        "MB": "2.2 MB"
       }
     ]
   },
@@ -298,6 +298,10 @@
       {
         "path": "android/splash.png",
         "size_kb": 239
+      },
+      {
+        "path": "audio/teen/testimonials/caregiver/old_caregiver_test_self_care_t.mp3",
+        "size_kb": 132.8
       },
       {
         "path": "contents.json",
@@ -520,6 +524,11 @@
   "assets_missing": {
     "data": [
       {
+        "path": "audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3",
+        "count": 2,
+        "missing": true
+      },
+      {
         "path": "images/activities/act_emotions.svg",
         "count": 2,
         "missing": true
@@ -625,7 +634,7 @@
       },
       {
         "path": "audio/relax/relax_5.mp3",
-        "count": 4,
+        "count": 3,
         "size_kb": 195.7
       },
       {
@@ -645,7 +654,7 @@
       },
       {
         "path": "audio/relax/relax_9.mp3",
-        "count": 2,
+        "count": 3,
         "size_kb": 576.6
       },
       {
@@ -697,11 +706,6 @@
         "path": "audio/teen/testimonials/caregiver/caregiver_test_safe_t.mp3",
         "count": 2,
         "size_kb": 167.5
-      },
-      {
-        "path": "audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3",
-        "count": 2,
-        "size_kb": 132.8
       },
       {
         "path": "audio/teen/testimonials/caregiver/caregiver_test_solve_t.mp3",
@@ -2585,7 +2589,7 @@
       },
       {
         "path": "lottie/relax/blue_dots.json",
-        "count": 8,
+        "count": 7,
         "size_kb": 14.7
       },
       {
@@ -2605,7 +2609,7 @@
       },
       {
         "path": "lottie/relax/square_flow.json",
-        "count": 15,
+        "count": 16,
         "size_kb": 5.9
       },
       {

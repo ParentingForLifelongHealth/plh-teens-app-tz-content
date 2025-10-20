@@ -333,8 +333,8 @@
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/caregiver/caregiver_test_1on1_t.mp3",
-          "md5Checksum": "62dcb492572a98fab72e70f3a83102e9",
-          "size_kb": 274.7
+          "md5Checksum": "270d8057e80e6546c38dfcbe5d7f073e",
+          "size_kb": 788.7
         }
       }
     },
@@ -346,8 +346,8 @@
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/caregiver/caregiver_test_consequence_t.mp3",
-          "md5Checksum": "1a3238e80196d9ec8f0d5cec6fc6c8b3",
-          "size_kb": 295.3
+          "md5Checksum": "3a871165e6506ef3cd455c25adab2268",
+          "size_kb": 837
         }
       }
     },
@@ -359,8 +359,8 @@
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/caregiver/caregiver_test_crisis_t.mp3",
-          "md5Checksum": "de0c37275410efec429a9fb336c8a0b2",
-          "size_kb": 128.5
+          "md5Checksum": "afeb446eb22582af811ad2affe7a382c",
+          "size_kb": 558.1
         }
       }
     },
@@ -398,8 +398,8 @@
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/caregiver/caregiver_test_learn_t.mp3",
-          "md5Checksum": "58dcca264fea4b796e618e3fdb8f28cd",
-          "size_kb": 215.2
+          "md5Checksum": "41ca3dca21588e07ecf089503c9c2739",
+          "size_kb": 630.2
         }
       }
     },
@@ -411,8 +411,8 @@
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/caregiver/caregiver_test_money_t.mp3",
-          "md5Checksum": "c9400e89df54753182ff12d515094702",
-          "size_kb": 256.4
+          "md5Checksum": "4b34aa749f1c1ec23d1d0fe5cdb9be76",
+          "size_kb": 807.1
         }
       }
     },
@@ -437,8 +437,8 @@
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/caregiver/caregiver_test_rules_t.mp3",
-          "md5Checksum": "aa564674f12cb265c8c0ff09ed0bf573",
-          "size_kb": 310.9
+          "md5Checksum": "e65ff67bf3ad83ede501fe35c11f1236",
+          "size_kb": 987.5
         }
       }
     },
@@ -450,25 +450,12 @@
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/caregiver/caregiver_test_safe_t.mp3",
-          "md5Checksum": "3a6ecd373b1613c5870ddf87c74b936e",
-          "size_kb": 244.5
+          "md5Checksum": "7a35033eca39b4c59d505b31f0266a9f",
+          "size_kb": 764.6
         }
       }
     },
     "size_kb": 167.5
-  },
-  "audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3": {
-    "md5Checksum": "f50d277e34d891818fddc9e45d8cad33",
-    "overrides": {
-      "theme_default": {
-        "tz_sw": {
-          "filePath": "audio/teen/testimonials/tz_sw/caregiver/caregiver_test_self_care_t.mp3",
-          "md5Checksum": "2a1abfe1a4acc1da961be32822740ed4",
-          "size_kb": 192.5
-        }
-      }
-    },
-    "size_kb": 132.8
   },
   "audio/teen/testimonials/caregiver/caregiver_test_solve_t.mp3": {
     "md5Checksum": "03701c3ba30fb39fc0415ff2ca14695f",
@@ -515,12 +502,16 @@
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/caregiver/caregiver_test_svp_t.mp3",
-          "md5Checksum": "0055ed9eed4a10f3bf382f78fcb5196c",
-          "size_kb": 207.8
+          "md5Checksum": "0aedff025942769a4e89a6baf1d05788",
+          "size_kb": 728.6
         }
       }
     },
     "size_kb": 174.8
+  },
+  "audio/teen/testimonials/caregiver/old_caregiver_test_self_care_t.mp3": {
+    "md5Checksum": "f50d277e34d891818fddc9e45d8cad33",
+    "size_kb": 132.8
   },
   "audio/teen/testimonials/teen/teen_test_1on1_t.mp3": {
     "md5Checksum": "5c71c6376501d2b0842f713fd4f7361a",
@@ -593,8 +584,8 @@
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/teen/teen_test_learn_t.mp3",
-          "md5Checksum": "c18868d419f82ab01b9f4964a203a2e9",
-          "size_kb": 223.2
+          "md5Checksum": "90a5c4212c98284b7765ab0d516a1326",
+          "size_kb": 631.5
         }
       }
     },
@@ -645,8 +636,8 @@
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/teen/teen_test_safe_t.mp3",
-          "md5Checksum": "b1ae06fc6f5a5cd54c0fda31221f58f4",
-          "size_kb": 229.2
+          "md5Checksum": "1e46a9cfc1492d10a6b6381d2dc3eac5",
+          "size_kb": 767
         }
       }
     },

@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 63683 KB | 63.7 MB |
-| unused | 2095 KB | 2.1 MB |
+| total | 63550 KB | 63.5 MB |
+| unused | 2228 KB | 2.2 MB |
 </details>
 
 <details open>
@@ -97,6 +97,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
+| audio/teen/testimonials/caregiver/old_caregiver_test_self_care_t.mp3 | 132.8 |
 | contents.json | 5.9 |
 | images/activities/chores.svg | 110.2 |
 | images/activities/cook.svg | 45.1 |
@@ -160,6 +161,7 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
+| audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3 | 2 |
 | images/activities/act_emotions.svg | 2 |
 </details>
 
@@ -189,11 +191,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/relax_24.mp3 | 121.3 | 1 |
 | audio/relax/relax_3.mp3 | 235.1 | 2 |
 | audio/relax/relax_4.mp3 | 514.5 | 4 |
-| audio/relax/relax_5.mp3 | 195.7 | 4 |
+| audio/relax/relax_5.mp3 | 195.7 | 3 |
 | audio/relax/relax_6.mp3 | 280.7 | 1 |
 | audio/relax/relax_7.mp3 | 285.3 | 2 |
 | audio/relax/relax_8.mp3 | 302 | 2 |
-| audio/relax/relax_9.mp3 | 576.6 | 2 |
+| audio/relax/relax_9.mp3 | 576.6 | 3 |
 | audio/teen/testimonials/caregiver/caregiver_test_1on1_t.mp3 | 258.8 | 2 |
 | audio/teen/testimonials/caregiver/caregiver_test_consequence_t.mp3 | 312.3 | 2 |
 | audio/teen/testimonials/caregiver/caregiver_test_crisis_t.mp3 | 178.3 | 2 |
@@ -204,7 +206,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/teen/testimonials/caregiver/caregiver_test_praise_t.mp3 | 232.3 | 2 |
 | audio/teen/testimonials/caregiver/caregiver_test_rules_t.mp3 | 241.1 | 2 |
 | audio/teen/testimonials/caregiver/caregiver_test_safe_t.mp3 | 167.5 | 2 |
-| audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3 | 132.8 | 2 |
 | audio/teen/testimonials/caregiver/caregiver_test_solve_t.mp3 | 175 | 2 |
 | audio/teen/testimonials/caregiver/caregiver_test_srh_t.mp3 | 263.5 | 2 |
 | audio/teen/testimonials/caregiver/caregiver_test_stress_t.mp3 | 178.1 | 2 |
@@ -581,11 +582,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | lottie/bulging_circles.json | 11.8 | 2 |
 | lottie/checkmark.json | 23.6 | 1 |
 | lottie/gift_box.json | 674.5 | 1 |
-| lottie/relax/blue_dots.json | 14.7 | 8 |
+| lottie/relax/blue_dots.json | 14.7 | 7 |
 | lottie/relax/heart.json | 46.7 | 8 |
 | lottie/relax/looping_rings.json | 10.4 | 9 |
 | lottie/relax/soothing_waves.json | 7.6 | 6 |
-| lottie/relax/square_flow.json | 5.9 | 15 |
+| lottie/relax/square_flow.json | 5.9 | 16 |
 | video/plh_video/lets_slow_down.mp4 | 13482.2 | 2 |
 </details>
 
