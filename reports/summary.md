@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 63683 KB | 63.7 MB |
-| unused | 2095 KB | 2.1 MB |
+| total | 63723 KB | 63.7 MB |
+| unused | 2055 KB | 2.1 MB |
 </details>
 
 <details open>
@@ -101,7 +101,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/activities/chores.svg | 110.2 |
 | images/activities/cook.svg | 45.1 |
 | images/activities/cooking_with_maths.svg | 190 |
-| images/activities/emotion_cards.svg | 40.1 |
 | images/activities/find_pair.svg | 36.9 |
 | images/activities/long_term_goal.svg | 59.8 |
 | images/activities/make_story_child.svg | 66.1 |
@@ -160,7 +159,6 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| images/activities/act_emotions.svg | 2 |
 </details>
 
 <details >
@@ -249,6 +247,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/cook_traditional.svg | 40.7 | 2 |
 | images/activities/dance.svg | 42.3 | 8 |
 | images/activities/dream_travel.svg | 136.9 | 2 |
+| images/activities/emotion_cards.svg | 40.1 | 2 |
 | images/activities/famous_party.svg | 77 | 2 |
 | images/activities/friendly_chat.svg | 127.1 | 2 |
 | images/activities/garden.svg | 109.9 | 2 |

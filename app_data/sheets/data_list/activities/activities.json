@@ -1282,7 +1282,7 @@
     },
     {
       "id": "whats_new",
-      "image_asset": "images/activities/act_emotions.svg",
+      "image_asset": "images/activities/emotion_cards.svg",
       "activity_group_list": [
         "active"
       ],

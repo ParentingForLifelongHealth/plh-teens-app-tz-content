@@ -271,12 +271,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "63683 KB",
+        "KB": "63723 KB",
         "MB": "63.7 MB"
       },
       {
         "assets": "unused",
-        "KB": "2095 KB",
+        "KB": "2055 KB",
         "MB": "2.1 MB"
       }
     ]
@@ -314,10 +314,6 @@
       {
         "path": "images/activities/cooking_with_maths.svg",
         "size_kb": 190
-      },
-      {
-        "path": "images/activities/emotion_cards.svg",
-        "size_kb": 40.1
       },
       {
         "path": "images/activities/find_pair.svg",
@@ -518,13 +514,7 @@
     ]
   },
   "assets_missing": {
-    "data": [
-      {
-        "path": "images/activities/act_emotions.svg",
-        "count": 2,
-        "missing": true
-      }
-    ]
+    "data": []
   },
   "asset_summary": {
     "data": [
@@ -922,6 +912,11 @@
         "path": "images/activities/dream_travel.svg",
         "count": 2,
         "size_kb": 136.9
+      },
+      {
+        "path": "images/activities/emotion_cards.svg",
+        "count": 2,
+        "size_kb": 40.1
       },
       {
         "path": "images/activities/famous_party.svg",
