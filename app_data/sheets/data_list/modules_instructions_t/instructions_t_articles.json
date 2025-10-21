@@ -51,9 +51,7 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "media_title": {
-          "tz_sw": true
-        },
+        "media_title": {},
         "media_transcript": {
           "tz_sw": true
         }
@@ -63,13 +61,13 @@
           "eng": "When you give positive instructions, your teen is more likely to listen! \n\nAnd remember to praise your teen for any good behaviour - the big and small things."
         },
         "media_title": {
-          "eng": "Press play to hear how positive instructions worked for @data.characters.media_female_3.name and her teens"
+          "eng": "Tap play to hear how positive instructions worked for @data.characters.media_female_3.name and her teens"
         },
         "media_transcript": {
           "eng": "Before, I used to raise my teens the way I was raised: I would tell them “don’t do this, don’t do that.” We used to fight a lot, but things have really changed when I learnt about giving positive instructions.\n\nNow I focus on the behaviour I want to see, and give clear and simple instructions to my teens. It took time to learn to say “please do this” instead of “don’t do this.”\n\nMy teens and even my husband tell me that they love this way of doing things, because now they know what needs to be done. My teen said one day “I really love this new mom,” and my own stress levels have come down a lot."
         }
       },
-      "media_title": "Press play to hear how positive instructions worked for @data.characters.media_female_3.name and her teens",
+      "media_title": "Tap play to hear how positive instructions worked for @data.characters.media_female_3.name and her teens",
       "media_transcript": "Before, I used to raise my teens the way I was raised: I would tell them “don’t do this, don’t do that.” We used to fight a lot, but things have really changed when I learnt about giving positive instructions.\n\nNow I focus on the behaviour I want to see, and give clear and simple instructions to my teens. It took time to learn to say “please do this” instead of “don’t do this.”\n\nMy teens and even my husband tell me that they love this way of doing things, because now they know what needs to be done. My teen said one day “I really love this new mom,” and my own stress levels have come down a lot."
     },
     {

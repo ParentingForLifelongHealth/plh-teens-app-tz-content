@@ -108,7 +108,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1-tg-SOLlmRdOvDnL5KJQSkXQ2eD6NAzEKZq3fQfX86E",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Today's topic is about taking care of yourself.\n\nWe often don’t look after ourselves enough. But this is so important, especially as a parent!\n\nReducing our stress and treating ourselves well helps us AND our teenagers."
+          "eng": "Today's topic is about taking care of yourself.\n\nTaking time for yourself helps you stay calm and strong."
         },
         "media_title": {
           "eng": "How will caring for yourself help you and your family? Listen to find out"
@@ -119,11 +119,9 @@
       },
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Today's topic is about taking care of yourself.\n\nWe often don’t look after ourselves enough. But this is so important, especially as a parent!\n\nReducing our stress and treating ourselves well helps us AND our teenagers.",
+      "text_1_facilitator": "Today's topic is about taking care of yourself.\n\nTaking time for yourself helps you stay calm and strong.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
