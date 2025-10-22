@@ -83,7 +83,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 63723 KB | 63.7 MB |
-| unused | 2055 KB | 2.1 MB |
+| unused | 687 KB | 0.7 MB |
 </details>
 
 <details open>
@@ -98,28 +98,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
 | contents.json | 5.9 |
-| images/activities/chores.svg | 110.2 |
-| images/activities/cook.svg | 45.1 |
-| images/activities/cooking_with_maths.svg | 190 |
-| images/activities/find_pair.svg | 36.9 |
-| images/activities/long_term_goal.svg | 59.8 |
-| images/activities/make_story_child.svg | 66.1 |
-| images/activities/memory_game.svg | 40 |
-| images/activities/mystery_box.svg | 58.4 |
 | images/activities/rolling_ball_fun.svg | 90.6 |
-| images/activities/thinking_games.svg | 107.3 |
-| images/backgrounds/homescreen_pattern.svg | 156.3 |
-| images/character_icons/F2_SON_8.svg | 12.5 |
-| images/faces/sadder.svg | 1.1 |
-| images/faces/saddest.svg | 2 |
-| images/homescreen/consequences.svg | 40.6 |
-| images/homescreen/developmentplay.svg | 75.2 |
-| images/homescreen/feelings.svg | 75.4 |
-| images/homescreen/instructions.svg | 40.6 |
-| images/homescreen/one_on_one_time.svg | 47.4 |
-| images/homescreen/praise.svg | 99.9 |
-| images/homescreen/problemsolving.svg | 39.4 |
-| images/homescreen/rulesroutines.svg | 58.8 |
 | images/icons/balance_blue.png | 4.7 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |
@@ -130,11 +109,9 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/faces/sadder.svg | 1.1 |
 | images/icons/faces/saddest.svg | 2 |
 | images/icons/faces/tired.svg | 2.4 |
-| images/icons/fire.png | 0.9 |
 | images/icons/football_blue.png | 5.1 |
 | images/icons/heart.svg | 0.6 |
 | images/icons/heart_filled.svg | 1.4 |
-| images/icons/hourglass_blue.png | 4.3 |
 | images/icons/in_progress_white.svg | 1.1 |
 | images/icons/parent_child.svg | 2 |
 | images/icons/pause_white.svg | 0.7 |
