@@ -276,8 +276,8 @@
       },
       {
         "assets": "unused",
-        "KB": "2055 KB",
-        "MB": "2.1 MB"
+        "KB": "687 KB",
+        "MB": "0.7 MB"
       }
     ]
   },
@@ -304,92 +304,8 @@
         "size_kb": 5.9
       },
       {
-        "path": "images/activities/chores.svg",
-        "size_kb": 110.2
-      },
-      {
-        "path": "images/activities/cook.svg",
-        "size_kb": 45.1
-      },
-      {
-        "path": "images/activities/cooking_with_maths.svg",
-        "size_kb": 190
-      },
-      {
-        "path": "images/activities/find_pair.svg",
-        "size_kb": 36.9
-      },
-      {
-        "path": "images/activities/long_term_goal.svg",
-        "size_kb": 59.8
-      },
-      {
-        "path": "images/activities/make_story_child.svg",
-        "size_kb": 66.1
-      },
-      {
-        "path": "images/activities/memory_game.svg",
-        "size_kb": 40
-      },
-      {
-        "path": "images/activities/mystery_box.svg",
-        "size_kb": 58.4
-      },
-      {
         "path": "images/activities/rolling_ball_fun.svg",
         "size_kb": 90.6
-      },
-      {
-        "path": "images/activities/thinking_games.svg",
-        "size_kb": 107.3
-      },
-      {
-        "path": "images/backgrounds/homescreen_pattern.svg",
-        "size_kb": 156.3
-      },
-      {
-        "path": "images/character_icons/F2_SON_8.svg",
-        "size_kb": 12.5
-      },
-      {
-        "path": "images/faces/sadder.svg",
-        "size_kb": 1.1
-      },
-      {
-        "path": "images/faces/saddest.svg",
-        "size_kb": 2
-      },
-      {
-        "path": "images/homescreen/consequences.svg",
-        "size_kb": 40.6
-      },
-      {
-        "path": "images/homescreen/developmentplay.svg",
-        "size_kb": 75.2
-      },
-      {
-        "path": "images/homescreen/feelings.svg",
-        "size_kb": 75.4
-      },
-      {
-        "path": "images/homescreen/instructions.svg",
-        "size_kb": 40.6
-      },
-      {
-        "path": "images/homescreen/one_on_one_time.svg",
-        "size_kb": 47.4
-      },
-      {
-        "path": "images/homescreen/praise.svg",
-        "size_kb": 99.9
-      },
-      {
-        "path": "images/homescreen/problemsolving.svg",
-        "size_kb": 39.4
-      },
-      {
-        "path": "images/homescreen/rulesroutines.svg",
-        "size_kb": 58.8
       },
       {
         "path": "images/icons/balance_blue.png",
@@ -432,10 +348,6 @@
         "size_kb": 2.4
       },
       {
-        "path": "images/icons/fire.png",
-        "size_kb": 0.9
-      },
-      {
         "path": "images/icons/football_blue.png",
         "size_kb": 5.1
       },
@@ -446,10 +358,6 @@
       {
         "path": "images/icons/heart_filled.svg",
         "size_kb": 1.4
-      },
-      {
-        "path": "images/icons/hourglass_blue.png",
-        "size_kb": 4.3
       },
       {
         "path": "images/icons/in_progress_white.svg",

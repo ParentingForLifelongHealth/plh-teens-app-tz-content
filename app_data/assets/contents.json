@@ -958,25 +958,13 @@
     "md5Checksum": "9baefc918f7ed076f77b4ed6bb73fcf8",
     "size_kb": 42.5
   },
-  "images/activities/chores.svg": {
-    "md5Checksum": "cf600daf4ad18d93c05b8b32bfd380c1",
-    "size_kb": 110.2
-  },
   "images/activities/clean.svg": {
     "md5Checksum": "f728ca35aab3bd680551bd24715ccb9e",
     "size_kb": 39.9
   },
-  "images/activities/cook.svg": {
-    "md5Checksum": "30a219436bf4ac290b4c1f6665495428",
-    "size_kb": 45.1
-  },
   "images/activities/cook_traditional.svg": {
     "md5Checksum": "f403b4569501b082ca9cb930b319e008",
     "size_kb": 40.7
-  },
-  "images/activities/cooking_with_maths.svg": {
-    "md5Checksum": "618fd17645d70952cde8ef2bb6c72a72",
-    "size_kb": 190
   },
   "images/activities/dance.svg": {
     "md5Checksum": "4c7f146cd55ac436fa0ff1bd90e0cb96",
@@ -994,10 +982,6 @@
     "md5Checksum": "90a3a2ebeedfa6a411e65f11d0f1df78",
     "size_kb": 77
   },
-  "images/activities/find_pair.svg": {
-    "md5Checksum": "9ec3df214563fca68a39c9e305f675a9",
-    "size_kb": 36.9
-  },
   "images/activities/friendly_chat.svg": {
     "md5Checksum": "a75312842433301c235018cb55fb4745",
     "size_kb": 127.1
@@ -1005,22 +989,6 @@
   "images/activities/garden.svg": {
     "md5Checksum": "cabf8df5c9ab9146ac75cf546b11dc0c",
     "size_kb": 109.9
-  },
-  "images/activities/long_term_goal.svg": {
-    "md5Checksum": "300a9fe366491f7c4f0569507a5c40ad",
-    "size_kb": 59.8
-  },
-  "images/activities/make_story_child.svg": {
-    "md5Checksum": "a6d36f5f9cce46c8b80642bcda8bc5ce",
-    "size_kb": 66.1
-  },
-  "images/activities/memory_game.svg": {
-    "md5Checksum": "245b1dc2166ff8af98e5ceab9d9bc444",
-    "size_kb": 40
-  },
-  "images/activities/mystery_box.svg": {
-    "md5Checksum": "897c43c3119ab34894a89906d446c4ae",
-    "size_kb": 58.4
   },
   "images/activities/name_tune.svg": {
     "md5Checksum": "c73181bced101248835578f0ee356552",
@@ -1062,10 +1030,6 @@
     "md5Checksum": "8e4bf9e23d834b7a9a5c9804b0f5be64",
     "size_kb": 40.9
   },
-  "images/activities/thinking_games.svg": {
-    "md5Checksum": "60219c1ce13c1f373dde3d6a6b386419",
-    "size_kb": 107.3
-  },
   "images/activities/traffic_lights.svg": {
     "md5Checksum": "5e3948b910f452522e7b04f7f9ec32ee",
     "size_kb": 172.3
@@ -1089,10 +1053,6 @@
   "images/backgrounds/bottom_banner.svg": {
     "md5Checksum": "6fd3925f566f90c9e8436c80392891d8",
     "size_kb": 23.2
-  },
-  "images/backgrounds/homescreen_pattern.svg": {
-    "md5Checksum": "5f3af7752ddded1343f7818e6ed7a868",
-    "size_kb": 156.3
   },
   "images/backgrounds/kites.svg": {
     "md5Checksum": "83fa2d24b91d02b6e8c2b3a95607c572",
@@ -1149,10 +1109,6 @@
   "images/character_icons/F2_SON_15.svg": {
     "md5Checksum": "61b5ecc509bffaad30d0b5cb9b23091e",
     "size_kb": 16.8
-  },
-  "images/character_icons/F2_SON_8.svg": {
-    "md5Checksum": "90b8c2c718c6c888303ea1f2855e74d7",
-    "size_kb": 12.5
   },
   "images/character_icons/F3_DAUGHTER_12.svg": {
     "md5Checksum": "333b0419a6ba7daa512f1b30174e2116",
@@ -1226,14 +1182,6 @@
     "md5Checksum": "1020fc8785a8f8aeeadfa74de88c73d3",
     "size_kb": 0.6
   },
-  "images/faces/sadder.svg": {
-    "md5Checksum": "44f0f4aee98a30f31d445b169922f940",
-    "size_kb": 1.1
-  },
-  "images/faces/saddest.svg": {
-    "md5Checksum": "e83831930f99740e1b6556c4aab41a1b",
-    "size_kb": 2
-  },
   "images/faces/scared.svg": {
     "md5Checksum": "0d9e5d9d570750a6e0e5afff188ccf3a",
     "size_kb": 2.1
@@ -1258,21 +1206,9 @@
     "md5Checksum": "7072b7093355c758b1ec36a6ea9551d2",
     "size_kb": 23
   },
-  "images/homescreen/consequences.svg": {
-    "md5Checksum": "ae8e9a49723149960ea3bd25b800c802",
-    "size_kb": 40.6
-  },
   "images/homescreen/crisis_t.svg": {
     "md5Checksum": "78730d6d0fb85e5ecaa7a9893c9a72c6",
     "size_kb": 46.1
-  },
-  "images/homescreen/developmentplay.svg": {
-    "md5Checksum": "f80a66edb5fdc7e90d940c66fe5dcea6",
-    "size_kb": 75.2
-  },
-  "images/homescreen/feelings.svg": {
-    "md5Checksum": "c5e6987d9cb405694e65695203b7e634",
-    "size_kb": 75.4
   },
   "images/homescreen/grief_t.svg": {
     "md5Checksum": "5b9a0a0f73273e884fbeb52c2d4fdf2b",
@@ -1280,10 +1216,6 @@
   },
   "images/homescreen/instruct_t.svg": {
     "md5Checksum": "a456c4da674e5c68217a0a1d0233f94f",
-    "size_kb": 40.6
-  },
-  "images/homescreen/instructions.svg": {
-    "md5Checksum": "0b9b36baaaabad6668e6a31a4b08b711",
     "size_kb": 40.6
   },
   "images/homescreen/learn_t.svg": {
@@ -1362,29 +1294,13 @@
     "md5Checksum": "3e99466641a7d4ac69a7d998e1318372",
     "size_kb": 48.5
   },
-  "images/homescreen/one_on_one_time.svg": {
-    "md5Checksum": "51fff2b54daf27828548396f7fcce5a7",
-    "size_kb": 47.4
-  },
-  "images/homescreen/praise.svg": {
-    "md5Checksum": "e648e7c95046583901e8d592ce6832c2",
-    "size_kb": 99.9
-  },
   "images/homescreen/praise_t.svg": {
     "md5Checksum": "9000f96cc356ef96f2189a7a9dd03ffb",
     "size_kb": 32.2
   },
-  "images/homescreen/problemsolving.svg": {
-    "md5Checksum": "bab21bfdf568f3b03d1798447731ba39",
-    "size_kb": 39.4
-  },
   "images/homescreen/rules_t.svg": {
     "md5Checksum": "21c049c0a029ef10d68667c06979c977",
     "size_kb": 41.2
-  },
-  "images/homescreen/rulesroutines.svg": {
-    "md5Checksum": "e14d9d3014c450c0c2c147b9448f4644",
-    "size_kb": 58.8
   },
   "images/homescreen/safe_t.svg": {
     "md5Checksum": "28959f692703e53e99c1c57487ad1e45",
@@ -1522,10 +1438,6 @@
     "md5Checksum": "cf69cc2e8ba1f0aa7d15366c4d8df711",
     "size_kb": 3.5
   },
-  "images/icons/fire.png": {
-    "md5Checksum": "bdbc8d7aacaf1c7c12ac84d3983a868d",
-    "size_kb": 0.9
-  },
   "images/icons/football_blue.png": {
     "md5Checksum": "54b732c820a451491d4f721907654849",
     "size_kb": 5.1
@@ -1543,7 +1455,7 @@
     "size_kb": 1.4
   },
   "images/icons/heart_filled.svg": {
-    "md5Checksum": "2af24785374bb7a74ab38d4e572722d0",
+    "md5Checksum": "88d5bd5d99c20bd6ecfe5790f285fc0c",
     "size_kb": 1.4
   },
   "images/icons/heart_filled_active.png": {
@@ -1565,10 +1477,6 @@
   "images/icons/home_active.svg": {
     "md5Checksum": "8704993d38482b0eb3ab261e9f18f8cf",
     "size_kb": 0.4
-  },
-  "images/icons/hourglass_blue.png": {
-    "md5Checksum": "212669f3df366855820535a79ea8b8c5",
-    "size_kb": 4.3
   },
   "images/icons/in_progress.svg": {
     "md5Checksum": "6105962bc0edd981675d874dc8a51035",
