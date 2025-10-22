@@ -1002,10 +1002,6 @@
     "md5Checksum": "ceaf14888ddd5b66d687b40a25f6ca29",
     "size_kb": 38.5
   },
-  "images/activities/rolling_ball_fun.svg": {
-    "md5Checksum": "25a6bbbdaf1be49c3117b16cd6a2c3b0",
-    "size_kb": 90.6
-  },
   "images/activities/secret_handshake.svg": {
     "md5Checksum": "84d9c990a16c86aa866f1bc5eba5714b",
     "size_kb": 56.1
@@ -1185,10 +1181,6 @@
   "images/faces/scared.svg": {
     "md5Checksum": "0d9e5d9d570750a6e0e5afff188ccf3a",
     "size_kb": 2.1
-  },
-  "images/faces/tired.svg": {
-    "md5Checksum": "978273858b64560b36bcd41d09ca3fb5",
-    "size_kb": 2.4
   },
   "images/homescreen/celebrate_t.svg": {
     "md5Checksum": "5095934242893e19bd69475afab44613",
@@ -1565,10 +1557,6 @@
   "images/icons/question_mark_blue.svg": {
     "md5Checksum": "49e1d1e478068a24949d87d09c9ba07b",
     "size_kb": 0.8
-  },
-  "images/icons/repeat_blue.png": {
-    "md5Checksum": "b08c9ad4f2028d14df204aeec9984b22",
-    "size_kb": 5.4
   },
   "images/icons/settings.svg": {
     "md5Checksum": "e4c57dd6bcaab75533160616f4ca1d39",

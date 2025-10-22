@@ -31,14 +31,14 @@
       "completed": false
     },
     {
-      "id": "check_in_1",
+      "id": "check_in_14",
       "attached_single_doc": "https://docs.google.com/document/d/1weBDi-7Z101TP408tO48rWUM3m75TIrW5KMnEDOeB9c",
       "_translatedFields": {
         "text_1": {
-          "eng": "Take a moment to check in with yourself."
+          "eng": "Take a moment to notice how you are doing."
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy things are going well."
+          "eng": "Great! So good to hear that you are in a good space today. What a wonderful feeling!"
         },
         "quiz_1_feedback_2": {
           "eng": "Some days will have their challenges. That is okay. You are on the right path!"
@@ -64,7 +64,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Take a moment to check in with yourself.",
+      "text_1": "Take a moment to notice how you are doing.",
       "_translations": {
         "text_1": {
           "tz_sw": true
@@ -91,7 +91,7 @@
           "tz_sw": true
         }
       },
-      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
+      "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
       "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
       "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
       "quiz_1_question": "How are you feeling today?",
