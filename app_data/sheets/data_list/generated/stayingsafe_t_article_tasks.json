@@ -105,7 +105,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "_translatedFields": {
         "section_1_title": {
-          "eng": "⚠️ Sensitive Content"
+          "eng": "⚠️ Sensitive Content Notice"
         },
         "section_1_text": {
           "eng": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help."
@@ -113,7 +113,7 @@
       },
       "category_id": "notice",
       "nested": false,
-      "section_1_title": "⚠️ Sensitive Content",
+      "section_1_title": "⚠️ Sensitive Content Notice",
       "_translations": {
         "section_1_title": {
           "tz_sw": true

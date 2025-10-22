@@ -118,7 +118,7 @@
         {
           "type": "text",
           "name": "text_login",
-          "value": "@global.login",
+          "value": "@global.welcome_message_subtext",
           "_translations": {
             "value": {}
           },
@@ -130,15 +130,15 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@global.login",
-                "matchedExpression": "@global.login",
+                "fullExpression": "@global.welcome_message_subtext",
+                "matchedExpression": "@global.welcome_message_subtext",
                 "type": "global",
-                "fieldName": "login"
+                "fieldName": "welcome_message_subtext"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@global.login": [
+            "@global.welcome_message_subtext": [
               "value"
             ]
           }
