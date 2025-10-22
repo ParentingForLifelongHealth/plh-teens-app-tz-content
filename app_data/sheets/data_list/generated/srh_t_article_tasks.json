@@ -31,20 +31,20 @@
       "completed": false
     },
     {
-      "id": "check_in_1",
+      "id": "check_in_12",
       "attached_single_doc": "https://docs.google.com/document/d/1weBDi-7Z101TP408tO48rWUM3m75TIrW5KMnEDOeB9c",
       "_translatedFields": {
         "text_1": {
-          "eng": "Take a moment to check in with yourself."
+          "eng": "Looking after yourself well starts with noticing how you feel."
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy things are going well."
+          "eng": "Fantastic! And well done for investing in yourself and your family – you have accomplished a lot."
         },
         "quiz_1_feedback_2": {
-          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+          "eng": "Sorry that you are not having the best day. Well done for trying to figure everything out. @global.app_name is here to help."
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+          "eng": "Being a parent can be challenging. Take a deep breath and recognise all you have done for your family – you deserve praise!"
         },
         "quiz_1_question": {
           "eng": "How are you feeling today?"
@@ -64,7 +64,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Take a moment to check in with yourself.",
+      "text_1": "Looking after yourself well starts with noticing how you feel.",
       "_translations": {
         "text_1": {
           "tz_sw": true
@@ -91,9 +91,9 @@
           "tz_sw": true
         }
       },
-      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
-      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
-      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_feedback_1": "Fantastic! And well done for investing in yourself and your family – you have accomplished a lot.",
+      "quiz_1_feedback_2": "Sorry that you are not having the best day. Well done for trying to figure everything out. @global.app_name is here to help.",
+      "quiz_1_feedback_3": "Being a parent can be challenging. Take a deep breath and recognise all you have done for your family – you deserve praise!",
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",

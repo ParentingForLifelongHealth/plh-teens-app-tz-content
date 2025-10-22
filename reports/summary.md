@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 63723 KB | 63.7 MB |
-| unused | 687 KB | 0.7 MB |
+| total | 63720 KB | 63.7 MB |
+| unused | 591 KB | 0.6 MB |
 </details>
 
 <details open>
@@ -98,7 +98,6 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
 | contents.json | 5.9 |
-| images/activities/rolling_ball_fun.svg | 90.6 |
 | images/icons/balance_blue.png | 4.7 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |
@@ -118,7 +117,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/play.svg | 0.5 |
 | images/icons/play_white.svg | 0.5 |
 | images/icons/question_blue.png | 3.4 |
-| images/icons/repeat_blue.png | 5.4 |
 | images/icons/spark.png | 1.6 |
 | images/icons/star_outline_white.svg | 1 |
 | images/logos/favicon.png | 6.3 |
@@ -136,6 +134,7 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
+| images/faces/tired.svg | 4 |
 </details>
 
 <details >
@@ -276,7 +275,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/faces/neutral.svg | 0.5 | 23 |
 | images/faces/sad.svg | 0.6 | 26 |
 | images/faces/scared.svg | 2.1 | 4 |
-| images/faces/tired.svg | 2.4 | 4 |
 | images/homescreen/celebrate_t.svg | 36.3 | 2 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 23.9 | 1 |
 | images/homescreen/check_in/traditional_rondavel_open.svg | 28.8 | 1 |

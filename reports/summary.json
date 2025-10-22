@@ -271,13 +271,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "63723 KB",
+        "KB": "63720 KB",
         "MB": "63.7 MB"
       },
       {
         "assets": "unused",
-        "KB": "687 KB",
-        "MB": "0.7 MB"
+        "KB": "591 KB",
+        "MB": "0.6 MB"
       }
     ]
   },
@@ -302,10 +302,6 @@
       {
         "path": "contents.json",
         "size_kb": 5.9
-      },
-      {
-        "path": "images/activities/rolling_ball_fun.svg",
-        "size_kb": 90.6
       },
       {
         "path": "images/icons/balance_blue.png",
@@ -384,10 +380,6 @@
         "size_kb": 3.4
       },
       {
-        "path": "images/icons/repeat_blue.png",
-        "size_kb": 5.4
-      },
-      {
         "path": "images/icons/spark.png",
         "size_kb": 1.6
       },
@@ -422,7 +414,13 @@
     ]
   },
   "assets_missing": {
-    "data": []
+    "data": [
+      {
+        "path": "images/faces/tired.svg",
+        "count": 4,
+        "missing": true
+      }
+    ]
   },
   "asset_summary": {
     "data": [
@@ -1080,11 +1078,6 @@
         "path": "images/faces/scared.svg",
         "count": 4,
         "size_kb": 2.1
-      },
-      {
-        "path": "images/faces/tired.svg",
-        "count": 4,
-        "size_kb": 2.4
       },
       {
         "path": "images/homescreen/celebrate_t.svg",
