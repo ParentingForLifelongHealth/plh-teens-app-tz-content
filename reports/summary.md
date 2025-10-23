@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 64792 KB | 64.8 MB |
-| unused | 820 KB | 0.8 MB |
+| total | 65021 KB | 65 MB |
+| unused | 591 KB | 0.6 MB |
 </details>
 
 <details open>
@@ -119,7 +119,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/question_blue.png | 3.4 |
 | images/icons/spark.png | 1.6 |
 | images/icons/star_outline_white.svg | 1 |
-| images/logos/ICS_SP.jpg | 228.8 |
 | images/logos/favicon.png | 6.3 |
 | images/logos/plh_white.png | 12.8 |
 | lottie/bulging_circles.txt | 0.2 |
@@ -137,7 +136,6 @@ Assets that have references within sheets but do not appear in app-data
 | --- | --- |
 | images/backgrounds/map_view_bg.jpg | 1 |
 | images/faces/tired.svg | 4 |
-| images/logos/ICS_SP.png | 1 |
 </details>
 
 <details >
@@ -374,6 +372,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/world.svg | 6.2 | 1 |
 | images/logos/CWBSA.png | 34.9 | 1 |
 | images/logos/GISP.png | 34.8 | 1 |
+| images/logos/ICS_SP.jpg | 228.8 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/NIMR.png | 29.6 | 1 |
 | images/logos/Oxford.png | 42 | 1 |

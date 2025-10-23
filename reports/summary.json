@@ -271,13 +271,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "64792 KB",
-        "MB": "64.8 MB"
+        "KB": "65021 KB",
+        "MB": "65 MB"
       },
       {
         "assets": "unused",
-        "KB": "820 KB",
-        "MB": "0.8 MB"
+        "KB": "591 KB",
+        "MB": "0.6 MB"
       }
     ]
   },
@@ -388,10 +388,6 @@
         "size_kb": 1
       },
       {
-        "path": "images/logos/ICS_SP.jpg",
-        "size_kb": 228.8
-      },
-      {
         "path": "images/logos/favicon.png",
         "size_kb": 6.3
       },
@@ -427,11 +423,6 @@
       {
         "path": "images/faces/tired.svg",
         "count": 4,
-        "missing": true
-      },
-      {
-        "path": "images/logos/ICS_SP.png",
-        "count": 1,
         "missing": true
       }
     ]
@@ -1572,6 +1563,11 @@
         "path": "images/logos/GISP.png",
         "count": 1,
         "size_kb": 34.8
+      },
+      {
+        "path": "images/logos/ICS_SP.jpg",
+        "count": 1,
+        "size_kb": 228.8
       },
       {
         "path": "images/logos/IDEMS.png",
