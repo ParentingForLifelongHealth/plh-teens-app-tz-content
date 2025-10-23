@@ -271,13 +271,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "63720 KB",
-        "MB": "63.7 MB"
+        "KB": "64792 KB",
+        "MB": "64.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "591 KB",
-        "MB": "0.6 MB"
+        "KB": "820 KB",
+        "MB": "0.8 MB"
       }
     ]
   },
@@ -388,6 +388,10 @@
         "size_kb": 1
       },
       {
+        "path": "images/logos/ICS_SP.jpg",
+        "size_kb": 228.8
+      },
+      {
         "path": "images/logos/favicon.png",
         "size_kb": 6.3
       },
@@ -416,8 +420,18 @@
   "assets_missing": {
     "data": [
       {
+        "path": "images/backgrounds/map_view_bg.jpg",
+        "count": 1,
+        "missing": true
+      },
+      {
         "path": "images/faces/tired.svg",
         "count": 4,
+        "missing": true
+      },
+      {
+        "path": "images/logos/ICS_SP.png",
+        "count": 1,
         "missing": true
       }
     ]
@@ -1550,14 +1564,104 @@
         "size_kb": 6.2
       },
       {
+        "path": "images/logos/CWBSA.png",
+        "count": 1,
+        "size_kb": 34.9
+      },
+      {
+        "path": "images/logos/GISP.png",
+        "count": 1,
+        "size_kb": 34.8
+      },
+      {
         "path": "images/logos/IDEMS.png",
         "count": 1,
         "size_kb": 84.6
       },
       {
+        "path": "images/logos/NIMR.png",
+        "count": 1,
+        "size_kb": 29.6
+      },
+      {
+        "path": "images/logos/Oxford.png",
+        "count": 1,
+        "size_kb": 42
+      },
+      {
         "path": "images/logos/PLH.png",
         "count": 1,
         "size_kb": 26.6
+      },
+      {
+        "path": "images/logos/UCT.png",
+        "count": 1,
+        "size_kb": 414.2
+      },
+      {
+        "path": "images/logos/UNICEF.png",
+        "count": 1,
+        "size_kb": 57.9
+      },
+      {
+        "path": "images/logos/Vodacom.png",
+        "count": 1,
+        "size_kb": 30.9
+      },
+      {
+        "path": "images/logos/WHO.jpeg",
+        "count": 1,
+        "size_kb": 165.8
+      },
+      {
+        "path": "images/logos/donors/Agency_fund.png",
+        "count": 1,
+        "size_kb": 17.2
+      },
+      {
+        "path": "images/logos/donors/ERC.png",
+        "count": 1,
+        "size_kb": 38.8
+      },
+      {
+        "path": "images/logos/donors/Human_safety_net.png",
+        "count": 1,
+        "size_kb": 3.9
+      },
+      {
+        "path": "images/logos/donors/LEGO.png",
+        "count": 1,
+        "size_kb": 9.3
+      },
+      {
+        "path": "images/logos/donors/Nuffield_college.png",
+        "count": 1,
+        "size_kb": 32.5
+      },
+      {
+        "path": "images/logos/donors/OAK.png",
+        "count": 1,
+        "size_kb": 17.7
+      },
+      {
+        "path": "images/logos/donors/UKRI.png",
+        "count": 1,
+        "size_kb": 25
+      },
+      {
+        "path": "images/logos/donors/WCF.jpg",
+        "count": 1,
+        "size_kb": 29.6
+      },
+      {
+        "path": "images/logos/donors/Wellspring.jpeg",
+        "count": 1,
+        "size_kb": 22.1
+      },
+      {
+        "path": "images/logos/donors/safe_online.png",
+        "count": 1,
+        "size_kb": 65.8
       },
       {
         "path": "images/logos/plh_logomark.png",

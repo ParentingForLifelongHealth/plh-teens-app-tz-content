@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 63720 KB | 63.7 MB |
-| unused | 591 KB | 0.6 MB |
+| total | 64792 KB | 64.8 MB |
+| unused | 820 KB | 0.8 MB |
 </details>
 
 <details open>
@@ -119,6 +119,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/question_blue.png | 3.4 |
 | images/icons/spark.png | 1.6 |
 | images/icons/star_outline_white.svg | 1 |
+| images/logos/ICS_SP.jpg | 228.8 |
 | images/logos/favicon.png | 6.3 |
 | images/logos/plh_white.png | 12.8 |
 | lottie/bulging_circles.txt | 0.2 |
@@ -134,7 +135,9 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
+| images/backgrounds/map_view_bg.jpg | 1 |
 | images/faces/tired.svg | 4 |
+| images/logos/ICS_SP.png | 1 |
 </details>
 
 <details >
@@ -369,8 +372,26 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/trophy_footer_active.svg | 3.9 | 1 |
 | images/icons/verified.svg | 0.5 | 1 |
 | images/icons/world.svg | 6.2 | 1 |
+| images/logos/CWBSA.png | 34.9 | 1 |
+| images/logos/GISP.png | 34.8 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
+| images/logos/NIMR.png | 29.6 | 1 |
+| images/logos/Oxford.png | 42 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
+| images/logos/UCT.png | 414.2 | 1 |
+| images/logos/UNICEF.png | 57.9 | 1 |
+| images/logos/Vodacom.png | 30.9 | 1 |
+| images/logos/WHO.jpeg | 165.8 | 1 |
+| images/logos/donors/Agency_fund.png | 17.2 | 1 |
+| images/logos/donors/ERC.png | 38.8 | 1 |
+| images/logos/donors/Human_safety_net.png | 3.9 | 1 |
+| images/logos/donors/LEGO.png | 9.3 | 1 |
+| images/logos/donors/Nuffield_college.png | 32.5 | 1 |
+| images/logos/donors/OAK.png | 17.7 | 1 |
+| images/logos/donors/UKRI.png | 25 | 1 |
+| images/logos/donors/WCF.jpg | 29.6 | 1 |
+| images/logos/donors/Wellspring.jpeg | 22.1 | 1 |
+| images/logos/donors/safe_online.png | 65.8 | 1 |
 | images/logos/plh_logomark.png | 20.5 | 2 |
 | images/logos/plh_white.svg | 256.1 | 1 |
 | images/onboarding/facilitator_onboarding_icon.svg | 29.4 | 1 |
