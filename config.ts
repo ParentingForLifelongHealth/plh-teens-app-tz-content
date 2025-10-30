@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_teens_tz", parent: "plh_kids"
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.4.1",
+  content_tag_latest: "1.4.2",
 };
 
 config.google_drive.sheets_folder_ids = [
@@ -16,7 +16,6 @@ config.google_drive.sheets_folder_ids = [
   "1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY" // teens_tz (GT)
 ];
 config.google_drive.assets_folder_ids = [
-  "13COzYq0iK7sXXZYekPgkwloWtuGoxBNt", // kids_teens_global
   "1DnLu9oZg7OgbGoaWrWCekCvgt67DNm7V" // teens_tz
 ];
 
