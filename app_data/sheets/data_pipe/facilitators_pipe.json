@@ -1,0 +1,33 @@
+{
+  "flow_type": "data_pipe",
+  "flow_name": "facilitators_pipe",
+  "status": "released",
+  "rows": [
+    {
+      "operation": "filter",
+      "args_list": [
+        "role == \"facilitator\""
+      ],
+      "input_source": "characters"
+    },
+    {
+      "operation": "map",
+      "args_list": [
+        "id: @row.id",
+        "text: @row.name",
+        "name: @row.id",
+        "image: @row.image_asset"
+      ],
+      "output_target": "facilitators"
+    }
+  ],
+  "_xlsxPath": "data/TZ characters.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+  "_output_flows": [
+    {
+      "flow_name": "facilitators",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
+}

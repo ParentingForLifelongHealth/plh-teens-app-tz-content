@@ -174,7 +174,7 @@
     {
       "type": "declare_field_default",
       "name": "facilitator_id",
-      "value": "facilitator",
+      "value": "facilitator_female",
       "_translations": {
         "value": {}
       },
@@ -183,7 +183,7 @@
     {
       "type": "declare_field_default",
       "name": "facilitator_name",
-      "value": "@data.characters.facilitator.name",
+      "value": "@data.characters.facilitator_female.name",
       "_translations": {
         "value": {}
       },

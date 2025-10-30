@@ -72,15 +72,6 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "facilitator_intro_image_asset",
-      "value": "images/onboarding/facilitator_onboarding_icon.svg",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true
-    },
-    {
-      "type": "declare_global_constant",
       "name": "facilitator_message_1",
       "value": "**Hello! My name is @fields.facilitator_name. I’m so glad you’re here!**\n\nI’ll be helping you learn using @global.app_name! In the next few steps, I’ll ask you a few questions, so that I can make your learning experience just right for you!",
       "_translations": {
@@ -251,52 +242,34 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "facilitator_selection_1",
-      "value": "Welcome to @global.app_name! To participate, you'll need a partner in parenting. There are 2 parenting experts to choose from:",
+      "name": "facilitator_selection_intro",
+      "value": "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "facilitator_selection_2",
-      "value": "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting. Who would you like to learn with?",
+      "name": "facilitator_female_intro",
+      "value": "Hi, I am @data.characters.facilitator_female.name! I am a grandmother of three and a retired social worker. I love sharing tools for parenting with love and respect.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "facilitator_selection_3",
-      "value": "Hi, I am @fields.facilitator_name! I am a grandmother of three and a retired social worker. I love sharing tools for parenting with love and respect.",
+      "name": "facilitator_male_intro",
+      "value": "Hi, I am @data.characters.facilitator_male.name! I am a retired teacher and a grandfather of two. I guide parents with warmth, firmness, and care.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "facilitator_selection_4",
-      "value": "Hi, I am @fields.facilitator_name! I am a retired teacher and a grandfather of two. I guide parents with warmth, firmness, and care.",
+      "name": "facilitator_selection_question",
+      "value": "Who would you like to learn with?",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "facilitator_selection_5",
-      "value": "Who would you like to be your guide?",
-      "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     }
   ],
