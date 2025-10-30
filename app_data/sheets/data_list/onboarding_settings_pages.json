@@ -6,18 +6,19 @@
   "rows": [
     {
       "id": "page_1",
-      "completed": false,
-      "completed_count": 0
+      "completed": false
     },
     {
       "id": "page_2",
-      "completed": false,
-      "completed_count": 1
+      "completed": false
     },
     {
       "id": "page_3",
-      "completed": false,
-      "completed_count": 2
+      "completed": false
+    },
+    {
+      "id": "page_4",
+      "completed": false
     }
   ],
   "_xlsxPath": "templates/TZ onboarding templates.xlsx",
@@ -25,9 +26,6 @@
   "_metadata": {
     "completed": {
       "type": "boolean"
-    },
-    "completed_count": {
-      "type": "number"
     }
   }
 }

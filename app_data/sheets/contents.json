@@ -140,6 +140,11 @@
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
+    "facilitators": {
+      "flow_name": "facilitators",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    },
     "grief_t_article_tasks": {
       "flow_name": "grief_t_article_tasks",
       "flow_subtype": "generated",
@@ -459,6 +464,18 @@
         }
       }
     },
+    "launch_actions_tz": {
+      "flow_type": "data_list",
+      "flow_subtype": "lifecycle_actions",
+      "flow_name": "launch_actions_tz",
+      "_xlsxPath": "templates/TZ onboarding templates.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+      "_metadata": {
+        "priority": {
+          "type": "number"
+        }
+      }
+    },
     "misc_global": {
       "flow_type": "data_list",
       "flow_name": "misc_global",
@@ -731,9 +748,6 @@
       "_metadata": {
         "completed": {
           "type": "boolean"
-        },
-        "completed_count": {
-          "type": "number"
         }
       }
     },
@@ -775,6 +789,19 @@
     }
   },
   "data_pipe": {
+    "facilitators_pipe": {
+      "flow_type": "data_pipe",
+      "flow_name": "facilitators_pipe",
+      "_xlsxPath": "data/TZ characters.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+      "_output_flows": [
+        {
+          "flow_name": "facilitators",
+          "flow_subtype": "generated",
+          "flow_type": "data_list"
+        }
+      ]
+    },
     "filter_relax": {
       "flow_type": "data_pipe",
       "flow_name": "filter_relax",
@@ -7524,9 +7551,27 @@
       "_xlsxPath": "templates/TZ onboarding templates.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
     },
-    "onboarding_splash": {
+    "onboarding_settings_page_4": {
       "flow_type": "template",
-      "flow_name": "onboarding_splash",
+      "flow_name": "onboarding_settings_page_4",
+      "_xlsxPath": "templates/TZ onboarding templates.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+    },
+    "onboarding_splash_auto": {
+      "flow_type": "template",
+      "flow_name": "onboarding_splash_auto",
+      "_xlsxPath": "PLH onboarding.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR"
+    },
+    "onboarding_splash_manual": {
+      "flow_type": "template",
+      "flow_name": "onboarding_splash_manual",
+      "_xlsxPath": "PLH onboarding.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR"
+    },
+    "onboarding_splash_slide": {
+      "flow_type": "template",
+      "flow_name": "onboarding_splash_slide",
       "_xlsxPath": "PLH onboarding.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR"
     },

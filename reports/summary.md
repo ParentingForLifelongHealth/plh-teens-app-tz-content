@@ -9,12 +9,12 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 80 |
+| button | 83 |
 | combo_box | 9 |
-| data_items | 102 |
+| data_items | 105 |
 | debug_toggle | 1 |
 | display_grid | 5 |
-| display_group | 85 |
+| display_group | 89 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 19 |
@@ -28,19 +28,19 @@
 | plh_module_list_item | 3 |
 | progress_path | 1 |
 | qr_code | 1 |
-| radio_button_grid | 8 |
-| round_button | 10 |
+| radio_button_grid | 9 |
+| round_button | 12 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1961 |
+| set_variable | 1988 |
 | simple_checkbox | 1 |
 | task_card | 6 |
-| task_progress_bar | 3 |
-| template | 655 |
-| text | 139 |
+| task_progress_bar | 4 |
+| template | 658 |
+| text | 142 |
 | text_area | 2 |
 | text_box | 12 |
-| text_bubble | 5 |
+| text_bubble | 7 |
 | tile_component | 2 |
 | title | 45 |
 | toggle_bar | 6 |
@@ -56,23 +56,23 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 475 |
+| emit: completed | 479 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 483 |
+| emit: uncompleted | 485 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 181 |
 | pop_up | 45 |
 | reset_app | 4 |
 | reset_data | 3 |
-| set_data | 48 |
-| set_field | 48 |
+| set_data | 52 |
+| set_field | 52 |
 | set_item | 38 |
-| set_local | 43 |
+| set_local | 45 |
 | task | 3 |
 | user | 3 |
 </details>
@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 65021 KB | 65 MB |
-| unused | 591 KB | 0.6 MB |
+| total | 64992 KB | 65 MB |
+| unused | 621 KB | 0.6 MB |
 </details>
 
 <details open>
@@ -97,7 +97,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| contents.json | 5.9 |
+| contents.json | 6.1 |
 | images/icons/balance_blue.png | 4.7 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |
@@ -121,6 +121,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/star_outline_white.svg | 1 |
 | images/logos/favicon.png | 6.3 |
 | images/logos/plh_white.png | 12.8 |
+| images/onboarding/facilitator_onboarding_icon.svg | 29.4 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
 | video/plh_video/lets_slow_down.srt | 1.7 |
@@ -267,7 +268,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/character_icons/FRIEND_MALE_2.svg | 22 | 1 |
 | images/character_icons/MAN_IN_CAR.svg | 13.2 | 1 |
 | images/character_icons/TEACHER_1.svg | 20.4 | 1 |
-| images/character_icons/TZ_FACILITATOR.svg | 17.7 | 1 |
+| images/character_icons/TZ_FACILITATOR.svg | 17.7 | 2 |
 | images/faces/angry.svg | 1.1 | 8 |
 | images/faces/confused.svg | 1.8 | 8 |
 | images/faces/happier.svg | 0.6 | 2 |
@@ -393,7 +394,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/donors/safe_online.png | 65.8 | 1 |
 | images/logos/plh_logomark.png | 20.5 | 2 |
 | images/logos/plh_white.svg | 256.1 | 1 |
-| images/onboarding/facilitator_onboarding_icon.svg | 29.4 | 1 |
 | images/onboarding/frustrated.svg | 22.5 | 1 |
 | images/onboarding/join_parents.svg | 37.6 | 1 |
 | images/onboarding/loving_parent.svg | 25.7 | 1 |
@@ -592,11 +592,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | check_in | 1 |
-| data_list | generated | 35 |
+| data_list | generated | 36 |
 | data_list | hp_review | 2 |
 | data_list | legal_terms | 2 |
 | data_list | library | 3 |
-| data_list | lifecycle_actions | 1 |
+| data_list | lifecycle_actions | 2 |
 | data_list | modules | 2 |
 | data_list | modules_celebrate_t | 1 |
 | data_list | modules_consequences_t | 1 |
@@ -616,13 +616,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | modules_stress_t | 1 |
 | data_list | onboarding | 1 |
 | data_list | relax | 1 |
-| data_pipe |  | 3 |
+| data_pipe |  | 4 |
 | data_pipe | generated | 32 |
 | generator |  | 31 |
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
-| template |  | 99 |
+| template |  | 102 |
 | template | generated | 502 |
 | template | legal_terms | 4 |
 </details>
