@@ -32,7 +32,7 @@
 | round_button | 12 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1988 |
+| set_variable | 1987 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 4 |
@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 64992 KB | 65 MB |
-| unused | 621 KB | 0.6 MB |
+| total | 65065 KB | 65.1 MB |
+| unused | 591 KB | 0.6 MB |
 </details>
 
 <details open>
@@ -121,7 +121,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/star_outline_white.svg | 1 |
 | images/logos/favicon.png | 6.3 |
 | images/logos/plh_white.png | 12.8 |
-| images/onboarding/facilitator_onboarding_icon.svg | 29.4 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
 | video/plh_video/lets_slow_down.srt | 1.7 |
@@ -268,7 +267,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/character_icons/FRIEND_MALE_2.svg | 22 | 1 |
 | images/character_icons/MAN_IN_CAR.svg | 13.2 | 1 |
 | images/character_icons/TEACHER_1.svg | 20.4 | 1 |
-| images/character_icons/TZ_FACILITATOR.svg | 17.7 | 2 |
+| images/character_icons/TZ_FACILITATOR_FEMALE.svg | 17.7 | 2 |
+| images/character_icons/TZ_FACILITATOR_MALE.svg | 22.4 | 2 |
 | images/faces/angry.svg | 1.1 | 8 |
 | images/faces/confused.svg | 1.8 | 8 |
 | images/faces/happier.svg | 0.6 | 2 |
@@ -394,6 +394,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/donors/safe_online.png | 65.8 | 1 |
 | images/logos/plh_logomark.png | 20.5 | 2 |
 | images/logos/plh_white.svg | 256.1 | 1 |
+| images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 1 |
+| images/onboarding/facilitator_male_onboarding_icon.svg | 21.6 | 1 |
 | images/onboarding/frustrated.svg | 22.5 | 1 |
 | images/onboarding/join_parents.svg | 37.6 | 1 |
 | images/onboarding/loving_parent.svg | 25.7 | 1 |

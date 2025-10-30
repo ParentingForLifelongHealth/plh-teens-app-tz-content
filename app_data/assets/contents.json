@@ -1146,9 +1146,13 @@
     "md5Checksum": "33c35f1ceb36a2d44783463c33f06260",
     "size_kb": 20.4
   },
-  "images/character_icons/TZ_FACILITATOR.svg": {
+  "images/character_icons/TZ_FACILITATOR_FEMALE.svg": {
     "md5Checksum": "2199174ba65218322839c6201663ae07",
     "size_kb": 17.7
+  },
+  "images/character_icons/TZ_FACILITATOR_MALE.svg": {
+    "md5Checksum": "69b3b8d11f7917f6baa76f4f9bc30545",
+    "size_kb": 22.4
   },
   "images/faces/angry.svg": {
     "md5Checksum": "fbed8e862bed4c3a20cc76fddaa29f6f",
@@ -1742,9 +1746,13 @@
     "md5Checksum": "13fd07dd63d468100f36e87dcb4c276a",
     "size_kb": 256.1
   },
-  "images/onboarding/facilitator_onboarding_icon.svg": {
+  "images/onboarding/facilitator_female_onboarding_icon.svg": {
     "md5Checksum": "3589dbd3034e59b2c08b606fb8c7317c",
     "size_kb": 29.4
+  },
+  "images/onboarding/facilitator_male_onboarding_icon.svg": {
+    "md5Checksum": "79eedef01fee8a4ce1a385bfbd0af8b0",
+    "size_kb": 21.6
   },
   "images/onboarding/frustrated.svg": {
     "md5Checksum": "23b81d9fc4c0db3713281de53d658618",
