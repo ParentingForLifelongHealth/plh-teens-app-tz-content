@@ -10542,32 +10542,26 @@
     "note": "The string @global.app_name? should not be translated."
   },
   {
-    "SourceText": "Welcome to @global.app_name! To participate, you'll need a partner in parenting. There are 2 parenting experts to choose from:",
-    "text": "Karibu kwenye @global.app_name! Ili kushiriki, utahitaji mwenza wa malezi. Kuna wataalamu wawili wa malezi ambao unaweza kuchagua:",
+    "SourceText": "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting.",
+    "text": "Karibu kwenye @global.app_name! Tunafurahi sana uko hapa! Ebu tutafute muongozo sahihi wa kukusaidia katika malezi yako.",
     "type": "global",
     "note": "The string @global.app_name! should not be translated."
   },
   {
-    "SourceText": "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting. Who would you like to learn with?",
-    "text": "Karibu kwenye @global.app_name! Tunafurahi sana uko hapa! Ebu tutafute muongozo sahihi wa kukusaidia katika malezi yako. Ungependa kujifunza na nani?",
+    "SourceText": "Hi, I am @data.characters.facilitator_female.name! I am a grandmother of three and a retired social worker. I love sharing tools for parenting with love and respect.",
+    "text": "Habari! Naitwa @data.characters.facilitator_female.name! Mimi ni bibi wa wajukuu watatu na mstaafu wa kazi ya ustawi wa jamii. Napenda kushirikishana nyenzo za malezi kwa upendo na heshima.",
     "type": "global",
-    "note": "The string @global.app_name! should not be translated."
+    "note": "The string @data.characters.facilitator_female.name! should not be translated."
   },
   {
-    "SourceText": "Hi, I am @fields.facilitator_name! I am a grandmother of three and a retired social worker. I love sharing tools for parenting with love and respect.",
-    "text": "Habari! Naitwa @fields.facilitator_name! Mimi ni bibi wa wajukuu watatu na mstaafu wa kazi ya ustawi wa jamii. Napenda kushirikishana nyenzo za malezi kwa upendo na heshima.",
+    "SourceText": "Hi, I am @data.characters.facilitator_male.name! I am a retired teacher and a grandfather of two. I guide parents with warmth, firmness, and care.",
+    "text": "Habari, ninaitwa @data.characters.facilitator_male.name! Mimi ni mwalimu mstaafu na babu wa wajukuu wawili. Naongoza wazazi kwa Upendo, upole na kwa kujali.",
     "type": "global",
-    "note": "The string @fields.facilitator_name! should not be translated."
+    "note": "The string @data.characters.facilitator_male.name! should not be translated."
   },
   {
-    "SourceText": "Hi, I am @fields.facilitator_name! I am a retired teacher and a grandfather of two. I guide parents with warmth, firmness, and care.",
-    "text": "Habari, ninaitwa @fields.facilitator_name! Mimi ni mwalimu mstaafu na babu wa wajukuu wawili. Naongoza wazazi kwa Upendo, upole na kwa kujali.",
-    "type": "global",
-    "note": "The string @fields.facilitator_name! should not be translated."
-  },
-  {
-    "SourceText": "Who would you like to be your guide?",
-    "text": "Je, ungependa Nani awe kiongozi wako?",
+    "SourceText": "Who would you like to learn with?",
+    "text": "Ungependa kujifunza na nani?",
     "type": "global",
     "note": ""
   },
