@@ -96,30 +96,6 @@
       }
     },
     {
-      "name": "speaker_image_asset",
-      "value": "@local.facilitator_row.image_asset",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "speaker_image_asset",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.facilitator_row.image_asset",
-            "matchedExpression": "@local.facilitator_row.image_asset",
-            "type": "local",
-            "fieldName": "facilitator_row"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.facilitator_row.image_asset": [
-          "value"
-        ]
-      }
-    },
-    {
       "type": "text_bubble",
       "name": "text_bubble",
       "value": "@global.facilitator_message_1",
@@ -174,7 +150,7 @@
     {
       "type": "image",
       "name": "image",
-      "value": "@local.speaker_image_asset",
+      "value": "@local.facilitator_row.intro_image_asset",
       "_translations": {
         "value": {}
       },
@@ -182,15 +158,15 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.speaker_image_asset",
-            "matchedExpression": "@local.speaker_image_asset",
+            "fullExpression": "@local.facilitator_row.intro_image_asset",
+            "matchedExpression": "@local.facilitator_row.intro_image_asset",
             "type": "local",
-            "fieldName": "speaker_image_asset"
+            "fieldName": "facilitator_row"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.speaker_image_asset": [
+        "@local.facilitator_row.intro_image_asset": [
           "value"
         ]
       }
