@@ -245,7 +245,9 @@
       "name": "facilitator_selection_intro",
       "value": "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -253,7 +255,9 @@
       "name": "facilitator_female_intro",
       "value": "Hi, I am @data.characters.facilitator_female.name! I am a grandmother of three and a retired social worker. I love sharing tools for parenting with love and respect.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -261,7 +265,9 @@
       "name": "facilitator_male_intro",
       "value": "Hi, I am @data.characters.facilitator_male.name! I am a retired teacher and a grandfather of two. I guide parents with warmth, firmness, and care.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -269,7 +275,9 @@
       "name": "facilitator_selection_question",
       "value": "Who would you like to learn with?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     }
   ],

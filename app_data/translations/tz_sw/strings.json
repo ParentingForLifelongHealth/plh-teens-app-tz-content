@@ -1657,11 +1657,10 @@
   "Please enter a number between 1 and 20.": "Tafadhali ingiza namba kati ya 1 na 20.",
   "**Thanks @fields.user_name.**\n\nTo get started, let’s focus on the child you have the most challenges with so I can give you the right guidance for their age.": "**Asante @fields.user_name.**\n\nKwa kuanza, hebu tuangalie kwa mtoto ambaye unapata changamoto nyingi zaidi ili niweze kukupa mwongozo sahihi kulingana na umri wake.",
   "How old is the child you will focus on in @global.app_name?": "Mtoto ambaye utamzingatia katika @global.app_name ana umri wa miaka mingapi?",
-  "Welcome to @global.app_name! To participate, you'll need a partner in parenting. There are 2 parenting experts to choose from:": "Karibu kwenye @global.app_name! Ili kushiriki, utahitaji mwenza wa malezi. Kuna wataalamu wawili wa malezi ambao unaweza kuchagua:",
-  "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting. Who would you like to learn with?": "Karibu kwenye @global.app_name! Tunafurahi sana uko hapa! Ebu tutafute muongozo sahihi wa kukusaidia katika malezi yako. Ungependa kujifunza na nani?",
-  "Hi, I am @fields.facilitator_name! I am a grandmother of three and a retired social worker. I love sharing tools for parenting with love and respect.": "Habari! Naitwa @fields.facilitator_name! Mimi ni bibi wa wajukuu watatu na mstaafu wa kazi ya ustawi wa jamii. Napenda kushirikishana nyenzo za malezi kwa upendo na heshima.",
-  "Hi, I am @fields.facilitator_name! I am a retired teacher and a grandfather of two. I guide parents with warmth, firmness, and care.": "Habari, ninaitwa @fields.facilitator_name! Mimi ni mwalimu mstaafu na babu wa wajukuu wawili. Naongoza wazazi kwa Upendo, upole na kwa kujali.",
-  "Who would you like to be your guide?": "Je, ungependa Nani awe kiongozi wako?",
+  "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting.": "Karibu kwenye @global.app_name! Tunafurahi sana uko hapa! Ebu tutafute muongozo sahihi wa kukusaidia katika malezi yako.",
+  "Hi, I am @data.characters.facilitator_female.name! I am a grandmother of three and a retired social worker. I love sharing tools for parenting with love and respect.": "Habari! Naitwa @data.characters.facilitator_female.name! Mimi ni bibi wa wajukuu watatu na mstaafu wa kazi ya ustawi wa jamii. Napenda kushirikishana nyenzo za malezi kwa upendo na heshima.",
+  "Hi, I am @data.characters.facilitator_male.name! I am a retired teacher and a grandfather of two. I guide parents with warmth, firmness, and care.": "Habari, ninaitwa @data.characters.facilitator_male.name! Mimi ni mwalimu mstaafu na babu wa wajukuu wawili. Naongoza wazazi kwa Upendo, upole na kwa kujali.",
+  "Who would you like to learn with?": "Ungependa kujifunza na nani?",
   "Welcome to \n@global.app_name!": "Karibu kwenye \n@global.app_name!",
   "Creating an account allows you to save your progress across devices. It is optional.": "Kufungua akaunti hukuruhusu kuhifadhi maendeleo yako kwenye vifaa vyote. Ni hiari.",
   "Continue with Apple": "Endelea na Apple",
