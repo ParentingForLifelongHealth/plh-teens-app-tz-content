@@ -178,8 +178,7 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit: uncompleted"
         }
       ],
       "rows": [
@@ -452,7 +451,6 @@
                     "open"
                   ],
                   "_raw": "click | nav_stack: open | template: @local.article_prefix@item.id, header: false",
-                  "_cleaned": "click | nav_stack: open | template: @local.article_prefix@item.id, header: false",
                   "params": {
                     "template": "@local.article_prefix@item.id",
                     "header": false
@@ -486,20 +484,6 @@
                 "action_list": {
                   "0": {
                     "_raw": [
-                      {
-                        "fullExpression": "click | nav_stack: open | template: @local.article_prefix@item.id, header: false",
-                        "matchedExpression": "@local.article_prefix",
-                        "type": "local",
-                        "fieldName": "article_prefix"
-                      },
-                      {
-                        "fullExpression": "click | nav_stack: open | template: @local.article_prefix@item.id, header: false",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
-                    ],
-                    "_cleaned": [
                       {
                         "fullExpression": "click | nav_stack: open | template: @local.article_prefix@item.id, header: false",
                         "matchedExpression": "@local.article_prefix",
@@ -570,7 +554,6 @@
                 "@item.id": [
                   "name",
                   "action_list.0._raw",
-                  "action_list.0._cleaned",
                   "action_list.0.params.template",
                   "_nested_name"
                 ],
@@ -580,7 +563,6 @@
                 ],
                 "@local.article_prefix": [
                   "action_list.0._raw",
-                  "action_list.0._cleaned",
                   "action_list.0.params.template"
                 ],
                 "@item.image_asset": [
