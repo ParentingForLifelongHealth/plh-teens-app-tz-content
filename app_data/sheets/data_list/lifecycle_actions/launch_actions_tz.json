@@ -19,8 +19,7 @@
             "facilitator_id",
             "facilitator_female"
           ],
-          "_raw": "set_field: facilitator_id: facilitator_female",
-          "_cleaned": "click | set_field: facilitator_id: facilitator_female"
+          "_raw": "set_field: facilitator_id: facilitator_female"
         },
         {
           "trigger": "click",
@@ -29,8 +28,7 @@
             "facilitator_name",
             "@data.characters.facilitator_female.name"
           ],
-          "_raw": "set_field: facilitator_name: @data.characters.facilitator_female.name",
-          "_cleaned": "click | set_field: facilitator_name: @data.characters.facilitator_female.name"
+          "_raw": "set_field: facilitator_name: @data.characters.facilitator_female.name"
         }
       ]
     }

@@ -305,8 +305,7 @@
                     "display_modules_as_list",
                     "this.value"
                   ],
-                  "_raw": "changed | set_field: display_modules_as_list: @local.display_modules_as_list",
-                  "_cleaned": "changed | set_field: display_modules_as_list: @local.display_modules_as_list"
+                  "_raw": "changed | set_field: display_modules_as_list: @local.display_modules_as_list"
                 }
               ],
               "parameter_list": {
@@ -331,14 +330,6 @@
                 "action_list": {
                   "0": {
                     "_raw": [
-                      {
-                        "fullExpression": "changed | set_field: display_modules_as_list: @local.display_modules_as_list",
-                        "matchedExpression": "@local.display_modules_as_list",
-                        "type": "local",
-                        "fieldName": "display_modules_as_list"
-                      }
-                    ],
-                    "_cleaned": [
                       {
                         "fullExpression": "changed | set_field: display_modules_as_list: @local.display_modules_as_list",
                         "matchedExpression": "@local.display_modules_as_list",
@@ -372,8 +363,7 @@
                   "value"
                 ],
                 "@local.display_modules_as_list": [
-                  "action_list.0._raw",
-                  "action_list.0._cleaned"
+                  "action_list.0._raw"
                 ],
                 "@local.false_text": [
                   "parameter_list.false_text"
@@ -404,7 +394,6 @@
                   "action_id": "set_item",
                   "args": [],
                   "_raw": "completed | set_item | homescreen_quickstart_click_history: @local.now",
-                  "_cleaned": "completed | set_item | homescreen_quickstart_click_history: @local.now",
                   "params": {
                     "homescreen_quickstart_click_history": "@local.now"
                   }
@@ -421,14 +410,6 @@
                 "action_list": {
                   "0": {
                     "_raw": [
-                      {
-                        "fullExpression": "completed | set_item | homescreen_quickstart_click_history: @local.now",
-                        "matchedExpression": "@local.now",
-                        "type": "local",
-                        "fieldName": "now"
-                      }
-                    ],
-                    "_cleaned": [
                       {
                         "fullExpression": "completed | set_item | homescreen_quickstart_click_history: @local.now",
                         "matchedExpression": "@local.now",
@@ -460,7 +441,6 @@
               "_dynamicDependencies": {
                 "@local.now": [
                   "action_list.0._raw",
-                  "action_list.0._cleaned",
                   "action_list.0.params.homescreen_quickstart_click_history"
                 ],
                 "!@local.has_been_clicked_previously": [
@@ -478,7 +458,6 @@
                   "action_id": "set_item",
                   "args": [],
                   "_raw": "completed | set_item | homescreen_quickstart_click_history: @local.updated_value",
-                  "_cleaned": "completed | set_item | homescreen_quickstart_click_history: @local.updated_value",
                   "params": {
                     "homescreen_quickstart_click_history": "@local.updated_value"
                   }
@@ -495,14 +474,6 @@
                 "action_list": {
                   "0": {
                     "_raw": [
-                      {
-                        "fullExpression": "completed | set_item | homescreen_quickstart_click_history: @local.updated_value",
-                        "matchedExpression": "@local.updated_value",
-                        "type": "local",
-                        "fieldName": "updated_value"
-                      }
-                    ],
-                    "_cleaned": [
                       {
                         "fullExpression": "completed | set_item | homescreen_quickstart_click_history: @local.updated_value",
                         "matchedExpression": "@local.updated_value",
@@ -534,7 +505,6 @@
               "_dynamicDependencies": {
                 "@local.updated_value": [
                   "action_list.0._raw",
-                  "action_list.0._cleaned",
                   "action_list.0.params.homescreen_quickstart_click_history"
                 ],
                 "@local.has_been_clicked_previously": [

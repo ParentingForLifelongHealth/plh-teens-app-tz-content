@@ -383,8 +383,7 @@
               "args": [
                 "completed"
               ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
+              "_raw": "click | emit: completed"
             },
             {
               "trigger": "click",
@@ -393,8 +392,7 @@
                 "facilitator_id",
                 "@local.facilitator_id"
               ],
-              "_raw": "click | set_field: facilitator_id: @local.facilitator_id",
-              "_cleaned": "click | set_field: facilitator_id: @local.facilitator_id"
+              "_raw": "click | set_field: facilitator_id: @local.facilitator_id"
             },
             {
               "trigger": "click",
@@ -403,8 +401,7 @@
                 "facilitator_name",
                 "@local.facilitator_name"
               ],
-              "_raw": "click | set_field: facilitator_name: @local.facilitator_name",
-              "_cleaned": "click | set_field: facilitator_name: @local.facilitator_name"
+              "_raw": "click | set_field: facilitator_name: @local.facilitator_name"
             }
           ],
           "parameter_list": {
@@ -444,14 +441,6 @@
                     "type": "local",
                     "fieldName": "facilitator_id"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field: facilitator_id: @local.facilitator_id",
-                    "matchedExpression": "@local.facilitator_id",
-                    "type": "local",
-                    "fieldName": "facilitator_id"
-                  }
                 ]
               },
               "2": {
@@ -466,14 +455,6 @@
                   ]
                 },
                 "_raw": [
-                  {
-                    "fullExpression": "click | set_field: facilitator_name: @local.facilitator_name",
-                    "matchedExpression": "@local.facilitator_name",
-                    "type": "local",
-                    "fieldName": "facilitator_name"
-                  }
-                ],
-                "_cleaned": [
                   {
                     "fullExpression": "click | set_field: facilitator_name: @local.facilitator_name",
                     "matchedExpression": "@local.facilitator_name",
@@ -500,13 +481,11 @@
             ],
             "@local.facilitator_id": [
               "action_list.1.args.1",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ],
             "@local.facilitator_name": [
               "action_list.2.args.1",
-              "action_list.2._raw",
-              "action_list.2._cleaned"
+              "action_list.2._raw"
             ],
             "!@local.completed_enabled": [
               "parameter_list.disabled"
