@@ -158,6 +158,9 @@
       "_nested_name": "dg_box"
     }
   ],
-  "_xlsxPath": "templates/TZ article_elements.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+  "_source": {
+    "name": "1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+    "path": "templates/TZ article_elements.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1jW6eYzFKgELO6kGoPsXmKDO1RS_fOsipCB467mQzne8"
+  }
 }

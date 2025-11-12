@@ -584,6 +584,9 @@
       }
     }
   ],
-  "_xlsxPath": "templates/TZ library templates.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+  "_source": {
+    "name": "1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+    "path": "templates/TZ library templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1MGs2gu5skGfdltNo18dLS3cqGmyT_m3h4SlWpZi0cJQ"
+  }
 }

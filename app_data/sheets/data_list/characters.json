@@ -570,8 +570,11 @@
       "name": "Wema"
     }
   ],
-  "_xlsxPath": "data/TZ characters.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+  "_source": {
+    "name": "1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+    "path": "data/TZ characters.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1F07jqq33WYeJNFOlW0-GRFEX2wZBVBMcdjTSvdGkvLk"
+  },
   "_metadata": {
     "family_no": {
       "type": "number"

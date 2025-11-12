@@ -243,7 +243,7 @@
       },
       {
         "type": "set_data",
-        "count": 52
+        "count": 53
       },
       {
         "type": "set_field",
@@ -259,7 +259,7 @@
       },
       {
         "type": "task",
-        "count": 3
+        "count": 2
       },
       {
         "type": "user",
@@ -301,7 +301,7 @@
       },
       {
         "path": "contents.json",
-        "size_kb": 5.9
+        "size_kb": 6.1
       },
       {
         "path": "images/icons/balance_blue.png",

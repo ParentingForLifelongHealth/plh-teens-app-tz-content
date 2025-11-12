@@ -748,14 +748,13 @@
                     },
                     {
                       "trigger": "completed",
-                      "action_id": "task",
-                      "args": [
-                        "evaluate"
-                      ],
-                      "_raw": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
+                      "action_id": "set_data",
+                      "args": [],
+                      "_raw": "completed | set_data | _list_id: module_tasks, _id: @local.module_id, completed: true",
                       "params": {
-                        "data_list_name": "module_tasks",
-                        "row_id": "@local.module_id"
+                        "_list_id": "module_tasks",
+                        "_id": "@local.module_id",
+                        "completed": true
                       }
                     },
                     {
@@ -874,14 +873,14 @@
                       "2": {
                         "_raw": [
                           {
-                            "fullExpression": "completed | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id",
+                            "fullExpression": "completed | set_data | _list_id: module_tasks, _id: @local.module_id, completed: true",
                             "matchedExpression": "@local.module_id",
                             "type": "local",
                             "fieldName": "module_id"
                           }
                         ],
                         "params": {
-                          "row_id": [
+                          "_id": [
                             {
                               "fullExpression": "@local.module_id",
                               "matchedExpression": "@local.module_id",
@@ -967,7 +966,7 @@
                     ],
                     "@local.module_id": [
                       "action_list.2._raw",
-                      "action_list.2.params.row_id",
+                      "action_list.2.params._id",
                       "action_list.3._raw",
                       "action_list.3.params._id"
                     ],
@@ -1042,6 +1041,9 @@
       }
     }
   ],
-  "_xlsxPath": "templates/modules/module_navigation.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU"
+  "_source": {
+    "name": "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
+    "path": "templates/modules/module_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1MeuVFYp7ovMCABdgC5c1mExgDK8Xop13fzzBNR5EAPo"
+  }
 }

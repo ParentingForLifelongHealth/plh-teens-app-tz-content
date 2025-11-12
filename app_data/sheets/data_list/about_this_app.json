@@ -6,19 +6,20 @@
   "rows": [
     {
       "id": "text_1",
-      "text": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 2 to 9 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:",
+      "text": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 10 to 17 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:",
       "_translations": {
-        "text": {
-          "tz_sw": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 2 to 9 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:"
+          "eng": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 10 to 17 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:"
         }
       }
     }
   ],
-  "_xlsxPath": "data/deployment_data_tz.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+  "_source": {
+    "name": "1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+    "path": "data/deployment_data_tz.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1DjzYwjPkUV-meBwiePiDB00TN5zXa2l0gsSk6LU6ZNA"
+  }
 }

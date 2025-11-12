@@ -352,8 +352,11 @@
       "media_transcript": "When my mother asked to spend time with me, I thought “Maybe something is wrong, maybe she is sick.” But she said “No, I just want to spend time.” I was sceptical, but I accepted.\n\nShe asked me what I like doing. It was strange and I was not comfortable, because she never ever spent time with me on my own.\n\nThe more she kept on trying and we spent this time together, it felt really nice. She got to share her own childhood with me, things I never heard before. That helped me to also share what is going on in my life. We even talk about boyfriends and about problems I have. I know I can talk to my mother now."
     }
   ],
-  "_xlsxPath": "data/TZ modules.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+  "_source": {
+    "name": "1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+    "path": "data/TZ modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+  },
   "_metadata": {
     "nested": {
       "type": "boolean"
