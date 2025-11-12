@@ -7,16 +7,17 @@ config.git = {
   content_tag_latest: "1.4.7",
 };
 
-config.google_drive.sheets_folder_ids = [
-  "19wSspWYMbRc75een-kS0q0aq24--75u8", // library_app_menu
-  "1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo", // library_field_values
-  "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU", // kids_global
-  "1GnKk8luhnYcWobeeEfbR23ZSoZakcNF9", // kids_teens_global
-  "1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR", // library PLH onboarding
-  "1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY" // teens_tz (GT)
+config.google_drive.sheets_folders = [
+  { id: "19wSspWYMbRc75een-kS0q0aq24--75u8", name: "library_app_menu" },
+  { id: "1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo", name: "library_field_values" },
+  { id: "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU", name: "kids_global" },
+  { id: "1GnKk8luhnYcWobeeEfbR23ZSoZakcNF9", name: "kids_teens_global" },
+  { id: "1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR", name: "library_PLH_onboarding" },
+  { id: "1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY", name: "teens_tz_GT" }
 ];
-config.google_drive.assets_folder_ids = [
-  "1DnLu9oZg7OgbGoaWrWCekCvgt67DNm7V" // teens_tz
+
+config.google_drive.assets_folders = [
+  { id: "1DnLu9oZg7OgbGoaWrWCekCvgt67DNm7V", name: "teens_tz" }
 ];
 
 config.firebase = {
