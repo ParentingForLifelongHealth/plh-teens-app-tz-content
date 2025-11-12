@@ -243,21 +243,17 @@
     {
       "type": "declare_global_constant",
       "name": "facilitator_selection_intro",
-      "value": "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting.",
+      "value": "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting journey.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
       "name": "facilitator_female_intro",
-      "value": "Hi, I am @data.characters.facilitator_female.name! I am a grandmother of three and a retired social worker. I love sharing tools for parenting with love and respect.",
+      "value": "Hi, I’m @data.characters.facilitator_female.name! I’m a social worker and grandmother of three. I guide parents to raise their children with confidence and care.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -281,6 +277,9 @@
       }
     }
   ],
-  "_xlsxPath": "data/TZ onboarding.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+  "_source": {
+    "name": "teens_tz_GT",
+    "path": "data/TZ onboarding.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1V1i6pGZASQWux3EkVtDhO7zPw7rR1E0Y7H_5Ld0DEfI"
+  }
 }

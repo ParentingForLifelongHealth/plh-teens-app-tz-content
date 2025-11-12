@@ -69,11 +69,11 @@
 | pop_up | 45 |
 | reset_app | 4 |
 | reset_data | 3 |
-| set_data | 52 |
+| set_data | 53 |
 | set_field | 52 |
 | set_item | 38 |
 | set_local | 45 |
-| task | 3 |
+| task | 2 |
 | user | 3 |
 </details>
 
@@ -97,7 +97,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 58.3 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| contents.json | 5.9 |
+| contents.json | 6.1 |
 | images/icons/balance_blue.png | 4.7 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |

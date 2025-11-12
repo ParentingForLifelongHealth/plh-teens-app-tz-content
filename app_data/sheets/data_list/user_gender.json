@@ -50,6 +50,9 @@
       }
     }
   ],
-  "_xlsxPath": "data/deployment_data_tz.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+  "_source": {
+    "name": "teens_tz_GT",
+    "path": "data/deployment_data_tz.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1DjzYwjPkUV-meBwiePiDB00TN5zXa2l0gsSk6LU6ZNA"
+  }
 }

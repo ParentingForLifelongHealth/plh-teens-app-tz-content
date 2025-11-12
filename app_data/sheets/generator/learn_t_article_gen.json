@@ -45,8 +45,11 @@
       ]
     }
   ],
-  "_xlsxPath": "templates/TZ article template generators.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+  "_source": {
+    "name": "teens_tz_GT",
+    "path": "templates/TZ article template generators.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1CDtCRX3VkNu3vGke8LEytfNAQpcixV-w5n6xQiE0IA0"
+  },
   "_output_flows": [
     {
       "flow_name": "article_learn_t_intro_1",

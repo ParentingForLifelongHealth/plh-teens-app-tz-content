@@ -589,6 +589,9 @@
       "transcript": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!"
     }
   ],
-  "_xlsxPath": "data/TZ relax.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+  "_source": {
+    "name": "teens_tz_GT",
+    "path": "data/TZ relax.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1NBd65FCeEc-EjcmHx2UDXOCES0ssZB97WgoojPb8aZM"
+  }
 }

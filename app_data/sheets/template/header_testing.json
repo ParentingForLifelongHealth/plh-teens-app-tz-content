@@ -303,6 +303,9 @@
       }
     }
   ],
-  "_xlsxPath": "templates/TZ app_navigation.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY"
+  "_source": {
+    "name": "teens_tz_GT",
+    "path": "templates/TZ app_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1UjnrSmRlo6n5zIC2JG1_FVnA5Q6bazApMU2QXIbOgw0"
+  }
 }

@@ -49,8 +49,11 @@
       ]
     }
   ],
-  "_xlsxPath": "templates/TZ library templates.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1jTQBDciOZaQdLuXUk-YDO9r3yUrtX5uY",
+  "_source": {
+    "name": "teens_tz_GT",
+    "path": "templates/TZ library templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1MGs2gu5skGfdltNo18dLS3cqGmyT_m3h4SlWpZi0cJQ"
+  },
   "_output_flows": [
     {
       "flow_name": "library_article_selfcare_t_tips_1",
