@@ -540,8 +540,8 @@
       "flow_subtype": "modules",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       }
     },
     "modules": {
@@ -551,8 +551,8 @@
       "flow_subtype": "modules",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "number": {
@@ -568,8 +568,8 @@
       "module": "celebrate_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -585,8 +585,8 @@
       "module": "consequences_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -602,8 +602,8 @@
       "module": "crisis_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -619,8 +619,8 @@
       "module": "grief_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -636,8 +636,8 @@
       "module": "instructions_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -653,8 +653,8 @@
       "module": "learn_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -670,8 +670,8 @@
       "module": "money_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -687,8 +687,8 @@
       "module": "oneononetime_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -704,8 +704,8 @@
       "module": "praise_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -721,8 +721,8 @@
       "module": "problemsolving_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -738,8 +738,8 @@
       "module": "rules_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -755,8 +755,8 @@
       "module": "safety_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -772,8 +772,8 @@
       "module": "selfcare_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -789,8 +789,8 @@
       "module": "srh_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -806,8 +806,8 @@
       "module": "stayingsafe_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -823,8 +823,8 @@
       "module": "stress_t",
       "_source": {
         "name": "teens_tz_GT",
-        "path": "data/TZ modules.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+        "path": "data/TZ modules 2.0.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
         "nested": {
@@ -4602,7 +4602,7 @@
       "flow_type": "global",
       "flow_name": "deployment_global_tz",
       "override_target": "deployment_global",
-      "override_condition": "@fields._deployment_name == \"plh_teens_tz\"",
+      "override_condition": "(@fields._deployment_name == \"plh_teens_tz\") || (@fields._deployment_name == \"plh_teens_tz_gt\")",
       "_source": {
         "name": "teens_tz_GT",
         "path": "data/deployment_data_tz.xlsx",

@@ -104,7 +104,6 @@
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/safe_intro_t.mp3",
       "media_type": "audio",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today's topic is about teen safety.\n\nTeens can spend a lot of time outside the house or online, where it is harder for us to keep them safe.\n\nTalking together about safe and unsafe places, and how to prevent problems, really helps!"
@@ -138,7 +137,6 @@
       "id": "intro_2",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_safe_t.mp3",
       "media_type": "audio",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Sometimes our teens know things about their environment that we might not realise - and by talking, we can learn how to support them better."
@@ -170,7 +168,6 @@
     },
     {
       "id": "explore_1",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "The most important way to help keep your teen safe is to make sure that they know they can talk to you about anything. \n\nYou can also come up with a Safety Word - a simple word your teen can use to let you know they have a problem, without fear of you getting angry. \n\nLet's see how this worked for @data.characters.f1_mother.name and her daughter @data.characters.f1_daughter_16.name:"
@@ -205,7 +202,6 @@
     },
     {
       "id": "explore_2",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Hey beautiful. I have been looking at you for a while. You are very beautiful, what is your name?"
@@ -233,7 +229,6 @@
     },
     {
       "id": "explore_3",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "character_1_text": {
           "eng": "@data.characters.f1_daughter_16.name, would you like to come with me to have something to drink and chips? Come on, get in, you will be back in time, I promise…"
@@ -261,7 +256,6 @@
     },
     {
       "id": "explore_4",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "character_1_text": {
           "eng": "You are lucky, my friend. I wish a man would ask ME out and buy me gifts. I am telling you, if you do not do this I’m going to tell everyone you are stupid!"
@@ -281,7 +275,6 @@
     },
     {
       "id": "explore_5",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "character_1_text": {
           "eng": "@data.characters.f1_daughter_16.name do not go! Be careful! Let’s go home. It is dangerous to go with people you do not know. Besides, he is too old for you and what he is doing is wrong."
@@ -309,7 +302,6 @@
     },
     {
       "id": "explore_6",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Pfff, I am so proud of you for not getting into the car. That was a dangerous situation, thank you for telling me!\n\nYou can always call me or talk to me when something like this happens. We can even use a Safety Word, so I know something is wrong - and I promise I will not be angry."
@@ -337,7 +329,6 @@
     },
     {
       "id": "explore_7",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's think about what happened to @data.characters.f1_daughter_16.name."
@@ -432,7 +423,6 @@
     },
     {
       "id": "explore_8",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's look at another example of a dangerous situation together."
@@ -459,7 +449,6 @@
     },
     {
       "id": "explore_9",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "character_1_text": {
           "eng": "You are a good friend for being worried about her. Sending sexy photos is a real risk too.\n\nSometimes people are not who they say they are online – he could say he is your age but be a 50-year-old man. Or when they break up, he could send those photos to everyone and your friend would feel awful."
@@ -479,7 +468,6 @@
     },
     {
       "id": "explore_10",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Things like that can happen to any teen, so let's think about our teens' online safety."
@@ -574,7 +562,6 @@
     },
     {
       "id": "practise_1",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "To keep our teens safe, we need to understand the dangerous situations they could get into! \n\nLet’s get practical now, and draw two maps of safe and unsafe places:\n- 🗺️ A map of our community\n- 🌐 A map of apps/websites we use online"
@@ -627,7 +614,6 @@
     },
     {
       "id": "practise_2",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Step 1: Draw all the important places in your community."
@@ -653,7 +639,6 @@
     },
     {
       "id": "practise_3",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Step 2: Choose which places are safe and unsafe."
@@ -679,7 +664,6 @@
     },
     {
       "id": "practise_4",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Step 3: Identify where you can get support."
@@ -705,7 +689,6 @@
     },
     {
       "id": "practise_5",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Step 4: Now recognise the risky places online and how you can make them safer."
@@ -731,7 +714,6 @@
     },
     {
       "id": "tips_1",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are some skills to help you keep your teen safe!"
@@ -822,7 +804,6 @@
     },
     {
       "id": "home_activity_1",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "If you have not done it together yet, this week's home assignment is to make two maps with your teen of safe and unsafe places:\n\n1) 🗺️ Map of your community\n2) 🌐 Map of apps and websites your teen uses\n\nMake sure you are both happy with the safety plan. What really matters is that you talk with your teen as you do this – often teens know much more than we do about where it is safe and unsafe!"
@@ -891,7 +872,6 @@
       "id": "teen_test_1",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_safe_t.mp3",
       "media_type": "audio",
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "When teens know they can turn to us without fear, they are more likely to ask for help when something feels unsafe - both offline and online. Talking calmly and making safety plans together builds trust that lasts."

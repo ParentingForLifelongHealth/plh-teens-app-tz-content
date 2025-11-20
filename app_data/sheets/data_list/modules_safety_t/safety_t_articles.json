@@ -12,7 +12,6 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/topic_intros/safe_intro_t.mp3",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "Today's topic is about teen safety.\n\nTeens can spend a lot of time outside the house or online, where it is harder for us to keep them safe.\n\nTalking together about safe and unsafe places, and how to prevent problems, really helps!",
       "_translations": {
         "text_1_facilitator": {
@@ -45,7 +44,6 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_safe_t.mp3",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "Sometimes our teens know things about their environment that we might not realise - and by talking, we can learn how to support them better.",
       "_translations": {
         "text_1_facilitator": {
@@ -79,7 +77,6 @@
       "character_1_id": "f1_daughter_16",
       "character_2_id": "f1_mother",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "The most important way to help keep your teen safe is to make sure that they know they can talk to you about anything. \n\nYou can also come up with a Safety Word - a simple word your teen can use to let you know they have a problem, without fear of you getting angry. \n\nLet's see how this worked for @data.characters.f1_mother.name and her daughter @data.characters.f1_daughter_16.name:",
       "_translations": {
         "text_1_facilitator": {
@@ -113,7 +110,6 @@
       "character_1_id": "man_in_car",
       "character_2_id": "f2_daughter_19",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "character_1_text": "Hey beautiful. I have been looking at you for a while. You are very beautiful, what is your name?",
       "_translations": {
         "character_1_text": {
@@ -140,7 +136,6 @@
       "character_1_id": "man_in_car",
       "character_2_id": "f1_daughter_16",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "character_1_text": "@data.characters.f1_daughter_16.name, would you like to come with me to have something to drink and chips? Come on, get in, you will be back in time, I promise…",
       "_translations": {
         "character_1_text": {
@@ -166,7 +161,6 @@
       "image_asset": "/images/teen_modules/safe/safe1_t_4.svg",
       "character_1_id": "f2_daughter_19",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "character_1_text": "You are lucky, my friend. I wish a man would ask ME out and buy me gifts. I am telling you, if you do not do this I’m going to tell everyone you are stupid!",
       "_translations": {
         "character_1_text": {
@@ -186,7 +180,6 @@
       "character_1_id": "friend_female_1",
       "character_2_id": "f1_daughter_16",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "character_1_text": "@data.characters.f1_daughter_16.name do not go! Be careful! Let’s go home. It is dangerous to go with people you do not know. Besides, he is too old for you and what he is doing is wrong.",
       "_translations": {
         "character_1_text": {
@@ -213,7 +206,6 @@
       "character_1_id": "f1_mother",
       "character_2_id": "f1_daughter_16",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "character_1_text": "Pfff, I am so proud of you for not getting into the car. That was a dangerous situation, thank you for telling me!\n\nYou can always call me or talk to me when something like this happens. We can even use a Safety Word, so I know something is wrong - and I promise I will not be angry.",
       "_translations": {
         "character_1_text": {
@@ -237,7 +229,6 @@
       "id": "explore_7",
       "category_id": "explore",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "Let's think about what happened to @data.characters.f1_daughter_16.name.",
       "_translations": {
         "text_1_facilitator": {
@@ -333,7 +324,6 @@
       "image_asset": "/images/teen_modules/safe/safe2_t_1.svg",
       "character_1_id": "f1_daughter_16",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "Let's look at another example of a dangerous situation together.",
       "_translations": {
         "text_1_facilitator": {
@@ -359,7 +349,6 @@
       "image_asset": "/images/teen_modules/safe/safe2_t_2.svg",
       "character_1_id": "f1_mother",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "character_1_text": "You are a good friend for being worried about her. Sending sexy photos is a real risk too.\n\nSometimes people are not who they say they are online – he could say he is your age but be a 50-year-old man. Or when they break up, he could send those photos to everyone and your friend would feel awful.",
       "_translations": {
         "character_1_text": {
@@ -376,7 +365,6 @@
       "id": "explore_10",
       "category_id": "explore",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "Things like that can happen to any teen, so let's think about our teens' online safety.",
       "_translations": {
         "text_1_facilitator": {
@@ -470,7 +458,6 @@
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "To keep our teens safe, we need to understand the dangerous situations they could get into! \n\nLet’s get practical now, and draw two maps of safe and unsafe places:\n- 🗺️ A map of our community\n- 🌐 A map of apps/websites we use online",
       "_translations": {
         "text_1_facilitator": {
@@ -523,7 +510,6 @@
       "category_id": "practise",
       "image_asset": "/images/teen_modules/safe/safe_learn_t_1.svg",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "Step 1: Draw all the important places in your community.",
       "_translations": {
         "text_1_facilitator": {
@@ -548,7 +534,6 @@
       "category_id": "practise",
       "image_asset": "/images/teen_modules/safe/safe_learn_t_2.svg",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "Step 2: Choose which places are safe and unsafe.",
       "_translations": {
         "text_1_facilitator": {
@@ -573,7 +558,6 @@
       "category_id": "practise",
       "image_asset": "/images/teen_modules/safe/safe_learn_t_3.svg",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "Step 3: Identify where you can get support.",
       "_translations": {
         "text_1_facilitator": {
@@ -598,7 +582,6 @@
       "category_id": "practise",
       "image_asset": "/images/teen_modules/safe/safe_learn_t_4.svg",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "Step 4: Now recognise the risky places online and how you can make them safer.",
       "_translations": {
         "text_1_facilitator": {
@@ -625,7 +608,6 @@
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/single_speech_blue.png",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "Here are some skills to help you keep your teen safe!",
       "_translations": {
         "text_1_facilitator": {
@@ -712,7 +694,6 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "If you have not done it together yet, this week's home assignment is to make two maps with your teen of safe and unsafe places:\n\n1) 🗺️ Map of your community\n2) 🌐 Map of apps and websites your teen uses\n\nMake sure you are both happy with the safety plan. What really matters is that you talk with your teen as you do this – often teens know much more than we do about where it is safe and unsafe!",
       "_translations": {
         "text_1_facilitator": {
@@ -780,7 +761,6 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_safe_t.mp3",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "text_1_facilitator": "When teens know they can turn to us without fear, they are more likely to ask for help when something feels unsafe - both offline and online. Talking calmly and making safety plans together builds trust that lasts.",
       "_translations": {
         "text_1_facilitator": {
@@ -810,8 +790,8 @@
   ],
   "_source": {
     "name": "teens_tz_GT",
-    "path": "data/TZ modules.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+    "path": "data/TZ modules 2.0.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
   },
   "_metadata": {
     "nested": {
