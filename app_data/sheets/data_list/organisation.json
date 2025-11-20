@@ -72,62 +72,62 @@
     },
     {
       "id": "organisation_12",
-      "name": "UK Research and Innovation Global Challenges Research Fund",
+      "name": "UK Research and Innovation",
       "image_asset": "images/logos/donors/UKRI.png",
       "group": "funders"
     },
     {
       "id": "organisation_13",
+      "name": "Global Challenges Research Fund",
+      "image_asset": "images/logos/donors/GCRF.png",
+      "group": "funders"
+    },
+    {
+      "id": "organisation_14",
       "name": "Oak Foundation",
       "image_asset": "images/logos/donors/OAK.png",
       "group": "funders"
     },
     {
-      "id": "organisation_14",
+      "id": "organisation_15",
       "name": "LEGO Foundation",
       "image_asset": "images/logos/donors/LEGO.png",
       "group": "funders"
     },
     {
-      "id": "organisation_15",
+      "id": "organisation_16",
       "name": "Wellspring Philanthropic Fund",
       "image_asset": "images/logos/donors/Wellspring.jpeg",
       "group": "funders"
     },
     {
-      "id": "organisation_16",
+      "id": "organisation_17",
       "name": "European Research Council",
-      "image_asset": "images/logos/donors/ERC.png",
+      "image_asset": "images/logos/donors/ERC-EU.png",
       "group": "funders"
     },
     {
-      "id": "organisation_17",
+      "id": "organisation_18",
       "name": "World Childhood Foundation",
       "image_asset": "images/logos/donors/WCF.jpg",
       "group": "funders"
     },
     {
-      "id": "organisation_18",
+      "id": "organisation_19",
       "name": "Nuffield College Oxford",
       "image_asset": "images/logos/donors/Nuffield_college.png",
       "group": "funders"
     },
     {
-      "id": "organisation_19",
+      "id": "organisation_20",
       "name": "The Agency Fund",
       "image_asset": "images/logos/donors/Agency_fund.png",
       "group": "funders"
     },
     {
-      "id": "organisation_20",
-      "name": "The Human Safety Net Foundation",
-      "image_asset": "images/logos/donors/Human_safety_net.png",
-      "group": "funders"
-    },
-    {
       "id": "organisation_21",
       "name": "The Human Safety Net Foundation",
-      "image_asset": "images/logos/donors/safe_online.png",
+      "image_asset": "images/logos/donors/Human_safety_net.png",
       "group": "funders"
     }
   ],

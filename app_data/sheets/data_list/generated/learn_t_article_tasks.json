@@ -104,7 +104,6 @@
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/learn_intro_t.mp3",
       "media_type": "audio",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today's topic is about helping your teen learn.\n\nDid you know that spending one-on-one time with your teen can help them do better at school? Today we will share some ideas to help you make the most of your time together."
@@ -138,7 +137,6 @@
       "id": "intro_2",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_learn_t.mp3",
       "media_type": "audio",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Learning does not only happen in school - it happens through fun activities, teamwork, and everyday moments. \nWhen we involve our teens and share decisions, we help them feel capable, confident, and connected to us."
@@ -170,7 +168,6 @@
     },
     {
       "id": "explore_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Caregivers and teens who spend time together often have happier, healthier relationships. But it is not always easy — sometimes we can both get angry, get annoyed and argue or fight.\n\nLet’s take a look at an example:"
@@ -204,7 +201,6 @@
     },
     {
       "id": "explore_2",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "text_2": {
           "eng": "*@data.characters.f1_mother.name comes home late.*"
@@ -231,7 +227,6 @@
     },
     {
       "id": "explore_3",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "character_1_text": {
           "eng": "@data.characters.f1_daughter_16.name, why did you not cook dinner yet?! Why do I always have to do everything myself?"
@@ -251,7 +246,6 @@
     },
     {
       "id": "explore_4",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Get out of my way!"
@@ -271,7 +265,6 @@
     },
     {
       "id": "explore_5",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's think about what happened in this story."
@@ -401,7 +394,6 @@
     },
     {
       "id": "explore_6",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s go back in time and see what happens when @data.characters.f1_mother.name does things differently."
@@ -435,7 +427,6 @@
     },
     {
       "id": "explore_7",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "text_2": {
           "eng": "@data.characters.f1_mother.name comes home late."
@@ -462,7 +453,6 @@
     },
     {
       "id": "explore_8",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Hi everyone, I'm feeling exhausted and grateful to be home. @data.characters.f1_daughter_16.name, thank you for looking after your sister and washing the school clothes. I am going to wash my hands, and then we can cook together and you can tell me about your day."
@@ -490,7 +480,6 @@
     },
     {
       "id": "explore_9",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "text_2": {
           "eng": "*15 minutes later…*"
@@ -525,7 +514,6 @@
     },
     {
       "id": "explore_10",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's think about what happened in this story."
@@ -710,7 +698,6 @@
     },
     {
       "id": "explore_11",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s think of activities you can do with your teen to help them learn.\n\nRemember, teens are better at remembering what they learnt when it is fun."
@@ -735,7 +722,6 @@
     },
     {
       "id": "tips_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are some skills you can use to help your teen learn!"
@@ -798,7 +784,6 @@
     },
     {
       "id": "home_activity_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Helping your teen learn can feel stressful, but doing fun daily activities together supports their growth and learning.\n\nThis week’s home practice is to try a few activities with your teen!"
@@ -874,7 +859,6 @@
       "id": "teen_test_1",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_learn_t.mp3",
       "media_type": "audio",
-      "attached_single_doc": "https://docs.google.com/document/d/1bv8kobyosNclO8lbYm8PinErOmknhcdxSxCCBlOxosk",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Spending fun, relaxed time with your teen helps them learn important life skills - and it strengthens your bond. Even small changes, like listening more and playing together, can make a big difference."

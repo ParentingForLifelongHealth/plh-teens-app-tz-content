@@ -73,11 +73,9 @@
     {
       "type": "declare_global_constant",
       "name": "facilitator_message_1",
-      "value": "**Hello! My name is @fields.facilitator_name. I’m so glad you’re here!**\n\nI’ll be helping you learn using @global.app_name! In the next few steps, I’ll ask you a few questions, so that I can make your learning experience just right for you!",
+      "value": "**Nice to meet you, @fields.user_name. I’m so glad you’re here!**\n\nI’ll be helping you learn using @global.app_name! In the next few steps, I’ll ask you a few questions, so that I can make your learning experience just right for you!",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {
@@ -251,7 +249,7 @@
     {
       "type": "declare_global_constant",
       "name": "facilitator_female_intro",
-      "value": "Hi, I’m @data.characters.facilitator_female.name! I’m a social worker and grandmother of three. I guide parents to raise their children with confidence and care.",
+      "value": "Hi, I’m @data.characters.facilitator_female.name! I'm a social worker and grandmother of three. I help parents raise strong, confident teens with care and encouragement.",
       "_translations": {
         "value": {}
       }
@@ -259,11 +257,9 @@
     {
       "type": "declare_global_constant",
       "name": "facilitator_male_intro",
-      "value": "Hi, I am @data.characters.facilitator_male.name! I am a retired teacher and a grandfather of two. I guide parents with warmth, firmness, and care.",
+      "value": "Hi, I am @data.characters.facilitator_male.name! I am a retired teacher and grandfather of two. I help parents guide their teens with warmth, structure, and respect.",
       "_translations": {
-        "value": {
-          "tz_sw": true
-        }
+        "value": {}
       }
     },
     {

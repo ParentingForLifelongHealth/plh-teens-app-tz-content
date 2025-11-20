@@ -105,7 +105,6 @@
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/rules_intro_t.mp3",
       "media_type": "audio",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today's topic is about rules.\n\nRules help teens understand what is expected of them.\n\nTeens are more likely to follow rules if you create the rules WITH your teen and praise them for it!"
@@ -139,7 +138,6 @@
       "id": "intro_2",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_rules_t.mp3",
       "media_type": "audio",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected - not just to control them. Setting rules as a family helps build trust and responsibility for both teens and parents."
@@ -171,7 +169,6 @@
     },
     {
       "id": "explore_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's read what happened with @data.characters.f1_son_18.name and his mother, @data.characters.f1_mother.name:"
@@ -206,7 +203,6 @@
     },
     {
       "id": "explore_2",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s see how @data.characters.f1_mother.name and her son,  @data.characters.f1_son_18.name, did the next day:"
@@ -241,7 +237,6 @@
     },
     {
       "id": "explore_3",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "That is right. It is also not safe in this area to be outside after sunset. What do you think would be a good time for you to be home?"
@@ -261,7 +256,6 @@
     },
     {
       "id": "explore_4",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I could come home at 10pm?"
@@ -289,7 +283,6 @@
     },
     {
       "id": "explore_5",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Maybe we can agree I will come home at 6pm on school nights and 10pm on Fridays and Saturdays?"
@@ -317,7 +310,6 @@
     },
     {
       "id": "explore_6",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Okay, @data.characters.f1_mother.role_name."
@@ -345,7 +337,6 @@
     },
     {
       "id": "explore_7",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_2": {
           "eng": "*The next day...*"
@@ -372,7 +363,6 @@
     },
     {
       "id": "explore_8",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's think about what happened in this story."
@@ -488,7 +478,6 @@
     },
     {
       "id": "tips_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are this week’s takeaway skills to help learn how to set rules with your teen!"
@@ -551,7 +540,6 @@
     },
     {
       "id": "explore_9",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Rules are important to keep your teens safe – not only offline, but also online. There’s more about this in the lesson on teen safety, but let’s already have a first look now!"
@@ -586,7 +574,6 @@
     },
     {
       "id": "explore_10",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "You are a really great dancer! Tell me about why you like Tiktok."
@@ -614,7 +601,6 @@
     },
     {
       "id": "explore_11",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at Tiktok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens."
@@ -634,7 +620,6 @@
     },
     {
       "id": "explore_12",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use Tiktok, but with a private account? I trust you to know who to accept!"
@@ -654,7 +639,6 @@
     },
     {
       "id": "explore_13",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I’m proud of you, @data.characters.f1_daughter_13.name!"
@@ -674,7 +658,6 @@
     },
     {
       "id": "practise",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "It was wonderful to see @data.characters.f1_mother.name and her daughter, @data.characters.f1_daughter_13.name, make a rule together. \n\nNow let's practise making rules.\n\nWrite down one important rule you would like to make with your teenager – you will be doing this as your home practice this week."
@@ -699,7 +682,6 @@
     },
     {
       "id": "home_activity_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "This week's home activity is to set one rule together with your teen.\n\nRemember to praise your teen afterwards!"
@@ -775,7 +757,6 @@
       "id": "teen_test_1",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_rules_t.mp3",
       "media_type": "audio",
-      "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Clear, simple rules made together with your teen are not about control - they are about keeping them safe and building responsibility. When teens understand the reasons behind the rules, they are more likely to follow them."

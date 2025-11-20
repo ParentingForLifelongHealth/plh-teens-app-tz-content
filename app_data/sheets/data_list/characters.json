@@ -137,7 +137,7 @@
       "caps_id": "F2_DAUGHTER_19",
       "family_no": 2,
       "age": 17,
-      "name": "Neema",
+      "name": "Sabrina",
       "role": "child",
       "image_asset": "images/character_icons/F2_DAUGHTER_19.svg",
       "Flag if column E has duplicate names": "Duplicate"
@@ -353,6 +353,16 @@
       "Flag if column E has duplicate names": ""
     },
     {
+      "id": "media_male_4",
+      "caps_id": "MEDIA_MALE_4",
+      "name": "Jason"
+    },
+    {
+      "id": "media_male_5",
+      "caps_id": "MEDIA_MALE_5",
+      "name": "Godfried"
+    },
+    {
       "id": "media_female_1",
       "caps_id": "MEDIA_FEMALE_1",
       "name": "Rebeka",
@@ -452,7 +462,7 @@
       "name": "Sabrina",
       "Media Details  (Teens)": "learn_t",
       "Media Details  (YC)": "child development",
-      "Flag if column E has duplicate names": ""
+      "Flag if column E has duplicate names": "Duplicate"
     },
     {
       "id": "media_son_1",

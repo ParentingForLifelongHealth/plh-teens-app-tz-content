@@ -102,7 +102,6 @@
     },
     {
       "id": "sensitive_content_notice",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "section_1_title": {
           "eng": "⚠️ Sensitive Content Notice"
@@ -129,7 +128,6 @@
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/grief_intro_t.mp3",
       "media_type": "audio",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today's topic is about coping with grief.\n\nGrief affects us all in different ways.\n\nWhatever you feel, you are grieving in your own way, and that is okay."
@@ -163,7 +161,6 @@
       "id": "intro_2",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_grief_t.mp3",
       "media_type": "audio",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Taking care of ourselves during grief helps us stay calm and present for our children. \nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported."
@@ -195,7 +192,6 @@
     },
     {
       "id": "explore_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Difficult emotions can lead to difficult behaviour – especially with children. Losing a caregiver or a loved one can make your teen feel worried, insecure, or angry, and can often make them act out.\n\nLet’s see what happened with @data.characters.f4_daughter_13.name who lost her mother 6 months ago:"
@@ -222,7 +218,6 @@
     },
     {
       "id": "explore_2",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "@data.characters.f4_daughter_13.name, you need to stop crying. It has been months already! This crying will not bring your @data.characters.f1_mother.role_name back and you are doing worse and worse in school!"
@@ -250,7 +245,6 @@
     },
     {
       "id": "explore_3",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Stop being so dramatic! Your behaviour is unacceptable!"
@@ -270,7 +264,6 @@
     },
     {
       "id": "explore_4",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's think about what happened in this story."
@@ -403,7 +396,6 @@
     },
     {
       "id": "explore_5",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Thank you for thinking along!\n\nLet’s see what happens if @data.characters.f4_father.name tries to support @data.characters.f4_daughter_13.name:"
@@ -438,7 +430,6 @@
     },
     {
       "id": "explore_6",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I like that idea, let’s go see her on Saturday. Do you already want to tell me more about how you feel now?"
@@ -458,7 +449,6 @@
     },
     {
       "id": "explore_7",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I honestly feel angry that she left. Is it okay to say that?"
@@ -478,7 +468,6 @@
     },
     {
       "id": "explore_8",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Yes, it is normal to feel angry. We all have different feelings at different times, and that is okay. It is good to talk about this together, thank you for sharing with me."
@@ -498,7 +487,6 @@
     },
     {
       "id": "explore_9",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's think about what happened in this story."
@@ -614,7 +602,6 @@
     },
     {
       "id": "tips_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are some tips to help you and your family through times of grief:"
@@ -677,7 +664,6 @@
     },
     {
       "id": "practise_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "When we are going through a difficult time, it can help to talk about or write down how we feel.\n\nLet’s practise naming feelings. How do you feel now?"
@@ -786,7 +772,6 @@
     },
     {
       "id": "home_activity_1",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "This week's home activity is to share with your teen how you feel, and ask them to also name their feelings.\n\nYou can remind your teen of some emotions they might feel - like happy, sad, scared, hopeful, angry, or lonely. There is no right or wrong feeling. Sharing emotions helps you both feel less alone."
@@ -855,7 +840,6 @@
       "id": "teen_test_1",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_grief_t.mp3",
       "media_type": "audio",
-      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Grief can make both parents and teens feel alone - but talking about your feelings can help you cope together. Even small steps like checking in and sharing emotions can rebuild trust and connection."

@@ -12,7 +12,6 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/topic_intros/praise_intro_t.mp3",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "Today's topic is about praise.\n\nPraise is a powerful parenting skill.\n\nIf we praise our teens when they do something well, we will see them do more and more positive things!",
       "_translations": {
         "text_1_facilitator": {
@@ -45,7 +44,6 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_praise_t.mp3",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "Praise is an easy way to build your teen’s confidence and strengthen your connection. It really works!",
       "_translations": {
         "text_1_facilitator": {
@@ -82,7 +80,6 @@
       "quiz_2_option_2_image_asset": "images/faces/angry.svg",
       "quiz_2_option_3_image_asset": "images/faces/tired.svg",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "Let’s reflect on our own experience with praise.",
       "_translations": {
         "text_1_facilitator": {
@@ -198,7 +195,6 @@
       "category_id": "explore",
       "image_asset": "/images/teen_modules/praise/praise1_t_1.svg",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "Praise really is powerful.\n\nLet’s look at the example of @data.characters.f1_mother.name and her daughters:",
       "_translations": {
         "text_1_facilitator": {
@@ -224,7 +220,6 @@
       "image_asset": "/images/teen_modules/praise/praise1_t_2.svg",
       "character_1_id": "f1_mother",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "character_1_text": "Thank you for doing your schoolwork, @data.characters.f1_daughter_13.name, and thank you for helping your sister, @data.characters.f1_daughter_16.name. I'm so proud of you!",
       "_translations": {
         "character_1_text": {
@@ -244,7 +239,6 @@
       "quiz_1_option_2_image_asset": "images/faces/happy.svg",
       "quiz_1_option_3_image_asset": "images/faces/happiest.svg",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "It is time for some questions!",
       "_translations": {
         "text_1_facilitator": {
@@ -376,7 +370,6 @@
       "section_2_icon_asset": "images/icons/single_speech_blue.png",
       "section_3_icon_asset": "images/icons/trophy_blue.png",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "Here are some skills to help you praise your teens.\nYou can also praise other adults in your household, too. Notice how they respond!",
       "_translations": {
         "text_1_facilitator": {
@@ -435,7 +428,6 @@
       "id": "practise",
       "category_id": "practise",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "It can be hard to think of reasons to praise your teen! Here are some ideas from other parents:",
       "_translations": {
         "text_1_facilitator": {
@@ -459,7 +451,6 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "This week's home activity is to praise your teen once a day. It will only take 10 seconds!",
       "_translations": {
         "text_1_facilitator": {
@@ -527,7 +518,6 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_praise_t.mp3",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/10juxGUlCjuBe9RxlMtsk9d-IovhNamMky1PVQ4EyIh0",
       "text_1_facilitator": "Remember, praise is a powerful tool. The more attention you give to positive behaviour, the more positive behaviour you will see.",
       "_translations": {
         "text_1_facilitator": {
@@ -557,8 +547,8 @@
   ],
   "_source": {
     "name": "teens_tz_GT",
-    "path": "data/TZ modules.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+    "path": "data/TZ modules 2.0.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
   },
   "_metadata": {
     "nested": {

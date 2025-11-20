@@ -13,7 +13,6 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/topic_intros/celebrate_intro_t.mp3",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1-yYXqG49ItOfScBo6PkV3GdB_0sXMRADZqTs4McBkKM",
       "text_1_facilitator": "🎉 CONGRATULATIONS! \n\nYou have done it! You have built lots of important parenting skills.\n\nThis is a huge achievement. It shows such care for your family.\n\nLet’s celebrate you and plan your future @global.app_name support.",
       "_translations": {
         "text_1_facilitator": {
@@ -46,7 +45,6 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/topic_intros/workshops_reflection_t.mp3",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1-yYXqG49ItOfScBo6PkV3GdB_0sXMRADZqTs4McBkKM",
       "text_1_facilitator": "You and your family have learnt so much. Let's think back and see what has changed since learning all these parenting skills",
       "_translations": {
         "text_1_facilitator": {
@@ -85,7 +83,6 @@
       "section_4_icon_asset": "images/icons/trophy_blue.png",
       "section_4_image_asset": "/images/teen_modules/celebrate/celebrate_t_4.svg",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1-yYXqG49ItOfScBo6PkV3GdB_0sXMRADZqTs4McBkKM",
       "text_1_facilitator": "Here are a few tips to help you continue learning and supporting your community!",
       "_translations": {
         "text_1_facilitator": {
@@ -167,7 +164,6 @@
       "media_type": "video",
       "media_asset": "/video/plh_video/lets_slow_down.mp4",
       "nested": false,
-      "attached_single_doc": "https://docs.google.com/document/d/1-yYXqG49ItOfScBo6PkV3GdB_0sXMRADZqTs4McBkKM",
       "text_1_facilitator": "Well done!\n\nWe are so proud of you. You have shown strength, courage, and love for your family. Parents are amazing. You are amazing.",
       "_translations": {
         "text_1_facilitator": {
@@ -197,8 +193,8 @@
   ],
   "_source": {
     "name": "teens_tz_GT",
-    "path": "data/TZ modules.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
+    "path": "data/TZ modules 2.0.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
   },
   "_metadata": {
     "nested": {
