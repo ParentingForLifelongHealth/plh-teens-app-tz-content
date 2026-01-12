@@ -403,6 +403,45 @@
     "md5Checksum": "308831f3c5dff8b0f334d2385e2444cb",
     "size_kb": 468.1
   },
+  "audio/teen/testimonials/caregiver/ZOLD_caregiver_test_consequence_t.mp3": {
+    "md5Checksum": "b7ca2494d6e7726a4cdde33c01f899ba",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/testimonials/tz_sw/caregiver/ZOLD_caregiver_test_consequence_t.mp3",
+          "md5Checksum": "3a871165e6506ef3cd455c25adab2268",
+          "size_kb": 837
+        }
+      }
+    },
+    "size_kb": 312.3
+  },
+  "audio/teen/testimonials/caregiver/ZOLD_caregiver_test_money_t.mp3": {
+    "md5Checksum": "27ba2e142fd7693fdd497f1eda497e5f",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/testimonials/tz_sw/caregiver/ZOLD_caregiver_test_money_t.mp3",
+          "md5Checksum": "4b34aa749f1c1ec23d1d0fe5cdb9be76",
+          "size_kb": 807.1
+        }
+      }
+    },
+    "size_kb": 243.5
+  },
+  "audio/teen/testimonials/caregiver/ZOLD_caregiver_test_rules_t.mp3": {
+    "md5Checksum": "c4b2709c4a59f581046ed3cca52dd411",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/testimonials/tz_sw/caregiver/ZOLD_caregiver_test_rules_t.mp3",
+          "md5Checksum": "e65ff67bf3ad83ede501fe35c11f1236",
+          "size_kb": 987.5
+        }
+      }
+    },
+    "size_kb": 241.1
+  },
   "audio/teen/testimonials/caregiver/caregiver_test_1on1_t.mp3": {
     "md5Checksum": "55291d57898f1e95b050439ba7fe3cd2",
     "overrides": {
@@ -417,17 +456,17 @@
     "size_kb": 258.8
   },
   "audio/teen/testimonials/caregiver/caregiver_test_consequence_t.mp3": {
-    "md5Checksum": "b7ca2494d6e7726a4cdde33c01f899ba",
+    "md5Checksum": "2da4c0444cf6a83f5e5f5eb0fe46c7b4",
     "overrides": {
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/caregiver/caregiver_test_consequence_t.mp3",
-          "md5Checksum": "3a871165e6506ef3cd455c25adab2268",
-          "size_kb": 837
+          "md5Checksum": "680f34736304d3c10cb569f59d0fc068",
+          "size_kb": 1382.7
         }
       }
     },
-    "size_kb": 312.3
+    "size_kb": 1479.2
   },
   "audio/teen/testimonials/caregiver/caregiver_test_crisis_t.mp3": {
     "md5Checksum": "48b423a205332d10c462ade268898789",
@@ -482,17 +521,17 @@
     "size_kb": 209.4
   },
   "audio/teen/testimonials/caregiver/caregiver_test_money_t.mp3": {
-    "md5Checksum": "27ba2e142fd7693fdd497f1eda497e5f",
+    "md5Checksum": "9588f2d7506306dc575963f8a6835d14",
     "overrides": {
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/caregiver/caregiver_test_money_t.mp3",
-          "md5Checksum": "4b34aa749f1c1ec23d1d0fe5cdb9be76",
-          "size_kb": 807.1
+          "md5Checksum": "776d8facd632ee986910188331268573",
+          "size_kb": 1812.8
         }
       }
     },
-    "size_kb": 243.5
+    "size_kb": 1114.6
   },
   "audio/teen/testimonials/caregiver/caregiver_test_praise_t.mp3": {
     "md5Checksum": "1a44113593fdbe17296f0acaf0bc8c57",
@@ -508,17 +547,17 @@
     "size_kb": 232.3
   },
   "audio/teen/testimonials/caregiver/caregiver_test_rules_t.mp3": {
-    "md5Checksum": "c4b2709c4a59f581046ed3cca52dd411",
+    "md5Checksum": "64ea3a5945f1217d0969e817f9b1c11e",
     "overrides": {
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/caregiver/caregiver_test_rules_t.mp3",
-          "md5Checksum": "e65ff67bf3ad83ede501fe35c11f1236",
-          "size_kb": 987.5
+          "md5Checksum": "90df6f0719b8b6c40e11bac8bd5ddf81",
+          "size_kb": 1061.9
         }
       }
     },
-    "size_kb": 241.1
+    "size_kb": 932.3
   },
   "audio/teen/testimonials/caregiver/caregiver_test_safe_t.mp3": {
     "md5Checksum": "c2dc6cdf73bb9355e4d8ec2c5e20b64b",
@@ -598,6 +637,45 @@
     },
     "size_kb": 174.8
   },
+  "audio/teen/testimonials/teen/ZOLD_teen_test_learn_t.mp3": {
+    "md5Checksum": "dcb102dded31baa1c1f6ed730d55309b",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/testimonials/tz_sw/teen/ZOLD_teen_test_learn_t.mp3",
+          "md5Checksum": "90a5c4212c98284b7765ab0d516a1326",
+          "size_kb": 631.5
+        }
+      }
+    },
+    "size_kb": 160.2
+  },
+  "audio/teen/testimonials/teen/ZOLD_teen_test_praise_t.mp3": {
+    "md5Checksum": "a5e3b5e01d9036adc1db4b9846abd97a",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/testimonials/tz_sw/teen/ZOLD_teen_test_praise_t.mp3",
+          "md5Checksum": "b300386464288c01d9f23d7f2ff46543",
+          "size_kb": 278.4
+        }
+      }
+    },
+    "size_kb": 148
+  },
+  "audio/teen/testimonials/teen/ZOLD_teen_test_srh_t.mp3": {
+    "md5Checksum": "1e7596ea300778955a3fa2d66828e666",
+    "overrides": {
+      "theme_default": {
+        "tz_sw": {
+          "filePath": "audio/teen/testimonials/tz_sw/teen/ZOLD_teen_test_srh_t.mp3",
+          "md5Checksum": "e4d21da252e944068385deb0f444177f",
+          "size_kb": 359.9
+        }
+      }
+    },
+    "size_kb": 263.5
+  },
   "audio/teen/testimonials/teen/teen_test_1on1_t.mp3": {
     "md5Checksum": "5c71c6376501d2b0842f713fd4f7361a",
     "overrides": {
@@ -664,17 +742,17 @@
     "size_kb": 212.2
   },
   "audio/teen/testimonials/teen/teen_test_learn_t.mp3": {
-    "md5Checksum": "dcb102dded31baa1c1f6ed730d55309b",
+    "md5Checksum": "f049ac54cf78cf78a6274e6d274e6ef5",
     "overrides": {
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/teen/teen_test_learn_t.mp3",
-          "md5Checksum": "90a5c4212c98284b7765ab0d516a1326",
-          "size_kb": 631.5
+          "md5Checksum": "9f3e64eb214953e014d6ec2d47168823",
+          "size_kb": 793.7
         }
       }
     },
-    "size_kb": 160.2
+    "size_kb": 650.5
   },
   "audio/teen/testimonials/teen/teen_test_money_t.mp3": {
     "md5Checksum": "4d9a0553fe7df920cc86166384743159",
@@ -690,17 +768,17 @@
     "size_kb": 282.3
   },
   "audio/teen/testimonials/teen/teen_test_praise_t.mp3": {
-    "md5Checksum": "a5e3b5e01d9036adc1db4b9846abd97a",
+    "md5Checksum": "b8a64049ed052b6b6e53c0403bb059e5",
     "overrides": {
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/teen/teen_test_praise_t.mp3",
-          "md5Checksum": "b300386464288c01d9f23d7f2ff46543",
-          "size_kb": 278.4
+          "md5Checksum": "4e758b00588b13dc3d574e069d378a92",
+          "size_kb": 940.3
         }
       }
     },
-    "size_kb": 148
+    "size_kb": 988.7
   },
   "audio/teen/testimonials/teen/teen_test_rules_t.mp3": {
     "md5Checksum": "7dd997a4dc89485435e60fdf2d916a22",
@@ -755,17 +833,17 @@
     "size_kb": 264.6
   },
   "audio/teen/testimonials/teen/teen_test_srh_t.mp3": {
-    "md5Checksum": "1e7596ea300778955a3fa2d66828e666",
+    "md5Checksum": "a76602d4a6f948dad4f6e11a946205d6",
     "overrides": {
       "theme_default": {
         "tz_sw": {
           "filePath": "audio/teen/testimonials/tz_sw/teen/teen_test_srh_t.mp3",
-          "md5Checksum": "e4d21da252e944068385deb0f444177f",
-          "size_kb": 359.9
+          "md5Checksum": "985e7c39c4764cc05d07d1260730a29e",
+          "size_kb": 1385.9
         }
       }
     },
-    "size_kb": 263.5
+    "size_kb": 1372.7
   },
   "audio/teen/testimonials/teen/teen_test_stress_t.mp3": {
     "md5Checksum": "115203556d3dfc8d4033c2edc11d900b",
@@ -1162,6 +1240,10 @@
     "md5Checksum": "db3f5ffb0c4318bf56bebb1e8c2df55c",
     "size_kb": 11.3
   },
+  "images/character_icons/F1_SON_14.svg": {
+    "md5Checksum": "87d5e0180ec27c53b13433d008238d7c",
+    "size_kb": 14.3
+  },
   "images/character_icons/F1_SON_18.svg": {
     "md5Checksum": "0ccf5afe2dcc2c9dbde4b58570c8c01b",
     "size_kb": 12.9
@@ -1493,6 +1575,10 @@
   "images/faces/scared.svg": {
     "md5Checksum": "0d9e5d9d570750a6e0e5afff188ccf3a",
     "size_kb": 2.1
+  },
+  "images/faces/tired.svg": {
+    "md5Checksum": "978273858b64560b36bcd41d09ca3fb5",
+    "size_kb": 2.4
   },
   "images/facilitators_face.svg": {
     "md5Checksum": "a1d15018aa8bf2d97cf1714fdeb948d2",
@@ -1975,96 +2061,104 @@
     "size_kb": 30
   },
   "images/logos/CWBSA.png": {
-    "md5Checksum": "a586140fb423c76d5bffb0d051f78d01",
-    "size_kb": 34.9
+    "md5Checksum": "d5e02d5b088e5c80cd93a7af666fc9e1",
+    "size_kb": 84.4
+  },
+  "images/logos/Exeter.png": {
+    "md5Checksum": "f8806c3baf9ccc107271d65f56c2bce7",
+    "size_kb": 140.5
   },
   "images/logos/GISP.png": {
-    "md5Checksum": "030c6b107eeb1cd42c451d28aaa682f7",
-    "size_kb": 34.8
+    "md5Checksum": "78bf5a94dea5752f131d77dfbf71be84",
+    "size_kb": 30.5
   },
   "images/logos/ICS_SP.jpg": {
-    "md5Checksum": "a1082b421ef84cbf8f51eb050ae57919",
-    "size_kb": 228.8
+    "md5Checksum": "17b2bf4042cf4004b85c973ad9426e15",
+    "size_kb": 228.6
   },
   "images/logos/IDEMS.png": {
-    "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",
-    "size_kb": 84.6
+    "md5Checksum": "14708fffe8153ad45cd1834bb72f1944",
+    "size_kb": 42.7
   },
   "images/logos/NIMR.png": {
-    "md5Checksum": "b515ba973fa776f31b2801f428b88f9e",
-    "size_kb": 29.6
+    "md5Checksum": "b6cab9812df99df7fcdc89aaf6094c05",
+    "size_kb": 225
   },
   "images/logos/Oxford.png": {
-    "md5Checksum": "a738b0e0c6d5601cac1d4ea299ee4281",
-    "size_kb": 42
+    "md5Checksum": "534a92b9cf93f74beeba66da1541ce29",
+    "size_kb": 93.7
   },
   "images/logos/PLH.png": {
-    "md5Checksum": "6ca42a4ea6df3c39ea9d19024ab5f9b2",
-    "size_kb": 26.6
+    "md5Checksum": "7f8d6447bea922cc433afd57a5836d4e",
+    "size_kb": 33.9
   },
   "images/logos/UCT.png": {
-    "md5Checksum": "32c7f74745acacc48ab83dd80692864f",
-    "size_kb": 414.2
+    "md5Checksum": "07285fa8c3bedf764d5f18de4c315d00",
+    "size_kb": 168
   },
   "images/logos/UNICEF.png": {
-    "md5Checksum": "551166fa76f616ac56f998718a650ed4",
-    "size_kb": 57.9
+    "md5Checksum": "7dc237af042a9dcf2f2346ea4f3b03e8",
+    "size_kb": 68.8
   },
   "images/logos/Vodacom.png": {
-    "md5Checksum": "a90a1a4bc2260ab57b6208c9976f04b0",
-    "size_kb": 30.9
+    "md5Checksum": "8778fc9ce3b6042ac77a3f87b3d2e013",
+    "size_kb": 59.2
   },
   "images/logos/WHO.jpeg": {
-    "md5Checksum": "5ca831556adbae45e3a7aa3d6b81c739",
-    "size_kb": 165.8
+    "md5Checksum": "da9edd7c2b2a20419a5fbc9b3fa0b8f6",
+    "size_kb": 310.7
   },
   "images/logos/donors/Agency_fund.png": {
-    "md5Checksum": "d267401541d86e29c7aea689325229c3",
-    "size_kb": 17.2
+    "md5Checksum": "23c6ab14da736ba0d11b553c81afb5e0",
+    "size_kb": 43.7
+  },
+  "images/logos/donors/ERC-EU.png": {
+    "md5Checksum": "0059207e824ad297982b373928877b15",
+    "size_kb": 209.7
   },
   "images/logos/donors/ERC.png": {
-    "md5Checksum": "96b2dae17030d5a0f69ddb1c65ca64cc",
-    "size_kb": 38.8
+    "md5Checksum": "f69794db8b870aa39347cd16eaf1f968",
+    "size_kb": 321.9
   },
   "images/logos/donors/GCRF.png": {
-    "md5Checksum": "1997a36868a25724e60bc3fea64d78b9",
-    "size_kb": 88.4
+    "md5Checksum": "7480f676d6582d9b4d7cdf7bd5590988",
+    "size_kb": 38.7
   },
   "images/logos/donors/Human_safety_net.png": {
-    "md5Checksum": "c60a267a33cbf7e31b5534c47309244e",
-    "size_kb": 3.9
+    "md5Checksum": "2ff8d59ddeb2d73b5fbf7b0d916ee2cb",
+    "size_kb": 36.1
   },
   "images/logos/donors/LEGO.png": {
-    "md5Checksum": "8de1959a449f6c3afe2878c14d18f34a",
-    "size_kb": 9.3
+    "md5Checksum": "eac7a5242a9e9e3c1861e14df4a2a4d2",
+    "size_kb": 32
   },
   "images/logos/donors/Nuffield_college.png": {
-    "md5Checksum": "29226543af992c3ca048004942386ea7",
-    "size_kb": 32.5
+    "md5Checksum": "b0dfa82d2e0c73222aeee44a83ba514e",
+    "size_kb": 63.5
   },
   "images/logos/donors/OAK.png": {
-    "md5Checksum": "4cb2185a0288eb7b5c0c61e5da9bf49c",
-    "size_kb": 17.7
+    "md5Checksum": "161140bbd26c480d8a0c621489d2c0e7",
+    "size_kb": 66.6
   },
   "images/logos/donors/UKRI.png": {
-    "md5Checksum": "e224282f5c98c50c2e3434da15d4f6d9",
-    "size_kb": 25
+    "md5Checksum": "3d50b523d6a8d46a61853d793f520cbf",
+    "size_kb": 30.1
   },
   "images/logos/donors/WCF.jpg": {
-    "md5Checksum": "1c99e70c0c73763d4bd03b4dda086a5c",
-    "size_kb": 29.6
+    "md5Checksum": "771bd4a2c6652dfeb0ee616a03f4240a",
+    "size_kb": 90.5
   },
   "images/logos/donors/Wellspring.jpeg": {
-    "md5Checksum": "28e93fcd4d9975db653ccf80da480675",
-    "size_kb": 22.1
+    "md5Checksum": "2554d90e86de65bf038fc7962399a99e",
+    "size_kb": 106.5
   },
   "images/logos/donors/safe_online.png": {
     "md5Checksum": "7191614124a086fe7c9036d105f70db4",
     "size_kb": 65.8
   },
   "images/logos/favicon.png": {
-    "md5Checksum": "2265c040569691441d445a1696bd5035",
-    "size_kb": 6.3
+    "md5Checksum": "4d69d00da738dcea1c6c54a1a7814b27",
+    "size_kb": 149.9
   },
   "images/logos/kuwait.png": {
     "md5Checksum": "b1dcf13898cef04ccbc62ef4b73a9710",
@@ -2085,6 +2179,22 @@
   "images/logos/plh_white.svg": {
     "md5Checksum": "13fd07dd63d468100f36e87dcb4c276a",
     "size_kb": 256.1
+  },
+  "images/logos/sino_horizontal.svg": {
+    "md5Checksum": "06a8668df87e64b5e494c555d73c4472",
+    "size_kb": 251
+  },
+  "images/logos/sino_mark.svg": {
+    "md5Checksum": "a89c023dc10e0b7c4b98dab70e9c1fbe",
+    "size_kb": 461.7
+  },
+  "images/logos/sino_white.svg": {
+    "md5Checksum": "13fd07dd63d468100f36e87dcb4c276a",
+    "size_kb": 256.1
+  },
+  "images/logos/tz_ministry.svg": {
+    "md5Checksum": "38b437d04009c8b5ddd85d2b18686694",
+    "size_kb": 251.1
   },
   "images/onboarding/facilitator_female_onboarding_icon.svg": {
     "md5Checksum": "3589dbd3034e59b2c08b606fb8c7317c",
@@ -2214,29 +2324,57 @@
     "md5Checksum": "712ccb3833ac6c0befcaf8d78d32ceec",
     "size_kb": 53.1
   },
+  "images/teen_modules/crisis/crisis1_t_1.png": {
+    "md5Checksum": "7635e1daa880caf203a5fa13bd05833b",
+    "size_kb": 371.5
+  },
   "images/teen_modules/crisis/crisis1_t_1.svg": {
     "md5Checksum": "9665fc4838a6fd5f821ab5afbb1bfe18",
     "size_kb": 36.7
+  },
+  "images/teen_modules/crisis/crisis1_t_2.png": {
+    "md5Checksum": "1929fb118003a67cf8ecdffdffde638a",
+    "size_kb": 712.3
   },
   "images/teen_modules/crisis/crisis1_t_2.svg": {
     "md5Checksum": "1a0647306bc6c7981e61de95a1d66ba5",
     "size_kb": 33.4
   },
+  "images/teen_modules/crisis/crisis1_t_3.png": {
+    "md5Checksum": "badd4c4207e90bf857d9778520c81775",
+    "size_kb": 573.4
+  },
   "images/teen_modules/crisis/crisis1_t_3.svg": {
     "md5Checksum": "44c2f05e85b6e25377642232bbc33b20",
     "size_kb": 36.6
+  },
+  "images/teen_modules/crisis/crisis1_t_4.png": {
+    "md5Checksum": "dd5f8eb4f9dbe945cad8f74d128f56f0",
+    "size_kb": 682
   },
   "images/teen_modules/crisis/crisis1_t_4.svg": {
     "md5Checksum": "540276a1735fd2ce4fd861e6c9099060",
     "size_kb": 34.3
   },
+  "images/teen_modules/crisis/crisis1_t_5.png": {
+    "md5Checksum": "66965522c92bb3c7df8c6276a80e2bcc",
+    "size_kb": 684.8
+  },
   "images/teen_modules/crisis/crisis1_t_5.svg": {
     "md5Checksum": "97b05eb521512ca84135e986137f9565",
     "size_kb": 37
   },
+  "images/teen_modules/crisis/crisis1_t_6.png": {
+    "md5Checksum": "4163c77f0c765abdf62b774ad67ee185",
+    "size_kb": 678.6
+  },
   "images/teen_modules/crisis/crisis1_t_6.svg": {
     "md5Checksum": "7f4dc2d0dffd99103cf484f0411b5b5f",
     "size_kb": 27.7
+  },
+  "images/teen_modules/crisis/crisis1_t_7.png": {
+    "md5Checksum": "398ddc82c5f2408e87981b3714d0acb1",
+    "size_kb": 562.2
   },
   "images/teen_modules/crisis/crisis2_t_1.svg": {
     "md5Checksum": "2d3deba1efb0bd1ba4914dd2715a7470",
@@ -2318,37 +2456,81 @@
     "md5Checksum": "f527e415cab1c2b41c028424e08155a5",
     "size_kb": 26.5
   },
-  "images/teen_modules/instruct/instruct2_t_1.svg": {
+  "images/teen_modules/instruct/instruct2_t_1.png": {
+    "md5Checksum": "10b5289272f0e27b75c04cb3063bad26",
+    "size_kb": 1004.3
+  },
+  "images/teen_modules/instruct/instruct2_t_2.png": {
+    "md5Checksum": "745fd2dcb4c3a5f4a077e378208518fd",
+    "size_kb": 1059.5
+  },
+  "images/teen_modules/instruct/instruct3_t_1.png": {
+    "md5Checksum": "b86cbf190e586dce32a94280e10649c0",
+    "size_kb": 980.8
+  },
+  "images/teen_modules/instruct/instruct3_t_2.png": {
+    "md5Checksum": "31ccf8af3fd9fabeb7ba68ff724f3790",
+    "size_kb": 899
+  },
+  "images/teen_modules/instruct/instruct3_t_3.png": {
+    "md5Checksum": "0c731442f3a0b2d21b6641a2950670e1",
+    "size_kb": 1097.7
+  },
+  "images/teen_modules/instruct/old/instruct2_t_1.svg": {
     "md5Checksum": "6977de3cad285ec09b7c6cb5a21f70e9",
     "size_kb": 47.3
   },
-  "images/teen_modules/instruct/instruct2_t_2.svg": {
+  "images/teen_modules/instruct/old/instruct2_t_2.svg": {
     "md5Checksum": "9089d28b3cfce97ec2d46043fe77b07a",
     "size_kb": 37.4
   },
-  "images/teen_modules/instruct/instruct2_t_3.svg": {
+  "images/teen_modules/instruct/old/instruct2_t_3.svg": {
     "md5Checksum": "c88d9ab48b3b500c338845f8f5f1b7c1",
     "size_kb": 42.6
   },
-  "images/teen_modules/instruct/instruct3_t_1.svg": {
+  "images/teen_modules/instruct/old/instruct3_t_1.svg": {
     "md5Checksum": "e459870f9f56c5db85be8fe8ef600c48",
     "size_kb": 47
   },
-  "images/teen_modules/instruct/instruct3_t_2.svg": {
+  "images/teen_modules/instruct/old/instruct3_t_2.svg": {
     "md5Checksum": "2b5f1b573da0cd9d6ebe9b06b96f116b",
     "size_kb": 39.7
   },
-  "images/teen_modules/instruct/instruct3_t_3.svg": {
+  "images/teen_modules/instruct/old/instruct3_t_3.svg": {
     "md5Checksum": "a34d93aec47f4dcd9a015bf9e3d966d5",
     "size_kb": 43.4
   },
-  "images/teen_modules/instruct/instruct3_t_4.svg": {
+  "images/teen_modules/instruct/old/instruct3_t_4.svg": {
     "md5Checksum": "476a66b3dd60ca5de7d735a2dce648e4",
     "size_kb": 42.5
   },
-  "images/teen_modules/instruct/instruct3_t_5.svg": {
+  "images/teen_modules/instruct/old/instruct3_t_5.svg": {
     "md5Checksum": "136750deb5d97ef1eaf47598aff65a2d",
     "size_kb": 53.4
+  },
+  "images/teen_modules/learn/learn2_t_1.jpg": {
+    "md5Checksum": "81eb33c54d17b33b900b257ad70dba75",
+    "size_kb": 1020.7
+  },
+  "images/teen_modules/learn/learn2_t_2.jpg": {
+    "md5Checksum": "f5002f28f47e67fb09a3ad59064753be",
+    "size_kb": 1119.2
+  },
+  "images/teen_modules/learn/learn2_t_3.jpg": {
+    "md5Checksum": "cd19729c686720f18c5f247447732abd",
+    "size_kb": 1090.5
+  },
+  "images/teen_modules/learn/learn2_t_4.jpg": {
+    "md5Checksum": "ddc0309c8077c4d8c45c24d70aee7e95",
+    "size_kb": 1221.5
+  },
+  "images/teen_modules/learn/learn3_t_2.svg": {
+    "md5Checksum": "948c8b45543cb7096cbc92dc9839e1d8",
+    "size_kb": 37.5
+  },
+  "images/teen_modules/learn/learn3_t_3.svg": {
+    "md5Checksum": "f403b4569501b082ca9cb930b319e008",
+    "size_kb": 40.7
   },
   "images/teen_modules/learn/learn_conflict_t_1.svg": {
     "md5Checksum": "cf87f64046b6a28a2e5342b1e988ea85",
@@ -2382,7 +2564,11 @@
     "md5Checksum": "03f0f013a0040a04eabc1ff84d855a88",
     "size_kb": 40.2
   },
-  "images/teen_modules/money/money1_t_1.svg": {
+  "images/teen_modules/learn/learning_mistakes_teen_1.jpg": {
+    "md5Checksum": "81eb33c54d17b33b900b257ad70dba75",
+    "size_kb": 1020.7
+  },
+  "images/teen_modules/money/money1_t.svg": {
     "md5Checksum": "b45987866cd3ef0f1839c12f2a482799",
     "size_kb": 38.9
   },
@@ -2406,21 +2592,41 @@
     "md5Checksum": "3c4db1843f2afa027a8d706513f00150",
     "size_kb": 721.6
   },
+  "images/teen_modules/money/money3_t_1.png": {
+    "md5Checksum": "d58edb650c79ab16d85da3ab703422bf",
+    "size_kb": 696.4
+  },
   "images/teen_modules/money/money3_t_1.svg": {
     "md5Checksum": "c007c6c8bdca5fe95dd232a1056ea9d5",
     "size_kb": 35.3
+  },
+  "images/teen_modules/money/money3_t_2.png": {
+    "md5Checksum": "7768d1f005665953e913259cbee0a404",
+    "size_kb": 773.7
   },
   "images/teen_modules/money/money3_t_2.svg": {
     "md5Checksum": "4bac645041f65f12aa13fe1a692f2265",
     "size_kb": 65
   },
+  "images/teen_modules/money/money3_t_3.png": {
+    "md5Checksum": "90214a53b317f4ac2847a41a22ee9602",
+    "size_kb": 549.3
+  },
   "images/teen_modules/money/money3_t_3.svg": {
     "md5Checksum": "95114326e00faa6192bda3732c194c50",
     "size_kb": 17.8
   },
+  "images/teen_modules/money/money3_t_4.png": {
+    "md5Checksum": "b2ea8e9c513c37524eb870a9168f8900",
+    "size_kb": 722.7
+  },
   "images/teen_modules/money/money3_t_4.svg": {
     "md5Checksum": "3dd39fbac80ce1f5135a20cdfc71b22c",
     "size_kb": 58.2
+  },
+  "images/teen_modules/money/money3_t_5.png": {
+    "md5Checksum": "f808cc233c89a366b707053d865c5572",
+    "size_kb": 637
   },
   "images/teen_modules/money/money3_t_5.svg": {
     "md5Checksum": "e7875b5c1ee30d137221874c69943c51",
@@ -2430,37 +2636,89 @@
     "md5Checksum": "341208ab432e7b2b9e1f17b1e9c34423",
     "size_kb": 47.1
   },
-  "images/teen_modules/praise/praise1_t_1.svg": {
+  "images/teen_modules/one_on_one/1on1_t_1.png": {
+    "md5Checksum": "cf397a30f8db4d6aee51f75ea753b022",
+    "size_kb": 521.7
+  },
+  "images/teen_modules/one_on_one/1on1_t_2.png": {
+    "md5Checksum": "b4f2535335ee512016054c684e072ff6",
+    "size_kb": 1479.1
+  },
+  "images/teen_modules/one_on_one/1on1_t_3.png": {
+    "md5Checksum": "1b827d482f96b2419b59c1d0e75c3c00",
+    "size_kb": 1536.3
+  },
+  "images/teen_modules/praise/OLD/praise1_t_1.svg": {
     "md5Checksum": "9d2b90604d379b24816e04ce136d31ff",
     "size_kb": 164.8
   },
-  "images/teen_modules/praise/praise1_t_2.svg": {
+  "images/teen_modules/praise/OLD/praise1_t_2.svg": {
     "md5Checksum": "b61b7b9fa390f802f89be5810cd20fdf",
     "size_kb": 44.8
+  },
+  "images/teen_modules/praise/praise1_t_1.png": {
+    "md5Checksum": "e574cb0a8eb6e3f70d7870bb2041a5d0",
+    "size_kb": 661.2
+  },
+  "images/teen_modules/praise/praise1_t_2.png": {
+    "md5Checksum": "c8f638efdd005f152f6e289f43916db5",
+    "size_kb": 691
+  },
+  "images/teen_modules/praise/praise1_t_3.png": {
+    "md5Checksum": "cead051a0e8ce0f6b43c70420faa5aca",
+    "size_kb": 605.2
+  },
+  "images/teen_modules/rules/rules1_t_1.png": {
+    "md5Checksum": "7a979fc2cb9361f0c78a4ad205171d03",
+    "size_kb": 490.7
   },
   "images/teen_modules/rules/rules1_t_1.svg": {
     "md5Checksum": "4e302e3930b961ae68a92610456de44c",
     "size_kb": 30.5
   },
+  "images/teen_modules/rules/rules1_t_2.png": {
+    "md5Checksum": "841d5266dce892b10789e7fe527ef543",
+    "size_kb": 690.3
+  },
   "images/teen_modules/rules/rules1_t_2.svg": {
     "md5Checksum": "86c8eb3f20dbc38974cc700b55de8223",
     "size_kb": 32.1
+  },
+  "images/teen_modules/rules/rules1_t_3.png": {
+    "md5Checksum": "d71226ac02a583e6214594c6c9dc8d23",
+    "size_kb": 698.5
   },
   "images/teen_modules/rules/rules1_t_3.svg": {
     "md5Checksum": "9386b38541a578ad2919dccded907440",
     "size_kb": 29.6
   },
+  "images/teen_modules/rules/rules1_t_4.png": {
+    "md5Checksum": "faa76b26a41f61c2a4779e5b1ddbed87",
+    "size_kb": 720
+  },
   "images/teen_modules/rules/rules1_t_4.svg": {
     "md5Checksum": "735170346d23cf06f23f902990574d31",
     "size_kb": 29.5
+  },
+  "images/teen_modules/rules/rules1_t_5.png": {
+    "md5Checksum": "afe5986c81172577cc72b0119349dfca",
+    "size_kb": 709.4
   },
   "images/teen_modules/rules/rules1_t_5.svg": {
     "md5Checksum": "88ec1339cf1eeb7480e8aecb6e35c54a",
     "size_kb": 27.7
   },
+  "images/teen_modules/rules/rules1_t_6.png": {
+    "md5Checksum": "43eccb3ac68a65ec787c5d60ccd191bd",
+    "size_kb": 717.6
+  },
   "images/teen_modules/rules/rules1_t_6.svg": {
     "md5Checksum": "ac4f43f990c4ff584bad392c22da996b",
     "size_kb": 23.3
+  },
+  "images/teen_modules/rules/rules1_t_7.png": {
+    "md5Checksum": "382c637e75beed2643434a93d19c68a0",
+    "size_kb": 537.7
   },
   "images/teen_modules/rules/rules1_t_7.svg": {
     "md5Checksum": "4b16c9bee11a9d44a5057aa57b3279d9",
@@ -2486,37 +2744,65 @@
     "md5Checksum": "c0662b8f585a26bbb07a58e631059f48",
     "size_kb": 423.4
   },
-  "images/teen_modules/safe/safe1_t_1.svg": {
-    "md5Checksum": "a8fbfcb74a8a0d4b26c7c7e1a025eaad",
-    "size_kb": 32.5
-  },
-  "images/teen_modules/safe/safe1_t_2.svg": {
+  "images/teen_modules/safe/old images/old_safe1_t_2.svg": {
     "md5Checksum": "74124ce17d3b3a05ea2e83dded6dff70",
     "size_kb": 68.7
   },
-  "images/teen_modules/safe/safe1_t_3.svg": {
+  "images/teen_modules/safe/old images/old_safe1_t_3.svg": {
     "md5Checksum": "960ae7a334601c470b4833e1c17aca32",
     "size_kb": 64.3
   },
-  "images/teen_modules/safe/safe1_t_4.svg": {
+  "images/teen_modules/safe/old images/old_safe1_t_4.svg": {
     "md5Checksum": "dccb53edd2fb759f8db985285f087f23",
     "size_kb": 41
   },
-  "images/teen_modules/safe/safe1_t_5.svg": {
+  "images/teen_modules/safe/old images/old_safe1_t_5.svg": {
     "md5Checksum": "5dbf40b19aedb99608263255e36536b3",
     "size_kb": 41
   },
-  "images/teen_modules/safe/safe1_t_6.svg": {
-    "md5Checksum": "daeadb17f758886b28521dcb6d6a3515",
-    "size_kb": 32.8
+  "images/teen_modules/safe/old images/safe1_t_1.svg": {
+    "md5Checksum": "a8fbfcb74a8a0d4b26c7c7e1a025eaad",
+    "size_kb": 32.5
   },
-  "images/teen_modules/safe/safe2_t_1.svg": {
+  "images/teen_modules/safe/old images/safe1_t_4.svg": {
+    "md5Checksum": "5921bdac4662f5df231e0a54879f03c8",
+    "size_kb": 103.5
+  },
+  "images/teen_modules/safe/old images/safe1_t_6.svg": {
+    "md5Checksum": "ecee19c3690d262f4981709ca92c02f0",
+    "size_kb": 57.8
+  },
+  "images/teen_modules/safe/old images/safe2_t_1.svg": {
     "md5Checksum": "932a38e2a7c24ae4633c00406a81ec4d",
     "size_kb": 35
   },
-  "images/teen_modules/safe/safe2_t_2.svg": {
+  "images/teen_modules/safe/old images/safe2_t_2.svg": {
     "md5Checksum": "d4a6a0744c97c27965c391c46665102d",
     "size_kb": 33
+  },
+  "images/teen_modules/safe/safe1_t_1.svg": {
+    "md5Checksum": "d14940e9c0b6abc8c00f0ddd58faef9f",
+    "size_kb": 24.3
+  },
+  "images/teen_modules/safe/safe1_t_2.svg": {
+    "md5Checksum": "d3053ef4fce4967ca28227e95a730401",
+    "size_kb": 42
+  },
+  "images/teen_modules/safe/safe1_t_3.svg": {
+    "md5Checksum": "4cec497ee9afd4d388856c13d3679c97",
+    "size_kb": 38.5
+  },
+  "images/teen_modules/safe/safe1_t_4.png": {
+    "md5Checksum": "65f0e28ca5c8f2042f4bf54912827774",
+    "size_kb": 767.5
+  },
+  "images/teen_modules/safe/safe1_t_5.svg": {
+    "md5Checksum": "fd334d81f2cd55a9edfef5e8dec85f0d",
+    "size_kb": 71.4
+  },
+  "images/teen_modules/safe/safe1_t_6.png": {
+    "md5Checksum": "7040561ffc9b6bcb02678081ab0b83b9",
+    "size_kb": 451
   },
   "images/teen_modules/safe/safe_learn_t_1.svg": {
     "md5Checksum": "3d22ff11baa8a8ddbe16beeb1c942786",
@@ -2534,13 +2820,93 @@
     "md5Checksum": "085c27d74f5c3eece0db91f24f68972d",
     "size_kb": 926.4
   },
+  "images/teen_modules/safe/warning_catcalling_t.svg": {
+    "md5Checksum": "aa98ecce720688b5d6796bfdec73e6a4",
+    "size_kb": 96.1
+  },
+  "images/teen_modules/safe/warning_controlling_boyfriend_t.svg": {
+    "md5Checksum": "ebe3bc94ae51b79ce0a9b36d7bbdc2ed",
+    "size_kb": 39.3
+  },
+  "images/teen_modules/safe/warning_nude_pic_t.svg": {
+    "md5Checksum": "3fe5166757be49db6982443f797eff88",
+    "size_kb": 49.6
+  },
+  "images/teen_modules/safe/warning_private_tutoring_t.png": {
+    "md5Checksum": "334b2c874e0eb71248f5963f6a0ac9a0",
+    "size_kb": 573
+  },
+  "images/teen_modules/safe/warning_private_tutoring_t.svg": {
+    "md5Checksum": "77618abb65e218170f6f5b4108e3da4a",
+    "size_kb": 58.6
+  },
+  "images/teen_modules/safe/warning_pushy_boyfriend_t.svg": {
+    "md5Checksum": "7bee8926e61517fb2328c3cedf6891b4",
+    "size_kb": 49.8
+  },
+  "images/teen_modules/safe/warning_pushy_friend_t.svg": {
+    "md5Checksum": "0eba3bf285360a39d81515ec6952fb25",
+    "size_kb": 65.6
+  },
+  "images/teen_modules/safe/warning_rejected_ride_t.svg": {
+    "md5Checksum": "c965a2a4cba04693c3e225db36def8e4",
+    "size_kb": 74.4
+  },
+  "images/teen_modules/self_care/self_care1_t_1.png": {
+    "md5Checksum": "3976a5d893961d91ab60073561494da4",
+    "size_kb": 585
+  },
   "images/teen_modules/self_care/self_care1_t_1.svg": {
     "md5Checksum": "d49ac09071734c0db1a5b7bf3c900a71",
     "size_kb": 34.7
   },
-  "images/teen_modules/self_care/self_care1_t_2.svg": {
+  "images/teen_modules/self_care/self_care1_t_2.png": {
+    "md5Checksum": "a1f726a1206d318c3003d55e1f5ee1a7",
+    "size_kb": 504.3
+  },
+  "images/teen_modules/self_care/self_care2_t_1.svg": {
     "md5Checksum": "51cccd20e23c68953db28b1361ef5a7f",
     "size_kb": 27.9
+  },
+  "images/teen_modules/solve/old/solve2_t_1.svg": {
+    "md5Checksum": "a46a9d0c38dcad7df22d60c8fcc567fb",
+    "size_kb": 49.2
+  },
+  "images/teen_modules/solve/old/solve2_t_10.svg": {
+    "md5Checksum": "29338a585138f05f6d08a73335c02e3f",
+    "size_kb": 25.9
+  },
+  "images/teen_modules/solve/old/solve2_t_2.svg": {
+    "md5Checksum": "8d97b5a04e321548281234c9557b1f53",
+    "size_kb": 46.3
+  },
+  "images/teen_modules/solve/old/solve2_t_3.svg": {
+    "md5Checksum": "44bce638752d01e69f914c5723ded612",
+    "size_kb": 59.6
+  },
+  "images/teen_modules/solve/old/solve2_t_4.svg": {
+    "md5Checksum": "00d9edffd01ad1f491948e019c2ff736",
+    "size_kb": 29.8
+  },
+  "images/teen_modules/solve/old/solve2_t_5.svg": {
+    "md5Checksum": "c9b96f9d2b5dbe8eb8ae52266e195d58",
+    "size_kb": 33.1
+  },
+  "images/teen_modules/solve/old/solve2_t_6.svg": {
+    "md5Checksum": "bb316aef4ae7d048b1ef1f1e8140145e",
+    "size_kb": 33.8
+  },
+  "images/teen_modules/solve/old/solve2_t_7.svg": {
+    "md5Checksum": "164018cb66e0ec14f71f13fa5b06172d",
+    "size_kb": 34.7
+  },
+  "images/teen_modules/solve/old/solve2_t_8.svg": {
+    "md5Checksum": "49c6cecd2a5af1f8ebae1bdae068bc1e",
+    "size_kb": 38.3
+  },
+  "images/teen_modules/solve/old/solve2_t_9.svg": {
+    "md5Checksum": "ec4b8e228363bd564e1b88524daefee4",
+    "size_kb": 33.5
   },
   "images/teen_modules/solve/solve1_t_1.svg": {
     "md5Checksum": "899e3f6a17f07d24544561cbfc198d0c",
@@ -2554,61 +2920,57 @@
     "md5Checksum": "8bb025dac71cb07c137b54d1dcca5644",
     "size_kb": 33.6
   },
-  "images/teen_modules/solve/solve2_t_1.svg": {
-    "md5Checksum": "a46a9d0c38dcad7df22d60c8fcc567fb",
-    "size_kb": 49.2
+  "images/teen_modules/solve/solve2_t_1.png": {
+    "md5Checksum": "6a288b8998667200ea76f5bbfe5dd167",
+    "size_kb": 752.5
   },
-  "images/teen_modules/solve/solve2_t_10.svg": {
-    "md5Checksum": "29338a585138f05f6d08a73335c02e3f",
-    "size_kb": 25.9
+  "images/teen_modules/solve/solve2_t_2.png": {
+    "md5Checksum": "397099ec29540b3f9dca901c3862201e",
+    "size_kb": 969.2
   },
-  "images/teen_modules/solve/solve2_t_11.svg": {
+  "images/teen_modules/solve/solve2_t_3.png": {
+    "md5Checksum": "5b788fed310cc117583860676f2a5ed8",
+    "size_kb": 734.3
+  },
+  "images/teen_modules/solve/solve2_t_4.png": {
+    "md5Checksum": "bd7774dffe9f83f2cf83fa5bd28bb98e",
+    "size_kb": 776.8
+  },
+  "images/teen_modules/solve/solve2_t_5.png": {
+    "md5Checksum": "42b383d7a7efcab0583b4ece7256d6d3",
+    "size_kb": 762.2
+  },
+  "images/teen_modules/solve/solve2_t_6.png": {
+    "md5Checksum": "ecc6daf6ee295665d4539e42aa485e39",
+    "size_kb": 759.9
+  },
+  "images/teen_modules/solve/solve2_t_7.svg": {
     "md5Checksum": "22984eff1011b29e916f6219ce910fe7",
     "size_kb": 34.5
   },
-  "images/teen_modules/solve/solve2_t_12.svg": {
+  "images/teen_modules/solve/solve2_t_8.svg": {
     "md5Checksum": "4c2ab428accebcabe44c95a51fd33ff0",
     "size_kb": 25.7
   },
-  "images/teen_modules/solve/solve2_t_2.svg": {
-    "md5Checksum": "8d97b5a04e321548281234c9557b1f53",
-    "size_kb": 46.3
-  },
-  "images/teen_modules/solve/solve2_t_3.svg": {
-    "md5Checksum": "44bce638752d01e69f914c5723ded612",
-    "size_kb": 59.6
-  },
-  "images/teen_modules/solve/solve2_t_4.svg": {
-    "md5Checksum": "00d9edffd01ad1f491948e019c2ff736",
-    "size_kb": 29.8
-  },
-  "images/teen_modules/solve/solve2_t_5.svg": {
-    "md5Checksum": "c9b96f9d2b5dbe8eb8ae52266e195d58",
-    "size_kb": 33.1
-  },
-  "images/teen_modules/solve/solve2_t_6.svg": {
-    "md5Checksum": "bb316aef4ae7d048b1ef1f1e8140145e",
-    "size_kb": 33.8
-  },
-  "images/teen_modules/solve/solve2_t_7.svg": {
-    "md5Checksum": "164018cb66e0ec14f71f13fa5b06172d",
-    "size_kb": 34.7
-  },
-  "images/teen_modules/solve/solve2_t_8.svg": {
-    "md5Checksum": "49c6cecd2a5af1f8ebae1bdae068bc1e",
-    "size_kb": 38.3
-  },
-  "images/teen_modules/solve/solve2_t_9.svg": {
-    "md5Checksum": "ec4b8e228363bd564e1b88524daefee4",
-    "size_kb": 33.5
+  "images/teen_modules/solve/solve3_t_1.png": {
+    "md5Checksum": "fcb54b114cdcdd4bf5ac4c8ba8a8e1eb",
+    "size_kb": 701.1
   },
   "images/teen_modules/solve/solve3_t_1.svg": {
     "md5Checksum": "f8b9c67d446224125fbb9df24a04c1d3",
     "size_kb": 31.5
   },
+  "images/teen_modules/solve/solve3_t_2.png": {
+    "md5Checksum": "9f4ca7ab2df5a688437fe54efa827885",
+    "size_kb": 659.3
+  },
   "images/teen_modules/solve/solve3_t_2.svg": {
     "md5Checksum": "7f9f6bfe7b25b609b98f37cae1908607",
     "size_kb": 31.9
+  },
+  "images/teen_modules/solve/solve3_t_3.png": {
+    "md5Checksum": "bc385b74286974481b0c2a0bab2d11db",
+    "size_kb": 620.6
   },
   "images/teen_modules/solve/solve3_t_3.svg": {
     "md5Checksum": "fd9fdbad4c2ab99b42b6f2533af7c010",
@@ -2630,17 +2992,33 @@
     "md5Checksum": "63058b01d65e5d7ea7a62db2f81fc6c1",
     "size_kb": 33.4
   },
+  "images/teen_modules/srh/srh1_t_1.png": {
+    "md5Checksum": "31da4b9c9be590c0ff76cc61df784dc3",
+    "size_kb": 463.4
+  },
   "images/teen_modules/srh/srh1_t_1.svg": {
     "md5Checksum": "cb60cc578bfb9edb40074554a7d49c97",
     "size_kb": 32.5
+  },
+  "images/teen_modules/srh/srh1_t_2.png": {
+    "md5Checksum": "4463478d655fca5d474fa373914eb130",
+    "size_kb": 524.8
   },
   "images/teen_modules/srh/srh1_t_2.svg": {
     "md5Checksum": "650b8dbf709d24dd8ba722c80da19178",
     "size_kb": 36.9
   },
+  "images/teen_modules/srh/srh1_t_3.png": {
+    "md5Checksum": "f720a8ec4a077f1ce85b4b4acd76de1c",
+    "size_kb": 515.4
+  },
   "images/teen_modules/srh/srh1_t_3.svg": {
     "md5Checksum": "b712539fad09f066fcb6b921e9596be0",
     "size_kb": 30.6
+  },
+  "images/teen_modules/srh/srh1_t_4.png": {
+    "md5Checksum": "9d991dcd1596758ebb9788bc2068f628",
+    "size_kb": 493.7
   },
   "images/teen_modules/srh/srh1_t_4.svg": {
     "md5Checksum": "2a9eb565e90e66fc9a30b81857799f0f",
@@ -2726,6 +3104,26 @@
     "md5Checksum": "1b093682981c5472f83894d8b509c027",
     "size_kb": 105
   },
+  "images/teen_modules/srh/srh_learn_sex_talk_who_t_4.png": {
+    "md5Checksum": "c4f73c36920c3ed81e157d1936a49e9b",
+    "size_kb": 783.1
+  },
+  "images/teen_modules/stress/OLD/stress2_t_1.svg": {
+    "md5Checksum": "ddc3c22457b8be7265ddd131d526d3ef",
+    "size_kb": 75.1
+  },
+  "images/teen_modules/stress/OLD/stress2_t_2.svg": {
+    "md5Checksum": "9cb040fc1e45a4cf8d0add4146e86e55",
+    "size_kb": 59.4
+  },
+  "images/teen_modules/stress/OLD/stress2_t_3.svg": {
+    "md5Checksum": "8066e4c91f8a8e0f11cbfa5fd61621b6",
+    "size_kb": 55.3
+  },
+  "images/teen_modules/stress/OLD/stress2_t_4.svg": {
+    "md5Checksum": "e5ae64b5af3371f03b6eadb37da3fd32",
+    "size_kb": 55.6
+  },
   "images/teen_modules/stress/stress1_t_1.svg": {
     "md5Checksum": "7a93680c1decf961ed2062ca3cc54bee",
     "size_kb": 61.1
@@ -2746,85 +3144,29 @@
     "md5Checksum": "9f012196bc84088aae3fd89cda416747",
     "size_kb": 72.3
   },
-  "images/teen_modules/stress/stress2_t_1.svg": {
-    "md5Checksum": "ddc3c22457b8be7265ddd131d526d3ef",
-    "size_kb": 75.1
+  "images/teen_modules/stress/stress2_t_1.png": {
+    "md5Checksum": "ad809b4795db947cc0aed85760875fff",
+    "size_kb": 673.1
   },
-  "images/teen_modules/stress/stress2_t_2.svg": {
-    "md5Checksum": "9cb040fc1e45a4cf8d0add4146e86e55",
-    "size_kb": 59.4
+  "images/teen_modules/stress/stress2_t_2.png": {
+    "md5Checksum": "2e516249fd21c81da9c0fc51ab70774a",
+    "size_kb": 599.9
   },
-  "images/teen_modules/stress/stress2_t_3.svg": {
-    "md5Checksum": "8066e4c91f8a8e0f11cbfa5fd61621b6",
-    "size_kb": 55.3
-  },
-  "images/teen_modules/stress/stress2_t_4.svg": {
-    "md5Checksum": "e5ae64b5af3371f03b6eadb37da3fd32",
-    "size_kb": 55.6
-  },
-  "images/teen_modules/stress/stress3_t_1.svg": {
-    "md5Checksum": "d14940e9c0b6abc8c00f0ddd58faef9f",
-    "size_kb": 24.3
-  },
-  "images/teen_modules/stress/stress3_t_2.svg": {
-    "md5Checksum": "d3053ef4fce4967ca28227e95a730401",
-    "size_kb": 42
-  },
-  "images/teen_modules/stress/stress3_t_3.svg": {
-    "md5Checksum": "4cec497ee9afd4d388856c13d3679c97",
-    "size_kb": 38.5
-  },
-  "images/teen_modules/stress/stress3_t_4.svg": {
-    "md5Checksum": "5921bdac4662f5df231e0a54879f03c8",
-    "size_kb": 103.5
-  },
-  "images/teen_modules/stress/stress3_t_5.svg": {
-    "md5Checksum": "fd334d81f2cd55a9edfef5e8dec85f0d",
-    "size_kb": 71.4
-  },
-  "images/teen_modules/stress/stress3_t_6.svg": {
-    "md5Checksum": "62a6d4c3fc8a490a5b641ae8643e1cd2",
-    "size_kb": 57.8
-  },
-  "images/teen_modules/svp/svp_catcalling_t.svg": {
-    "md5Checksum": "aa98ecce720688b5d6796bfdec73e6a4",
-    "size_kb": 96.1
-  },
-  "images/teen_modules/svp/svp_controlling_boyfriend_t.svg": {
-    "md5Checksum": "ebe3bc94ae51b79ce0a9b36d7bbdc2ed",
-    "size_kb": 39.3
-  },
-  "images/teen_modules/svp/svp_nude_pic_t.svg": {
-    "md5Checksum": "3fe5166757be49db6982443f797eff88",
-    "size_kb": 49.6
-  },
-  "images/teen_modules/svp/svp_private_tutoring_t.svg": {
-    "md5Checksum": "77618abb65e218170f6f5b4108e3da4a",
-    "size_kb": 58.6
-  },
-  "images/teen_modules/svp/svp_pushy_boyfriend_t.svg": {
-    "md5Checksum": "7bee8926e61517fb2328c3cedf6891b4",
-    "size_kb": 49.8
-  },
-  "images/teen_modules/svp/svp_pushy_friend_t.svg": {
-    "md5Checksum": "0eba3bf285360a39d81515ec6952fb25",
-    "size_kb": 65.6
-  },
-  "images/teen_modules/svp/svp_rejected_ride_t.svg": {
-    "md5Checksum": "c965a2a4cba04693c3e225db36def8e4",
-    "size_kb": 74.4
+  "images/teen_modules/stress/stress2_t_3.png": {
+    "md5Checksum": "8b91596b00378bed5b8d43f187565995",
+    "size_kb": 639.7
   },
   "images/teen_modules/svp/svp_usebody_t_1.gif": {
-    "md5Checksum": "965ea1b4ffdcf683eb57f49bf88a6046",
-    "size_kb": 1111.6
-  },
-  "images/teen_modules/svp/svp_usebody_t_2.gif": {
     "md5Checksum": "a8496245082ef524815881cb5ab8f6e5",
     "size_kb": 2008.5
   },
-  "images/teen_modules/svp/svp_usebody_t_3.gif": {
+  "images/teen_modules/svp/svp_usebody_t_2.gif": {
     "md5Checksum": "ca9d35af7a81bf482b2b2eec1f027d40",
     "size_kb": 844.1
+  },
+  "images/teen_modules/svp/svp_usebody_t_3.gif": {
+    "md5Checksum": "965ea1b4ffdcf683eb57f49bf88a6046",
+    "size_kb": 1111.6
   },
   "images/teen_modules/svp/svp_usevoice_t.svg": {
     "md5Checksum": "29ac3b89ca6dfe7d04f988fb3cf8b218",
