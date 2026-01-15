@@ -217,15 +217,9 @@
       "nested": false,
       "text_1_facilitator": "Teens often learn different things about sex from school, friends, family, or social media - but this information isn’t always correct or right for their age.\n\nTalking about sex can feel uncomfortable. Parents and teens may even argue, especially if parents don’t agree with what their teen is doing.\n\nLet’s see how @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name, handled this.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
+        "text_2": {},
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
@@ -255,15 +249,9 @@
       "nested": false,
       "text_2": "@data.characters.f2_daughter_19.name accidentally drops her bag, and a packet of condoms falls out.",
       "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "text_2": {},
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "image_asset": "/images/teen_modules/srh/srh1_t_2.svg",
       "character_1_id": "f2_grandmother",
@@ -292,9 +280,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "character_2_text": "But @data.characters.f2_grandmother.role_name, it’s not like that…!",
       "completed": false
@@ -316,12 +302,8 @@
       "character_2_id": "f2_daughter_19",
       "character_1_text": "No, no, no, @data.characters.f2_daughter_19.name! I will not have this discussion with you. Is that what you do at school? Talking about things not suited for your age instead of focusing on school? You won’t go out with those friends of yours anymore. You want to bring shame in this home. Come here now! I am going to hit you. Stupid girl!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_text": "No @data.characters.f2_grandmother.role_name, please don’t hit me, it is not what you think!",
       "completed": false
@@ -391,45 +373,23 @@
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {
           "tz_sw": true
         },
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_2_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_2_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_3": {
-          "tz_sw": true
-        }
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {}
       },
       "quiz_1_feedback_2": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
       "quiz_1_feedback_3": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
@@ -465,9 +425,7 @@
       "nested": false,
       "text_1_facilitator": "We saw how challenging that moment was for @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "character_1_text": {
           "tz_sw": true
         },
@@ -505,9 +463,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "image_asset": "/images/teen_modules/srh/srh2_t_2.svg",
       "character_1_id": "f1_daughter_16",
@@ -582,9 +538,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "character_2_text": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother.role_name.",
       "completed": false
@@ -1185,9 +1139,7 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "You are doing so well! Even starting a small conversation makes a big difference. Keep going - your teen will appreciate your support.",
       "quiz_1_feedback_3": "That's okay. It is normal for these talks to feel a little uncomfortable at first. Try again another time - every small step counts.",
@@ -1220,12 +1172,8 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_title": {},
+        "media_transcript": {}
       },
       "media_title": "@data.characters.media_daughter_8.name learned a lot from honest talks with her mother. Tap play to hear their story",
       "media_transcript": "As teens, we hear all these things about sex from others at school and on the internet. I thought all those things were true, and I was doing a lot of things secretly, because my friends were pushing me and I was afraid of what my mother would say.\n\nWhen I did this app together with my mother, I realised that so many things I learnt were not true. I learnt I can get better information and I learnt others should never push me to do things I do not want to do. My mother and I can talk about these things now. I wish we could have done that when I was younger, because it would have helped me a lot, but I am still glad we can talk today. Whenever I have a question or problem now, I know I can ask my mother and she will help me think of answers and solutions together.",

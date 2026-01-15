@@ -528,9 +528,7 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "That’s a good start! Look for small ways to relax, recognise your efforts, and reward yourself - even little moments of self-care can make a big difference.",
       "quiz_1_feedback_3": "That's okay. Try choosing one small, simple action like taking a deep breath or sitting quietly for a moment. Every little bit counts!",

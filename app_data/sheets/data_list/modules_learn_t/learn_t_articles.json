@@ -14,12 +14,8 @@
       "nested": false,
       "text_1_facilitator": "Today's topic is about helping your teen learn.\n\nDid you know that spending one-on-one time with your teen can help them do better at school? Today we will share some ideas to help you make the most of your time together.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "media_title": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
+        "media_title": {},
         "media_transcript": {
           "tz_sw": true
         }
@@ -46,9 +42,7 @@
       "nested": false,
       "text_1_facilitator": "Learning does not only happen in school - it happens through fun activities, teamwork, and everyday moments. \nWhen we involve our teens and share decisions, we help them feel capable, confident, and connected to us.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -78,15 +72,9 @@
       "nested": false,
       "text_1_facilitator": "Caregivers and teens who spend time together often have happier, healthier relationships. But it is not always easy — sometimes we can both get angry, get annoyed and argue or fight.\n\nLet’s take a look at an example:",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "text_2": {},
+        "character_1_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -110,12 +98,8 @@
       "nested": false,
       "text_2": "*@data.characters.f1_mother.name comes home late.*",
       "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "text_2": {},
+        "character_1_text": {}
       },
       "_translatedFields": {
         "text_2": {
@@ -135,9 +119,7 @@
       "nested": false,
       "character_1_text": "@data.characters.f1_daughter_16.name, why did you not cook dinner yet?! Why do I always have to do everything myself?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -153,9 +135,7 @@
       "nested": false,
       "character_1_text": "Get out of my way!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -172,54 +152,22 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_2_question": {
-          "tz_sw": true
-        },
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_2_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_2_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_2_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_4": {
-          "tz_sw": true
-        }
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {},
+        "quiz_2_option_4_text": {},
+        "quiz_2_feedback_4": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -299,15 +247,9 @@
       "nested": false,
       "text_1_facilitator": "Let’s go back in time and see what happens when @data.characters.f1_mother.name does things differently.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "text_2": {},
+        "character_1_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -331,12 +273,8 @@
       "nested": false,
       "text_2": "@data.characters.f1_mother.name comes home late.",
       "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "text_2": {},
+        "character_1_text": {}
       },
       "_translatedFields": {
         "text_2": {
@@ -357,12 +295,8 @@
       "nested": false,
       "character_1_text": "Hi everyone, I'm feeling exhausted and grateful to be home. @data.characters.f1_daughter_16.name, thank you for looking after your sister and washing the school clothes. I am going to wash my hands, and then we can cook together and you can tell me about your day.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -383,15 +317,9 @@
       "nested": false,
       "text_2": "*15 minutes later…*",
       "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "text_2": {},
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_2": {
@@ -422,75 +350,41 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_2": {},
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_2_question": {
-          "tz_sw": true
-        },
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_2_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_2_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_2_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_3_question": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_3": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {},
+        "quiz_2_option_4_text": {},
+        "quiz_2_feedback_4": {},
+        "quiz_3_question": {},
         "quiz_3_option_1_text": {
           "tz_sw": true
         },
-        "quiz_3_feedback_1": {
-          "tz_sw": true
-        },
+        "quiz_3_feedback_1": {},
         "quiz_3_option_2_text": {
           "tz_sw": true
         },
-        "quiz_3_feedback_2": {
-          "tz_sw": true
-        },
+        "quiz_3_feedback_2": {},
         "quiz_3_option_3_text": {
           "tz_sw": true
         },
-        "quiz_3_feedback_3": {
-          "tz_sw": true
-        }
+        "quiz_3_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -596,12 +490,8 @@
       "nested": false,
       "text_1_facilitator": "Let’s think of activities you can do with your teen to help them learn.\n\nRemember, teens are better at remembering what they learnt when it is fun.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -625,24 +515,16 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        },
+        "section_1_title": {},
+        "section_1_text": {},
         "section_2_title": {
           "tz_sw": true
         },
-        "section_2_text": {
-          "tz_sw": true
-        },
+        "section_2_text": {},
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {
-          "tz_sw": true
-        }
+        "section_3_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -680,33 +562,21 @@
       "nested": false,
       "text_1_facilitator": "Helping your teen learn can feel stressful, but doing fun daily activities together supports their growth and learning.\n\nThis week’s home practice is to try a few activities with your teen!",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
+        "text_2": {},
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_2": {},
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        }
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -754,15 +624,9 @@
       "nested": false,
       "text_1_facilitator": "Spending fun, relaxed time with your teen helps them learn important life skills - and it strengthens your bond. Even small changes, like listening more and playing together, can make a big difference.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {

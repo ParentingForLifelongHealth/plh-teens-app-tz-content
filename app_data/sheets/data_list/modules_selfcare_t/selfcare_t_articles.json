@@ -381,9 +381,7 @@
       "nested": false,
       "text_1_facilitator": "Remember: Small moments of self-care matter. This week, find time to relax, recognize your efforts, and reward yourself whenever you can.\n \nCare for yourself every day. You deserve it!",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_question": {
           "tz_sw": true
         },

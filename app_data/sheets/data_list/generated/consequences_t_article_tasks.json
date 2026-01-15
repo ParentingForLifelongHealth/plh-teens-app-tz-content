@@ -119,12 +119,8 @@
       "nested": false,
       "text_1_facilitator": "Today's topic is about calm consequences.\n\nOur actions have consequences. Some consequences happen naturally (“if you break something, you can’t use it anymore”). Other consequences we set as a family to motivate us to follow the rules (“if you come home late, you can’t go out with friends tomorrow”).\n\nHOW you set and use consequences together matters.\n\nGetting consequences right helps teens behave better and makes family life calmer.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "media_title": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
+        "media_title": {},
         "media_transcript": {
           "tz_sw": true
         }
@@ -152,15 +148,9 @@
       "nested": false,
       "text_1_facilitator": "Calm consequences work best when they are fair, agreed on together, and followed through consistently - not in anger.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
       },
       "media_title": "Agreeing on consequences together works! Tap play to hear @data.characters.media_female_13.name tell her story",
       "media_transcript": "When my teenagers did something to make me angry, I would shout at them and punish them right away. But the next time they did it again! I could not understand why they did not hear me even when I shouted.\n\n@global.app_name helped me understand that my teenagers will listen to me more when I am calm. So, when something happens, I take a deep breath and say “we will talk about this later when we are both calm.”\n\nWe even agree on the consequences together now before something goes wrong. This has worked wonders – I have seen a huge change in my teen’s behaviour now that they are more involved, and I have less stress.\n\nI wish I knew this long ago, but it is never too late to start!",
@@ -238,9 +228,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "character_2_id": "f1_father",
       "character_2_text": "@data.characters.f1_son_18.name, you broke our rule! I will give you a hiding!",
@@ -259,9 +247,7 @@
       "character_1_id": "f1_son_18",
       "character_1_text": "That’s unfair! You never listen to me!! I hate you!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "completed": false
     },
@@ -321,9 +307,7 @@
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "text_1_facilitator": {
           "tz_sw": true
         },
@@ -389,18 +373,14 @@
         "quiz_1_question": {
           "tz_sw": true
         },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!",
       "quiz_1_feedback_3": "That's right!\n\nAnd remember, consequences are not quite the same as punishment: they give our teens a chance to learn responsibility for their actions.\n\nAnd they are more controlled AND effective than hitting or shouting!",
@@ -647,9 +627,7 @@
         "section_1_button_text": {
           "tz_sw": true
         },
-        "section_1_extra_text": {
-          "tz_sw": true
-        },
+        "section_1_extra_text": {},
         "section_2_title": {
           "tz_sw": true
         },
@@ -745,9 +723,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "character_2_id": "f1_son_18",
       "character_2_text": "(mumbles) Mgmluuhm...",
@@ -879,9 +855,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "character_2_id": "f1_father",
       "character_2_text": "@data.characters.f1_son_18.name, it is the middle of the night and you came home later than we agreed. Whatever the reason is, you must understand that this is not acceptable. Your @data.characters.f1_mother.role_name and I felt really worried.",
@@ -906,9 +880,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "character_2_id": "f1_father",
       "character_2_text": "I know it can be hard to say no to your friends. Let’s talk more about this in the morning when we have had some rest.",
@@ -933,9 +905,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "character_2_id": "f1_father",
       "character_2_text": "Thank you. Now go to bed, but just to be clear, as you came home later than we agreed, you will not be allowed to go out tomorrow night.",
@@ -1094,57 +1064,23 @@
       "nested": false,
       "quiz_1_feedback_1": "Negative Consequence: Cannot see friends the next day.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_2_question": {
-          "tz_sw": true
-        },
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_2_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_2_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_3": {
-          "tz_sw": true
-        }
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {}
       },
       "quiz_1_feedback_2": "Negative Consequence: Write a letter of apology.",
       "quiz_1_feedback_3": "Positive Consequence: 30 minutes extra doing an activity of their choice.",
@@ -1220,9 +1156,7 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "text_2": {
           "tz_sw": true
         }

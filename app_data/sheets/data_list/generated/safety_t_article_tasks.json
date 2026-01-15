@@ -152,9 +152,7 @@
       "nested": false,
       "text_1_facilitator": "Sometimes our teens know things about their environment that we might not realise - and by talking, we can learn how to support them better.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -183,15 +181,9 @@
       "nested": false,
       "text_1_facilitator": "The most important way to help keep your teen safe is to make sure that they know they can talk to you about anything. \n\nYou can also come up with a Safety Word - a simple word your teen can use to let you know they have a problem, without fear of you getting angry. \n\nLet's see how this worked for @data.characters.f1_mother.name and her daughter @data.characters.f1_daughter_16.name:",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "image_asset": "/images/teen_modules/safe/safe1_t_1.svg",
       "character_1_id": "f1_daughter_16",
@@ -217,12 +209,8 @@
       "character_2_id": "f2_daughter_19",
       "character_1_text": "Hey beautiful. I have been looking at you for a while. You are very beautiful, what is your name?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_text": "Her name is @data.characters.f1_daughter_16.name.",
       "completed": false
@@ -244,12 +232,8 @@
       "character_2_id": "f1_daughter_16",
       "character_1_text": "@data.characters.f1_daughter_16.name, would you like to come with me to have something to drink and chips? Come on, get in, you will be back in time, I promise…",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_text": "I am not sure if that is a good idea…",
       "completed": false
@@ -267,9 +251,7 @@
       "character_1_id": "f2_daughter_19",
       "character_1_text": "You are lucky, my friend. I wish a man would ask ME out and buy me gifts. I am telling you, if you do not do this I’m going to tell everyone you are stupid!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "completed": false
     },
@@ -290,12 +272,8 @@
       "character_2_id": "f1_daughter_16",
       "character_1_text": "@data.characters.f1_daughter_16.name do not go! Be careful! Let’s go home. It is dangerous to go with people you do not know. Besides, he is too old for you and what he is doing is wrong.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_text": "I just do not know…",
       "completed": false
@@ -317,12 +295,8 @@
       "character_2_id": "f1_daughter_16",
       "character_1_text": "Pfff, I am so proud of you for not getting into the car. That was a dangerous situation, thank you for telling me!\n\nYou can always call me or talk to me when something like this happens. We can even use a Safety Word, so I know something is wrong - and I promise I will not be angry.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_text": "Thank you, @data.characters.f1_mother.role_name! Our Safety Word could be ‘blue house’. I could call and say something like ‘I forgot my book at the blue house’ and you would know to come help me.",
       "completed": false
@@ -371,42 +345,18 @@
       "nested": false,
       "quiz_1_feedback_1": "All those things are true! \n\n@data.characters.f1_daughter_16.name could have gotten into a dangerous situation if she had gotten into the car.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_5": {
-          "tz_sw": true
-        }
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_option_5_text": {},
+        "quiz_1_feedback_5": {}
       },
       "quiz_1_feedback_2": "All those things are true! \n\n@data.characters.f1_daughter_16.name could have gotten into a dangerous situation if she had gotten into the car.",
       "quiz_1_feedback_3": "All those things are true! \n\n@data.characters.f1_daughter_16.name could have gotten into a dangerous situation if she had gotten into the car.",
@@ -435,12 +385,8 @@
       "nested": false,
       "text_1_facilitator": "Let's look at another example of a dangerous situation together.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "character_1_text": {}
       },
       "image_asset": "/images/teen_modules/safe/safe2_t_1.svg",
       "character_1_id": "f1_daughter_16",
@@ -460,9 +406,7 @@
       "character_1_id": "f1_mother",
       "character_1_text": "You are a good friend for being worried about her. Sending sexy photos is a real risk too.\n\nSometimes people are not who they say they are online – he could say he is your age but be a 50-year-old man. Or when they break up, he could send those photos to everyone and your friend would feel awful.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "completed": false
     },
@@ -519,9 +463,7 @@
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -531,9 +473,7 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
@@ -592,18 +532,14 @@
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "Great! You will need a:\n\n- 📄 Piece of paper (or old newspaper or a cardboard box) \n- 🖊️ Pen",
       "quiz_1_question": "Can you make these maps together with your family now?",
@@ -629,9 +565,7 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "image_asset": "/images/teen_modules/safe/safe_learn_t_1.svg",
       "text_2": "Draw a map of your teen’s community, with pictures of all the main places like streets, your house, school, shops, places your teen visits.",
@@ -654,9 +588,7 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "image_asset": "/images/teen_modules/safe/safe_learn_t_2.svg",
       "text_2": "- Which areas on your map are safe for teenagers? CIRCLE these\n- Which areas on your map are unsafe for teenagers? CROSS those off\n- What makes a place safe or unsafe?\n- What could you and your teen do to keep your teen safer?",
@@ -679,9 +611,7 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "image_asset": "/images/teen_modules/safe/safe_learn_t_3.svg",
       "text_2": "Sometimes, we can find ourselves in trouble.\n\n- Where can you and your teen get support when you face a crisis? MARK those areas with a little object like a stone or piece of paper.",
@@ -701,12 +631,8 @@
       "nested": false,
       "text_1_facilitator": "Step 4: Now recognise the risky places online and how you can make them safer.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "text_2": {}
       },
       "image_asset": "/images/teen_modules/safe/safe_learn_t_4.svg",
       "text_2": "- Draw pictures of the apps and websites your teenagers use\n- Recognise how good they are at using the web!\n- Think about which ones might be unsafe. Why?\n- What could you and your teen do to make using the internet safer for your teen and their friends?",
@@ -759,9 +685,7 @@
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {
-          "tz_sw": true
-        },
+        "section_1_text": {},
         "section_2_title": {
           "tz_sw": true
         },
@@ -771,9 +695,7 @@
         "section_2_button_text": {
           "tz_sw": true
         },
-        "section_2_extra_text": {
-          "tz_sw": true
-        },
+        "section_2_extra_text": {},
         "section_3_title": {
           "tz_sw": true
         },
@@ -855,9 +777,7 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "You can do it! Even starting the conversation is a big step towards helping your teen stay safe.",
       "quiz_1_feedback_3": "That's okay. It can feel hard at first, but small talks about safety make a big difference. Try again when you feel ready.",

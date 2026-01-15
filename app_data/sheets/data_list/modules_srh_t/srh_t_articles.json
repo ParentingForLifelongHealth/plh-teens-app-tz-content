@@ -109,15 +109,9 @@
       "nested": false,
       "text_1_facilitator": "Teens often learn different things about sex from school, friends, family, or social media - but this information isn’t always correct or right for their age.\n\nTalking about sex can feel uncomfortable. Parents and teens may even argue, especially if parents don’t agree with what their teen is doing.\n\nLet’s see how @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name, handled this.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
+        "text_2": {},
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
@@ -149,15 +143,9 @@
       "nested": false,
       "text_2": "@data.characters.f2_daughter_19.name accidentally drops her bag, and a packet of condoms falls out.",
       "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "text_2": {},
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_2": {
@@ -185,9 +173,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -208,12 +194,8 @@
       "nested": false,
       "character_1_text": "No, no, no, @data.characters.f2_daughter_19.name! I will not have this discussion with you. Is that what you do at school? Talking about things not suited for your age instead of focusing on school? You won’t go out with those friends of yours anymore. You want to bring shame in this home. Come here now! I am going to hit you. Stupid girl!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -234,51 +216,29 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_4_text": {},
         "quiz_1_feedback_4": {
           "tz_sw": true
         },
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_2_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_2_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_3": {
-          "tz_sw": true
-        }
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -355,9 +315,7 @@
       "nested": false,
       "text_1_facilitator": "We saw how challenging that moment was for @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "character_1_text": {
           "tz_sw": true
         },
@@ -394,9 +352,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_2": {
@@ -468,9 +424,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -1025,9 +979,7 @@
       "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_safe_t_1.svg",
       "text_1_facilitator": "This may not work.\n\nWhen we try to control too much, teens may do the opposite of what we want.\n\nBut when we guide them and give them space to make choices, they often act more responsibly.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -1042,9 +994,7 @@
       "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_safe_t_2.svg",
       "text_1_facilitator": "This may not work. \n\nTeens get pressure and information from many places we can’t control.\n\nAs parents, we can guide and prepare them to know what is right or wrong—and help them feel confident to make good decisions.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -1093,9 +1043,7 @@
       "image_asset": "/images/teen_modules/srh/srh_learn_sex_talk_safe_t_5.svg",
       "text_1_facilitator": "That’s right.\n\nTo stay safe, your teen needs to know the difference between respectful behaviours and relationships, and unhealthy ones..\n\nRespectful relationships feel caring, safe, and fair. Unhealthy ones involve pressure, discomfort, or feeling unsafe.\n\nNo one should be forced to do something they’re not okay with. You can learn more about this in the Staying Safe module.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -1280,9 +1228,7 @@
       "nested": false,
       "text_1_facilitator": "This week’s home activity is to read and talk about this module’s stories with your teen. Use them to start a conversation about body changes and relationships.\n\nYou can talk about what happened with @data.characters.f2_daughter_19.name or @data.characters.f1_daughter_16.name and their parents.\n\nThese stories can make it easier to talk about tricky topics and share ideas about healthy, respectful relationships.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -1350,12 +1296,8 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_title": {},
+        "media_transcript": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {

@@ -176,15 +176,9 @@
       "nested": false,
       "text_1_facilitator": "Practising how to recognise warning signs and how to respond can help teens feel confident to protect themselves when it matters most.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
       },
       "media_title": "Hear how learning warning signs kept @data.characters.media_female_11.name's teen safe",
       "media_transcript": "Learning how to stay safe really helped us. The other day, my daughter got invited to a party by an older boy, and he said he would pay for her transport. Before, she would just go secretly, but now she came to me to talk about it.\n\nWe reminded each other that it is important to see the warning signs and stay safe, and she decided to say ‘no’. I am so proud of her. Even me, I now know that others should not pressure or convince me to do something. I can give the right example to my children.",
@@ -252,12 +246,8 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
+        "text_2": {},
         "character_1_text": {
           "tz_sw": true
         },
@@ -330,48 +320,24 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n\nIf you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {
           "tz_sw": true
         },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_2": {},
+        "character_1_text": {},
+        "character_2_text": {},
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_5": {
-          "tz_sw": true
-        }
+        "quiz_1_feedback_4": {},
+        "quiz_1_option_5_text": {},
+        "quiz_1_feedback_5": {}
       },
       "quiz_1_feedback_2": "Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n\nIf you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving.",
       "quiz_1_feedback_3": "Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n\nIf you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving.",
@@ -426,33 +392,17 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, all of these are warning signs!\n\nShouting sexual comments, whistling, or making kissing sounds at someone is sexual harassment and a type of abuse.\n\nIf @data.characters.f1_son_18.name stays quiet, his friend may keep doing it. He can help his friend understand that this behaviour is not okay and can make girls feel scared, angry, or sad.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {
           "tz_sw": true
         },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_2": {},
+        "character_1_text": {}
       },
       "quiz_1_feedback_2": "Yes, all of these are warning signs!\n\nShouting sexual comments, whistling, or making kissing sounds at someone is sexual harassment and a type of abuse.\n\nIf @data.characters.f1_son_18.name stays quiet, his friend may keep doing it. He can help his friend understand that this behaviour is not okay and can make girls feel scared, angry, or sad.",
       "quiz_1_feedback_3": "Yes, all of these are warning signs!\n\nShouting sexual comments, whistling, or making kissing sounds at someone is sexual harassment and a type of abuse.\n\nIf @data.characters.f1_son_18.name stays quiet, his friend may keep doing it. He can help his friend understand that this behaviour is not okay and can make girls feel scared, angry, or sad.",
@@ -586,12 +536,8 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, these are important warning signs!\n\nSharing sexual images without permission is wrong and often a crime—especially if someone is under 18.\n\n@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n\nTalk as a family about social media to help everyone stay safe.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -671,48 +617,26 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f1_daughter_16.name can try to find others with the same experience to help report him to a trusted adult.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {
           "tz_sw": true
         },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_2": {},
+        "character_1_text": {},
+        "character_2_text": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
         "quiz_1_option_5_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_5": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_5": {},
         "character_3_text": {
           "tz_sw": true
         }
@@ -862,9 +786,7 @@
       "nested": false,
       "text_1_facilitator": "We’ve looked at warning signs. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n\nThink about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "text_2": {
           "tz_sw": true
         }
@@ -914,39 +836,25 @@
       "nested": false,
       "quiz_1_feedback_1": "It’s true. Both boys and girls can find themselves in dangerous situations.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "quiz_2_question": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
+        "quiz_2_question": {},
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
+        "quiz_2_feedback_1": {},
         "quiz_2_option_2_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        }
+        "quiz_2_feedback_2": {}
       },
       "quiz_1_feedback_2": "That’s not quite right. Both boys and girls can find themselves in dangerous situations.",
       "quiz_1_question": "Could this situation happen to a boy?",
@@ -1191,9 +1099,7 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "text_2": {
           "tz_sw": true
         }

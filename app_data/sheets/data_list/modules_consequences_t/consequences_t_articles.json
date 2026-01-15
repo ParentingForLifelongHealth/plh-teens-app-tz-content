@@ -14,12 +14,8 @@
       "nested": false,
       "text_1_facilitator": "Today's topic is about calm consequences.\n\nOur actions have consequences. Some consequences happen naturally (“if you break something, you can’t use it anymore”). Other consequences we set as a family to motivate us to follow the rules (“if you come home late, you can’t go out with friends tomorrow”).\n\nHOW you set and use consequences together matters.\n\nGetting consequences right helps teens behave better and makes family life calmer.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "media_title": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
+        "media_title": {},
         "media_transcript": {
           "tz_sw": true
         }
@@ -46,15 +42,9 @@
       "nested": false,
       "text_1_facilitator": "Calm consequences work best when they are fair, agreed on together, and followed through consistently - not in anger.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "media_title": {
-          "tz_sw": true
-        },
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "media_title": {},
+        "media_transcript": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -133,9 +123,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -155,9 +143,7 @@
       "nested": false,
       "character_1_text": "That’s unfair! You never listen to me!! I hate you!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -189,9 +175,7 @@
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
@@ -251,15 +235,11 @@
       "nested": false,
       "text_1_facilitator": "Teens often break rules. This is normal - growing up is a difficult time when they are learning about who they are.\n\nLuckily, there are ways to discipline without getting angry or using violence… and they work well!\n\nGiving calm consequences is important because it helps teens learn from their actions and take responsibility for their choices.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_question": {
           "tz_sw": true
         },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
@@ -505,9 +485,7 @@
         "section_1_button_text": {
           "tz_sw": true
         },
-        "section_1_extra_text": {
-          "tz_sw": true
-        },
+        "section_1_extra_text": {},
         "section_2_title": {
           "tz_sw": true
         },
@@ -632,9 +610,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -761,9 +737,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -787,9 +761,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -813,9 +785,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -926,57 +896,23 @@
       "nested": false,
       "text_1_facilitator": "It is time to learn and practise!\n\nPlan a calm consequence for your teenagers arguing with each other during dinner.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_2_question": {
-          "tz_sw": true
-        },
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_2_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_2_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_3": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -1054,9 +990,7 @@
       "nested": false,
       "text_1_facilitator": "It is time to learn and practise!\n\nYour home activity this week is to try using one **positive consequence** when your teen does something well — and one **negative consequence** when they break a household rule.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "text_2": {
           "tz_sw": true
         },

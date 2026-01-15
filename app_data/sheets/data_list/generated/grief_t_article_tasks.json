@@ -324,18 +324,10 @@
       "quiz_1_option_3_image_asset": "images/icons/faces/angry.svg",
       "quiz_1_feedback_1": "Yes, telling someone to stop crying can make them feel even more sad, angry or confused.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -348,9 +340,7 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_2_question": {
-          "tz_sw": true
-        },
+        "quiz_2_question": {},
         "quiz_2_option_1_text": {
           "tz_sw": true
         },

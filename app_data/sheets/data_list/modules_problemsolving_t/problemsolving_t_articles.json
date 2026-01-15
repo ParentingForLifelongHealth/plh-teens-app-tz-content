@@ -52,9 +52,7 @@
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_transcript": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -79,15 +77,9 @@
       "nested": false,
       "text_1_facilitator": "Let’s look at what happened to @data.characters.f1_daughter_13.name and her mother when @data.characters.f1_daughter_13.name got a phone from a boy… Can you believe it!",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -112,12 +104,8 @@
       "nested": false,
       "character_1_text": "I don’t want to see that expensive thing! That boy is no good! How does he think you are going to repay him for this?!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -138,12 +126,8 @@
       "nested": false,
       "character_1_text": "I do not want to hear it!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -243,15 +227,9 @@
       "nested": false,
       "text_1_facilitator": "Let’s see how problem solving works in real life— using this week’s 4 steps: know it, solve it, try it, and test it.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "text_2": {},
+        "character_1_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -275,9 +253,7 @@
       "nested": false,
       "character_1_text": "@data.characters.f2_son_15.name! What are you doing? That bread is for dinner! Now there will not be enough for us all!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -294,9 +270,7 @@
       "nested": false,
       "character_1_text": "Sorry, @data.characters.f2_grandmother.role_name, I was just hungry. I can explain, you see, there is this guy at school...",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
@@ -320,12 +294,8 @@
       "nested": false,
       "character_1_text": "Just give me a moment. I am tired and now worried about having enough food for dinner.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -346,12 +316,8 @@
       "nested": false,
       "character_1_text": "Now tell me, why are you so hungry? Did you not eat your lunch at school?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -372,12 +338,8 @@
       "nested": false,
       "character_1_text": "I am sorry to hear that but am glad that you told me, @data.characters.f2_son_15.name. It does not mean that you can eat everybody’s dinner. After we speak, you need to go to the shop to buy some more bread. But first, what do you think we should do about the bully problem?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -398,12 +360,8 @@
       "nested": false,
       "character_1_text": "Hmmm… what do you think will happen to you if you do that?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -424,12 +382,8 @@
       "nested": false,
       "character_1_text": "Yes, that could happen. What could we do instead?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -450,12 +404,8 @@
       "nested": false,
       "character_1_text": "That sounds like a better idea. I could also have a word with his parents if you want me to.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -476,12 +426,8 @@
       "nested": false,
       "character_1_text": "Anything for you, my dear. I will do it first thing after dinner. And you know? If that does not work, we can always try something else together.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
@@ -508,9 +454,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_2": {
@@ -535,9 +479,7 @@
       "nested": false,
       "character_1_text": "I am sorry to hear that, @data.characters.f2_son_15.name. Shall I ask your uncle to go talk to his parents? If that does not work, we will try something else!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
@@ -558,12 +500,8 @@
       "nested": false,
       "text_1_facilitator": "That was a great example of how to solve a problem!  \n\nNow let’s remember what happened with @data.characters.f1_daughter_13.name and the phone she got from the boy.\n\nHow could @data.characters.f1_daughter_13.name and her mother, @data.characters.f1_mother.name, use the 4 steps of problem solving to come up with solutions, just like @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name did?",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -581,20 +519,14 @@
       "nested": false,
       "quiz_1_question": "@data.characters.f1_daughter_13.name and @data.characters.f1_mother.name came up with three ideas together. \nTap on each one to see if these solutions worked!",
       "_translations": {
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
         "quiz_1_feedback_1_id": {},
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
         "quiz_1_feedback_2_id": {},
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_3_id": {}
       },
       "_translatedFields": {
@@ -669,15 +601,9 @@
       "character_2_id": "f1_daughter_13",
       "text_1_facilitator": "This is a great option! \n\nParenting teens is really hard. Often there are no simple and easy solutions, but now @data.characters.f1_mother.name learned she can talk to her daughter about these things.\n\nBefore, she worried alone, now they can come up with solutions together!",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -702,15 +628,9 @@
       "character_2_id": "f1_daughter_13",
       "text_1_facilitator": "This is a great option! \n\nParenting teens is really hard. Often there are no simple and easy solutions, but now @data.characters.f1_mother.name learned she can talk to her daughter about these things.\n\nBefore, she worried alone, now they can come up with solutions together!",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {

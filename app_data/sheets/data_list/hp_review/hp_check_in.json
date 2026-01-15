@@ -421,9 +421,7 @@
         "notification_text": {
           "tz_sw": true
         },
-        "text_goal": {
-          "tz_sw": true
-        },
+        "text_goal": {},
         "reply_happy": {
           "tz_sw": true
         },
@@ -661,12 +659,8 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did making safety maps go?",
       "_translations": {
-        "notification_text": {
-          "tz_sw": true
-        },
-        "text_goal": {
-          "tz_sw": true
-        },
+        "notification_text": {},
+        "text_goal": {},
         "reply_happy": {
           "tz_sw": true
         },
@@ -1147,18 +1141,10 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Eezb1Sz2jgpYdScev9NkpRRbGkKPfDDXsQMZRTwFjhs",
       "notification_text": "How did trying a fun activity with your teen go?",
       "_translations": {
-        "notification_text": {
-          "tz_sw": true
-        },
-        "text_goal": {
-          "tz_sw": true
-        },
-        "reply_happy": {
-          "tz_sw": true
-        },
-        "reply_ok": {
-          "tz_sw": true
-        },
+        "notification_text": {},
+        "text_goal": {},
+        "reply_happy": {},
+        "reply_ok": {},
         "reply_sad": {
           "tz_sw": true
         },

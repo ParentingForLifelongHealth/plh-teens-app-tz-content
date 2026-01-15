@@ -301,12 +301,8 @@
       "nested": false,
       "text_1_facilitator": "Praise really is powerful.\n\nLet’s look at the example of @data.characters.f1_mother.name and her daughters:",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "text_2": {}
       },
       "image_asset": "/images/teen_modules/praise/praise1_t_1.svg",
       "text_2": "When @data.characters.f1_mother.name is busy, her two daughters often fight. But today, her older daughter actually helped her sister with her schoolwork!",
@@ -325,9 +321,7 @@
       "character_1_id": "f1_mother",
       "character_1_text": "Thank you for doing your schoolwork, @data.characters.f1_daughter_13.name, and thank you for helping your sister, @data.characters.f1_daughter_16.name. I'm so proud of you!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "completed": false
     },
@@ -393,18 +387,10 @@
       "quiz_1_option_3_image_asset": "images/faces/happiest.svg",
       "quiz_1_feedback_1": "Try again! Praise often creates positive feelings, like feeling happy or proud.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -414,36 +400,16 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "quiz_2_question": {
-          "tz_sw": true
-        },
-        "quiz_2_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_2_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_2_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_2_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_4": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {},
+        "quiz_2_option_4_text": {},
+        "quiz_2_feedback_4": {}
       },
       "quiz_1_feedback_2": "That’s right. Praise made them feel happy and proud!",
       "quiz_1_feedback_3": "That’s right. Praise made them feel happy and proud!",
@@ -510,9 +476,7 @@
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {
-          "tz_sw": true
-        }
+        "section_3_text": {}
       },
       "section_1_icon_asset": "images/icons/eye_blue.png",
       "section_2_icon_asset": "images/icons/single_speech_blue.png",
@@ -542,9 +506,7 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "text_2": "**Thank you for...**\n- Being kind to someone\n- Cleaning your room\n- Joining a family meal\n- Greeting other family members\n- Looking after your siblings\n- Coming home on time\n- Showing thoughtfulness\n- Saying 'please' or 'thank you'\n- Going to school on time\n- Doing chores or schoolwork",
       "completed": false
@@ -602,9 +564,7 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {}
       },
       "quiz_1_feedback_2": "You can do it! Try praising your teen for something simple at first, like looking after their siblings or going to school.",
       "quiz_1_feedback_3": "That's okay. With time, giving praise will become easier. Try to praise yourself for something first, like \"Good job using @global.app_name. It shows you care.\"",
@@ -640,9 +600,7 @@
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_transcript": {}
       },
       "media_title": "Hear from @data.characters.media_daughter_2.name on how it feels to get praise from her mother",
       "media_transcript": "I was grateful that my mother learnt about praise.\n\nMy mother always noticed when I was doing something wrong. She would shout at me and hit me.\n\nBut when my mother did the workshop, she would praise me for little things. First I thought “What is going on?” but then it continued. I liked it so I did more good things I thought she would like.\n\nIt feels great that my mother sees the good things I do, and not just the bad things.\n\nI even said it to her once. During one-on-one time, I said “Thank you, mom, for saying something nice when I do things well, not only when I do things wrong.” This made us both very happy.",

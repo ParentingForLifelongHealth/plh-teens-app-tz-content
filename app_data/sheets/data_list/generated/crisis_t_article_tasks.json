@@ -143,9 +143,7 @@
       "nested": false,
       "text_1_facilitator": "Today's topic is about dealing with crises.\n\nAll families experience crises. When we prepare together and know where to get help BEFORE something bad happens, we can overcome any crisis.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -235,12 +233,8 @@
       "character_1_id": "f2_daughter_19",
       "character_1_text": "It’s my Uncle, he… he… he touched me.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
+        "character_2_text": {},
         "character_3_text": {
           "tz_sw": true
         }
@@ -267,9 +261,7 @@
       "character_1_id": "f2_daughter_19",
       "character_1_text": "It is true, he… he… made me do it! He made me have sex with him! I did not want to, I swear, and I even said NO, but he told me I would be in trouble.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
@@ -297,15 +289,9 @@
       "character_1_id": "f2_daughter_19",
       "character_1_text": "Yesterday when you went to see your friend. He just came and that’s when it happened.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        },
-        "character_3_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
       },
       "character_2_id": "f2_grandmother",
       "character_3_id": "f2_daughter_19",
@@ -329,12 +315,8 @@
       "character_1_id": "f2_grandmother",
       "character_1_text": "Ah I know, let’s go to the clinic. They will know what we can do to help you. Does that sound okay to you?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_id": "f2_daughter_19",
       "character_2_text": "Yes… Okay… But will you come with me?",
@@ -403,15 +385,9 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -424,21 +400,15 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_4": {},
         "quiz_1_option_5_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_5": {
-          "tz_sw": true
-        }
+        "quiz_1_feedback_5": {}
       },
       "quiz_1_feedback_2": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!",
       "quiz_1_feedback_3": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!",
@@ -467,12 +437,8 @@
       "nested": false,
       "text_1_facilitator": "Another problem that many parents are worried about is violence and crime. Let’s look at an example together.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "character_1_text": {}
       },
       "image_asset": "/images/teen_modules/crisis/crisis2_t_1.svg",
       "character_1_id": "f1_father",
@@ -495,12 +461,8 @@
       "character_1_id": "f1_son_18",
       "character_1_text": "Yesterday, my friends and I went to a soccer match. Some guys who were drunk started a fight with my friend.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_id": "f1_father",
       "character_2_text": "Continue, I am listening. I hope you did not fight?",
@@ -522,12 +484,8 @@
       "character_1_id": "f1_son_18",
       "character_1_text": "I did not want to, but I could not just stand there and let them beat up my friend, so…",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_id": "f1_father",
       "character_2_text": "So, did you fight in order to help defend your friend?",
@@ -549,12 +507,8 @@
       "character_1_id": "f1_son_18",
       "character_1_text": "Everyone was fighting. I saw someone lying on the field in a pool of blood. He looked… dead.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_id": "f1_father",
       "character_2_text": "I am glad you are telling me about this, @data.characters.f1_son_18.name. Let’s discuss whether we should involve the police or someone else to help.",
@@ -576,12 +530,8 @@
       "character_1_id": "f1_son_18",
       "character_1_text": "Thank you, @data.characters.f1_father.role_name.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_id": "f1_father",
       "character_2_text": "We will get through this. Remember, we will support you as a family.",
@@ -631,42 +581,26 @@
       "nested": false,
       "quiz_1_feedback_1": "That's right! \n\nAll these skills can help in a crisis.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_4": {},
         "quiz_1_option_5_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_5": {
-          "tz_sw": true
-        }
+        "quiz_1_feedback_5": {}
       },
       "quiz_1_feedback_2": "That's right! \n\nAll these skills can help in a crisis.",
       "quiz_1_feedback_3": "That's right! \n\nAll these skills can help in a crisis.",
@@ -734,15 +668,11 @@
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {
-          "tz_sw": true
-        },
+        "section_3_text": {},
         "section_3_button_text": {
           "tz_sw": true
         },
-        "section_3_extra_text": {
-          "tz_sw": true
-        }
+        "section_3_extra_text": {}
       },
       "section_1_text": "Stay calm. Ask yourself, \"What does my teen need right now?\"",
       "text_1_facilitator": "Crisis can make us feel angry or helpless. But this is when our teens really need us to breathe, listen and think. \n\nHere are some tips to help you deal with a crisis!",
@@ -788,9 +718,7 @@
       "nested": false,
       "text_1_facilitator": "Crisis 1: @data.characters.f2_son_15.name fights at school.\n\nHow could you respond to @data.characters.f2_son_15.name?",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "character_1_text": {
           "tz_sw": true
         }
@@ -814,12 +742,8 @@
       "nested": false,
       "text_1_facilitator": "Crisis 2: @data.characters.f1_daughter_16.name gets pregnant.\n\nHow could you respond to @data.characters.f1_daughter_16.name?",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "character_1_text": {}
       },
       "image_asset": "/images/teen_modules/crisis/crisis_learn_t_2.svg",
       "character_1_id": "f1_daughter_16",
@@ -840,9 +764,7 @@
       "nested": false,
       "text_1_facilitator": "Crisis 3: @data.characters.f1_son_18.name makes a girl pregnant.\n\nHow could you respond to @data.characters.f1_son_18.name?",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "character_1_text": {
           "tz_sw": true
         }

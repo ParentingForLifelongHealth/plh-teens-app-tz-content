@@ -158,9 +158,7 @@
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_transcript": {}
       },
       "media_title": "Can problem solving keep your teens safe? It did for @data.characters.media_female_4.name - tap play to hear her story",
       "media_transcript": "I did not have a good relationship with my daughter. I was always shouting at her, and she was refusing to go to school.\n\nOnly when I started spending One-on-One time with her, I realised that she did not want to go to school because she was being bullied at school. We sat down and used the 6 steps of problem solving. We identified the problem, and figured out solutions together: “What can I do as a parent so you can attend school and feel safe?”\n\nWe agreed I would go talk to the teacher to find a way forward. We really found the solutions together, and we are closer now.",
@@ -183,15 +181,9 @@
       "nested": false,
       "text_1_facilitator": "Let’s look at what happened to @data.characters.f1_daughter_13.name and her mother when @data.characters.f1_daughter_13.name got a phone from a boy… Can you believe it!",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "image_asset": "/images/teen_modules/solve/solve1_t_1.svg",
       "character_1_id": "f1_mother",
@@ -217,12 +209,8 @@
       "character_2_id": "f1_daughter_13",
       "character_1_text": "I don’t want to see that expensive thing! That boy is no good! How does he think you are going to repay him for this?!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_text": "That’s not how it works, @data.characters.f1_mother.role_name! That’s not fair!",
       "completed": false
@@ -244,12 +232,8 @@
       "character_2_id": "f1_daughter_13",
       "character_1_text": "I do not want to hear it!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_text": "You are not even trying to listen to me! I do not know why I even try with you!",
       "completed": false
@@ -352,15 +336,9 @@
       "nested": false,
       "text_1_facilitator": "Let’s see how problem solving works in real life— using this week’s 4 steps: know it, solve it, try it, and test it.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "text_2": {}
       },
       "image_asset": "/images/teen_modules/solve/solve2_t_1.svg",
       "character_1_id": "f2_grandmother",
@@ -381,9 +359,7 @@
       "character_1_id": "f2_grandmother",
       "character_1_text": "@data.characters.f2_son_15.name! What are you doing? That bread is for dinner! Now there will not be enough for us all!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "completed": false
     },
@@ -404,9 +380,7 @@
       "character_2_id": "f2_grandmother",
       "character_1_text": "Sorry, @data.characters.f2_grandmother.role_name, I was just hungry. I can explain, you see, there is this guy at school...",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
@@ -431,12 +405,8 @@
       "character_2_id": "f2_son_15",
       "character_1_text": "Just give me a moment. I am tired and now worried about having enough food for dinner.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_text": "I am sorry, @data.characters.f2_grandmother.role_name.",
       "completed": false
@@ -458,12 +428,8 @@
       "character_2_id": "f2_son_15",
       "character_1_text": "Now tell me, why are you so hungry? Did you not eat your lunch at school?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_text": "That is the problem. There is a guy at school who bullies me. He says if I do not give my lunch to him every day, he and his friends will hurt me. He makes me so mad!",
       "completed": false
@@ -485,12 +451,8 @@
       "character_2_id": "f2_son_15",
       "character_1_text": "I am sorry to hear that but am glad that you told me, @data.characters.f2_son_15.name. It does not mean that you can eat everybody’s dinner. After we speak, you need to go to the shop to buy some more bread. But first, what do you think we should do about the bully problem?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_text": "Well… I want to just hit him or get him back.",
       "completed": false
@@ -512,12 +474,8 @@
       "character_2_id": "f2_son_15",
       "character_1_text": "Hmmm… what do you think will happen to you if you do that?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_text": "I don’t know. He is bigger than me so he will probably hurt me more. And I could get into trouble at school and get expelled.",
       "completed": false
@@ -539,12 +497,8 @@
       "character_2_id": "f2_son_15",
       "character_1_text": "Yes, that could happen. What could we do instead?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_text": "I guess I could tell the teacher. But then the other kids will call me a snitch. Maybe you could talk to the teacher?",
       "completed": false
@@ -566,12 +520,8 @@
       "character_2_id": "f2_son_15",
       "character_1_text": "That sounds like a better idea. I could also have a word with his parents if you want me to.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_text": "Sure. If you think that would help too. Thanks, @data.characters.f2_grandmother.role_name.",
       "completed": false
@@ -593,12 +543,8 @@
       "character_2_id": "f2_son_15",
       "character_1_text": "Anything for you, my dear. I will do it first thing after dinner. And you know? If that does not work, we can always try something else together.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "character_2_text": "Thanks, @data.characters.f2_grandmother.role_name.",
       "completed": false
@@ -626,9 +572,7 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        },
+        "character_2_text": {},
         "text_2": {
           "tz_sw": true
         }
@@ -654,9 +598,7 @@
       "character_2_id": "f2_son_15",
       "character_1_text": "I am sorry to hear that, @data.characters.f2_son_15.name. Shall I ask your uncle to go talk to his parents? If that does not work, we will try something else!",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
@@ -678,12 +620,8 @@
       "nested": false,
       "text_1_facilitator": "That was a great example of how to solve a problem!  \n\nNow let’s remember what happened with @data.characters.f1_daughter_13.name and the phone she got from the boy.\n\nHow could @data.characters.f1_daughter_13.name and her mother, @data.characters.f1_mother.name, use the 4 steps of problem solving to come up with solutions, just like @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name did?",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "text_2": {}
       },
       "text_2": "**Remember, you can use the 4 steps to solve problems:**\n\n💭 Step 1: KNOW IT (identify problem)\n📋 Step 2: SOLVE IT (identify solutions) \n⚒️ Step 3: TRY IT (try one) \n🎯 Step 4: TEST IT (try another solution if this one did not work)",
       "completed": false
@@ -717,18 +655,12 @@
       "nested": false,
       "quiz_1_question": "@data.characters.f1_daughter_13.name and @data.characters.f1_mother.name came up with three ideas together. \nTap on each one to see if these solutions worked!",
       "_translations": {
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
         "quiz_1_feedback_1_id": {},
         "quiz_1_feedback_2_id": {},
         "quiz_1_feedback_3_id": {}

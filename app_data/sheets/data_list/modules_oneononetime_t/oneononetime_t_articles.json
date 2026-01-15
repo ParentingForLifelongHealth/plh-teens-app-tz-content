@@ -46,9 +46,7 @@
       "nested": false,
       "text_1_facilitator": "Let's discuss, what is one-on-one time?\n\nOne-on-one time is when you focus on your teens, without distractions like TVs or phones. Let your teens take lead in choosing what you do or talk about.\n\nIt is great if you can spend fifteen minutes a day together, but even five minutes a day is really good.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -76,9 +74,7 @@
       "nested": false,
       "text_1_facilitator": "Let's think of ways to spend time with your teen.\n\nIt may take some time to get used to one-on-one time, but the more you do it, the better it gets!\n\nYou are an amazing parent for trying this.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -178,9 +174,7 @@
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {
-          "tz_sw": true
-        },
+        "section_1_text": {},
         "section_2_title": {
           "tz_sw": true
         },
@@ -233,9 +227,7 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {

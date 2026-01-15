@@ -153,9 +153,7 @@
       "nested": false,
       "text_1_facilitator": "Let's discuss, what is one-on-one time?\n\nOne-on-one time is when you focus on your teens, without distractions like TVs or phones. Let your teens take lead in choosing what you do or talk about.\n\nIt is great if you can spend fifteen minutes a day together, but even five minutes a day is really good.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -232,9 +230,7 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
@@ -296,9 +292,7 @@
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {
-          "tz_sw": true
-        },
+        "section_1_text": {},
         "section_2_title": {
           "tz_sw": true
         },
@@ -340,9 +334,7 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
       "text_2": "**Ideas for one-on-one time with your teen:**\n- Walk to the shops\n- Play a game/sport\n- Do a chore together\n- Prepare dinner\n- Eat breakfast/lunch/dinner\n- Have tea after school\n- Watch a TV show\n- Review homework\n- Chat before bedtime\n\n\n**Remember to use your new skills:**\n📅 **DAY**: try to do it every day,\n⚽ **PLAY**: let your teen choose how to spend one-on-one time, and \n🎯 **STAY**: be focused on your teen!",
       "completed": false
