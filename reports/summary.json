@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 83
+        "count": 82
       },
       {
         "type": "combo_box",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 89
+        "count": 88
       },
       {
         "type": "drawer",
@@ -103,11 +103,11 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 9
+        "count": 8
       },
       {
         "type": "round_button",
-        "count": 12
+        "count": 11
       },
       {
         "type": "select_text",
@@ -119,7 +119,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1989
+        "count": 1974
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "text",
-        "count": 145
+        "count": 143
       },
       {
         "type": "text_area",
@@ -151,7 +151,7 @@
       },
       {
         "type": "text_bubble",
-        "count": 7
+        "count": 5
       },
       {
         "type": "tile_component",
@@ -191,7 +191,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 479
+        "count": 478
       },
       {
         "type": "emit: force_reload",
@@ -215,7 +215,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 485
+        "count": 484
       },
       {
         "type": "feedback",
@@ -247,7 +247,7 @@
       },
       {
         "type": "set_field",
-        "count": 52
+        "count": 50
       },
       {
         "type": "set_item",
@@ -1309,11 +1309,6 @@
         "missing": true
       },
       {
-        "path": "images/onboarding/facilitator_onboarding_icon.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
         "path": "images/teen_modules/instruct/instruct2_t_1.svg",
         "count": 2,
         "missing": true
@@ -2174,7 +2169,7 @@
       },
       {
         "path": "images/character_icons/TZ_FACILITATOR_FEMALE.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 17.7
       },
       {
@@ -2819,7 +2814,7 @@
       },
       {
         "path": "images/onboarding/facilitator_female_onboarding_icon.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 29.4
       },
       {
@@ -3569,7 +3564,7 @@
       {
         "type": "data_list",
         "subtype": "lifecycle_actions",
-        "total": 2
+        "total": 1
       },
       {
         "type": "data_list",
@@ -3699,7 +3694,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 102
+        "total": 101
       },
       {
         "type": "template",
