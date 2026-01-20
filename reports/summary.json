@@ -271,13 +271,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "68746 KB",
-        "MB": "68.7 MB"
+        "KB": "68984 KB",
+        "MB": "69 MB"
       },
       {
         "assets": "unused",
-        "KB": "131881 KB",
-        "MB": "131.9 MB"
+        "KB": "132312 KB",
+        "MB": "132.3 MB"
       }
     ]
   },
@@ -1076,6 +1076,22 @@
         "size_kb": 74.4
       },
       {
+        "path": "images/teen_modules/safe/old_safe1_t_2.svg",
+        "size_kb": 68.7
+      },
+      {
+        "path": "images/teen_modules/safe/old_safe1_t_3.svg",
+        "size_kb": 64.3
+      },
+      {
+        "path": "images/teen_modules/safe/old_safe1_t_4.svg",
+        "size_kb": 41
+      },
+      {
+        "path": "images/teen_modules/safe/old_safe1_t_5.svg",
+        "size_kb": 41
+      },
+      {
         "path": "images/teen_modules/safe/safe1_t_2 (1).svg",
         "size_kb": 42
       },
@@ -1086,6 +1102,10 @@
       {
         "path": "images/teen_modules/safe/safe1_t_6.png",
         "size_kb": 451
+      },
+      {
+        "path": "images/teen_modules/safe/warning_catcalling_t.svg",
+        "size_kb": 96.1
       },
       {
         "path": "images/teen_modules/safe/warning_controlling_boyfriend_t.svg",
@@ -1108,6 +1128,10 @@
         "size_kb": 573
       },
       {
+        "path": "images/teen_modules/safe/warning_private_tutoring_t.svg",
+        "size_kb": 58.6
+      },
+      {
         "path": "images/teen_modules/safe/warning_pushy_boyfriend_t.svg",
         "size_kb": 49.8
       },
@@ -1118,6 +1142,10 @@
       {
         "path": "images/teen_modules/safe/warning_rejected_ride_t.png",
         "size_kb": 817.7
+      },
+      {
+        "path": "images/teen_modules/safe/warning_rejected_ride_t.svg",
+        "size_kb": 74.4
       },
       {
         "path": "images/teen_modules/self_care/self_care1_t_1.png",
@@ -1161,11 +1189,11 @@
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_7.svg",
-        "size_kb": 34.7
+        "size_kb": 34.5
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_8.svg",
-        "size_kb": 38.3
+        "size_kb": 25.7
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_9.svg",
@@ -1375,26 +1403,6 @@
       },
       {
         "path": "images/teen_modules/praise/praise1_t_2.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/safe/safe1_t_4.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/safe/safe1_t_6.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/safe/safe2_t_1.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/safe/safe2_t_2.svg",
         "count": 2,
         "missing": true
       },
@@ -3215,7 +3223,7 @@
       {
         "path": "images/teen_modules/safe/safe1_t_1.svg",
         "count": 2,
-        "size_kb": 24.3
+        "size_kb": 32.5
       },
       {
         "path": "images/teen_modules/safe/safe1_t_2.svg",
@@ -3228,9 +3236,29 @@
         "size_kb": 38.5
       },
       {
+        "path": "images/teen_modules/safe/safe1_t_4.svg",
+        "count": 2,
+        "size_kb": 103.5
+      },
+      {
         "path": "images/teen_modules/safe/safe1_t_5.svg",
         "count": 2,
         "size_kb": 71.4
+      },
+      {
+        "path": "images/teen_modules/safe/safe1_t_6.svg",
+        "count": 2,
+        "size_kb": 57.8
+      },
+      {
+        "path": "images/teen_modules/safe/safe2_t_1.svg",
+        "count": 2,
+        "size_kb": 35
+      },
+      {
+        "path": "images/teen_modules/safe/safe2_t_2.svg",
+        "count": 2,
+        "size_kb": 33
       },
       {
         "path": "images/teen_modules/safe/safe_learn_t_1.svg",
