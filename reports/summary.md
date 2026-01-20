@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 68875 KB | 68.9 MB |
-| unused | 131772 KB | 131.8 MB |
+| total | 68746 KB | 68.7 MB |
+| unused | 131881 KB | 131.9 MB |
 </details>
 
 <details open>
@@ -285,15 +285,17 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/safe/old images/old_safe1_t_5.svg | 41 |
 | images/teen_modules/safe/old images/safe1_t_1.svg | 32.5 |
 | images/teen_modules/safe/old images/safe1_t_4.svg | 103.5 |
-| images/teen_modules/safe/old images/safe1_t_6.svg | 57.8 |
+| images/teen_modules/safe/old images/safe1_t_6.svg | 32.8 |
 | images/teen_modules/safe/old images/safe2_t_1.svg | 35 |
 | images/teen_modules/safe/old images/safe2_t_2.svg | 33 |
 | images/teen_modules/safe/old images/warning_catcalling_t.svg | 96.1 |
 | images/teen_modules/safe/old images/warning_private_tutoring_t.svg | 58.6 |
 | images/teen_modules/safe/old images/warning_rejected_ride_t.svg | 74.4 |
+| images/teen_modules/safe/safe1_t_2 (1).svg | 42 |
 | images/teen_modules/safe/safe1_t_4.png | 767.5 |
 | images/teen_modules/safe/safe1_t_6.png | 451 |
 | images/teen_modules/safe/warning_controlling_boyfriend_t.svg | 39.3 |
+| images/teen_modules/safe/warning_drugs_t.svg | 42 |
 | images/teen_modules/safe/warning_nude_pic_t.png | 792.8 |
 | images/teen_modules/safe/warning_nude_pic_t.svg | 49.6 |
 | images/teen_modules/safe/warning_private_tutoring_t.png | 573 |
@@ -310,8 +312,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/solve/old/solve2_t_4.svg | 29.8 |
 | images/teen_modules/solve/old/solve2_t_5.svg | 33.1 |
 | images/teen_modules/solve/old/solve2_t_6.svg | 33.8 |
-| images/teen_modules/solve/old/solve2_t_7.svg | 34.5 |
-| images/teen_modules/solve/old/solve2_t_8.svg | 25.7 |
+| images/teen_modules/solve/old/solve2_t_7.svg | 34.7 |
+| images/teen_modules/solve/old/solve2_t_8.svg | 38.3 |
 | images/teen_modules/solve/old/solve2_t_9.svg | 33.5 |
 | images/teen_modules/solve/solve2_t_1.png | 752.5 |
 | images/teen_modules/solve/solve2_t_2.png | 969.2 |
@@ -328,6 +330,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/srh/srh1_t_2.png | 524.8 |
 | images/teen_modules/srh/srh1_t_3.png | 515.4 |
 | images/teen_modules/srh/srh1_t_4.png | 493.7 |
+| images/teen_modules/srh/srh1_t_5.svg | 36.9 |
 | images/teen_modules/srh/srh_learn_sex_talk_when_t_3.png | 924 |
 | images/teen_modules/srh/srh_learn_sex_talk_who_t_4.png | 783.1 |
 | images/teen_modules/stress/OLD/stress2_t_1.svg | 75.1 |
@@ -663,7 +666,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/donors/Wellspring.jpeg | 106.5 | 1 |
 | images/logos/plh_logomark.png | 20.5 | 2 |
 | images/logos/plh_white.svg | 256.1 | 1 |
-| images/logos/tz_ministry.svg | 251.1 | 1 |
+| images/logos/tz_ministry.svg | 122.4 | 1 |
 | images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 1 |
 | images/onboarding/facilitator_male_onboarding_icon.svg | 21.6 | 1 |
 | images/onboarding/frustrated.svg | 22.5 | 1 |
