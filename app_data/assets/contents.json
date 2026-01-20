@@ -2812,9 +2812,25 @@
     "md5Checksum": "c965a2a4cba04693c3e225db36def8e4",
     "size_kb": 74.4
   },
+  "images/teen_modules/safe/old_safe1_t_2.svg": {
+    "md5Checksum": "74124ce17d3b3a05ea2e83dded6dff70",
+    "size_kb": 68.7
+  },
+  "images/teen_modules/safe/old_safe1_t_3.svg": {
+    "md5Checksum": "960ae7a334601c470b4833e1c17aca32",
+    "size_kb": 64.3
+  },
+  "images/teen_modules/safe/old_safe1_t_4.svg": {
+    "md5Checksum": "dccb53edd2fb759f8db985285f087f23",
+    "size_kb": 41
+  },
+  "images/teen_modules/safe/old_safe1_t_5.svg": {
+    "md5Checksum": "5dbf40b19aedb99608263255e36536b3",
+    "size_kb": 41
+  },
   "images/teen_modules/safe/safe1_t_1.svg": {
-    "md5Checksum": "d14940e9c0b6abc8c00f0ddd58faef9f",
-    "size_kb": 24.3
+    "md5Checksum": "a8fbfcb74a8a0d4b26c7c7e1a025eaad",
+    "size_kb": 32.5
   },
   "images/teen_modules/safe/safe1_t_2 (1).svg": {
     "md5Checksum": "d3053ef4fce4967ca28227e95a730401",
@@ -2832,6 +2848,10 @@
     "md5Checksum": "65f0e28ca5c8f2042f4bf54912827774",
     "size_kb": 767.5
   },
+  "images/teen_modules/safe/safe1_t_4.svg": {
+    "md5Checksum": "5921bdac4662f5df231e0a54879f03c8",
+    "size_kb": 103.5
+  },
   "images/teen_modules/safe/safe1_t_5.svg": {
     "md5Checksum": "fd334d81f2cd55a9edfef5e8dec85f0d",
     "size_kb": 71.4
@@ -2839,6 +2859,18 @@
   "images/teen_modules/safe/safe1_t_6.png": {
     "md5Checksum": "7040561ffc9b6bcb02678081ab0b83b9",
     "size_kb": 451
+  },
+  "images/teen_modules/safe/safe1_t_6.svg": {
+    "md5Checksum": "62a6d4c3fc8a490a5b641ae8643e1cd2",
+    "size_kb": 57.8
+  },
+  "images/teen_modules/safe/safe2_t_1.svg": {
+    "md5Checksum": "932a38e2a7c24ae4633c00406a81ec4d",
+    "size_kb": 35
+  },
+  "images/teen_modules/safe/safe2_t_2.svg": {
+    "md5Checksum": "d4a6a0744c97c27965c391c46665102d",
+    "size_kb": 33
   },
   "images/teen_modules/safe/safe_learn_t_1.svg": {
     "md5Checksum": "3d22ff11baa8a8ddbe16beeb1c942786",
@@ -2855,6 +2887,10 @@
   "images/teen_modules/safe/safe_learn_t_4.svg": {
     "md5Checksum": "085c27d74f5c3eece0db91f24f68972d",
     "size_kb": 926.4
+  },
+  "images/teen_modules/safe/warning_catcalling_t.svg": {
+    "md5Checksum": "aa98ecce720688b5d6796bfdec73e6a4",
+    "size_kb": 96.1
   },
   "images/teen_modules/safe/warning_controlling_boyfriend_t.svg": {
     "md5Checksum": "ebe3bc94ae51b79ce0a9b36d7bbdc2ed",
@@ -2876,6 +2912,10 @@
     "md5Checksum": "334b2c874e0eb71248f5963f6a0ac9a0",
     "size_kb": 573
   },
+  "images/teen_modules/safe/warning_private_tutoring_t.svg": {
+    "md5Checksum": "77618abb65e218170f6f5b4108e3da4a",
+    "size_kb": 58.6
+  },
   "images/teen_modules/safe/warning_pushy_boyfriend_t.svg": {
     "md5Checksum": "7bee8926e61517fb2328c3cedf6891b4",
     "size_kb": 49.8
@@ -2887,6 +2927,10 @@
   "images/teen_modules/safe/warning_rejected_ride_t.png": {
     "md5Checksum": "91498eda8c43afd2aaba3178a6ea82e4",
     "size_kb": 817.7
+  },
+  "images/teen_modules/safe/warning_rejected_ride_t.svg": {
+    "md5Checksum": "c965a2a4cba04693c3e225db36def8e4",
+    "size_kb": 74.4
   },
   "images/teen_modules/self_care/self_care1_t_1.png": {
     "md5Checksum": "3976a5d893961d91ab60073561494da4",
@@ -2933,12 +2977,12 @@
     "size_kb": 33.8
   },
   "images/teen_modules/solve/old/solve2_t_7.svg": {
-    "md5Checksum": "164018cb66e0ec14f71f13fa5b06172d",
-    "size_kb": 34.7
+    "md5Checksum": "22984eff1011b29e916f6219ce910fe7",
+    "size_kb": 34.5
   },
   "images/teen_modules/solve/old/solve2_t_8.svg": {
-    "md5Checksum": "49c6cecd2a5af1f8ebae1bdae068bc1e",
-    "size_kb": 38.3
+    "md5Checksum": "4c2ab428accebcabe44c95a51fd33ff0",
+    "size_kb": 25.7
   },
   "images/teen_modules/solve/old/solve2_t_9.svg": {
     "md5Checksum": "ec4b8e228363bd564e1b88524daefee4",

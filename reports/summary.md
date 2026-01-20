@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 68746 KB | 68.7 MB |
-| unused | 131881 KB | 131.9 MB |
+| total | 68984 KB | 69 MB |
+| unused | 132312 KB | 132.3 MB |
 </details>
 
 <details open>
@@ -291,17 +291,24 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/safe/old images/warning_catcalling_t.svg | 96.1 |
 | images/teen_modules/safe/old images/warning_private_tutoring_t.svg | 58.6 |
 | images/teen_modules/safe/old images/warning_rejected_ride_t.svg | 74.4 |
+| images/teen_modules/safe/old_safe1_t_2.svg | 68.7 |
+| images/teen_modules/safe/old_safe1_t_3.svg | 64.3 |
+| images/teen_modules/safe/old_safe1_t_4.svg | 41 |
+| images/teen_modules/safe/old_safe1_t_5.svg | 41 |
 | images/teen_modules/safe/safe1_t_2 (1).svg | 42 |
 | images/teen_modules/safe/safe1_t_4.png | 767.5 |
 | images/teen_modules/safe/safe1_t_6.png | 451 |
+| images/teen_modules/safe/warning_catcalling_t.svg | 96.1 |
 | images/teen_modules/safe/warning_controlling_boyfriend_t.svg | 39.3 |
 | images/teen_modules/safe/warning_drugs_t.svg | 42 |
 | images/teen_modules/safe/warning_nude_pic_t.png | 792.8 |
 | images/teen_modules/safe/warning_nude_pic_t.svg | 49.6 |
 | images/teen_modules/safe/warning_private_tutoring_t.png | 573 |
+| images/teen_modules/safe/warning_private_tutoring_t.svg | 58.6 |
 | images/teen_modules/safe/warning_pushy_boyfriend_t.svg | 49.8 |
 | images/teen_modules/safe/warning_pushy_friend_t.svg | 65.6 |
 | images/teen_modules/safe/warning_rejected_ride_t.png | 817.7 |
+| images/teen_modules/safe/warning_rejected_ride_t.svg | 74.4 |
 | images/teen_modules/self_care/self_care1_t_1.png | 585 |
 | images/teen_modules/self_care/self_care1_t_2.png | 504.3 |
 | images/teen_modules/self_care/self_care2_t_1.svg | 27.9 |
@@ -312,8 +319,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/solve/old/solve2_t_4.svg | 29.8 |
 | images/teen_modules/solve/old/solve2_t_5.svg | 33.1 |
 | images/teen_modules/solve/old/solve2_t_6.svg | 33.8 |
-| images/teen_modules/solve/old/solve2_t_7.svg | 34.7 |
-| images/teen_modules/solve/old/solve2_t_8.svg | 38.3 |
+| images/teen_modules/solve/old/solve2_t_7.svg | 34.5 |
+| images/teen_modules/solve/old/solve2_t_8.svg | 25.7 |
 | images/teen_modules/solve/old/solve2_t_9.svg | 33.5 |
 | images/teen_modules/solve/solve2_t_1.png | 752.5 |
 | images/teen_modules/solve/solve2_t_2.png | 969.2 |
@@ -371,10 +378,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/teen_modules/money/money3_t_5.svg | 2 |
 | images/teen_modules/praise/praise1_t_1.svg | 2 |
 | images/teen_modules/praise/praise1_t_2.svg | 2 |
-| images/teen_modules/safe/safe1_t_4.svg | 2 |
-| images/teen_modules/safe/safe1_t_6.svg | 2 |
-| images/teen_modules/safe/safe2_t_1.svg | 2 |
-| images/teen_modules/safe/safe2_t_2.svg | 2 |
 | images/teen_modules/self_care/self_care1_t_2.svg | 2 |
 | images/teen_modules/solve/solve2_t_1.svg | 2 |
 | images/teen_modules/solve/solve2_t_10.svg | 2 |
@@ -746,10 +749,14 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/rules/rules2_t_3.svg | 231.7 | 2 |
 | images/teen_modules/rules/rules2_t_4.svg | 164.6 | 2 |
 | images/teen_modules/rules/rules2_t_5.svg | 423.4 | 2 |
-| images/teen_modules/safe/safe1_t_1.svg | 24.3 | 2 |
+| images/teen_modules/safe/safe1_t_1.svg | 32.5 | 2 |
 | images/teen_modules/safe/safe1_t_2.svg | 42 | 2 |
 | images/teen_modules/safe/safe1_t_3.svg | 38.5 | 2 |
+| images/teen_modules/safe/safe1_t_4.svg | 103.5 | 2 |
 | images/teen_modules/safe/safe1_t_5.svg | 71.4 | 2 |
+| images/teen_modules/safe/safe1_t_6.svg | 57.8 | 2 |
+| images/teen_modules/safe/safe2_t_1.svg | 35 | 2 |
+| images/teen_modules/safe/safe2_t_2.svg | 33 | 2 |
 | images/teen_modules/safe/safe_learn_t_1.svg | 1365.4 | 2 |
 | images/teen_modules/safe/safe_learn_t_2.svg | 1560.3 | 2 |
 | images/teen_modules/safe/safe_learn_t_3.svg | 1991.8 | 2 |
