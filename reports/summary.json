@@ -271,13 +271,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "68875 KB",
-        "MB": "68.9 MB"
+        "KB": "68746 KB",
+        "MB": "68.7 MB"
       },
       {
         "assets": "unused",
-        "KB": "131772 KB",
-        "MB": "131.8 MB"
+        "KB": "131881 KB",
+        "MB": "131.9 MB"
       }
     ]
   },
@@ -1053,7 +1053,7 @@
       },
       {
         "path": "images/teen_modules/safe/old images/safe1_t_6.svg",
-        "size_kb": 57.8
+        "size_kb": 32.8
       },
       {
         "path": "images/teen_modules/safe/old images/safe2_t_1.svg",
@@ -1076,6 +1076,10 @@
         "size_kb": 74.4
       },
       {
+        "path": "images/teen_modules/safe/safe1_t_2 (1).svg",
+        "size_kb": 42
+      },
+      {
         "path": "images/teen_modules/safe/safe1_t_4.png",
         "size_kb": 767.5
       },
@@ -1086,6 +1090,10 @@
       {
         "path": "images/teen_modules/safe/warning_controlling_boyfriend_t.svg",
         "size_kb": 39.3
+      },
+      {
+        "path": "images/teen_modules/safe/warning_drugs_t.svg",
+        "size_kb": 42
       },
       {
         "path": "images/teen_modules/safe/warning_nude_pic_t.png",
@@ -1153,11 +1161,11 @@
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_7.svg",
-        "size_kb": 34.5
+        "size_kb": 34.7
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_8.svg",
-        "size_kb": 25.7
+        "size_kb": 38.3
       },
       {
         "path": "images/teen_modules/solve/old/solve2_t_9.svg",
@@ -1222,6 +1230,10 @@
       {
         "path": "images/teen_modules/srh/srh1_t_4.png",
         "size_kb": 493.7
+      },
+      {
+        "path": "images/teen_modules/srh/srh1_t_5.svg",
+        "size_kb": 36.9
       },
       {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_3.png",
@@ -2803,7 +2815,7 @@
       {
         "path": "images/logos/tz_ministry.svg",
         "count": 1,
-        "size_kb": 251.1
+        "size_kb": 122.4
       },
       {
         "path": "images/onboarding/facilitator_female_onboarding_icon.svg",
