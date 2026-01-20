@@ -9,12 +9,12 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 83 |
+| button | 82 |
 | combo_box | 9 |
 | data_items | 105 |
 | debug_toggle | 1 |
 | display_grid | 5 |
-| display_group | 89 |
+| display_group | 88 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 19 |
@@ -28,19 +28,19 @@
 | plh_module_list_item | 3 |
 | progress_path | 1 |
 | qr_code | 1 |
-| radio_button_grid | 9 |
-| round_button | 12 |
+| radio_button_grid | 8 |
+| round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1989 |
+| set_variable | 1974 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 4 |
 | template | 658 |
-| text | 145 |
+| text | 143 |
 | text_area | 2 |
 | text_box | 12 |
-| text_bubble | 7 |
+| text_bubble | 5 |
 | tile_component | 2 |
 | title | 45 |
 | toggle_bar | 6 |
@@ -56,13 +56,13 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 479 |
+| emit: completed | 478 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 485 |
+| emit: uncompleted | 484 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 181 |
@@ -70,7 +70,7 @@
 | reset_app | 4 |
 | reset_data | 3 |
 | set_data | 53 |
-| set_field | 52 |
+| set_field | 50 |
 | set_item | 38 |
 | set_local | 45 |
 | task | 2 |
@@ -357,7 +357,6 @@ Assets that have references within sheets but do not appear in app-data
 | path | count |
 | --- | --- |
 | images/backgrounds/map_view_bg.jpg | 1 |
-| images/onboarding/facilitator_onboarding_icon.svg | 1 |
 | images/teen_modules/instruct/instruct2_t_1.svg | 2 |
 | images/teen_modules/instruct/instruct2_t_2.svg | 2 |
 | images/teen_modules/instruct/instruct2_t_3.svg | 2 |
@@ -538,7 +537,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/character_icons/FRIEND_MALE_2.svg | 22 | 1 |
 | images/character_icons/MAN_IN_CAR.svg | 13.2 | 1 |
 | images/character_icons/TEACHER_1.svg | 20.4 | 1 |
-| images/character_icons/TZ_FACILITATOR_FEMALE.svg | 17.7 | 2 |
+| images/character_icons/TZ_FACILITATOR_FEMALE.svg | 17.7 | 4 |
 | images/character_icons/TZ_FACILITATOR_MALE.svg | 22.4 | 2 |
 | images/faces/angry.svg | 1.1 | 8 |
 | images/faces/confused.svg | 1.8 | 8 |
@@ -667,7 +666,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/plh_logomark.png | 20.5 | 2 |
 | images/logos/plh_white.svg | 256.1 | 1 |
 | images/logos/tz_ministry.svg | 122.4 | 1 |
-| images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 1 |
+| images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 2 |
 | images/onboarding/facilitator_male_onboarding_icon.svg | 21.6 | 1 |
 | images/onboarding/frustrated.svg | 22.5 | 1 |
 | images/onboarding/join_parents.svg | 37.6 | 1 |
@@ -823,7 +822,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | hp_review | 2 |
 | data_list | legal_terms | 2 |
 | data_list | library | 3 |
-| data_list | lifecycle_actions | 2 |
+| data_list | lifecycle_actions | 1 |
 | data_list | modules | 2 |
 | data_list | modules_celebrate_t | 1 |
 | data_list | modules_consequences_t | 1 |
@@ -849,7 +848,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
-| template |  | 102 |
+| template |  | 101 |
 | template | generated | 502 |
 | template | legal_terms | 4 |
 </details>
