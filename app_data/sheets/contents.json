@@ -230,6 +230,12 @@
       "flow_subtype": "generated",
       "flow_type": "data_list",
       "_metadata": {
+        "unlock_tag": {
+          "type": "number"
+        },
+        "release_value": {
+          "type": "number"
+        },
         "number": {
           "type": "number"
         },
@@ -540,6 +546,12 @@
         "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
       },
       "_metadata": {
+        "unlock_tag": {
+          "type": "number"
+        },
+        "release_value": {
+          "type": "number"
+        },
         "number": {
           "type": "number"
         }
@@ -7909,9 +7921,9 @@
       "flow_type": "template",
       "flow_name": "module_list",
       "_source": {
-        "name": "kids_teens_global",
-        "path": "PLH module_navigation.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/13WrrsCwjK_5S9t8VQTbgWbWpAVbRKByxpOXr95YnjY8"
+        "name": "teens_tz_GT",
+        "path": "templates/TZ module_navigation.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1dx1wQXhNLw8xBiHxpR6gZhEbJq5UgvXJvlFua0VAflE"
       }
     },
     "module_list_item": {
