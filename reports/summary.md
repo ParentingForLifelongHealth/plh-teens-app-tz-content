@@ -83,7 +83,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 65863 KB | 65.9 MB |
-| unused | 131988 KB | 132 MB |
+| unused | 79270 KB | 79.3 MB |
 </details>
 
 <details open>
@@ -116,12 +116,6 @@ Assets that appear in app-data but do not have references within sheets
 | audio/rules_audio_2.mp3 | 742.7 |
 | audio/solve_audio_1.mp3 | 609 |
 | audio/solve_audio_2.mp3 | 468.1 |
-| audio/teen/testimonials/caregiver/ZOLD_caregiver_test_consequence_t.mp3 | 312.3 |
-| audio/teen/testimonials/caregiver/ZOLD_caregiver_test_money_t.mp3 | 243.5 |
-| audio/teen/testimonials/caregiver/ZOLD_caregiver_test_rules_t.mp3 | 241.1 |
-| audio/teen/testimonials/teen/ZOLD_teen_test_learn_t.mp3 | 160.2 |
-| audio/teen/testimonials/teen/ZOLD_teen_test_praise_t.mp3 | 148 |
-| audio/teen/testimonials/teen/ZOLD_teen_test_srh_t.mp3 | 263.5 |
 | contents.json | 16.8 |
 | images/childdevelopment.svg | 20.3 |
 | images/comics/child_development_yc_1.svg | 124.5 |
@@ -224,123 +218,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/rulesroutines.jpg | 102.2 |
 | images/selfcare.jpg | 96.6 |
 | images/talk_feelings_challenges.svg | 19.3 |
-| images/teen_modules/crisis/crisis1_t_1.png | 371.5 |
-| images/teen_modules/crisis/crisis1_t_2.png | 712.3 |
-| images/teen_modules/crisis/crisis1_t_3.png | 573.4 |
-| images/teen_modules/crisis/crisis1_t_4.png | 682 |
-| images/teen_modules/crisis/crisis1_t_5.png | 684.8 |
-| images/teen_modules/crisis/crisis1_t_6.png | 678.6 |
-| images/teen_modules/crisis/crisis1_t_7.png | 562.2 |
-| images/teen_modules/instruct/instruct2_t_1.png | 1004.3 |
-| images/teen_modules/instruct/instruct2_t_2.png | 1059.5 |
-| images/teen_modules/instruct/instruct3_t_1.png | 980.8 |
-| images/teen_modules/instruct/instruct3_t_2.png | 899 |
-| images/teen_modules/instruct/instruct3_t_3.png | 1097.7 |
-| images/teen_modules/instruct/old/instruct2_t_1.svg | 47.3 |
-| images/teen_modules/instruct/old/instruct2_t_2.svg | 37.4 |
-| images/teen_modules/instruct/old/instruct2_t_3.svg | 42.6 |
-| images/teen_modules/instruct/old/instruct3_t_1.svg | 47 |
-| images/teen_modules/instruct/old/instruct3_t_2.svg | 39.7 |
-| images/teen_modules/instruct/old/instruct3_t_3.svg | 43.4 |
-| images/teen_modules/instruct/old/instruct3_t_4.svg | 42.5 |
-| images/teen_modules/instruct/old/instruct3_t_5.svg | 53.4 |
-| images/teen_modules/learn/learn1_t_1.png | 388.7 |
-| images/teen_modules/learn/learn1_t_2.png | 418.7 |
-| images/teen_modules/learn/learn1_t_3.png | 510.3 |
-| images/teen_modules/learn/learn2_t_1.jpg | 1020.7 |
-| images/teen_modules/learn/learn2_t_2.jpg | 1119.2 |
-| images/teen_modules/learn/learn2_t_3.jpg | 1090.5 |
-| images/teen_modules/learn/learn2_t_4.jpg | 1221.5 |
-| images/teen_modules/learn/learn3_t_1.png | 534.5 |
-| images/teen_modules/learn/learn3_t_2.svg | 37.5 |
-| images/teen_modules/learn/learn3_t_3.svg | 40.7 |
-| images/teen_modules/learn/learning_mistakes_teen_1.jpg | 1020.7 |
-| images/teen_modules/money/OLD/money1_t.svg | 38.9 |
-| images/teen_modules/money/OLD/money3_t_3.svg | 17.8 |
-| images/teen_modules/money/OLD/money3_t_4.svg | 58.2 |
-| images/teen_modules/money/OLD/money3_t_5.svg | 51.9 |
-| images/teen_modules/money/money1_t_1.png | 759.2 |
-| images/teen_modules/money/money3_t_1.png | 696.4 |
-| images/teen_modules/money/money3_t_2.png | 773.7 |
-| images/teen_modules/money/money3_t_3.png | 549.3 |
-| images/teen_modules/money/money3_t_4.png | 722.7 |
-| images/teen_modules/money/money3_t_5.png | 637 |
-| images/teen_modules/one_on_one/1on1_t_1.png | 521.7 |
-| images/teen_modules/one_on_one/1on1_t_2.png | 1479.1 |
-| images/teen_modules/one_on_one/1on1_t_3.png | 1536.3 |
-| images/teen_modules/praise/OLD/praise1_t_1.svg | 164.8 |
-| images/teen_modules/praise/OLD/praise1_t_2.svg | 44.8 |
-| images/teen_modules/praise/praise1_t_1.png | 661.2 |
-| images/teen_modules/praise/praise1_t_2.png | 691 |
-| images/teen_modules/praise/praise1_t_3.png | 605.2 |
-| images/teen_modules/rules/rules1_t_1.png | 490.7 |
-| images/teen_modules/rules/rules1_t_2.png | 690.3 |
-| images/teen_modules/rules/rules1_t_3.png | 698.5 |
-| images/teen_modules/rules/rules1_t_4.png | 720 |
-| images/teen_modules/rules/rules1_t_5.png | 709.4 |
-| images/teen_modules/rules/rules1_t_6.png | 717.6 |
-| images/teen_modules/rules/rules1_t_7.png | 537.7 |
-| images/teen_modules/safe/old images/old_safe1_t_2.svg | 68.7 |
-| images/teen_modules/safe/old images/old_safe1_t_3.svg | 64.3 |
-| images/teen_modules/safe/old images/old_safe1_t_4.svg | 41 |
-| images/teen_modules/safe/old images/old_safe1_t_5.svg | 41 |
-| images/teen_modules/safe/old images/safe1_t_1.svg | 32.5 |
-| images/teen_modules/safe/old images/safe1_t_4.svg | 103.5 |
-| images/teen_modules/safe/old images/safe1_t_6.svg | 32.8 |
-| images/teen_modules/safe/old images/safe2_t_1.svg | 35 |
-| images/teen_modules/safe/old images/safe2_t_2.svg | 33 |
-| images/teen_modules/safe/old images/warning_catcalling_t.svg | 96.1 |
-| images/teen_modules/safe/old images/warning_private_tutoring_t.svg | 58.6 |
-| images/teen_modules/safe/old images/warning_rejected_ride_t.svg | 74.4 |
-| images/teen_modules/safe/safe1_t_2 (1).svg | 42 |
-| images/teen_modules/safe/safe1_t_4.png | 767.5 |
-| images/teen_modules/safe/safe1_t_6.png | 451 |
-| images/teen_modules/safe/warning_controlling_boyfriend_t.svg | 39.3 |
-| images/teen_modules/safe/warning_drugs_t.svg | 42 |
-| images/teen_modules/safe/warning_nude_pic_t.png | 792.8 |
-| images/teen_modules/safe/warning_nude_pic_t.svg | 49.6 |
-| images/teen_modules/safe/warning_private_tutoring_t.png | 573 |
-| images/teen_modules/safe/warning_pushy_boyfriend_t.svg | 49.8 |
-| images/teen_modules/safe/warning_pushy_friend_t.svg | 65.6 |
-| images/teen_modules/safe/warning_rejected_ride_t.png | 817.7 |
-| images/teen_modules/self_care/self_care1_t_1.png | 585 |
-| images/teen_modules/self_care/self_care1_t_2.png | 504.3 |
-| images/teen_modules/self_care/self_care2_t_1.svg | 27.9 |
-| images/teen_modules/solve/old/solve2_t_1.svg | 49.2 |
-| images/teen_modules/solve/old/solve2_t_10.svg | 25.9 |
-| images/teen_modules/solve/old/solve2_t_2.svg | 46.3 |
-| images/teen_modules/solve/old/solve2_t_3.svg | 59.6 |
-| images/teen_modules/solve/old/solve2_t_4.svg | 29.8 |
-| images/teen_modules/solve/old/solve2_t_5.svg | 33.1 |
-| images/teen_modules/solve/old/solve2_t_6.svg | 33.8 |
-| images/teen_modules/solve/old/solve2_t_7.svg | 34.7 |
-| images/teen_modules/solve/old/solve2_t_8.svg | 38.3 |
-| images/teen_modules/solve/old/solve2_t_9.svg | 33.5 |
-| images/teen_modules/solve/solve2_t_1.png | 752.5 |
-| images/teen_modules/solve/solve2_t_2.png | 969.2 |
-| images/teen_modules/solve/solve2_t_3.png | 734.3 |
-| images/teen_modules/solve/solve2_t_4.png | 776.8 |
-| images/teen_modules/solve/solve2_t_5.png | 762.2 |
-| images/teen_modules/solve/solve2_t_6.png | 759.9 |
-| images/teen_modules/solve/solve2_t_7.png | 609.8 |
-| images/teen_modules/solve/solve2_t_8.png | 595.2 |
-| images/teen_modules/solve/solve3_t_1.png | 701.1 |
-| images/teen_modules/solve/solve3_t_2.png | 659.3 |
-| images/teen_modules/solve/solve3_t_3.png | 620.6 |
-| images/teen_modules/srh/srh1_t_1.png | 463.4 |
-| images/teen_modules/srh/srh1_t_2.png | 524.8 |
-| images/teen_modules/srh/srh1_t_3.png | 515.4 |
-| images/teen_modules/srh/srh1_t_4.png | 493.7 |
-| images/teen_modules/srh/srh1_t_5.svg | 36.9 |
-| images/teen_modules/srh/srh_learn_sex_talk_when_t_3.png | 924 |
-| images/teen_modules/srh/srh_learn_sex_talk_who_t_4.png | 783.1 |
-| images/teen_modules/stress/OLD/stress2_t_1.svg | 75.1 |
-| images/teen_modules/stress/OLD/stress2_t_2.svg | 59.4 |
-| images/teen_modules/stress/OLD/stress2_t_3.svg | 55.3 |
-| images/teen_modules/stress/OLD/stress2_t_4.svg | 55.6 |
-| images/teen_modules/stress/stress2_t_1.png | 673.1 |
-| images/teen_modules/stress/stress2_t_2.png | 599.9 |
-| images/teen_modules/stress/stress2_t_3.png | 639.7 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
 | video/plh_video/lets_slow_down.srt | 1.7 |
