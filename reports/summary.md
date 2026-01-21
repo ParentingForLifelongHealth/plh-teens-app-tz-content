@@ -82,8 +82,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 68984 KB | 69 MB |
-| unused | 132312 KB | 132.3 MB |
+| total | 68877 KB | 68.9 MB |
+| unused | 132444 KB | 132.4 MB |
 </details>
 
 <details open>
@@ -209,6 +209,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/kw_facilitator_sq.jpg | 30 |
 | images/logos/Exeter.png | 140.5 |
 | images/logos/donors/ERC-EU.png | 209.7 |
+| images/logos/donors/Wellspring.jpeg | 106.5 |
 | images/logos/donors/safe_online.png | 65.8 |
 | images/logos/favicon.png | 149.9 |
 | images/logos/kuwait.png | 248 |
@@ -285,7 +286,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/safe/old images/old_safe1_t_5.svg | 41 |
 | images/teen_modules/safe/old images/safe1_t_1.svg | 32.5 |
 | images/teen_modules/safe/old images/safe1_t_4.svg | 103.5 |
-| images/teen_modules/safe/old images/safe1_t_6.svg | 32.8 |
+| images/teen_modules/safe/old images/safe1_t_6.svg | 57.8 |
 | images/teen_modules/safe/old images/safe2_t_1.svg | 35 |
 | images/teen_modules/safe/old images/safe2_t_2.svg | 33 |
 | images/teen_modules/safe/old images/warning_catcalling_t.svg | 96.1 |
@@ -665,7 +666,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/donors/OAK.png | 66.6 | 1 |
 | images/logos/donors/UKRI.png | 30.1 | 1 |
 | images/logos/donors/WCF.jpg | 90.5 | 1 |
-| images/logos/donors/Wellspring.jpeg | 106.5 | 1 |
 | images/logos/plh_logomark.png | 20.5 | 2 |
 | images/logos/plh_white.svg | 256.1 | 1 |
 | images/logos/tz_ministry.svg | 122.4 | 1 |
