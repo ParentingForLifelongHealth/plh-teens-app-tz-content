@@ -10948,5 +10948,11 @@
     "text": "Kudhibiti hasira kunaweza kuwa kugumu. Pumzika unapohisi unawakasirikia watoto wako au mtu mwingine.\n\nNenda mahali pengine kwa dakika 5 ili uweze kudhibiti tena hisia zako. Kama una mahali salama nje, nenda nje. Una uwezo wa kulimaliza jambo hili!",
     "type": "data_list",
     "note": ""
+  },
+  {
+    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 10 to 17 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:",
+    "text": "@global.app_name ni programu iliyoundwa na IDEMS International na Parenting for Lifelong Health kusaidia wazazi na walezi wa watoto wenye umri wa miaka 10 hadi 17. Mchoro ni kazi asilia za Orli Setton kwa ajili ya Parenting for Lifelong Health. Yote yaliyomo humu yameshirikishwa chini ya leseni ya Creative Commons BY-SA International 4.0. Iliandaliwa kwa ushirikiano na washirika wakuu:",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
   }
 ]
