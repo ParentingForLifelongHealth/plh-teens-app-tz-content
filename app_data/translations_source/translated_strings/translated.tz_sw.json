@@ -10996,5 +10996,11 @@
     "text": "Ukiwa na maswali au maoni kuhusu @global.privacy_policy au @global.terms_and_conditions usisite kuwasiliana nasi kupitia <info@parentingforlifelonghealth.org>.\n\nIwapo malalamiko yako hayatashughulikiwa ipasavyo. Unayo haki ya kuwasilisha malalamiko katika ofisi ya kamishna wa habari. Unaweza kuwafikia kwa namba hizi 03031231113, vile unaweza kuwasiliana nao kupitia https://ico.org.uk/global/contact-us/, or mail to the Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, England, UK.",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@global.privacy_policy\n@global.terms_and_conditions,\n<info@parentingforlifelonghealth.org>."
+  },
+  {
+    "SourceText": "We are also grateful for the support of a family foundation that wishes to remain anonymous",
+    "text": "Pia tunashukuru msaada kutoka kwa taasisi ya kifamilia inayopendelea kubaki bila kutajwa jina",
+    "type": "global",
+    "note": ""
   }
 ]
