@@ -196,7 +196,9 @@
       "name": "donors_text",
       "value": "We are also grateful for the support of a family foundation that wishes to remain anonymous",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     }
   ],
