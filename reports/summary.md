@@ -220,7 +220,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/talk_feelings_challenges.svg | 19.3 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
-| video/plh_video/lets_slow_down.srt | 1.7 |
+| video/plh_video/lets_slow_down.srt | 1.8 |
 | video/plh_video/lets_slow_down.vtt | 1.8 |
 | videos/pause/body_scan.mp4 | 10418.6 |
 | videos/pause/breath_body_awareness.mp4 | 27250 |
