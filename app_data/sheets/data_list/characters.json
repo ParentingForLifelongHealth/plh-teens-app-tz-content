@@ -35,7 +35,9 @@
       "Flag if column E has duplicate names": "Duplicate",
       "role_name": "mother",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -54,7 +56,9 @@
       "Flag if column E has duplicate names": "Duplicate",
       "role_name": "father",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -112,7 +116,9 @@
       "Flag if column E has duplicate names": "Duplicate",
       "role_name": "grandmother",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -131,7 +137,9 @@
       "Flag if column E has duplicate names": "",
       "role_name": "grandfather",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -169,7 +177,9 @@
       "Flag if column E has duplicate names": "Duplicate",
       "role_name": "mother",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -188,7 +198,9 @@
       "Flag if column E has duplicate names": "",
       "role_name": "uncle",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -227,7 +239,9 @@
       "Flag if column E has duplicate names": "",
       "role_name": "father",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
@@ -244,7 +258,9 @@
       "role": "caregiver",
       "role_name": "aunty Esta",
       "_translations": {
-        "role_name": {}
+        "role_name": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "role_name": {
