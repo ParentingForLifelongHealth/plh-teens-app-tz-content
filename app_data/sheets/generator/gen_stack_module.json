@@ -124,17 +124,17 @@
       "flow_type": "template"
     },
     {
+      "flow_name": "stack_module_srh_t",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "stack_module_safety_t",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
       "flow_name": "stack_module_crisis_t",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "stack_module_srh_t",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

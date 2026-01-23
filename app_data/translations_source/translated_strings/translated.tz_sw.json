@@ -10996,5 +10996,41 @@
     "text": "Pia tunashukuru msaada kutoka kwa taasisi ya kifamilia inayopendelea kubaki bila kutajwa jina",
     "type": "global",
     "note": ""
+  },
+   {
+    "SourceText": "grandmother",
+    "text": "bibi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "grandfather",
+    "text": "babu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "mother",
+    "text": "mama",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "uncle",
+    "text": "mjomba",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "father",
+    "text": "baba",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "aunty Esta",
+    "text": "shangazi Esta",
+    "type": "data_list",
+    "note": ""
   }
 ]
