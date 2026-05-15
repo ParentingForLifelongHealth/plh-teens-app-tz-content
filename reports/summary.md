@@ -11,7 +11,7 @@
 | audio | 3 |
 | button | 82 |
 | combo_box | 9 |
-| data_items | 89 |
+| data_items | 105 |
 | debug_toggle | 1 |
 | display_grid | 5 |
 | display_group | 88 |
@@ -32,11 +32,11 @@
 | round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2023 |
+| set_variable | 1975 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 4 |
-| template | 642 |
+| template | 658 |
 | text | 146 |
 | text_area | 2 |
 | text_box | 12 |
@@ -83,7 +83,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 65863 KB | 65.9 MB |
-| unused | 580 KB | 0.6 MB |
+| unused | 577 KB | 0.6 MB |
 </details>
 
 <details open>
@@ -104,10 +104,11 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/faces/sadder.svg | 1.1 |
 | images/icons/faces/saddest.svg | 2 |
 | images/icons/faces/tired.svg | 2.4 |
-| images/icons/football_blue.png | 5.1 |
+| images/icons/heart-outline.png | 1.5 |
 | images/icons/heart.svg | 0.6 |
 | images/icons/heart_filled.svg | 1.4 |
 | images/icons/in_progress_white.svg | 1.1 |
+| images/icons/lock-closed-outline.png | 0.9 |
 | images/icons/parent_child.svg | 2 |
 | images/icons/pause_white.svg | 0.7 |
 | images/icons/play.svg | 0.5 |
@@ -330,7 +331,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/heart_filled.png | 1.4 | 2 |
 | images/icons/heart_filled_active.png | 1.5 | 2 |
 | images/icons/heart_filled_blue.png | 4.9 | 20 |
-| images/icons/heart_filled_red.png | 1.4 | 3 |
+| images/icons/heart_filled_red.png | 0.8 | 3 |
 | images/icons/home.svg | 0.4 | 1 |
 | images/icons/home_active.svg | 0.4 | 1 |
 | images/icons/in_progress.svg | 1.1 | 2 |
