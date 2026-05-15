@@ -1426,9 +1426,9 @@
     "md5Checksum": "cf69cc2e8ba1f0aa7d15366c4d8df711",
     "size_kb": 3.5
   },
-  "images/icons/football_blue.png": {
-    "md5Checksum": "54b732c820a451491d4f721907654849",
-    "size_kb": 5.1
+  "images/icons/heart-outline.png": {
+    "md5Checksum": "73e3f3fbc674e7ff8cbe33d4d16af12f",
+    "size_kb": 1.5
   },
   "images/icons/heart.png": {
     "md5Checksum": "1b13b88d9ec15adcdcc3c9ddd328e7c7",
@@ -1455,8 +1455,8 @@
     "size_kb": 4.9
   },
   "images/icons/heart_filled_red.png": {
-    "md5Checksum": "17607eb5fd42929420bcff99c3e7e3ff",
-    "size_kb": 1.4
+    "md5Checksum": "a303391b7325f4f7c8dad0d4f1220c8e",
+    "size_kb": 0.8
   },
   "images/icons/home.svg": {
     "md5Checksum": "9c992c891ce900160c3738088c497f8b",
@@ -1489,6 +1489,10 @@
   "images/icons/local_library_active.svg": {
     "md5Checksum": "32cacaa501602e12c42cbf6f9a908efd",
     "size_kb": 1.6
+  },
+  "images/icons/lock-closed-outline.png": {
+    "md5Checksum": "ffd29fa919edaf90212cebb0f06ecad2",
+    "size_kb": 0.9
   },
   "images/icons/lock.svg": {
     "md5Checksum": "0626195897db0154bcbd0f9942868f60",
