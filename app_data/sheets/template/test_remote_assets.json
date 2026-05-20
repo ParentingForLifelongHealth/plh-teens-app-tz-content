@@ -57,17 +57,25 @@
       "type": "asset_pack_download_button",
       "name": "download_status_tz_en",
       "parameter_list": {
-        "asset_pack": "debug_asset_pack_1",
+        "asset_pack": "@local.asset_pack_tz_en",
         "default_text": "@local.default_text_tz_en",
         "progress_text": "@local.progress_text",
         "progress_display": "count",
         "success_text": "@local.success_text",
-        "error_text": "@local.failure_text"
+        "error_text": "@local.error_text"
       },
       "exclude_from_translation": true,
       "_nested_name": "download_status_tz_en",
       "_dynamicFields": {
         "parameter_list": {
+          "asset_pack": [
+            {
+              "fullExpression": "@local.asset_pack_tz_en",
+              "matchedExpression": "@local.asset_pack_tz_en",
+              "type": "local",
+              "fieldName": "asset_pack_tz_en"
+            }
+          ],
           "default_text": [
             {
               "fullExpression": "@local.default_text_tz_en",
@@ -94,15 +102,18 @@
           ],
           "error_text": [
             {
-              "fullExpression": "@local.failure_text",
-              "matchedExpression": "@local.failure_text",
+              "fullExpression": "@local.error_text",
+              "matchedExpression": "@local.error_text",
               "type": "local",
-              "fieldName": "failure_text"
+              "fieldName": "error_text"
             }
           ]
         }
       },
       "_dynamicDependencies": {
+        "@local.asset_pack_tz_en": [
+          "parameter_list.asset_pack"
+        ],
         "@local.default_text_tz_en": [
           "parameter_list.default_text"
         ],
@@ -112,7 +123,7 @@
         "@local.success_text": [
           "parameter_list.success_text"
         ],
-        "@local.failure_text": [
+        "@local.error_text": [
           "parameter_list.error_text"
         ]
       }
@@ -166,17 +177,25 @@
       "type": "asset_pack_download_button",
       "name": "download_status_tz_sw",
       "parameter_list": {
-        "asset_pack": "debug_asset_pack_1",
+        "asset_pack": "@local.asset_pack_tz_sw",
         "default_text": "@local.default_text_tz_sw",
         "progress_text": "@local.progress_text",
         "progress_display": "count",
         "success_text": "@local.success_text",
-        "error_text": "@local.failure_text"
+        "error_text": "@local.error_text"
       },
       "exclude_from_translation": true,
       "_nested_name": "download_status_tz_sw",
       "_dynamicFields": {
         "parameter_list": {
+          "asset_pack": [
+            {
+              "fullExpression": "@local.asset_pack_tz_sw",
+              "matchedExpression": "@local.asset_pack_tz_sw",
+              "type": "local",
+              "fieldName": "asset_pack_tz_sw"
+            }
+          ],
           "default_text": [
             {
               "fullExpression": "@local.default_text_tz_sw",
@@ -203,15 +222,18 @@
           ],
           "error_text": [
             {
-              "fullExpression": "@local.failure_text",
-              "matchedExpression": "@local.failure_text",
+              "fullExpression": "@local.error_text",
+              "matchedExpression": "@local.error_text",
               "type": "local",
-              "fieldName": "failure_text"
+              "fieldName": "error_text"
             }
           ]
         }
       },
       "_dynamicDependencies": {
+        "@local.asset_pack_tz_sw": [
+          "parameter_list.asset_pack"
+        ],
         "@local.default_text_tz_sw": [
           "parameter_list.default_text"
         ],
@@ -221,7 +243,7 @@
         "@local.success_text": [
           "parameter_list.success_text"
         ],
-        "@local.failure_text": [
+        "@local.error_text": [
           "parameter_list.error_text"
         ]
       }
