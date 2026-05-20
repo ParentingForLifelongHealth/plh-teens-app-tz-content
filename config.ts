@@ -5,7 +5,7 @@ const config = generateDeploymentConfig("plh_teens_tz");
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.4.27",
+  content_tag_latest: "1.4.28",
 };
 
 config.google_drive.sheets_folders = [
@@ -19,7 +19,8 @@ config.google_drive.sheets_folders = [
 
 config.google_drive.assets_folders = [
   {id: "1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", name: "kids_global_assets"},
-  { id: "1OojRkFsq9fvqppH-Flt7AH6oQBJOhOlv", name: "2.0 assets" }
+  { id: "1OojRkFsq9fvqppH-Flt7AH6oQBJOhOlv", name: "2.0 assets" },
+  { id: "16LwPfS2LebvH82sBPVQFBv1vkULRsenr", name: "2.0 remote assets" }
 ];
 
 config.firebase = {

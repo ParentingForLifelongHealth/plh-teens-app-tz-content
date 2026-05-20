@@ -20,7 +20,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_1.mp3",
+          "filePath": "tz_sw/audio/relax/relax_1.mp3",
           "md5Checksum": "85c86bd3b807ae78e95e4aeb673f7df8",
           "size_kb": 104.3
         }
@@ -33,7 +33,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_10.mp3",
+          "filePath": "tz_sw/audio/relax/relax_10.mp3",
           "md5Checksum": "5c4a692e11f9bd13621898928cce2398",
           "size_kb": 248.7
         }
@@ -46,7 +46,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_11.mp3",
+          "filePath": "tz_sw/audio/relax/relax_11.mp3",
           "md5Checksum": "a35ec56eb29b13c91ec56e21d0f03ff6",
           "size_kb": 146.3
         }
@@ -59,7 +59,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_12.mp3",
+          "filePath": "tz_sw/audio/relax/relax_12.mp3",
           "md5Checksum": "64375e6e5213cba2f194ec0f75077e46",
           "size_kb": 272.9
         }
@@ -72,7 +72,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_13.mp3",
+          "filePath": "tz_sw/audio/relax/relax_13.mp3",
           "md5Checksum": "c24da7df89080e932657b2633d8be65a",
           "size_kb": 215.4
         }
@@ -85,7 +85,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_14.mp3",
+          "filePath": "tz_sw/audio/relax/relax_14.mp3",
           "md5Checksum": "d4548ee3df17733673fac7b6882fe168",
           "size_kb": 173.8
         }
@@ -98,7 +98,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_15.mp3",
+          "filePath": "tz_sw/audio/relax/relax_15.mp3",
           "md5Checksum": "5c94a8e6020d9c5cc7cfc5b471474435",
           "size_kb": 196.6
         }
@@ -111,7 +111,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_16.mp3",
+          "filePath": "tz_sw/audio/relax/relax_16.mp3",
           "md5Checksum": "6bd73f2b80789cd0dfcd299b4b8bc348",
           "size_kb": 174.3
         }
@@ -124,7 +124,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_17.mp3",
+          "filePath": "tz_sw/audio/relax/relax_17.mp3",
           "md5Checksum": "053eb1fad43dd1244fc486f5ac250ff6",
           "size_kb": 141.2
         }
@@ -137,7 +137,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_18.mp3",
+          "filePath": "tz_sw/audio/relax/relax_18.mp3",
           "md5Checksum": "0735763e9d70572cbded6d792bf70adc",
           "size_kb": 312.6
         }
@@ -150,7 +150,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_19.mp3",
+          "filePath": "tz_sw/audio/relax/relax_19.mp3",
           "md5Checksum": "e224a117e515f74559a1bb87058df7f9",
           "size_kb": 511.5
         }
@@ -163,7 +163,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_2.mp3",
+          "filePath": "tz_sw/audio/relax/relax_2.mp3",
           "md5Checksum": "7eebf3181b36e240715717a7c791a98b",
           "size_kb": 250
         }
@@ -176,7 +176,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_20.mp3",
+          "filePath": "tz_sw/audio/relax/relax_20.mp3",
           "md5Checksum": "ec273ad2cf107c4eecaa60b40dbacd1f",
           "size_kb": 548
         }
@@ -189,7 +189,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_21.mp3",
+          "filePath": "tz_sw/audio/relax/relax_21.mp3",
           "md5Checksum": "9d090152f115525c525f423d4df11c61",
           "size_kb": 207.6
         }
@@ -202,7 +202,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_22.mp3",
+          "filePath": "tz_sw/audio/relax/relax_22.mp3",
           "md5Checksum": "59b95385afdae5c835adcd63a4b1d262",
           "size_kb": 138.4
         }
@@ -215,7 +215,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_23.mp3",
+          "filePath": "tz_sw/audio/relax/relax_23.mp3",
           "md5Checksum": "7224b241ed75287af9c691d6a55715c0",
           "size_kb": 165.6
         }
@@ -228,7 +228,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_24.mp3",
+          "filePath": "tz_sw/audio/relax/relax_24.mp3",
           "md5Checksum": "fd8a10c0f165ceea747ff24d3db3fe75",
           "size_kb": 133.7
         }
@@ -241,7 +241,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_3.mp3",
+          "filePath": "tz_sw/audio/relax/relax_3.mp3",
           "md5Checksum": "4c5a617eb11d03ef4dd1667184b5ca67",
           "size_kb": 105.1
         }
@@ -254,7 +254,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_4.mp3",
+          "filePath": "tz_sw/audio/relax/relax_4.mp3",
           "md5Checksum": "a4bd61aba32b2f3ac3a1dd267c1c5700",
           "size_kb": 227.4
         }
@@ -267,7 +267,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_5.mp3",
+          "filePath": "tz_sw/audio/relax/relax_5.mp3",
           "md5Checksum": "9c383b04f6df1b51b226d31b0385ef97",
           "size_kb": 125.1
         }
@@ -280,7 +280,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_6.mp3",
+          "filePath": "tz_sw/audio/relax/relax_6.mp3",
           "md5Checksum": "726a4014cba23e40747e696f39139a08",
           "size_kb": 137.5
         }
@@ -293,7 +293,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_7.mp3",
+          "filePath": "tz_sw/audio/relax/relax_7.mp3",
           "md5Checksum": "9c2fc63648ed1054b6a69ac89bbd62ca",
           "size_kb": 162.7
         }
@@ -306,7 +306,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_8.mp3",
+          "filePath": "tz_sw/audio/relax/relax_8.mp3",
           "md5Checksum": "2cc9911232b9b00267010504452fcfbf",
           "size_kb": 174.9
         }
@@ -319,7 +319,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/relax/relax_9.mp3",
+          "filePath": "tz_sw/audio/relax/relax_9.mp3",
           "md5Checksum": "856a73d0c36e7c14365e43f98725d02b",
           "size_kb": 434.7
         }
@@ -332,7 +332,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_1on1_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_1on1_t.mp3",
           "md5Checksum": "270d8057e80e6546c38dfcbe5d7f073e",
           "size_kb": 788.7
         }
@@ -345,7 +345,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_consequence_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_consequence_t.mp3",
           "md5Checksum": "3a871165e6506ef3cd455c25adab2268",
           "size_kb": 837
         }
@@ -358,7 +358,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_crisis_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_crisis_t.mp3",
           "md5Checksum": "afeb446eb22582af811ad2affe7a382c",
           "size_kb": 558.1
         }
@@ -371,7 +371,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_grief_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_grief_t.mp3",
           "md5Checksum": "986815b2e27d1310dc8e6fb8dfc8c02f",
           "size_kb": 184
         }
@@ -384,7 +384,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_instruct_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_instruct_t.mp3",
           "md5Checksum": "fef3ba317f79514cbc8dd641efb89280",
           "size_kb": 227
         }
@@ -397,7 +397,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_learn_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_learn_t.mp3",
           "md5Checksum": "41ca3dca21588e07ecf089503c9c2739",
           "size_kb": 630.2
         }
@@ -410,7 +410,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_money_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_money_t.mp3",
           "md5Checksum": "4b34aa749f1c1ec23d1d0fe5cdb9be76",
           "size_kb": 807.1
         }
@@ -423,7 +423,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_praise_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_praise_t.mp3",
           "md5Checksum": "e559703aed946a9459760823d8fa6903",
           "size_kb": 235.6
         }
@@ -436,7 +436,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_rules_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_rules_t.mp3",
           "md5Checksum": "e65ff67bf3ad83ede501fe35c11f1236",
           "size_kb": 987.5
         }
@@ -449,7 +449,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_safe_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_safe_t.mp3",
           "md5Checksum": "7a35033eca39b4c59d505b31f0266a9f",
           "size_kb": 764.6
         }
@@ -462,7 +462,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3",
           "md5Checksum": "76aed3990741eeab5a2eb90cf2742ca7",
           "size_kb": 560.5
         }
@@ -475,7 +475,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_solve_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_solve_t.mp3",
           "md5Checksum": "f95ea61911dd85f84ca0a6d9536dad55",
           "size_kb": 194.4
         }
@@ -488,7 +488,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_srh_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_srh_t.mp3",
           "md5Checksum": "b266cd71fb9391d6859adba067683eef",
           "size_kb": 332.4
         }
@@ -501,7 +501,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_stress_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_stress_t.mp3",
           "md5Checksum": "cb8cf17b5b76ff0ad8865ddca3abc087",
           "size_kb": 177
         }
@@ -514,7 +514,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/caregiver/caregiver_test_svp_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/caregiver/caregiver_test_svp_t.mp3",
           "md5Checksum": "0aedff025942769a4e89a6baf1d05788",
           "size_kb": 728.6
         }
@@ -527,7 +527,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_1on1_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_1on1_t.mp3",
           "md5Checksum": "7e546541b4493924d997b9655e965632",
           "size_kb": 250.1
         }
@@ -540,7 +540,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_consequence_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_consequence_t.mp3",
           "md5Checksum": "ab356edda60988b024f949693d36da97",
           "size_kb": 217.5
         }
@@ -553,7 +553,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_crisis_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_crisis_t.mp3",
           "md5Checksum": "4a06cea240c6908037876cab24ecc4c5",
           "size_kb": 197
         }
@@ -566,7 +566,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_grief_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_grief_t.mp3",
           "md5Checksum": "d35f070b89da05f2641dd29f8b101fbb",
           "size_kb": 242.1
         }
@@ -579,7 +579,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_instruct_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_instruct_t.mp3",
           "md5Checksum": "f4704a2dc667ad20d6123afbc470366c",
           "size_kb": 265.3
         }
@@ -592,7 +592,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_learn_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_learn_t.mp3",
           "md5Checksum": "90a5c4212c98284b7765ab0d516a1326",
           "size_kb": 631.5
         }
@@ -605,7 +605,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_money_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_money_t.mp3",
           "md5Checksum": "4d0e5fb1f199f5522038e34fc24e807d",
           "size_kb": 318.9
         }
@@ -618,7 +618,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_praise_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_praise_t.mp3",
           "md5Checksum": "b300386464288c01d9f23d7f2ff46543",
           "size_kb": 278.4
         }
@@ -631,7 +631,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_rules_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_rules_t.mp3",
           "md5Checksum": "886440d43f7b75f3416e8522fe8a3b2f",
           "size_kb": 195
         }
@@ -644,7 +644,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_safe_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_safe_t.mp3",
           "md5Checksum": "1e46a9cfc1492d10a6b6381d2dc3eac5",
           "size_kb": 767
         }
@@ -657,7 +657,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_self_care_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_self_care_t.mp3",
           "md5Checksum": "7b3f20e9d5ab756c5e18288da3c91e5c",
           "size_kb": 409.2
         }
@@ -670,7 +670,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_solve_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_solve_t.mp3",
           "md5Checksum": "e2c16eeb2deac1c00ebb00659f785ad1",
           "size_kb": 237
         }
@@ -683,7 +683,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_srh_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_srh_t.mp3",
           "md5Checksum": "e4d21da252e944068385deb0f444177f",
           "size_kb": 359.9
         }
@@ -696,7 +696,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_stress_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_stress_t.mp3",
           "md5Checksum": "4ee173181fad7a412ace99c5970fa19a",
           "size_kb": 205
         }
@@ -709,7 +709,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/testimonials/teen/teen_test_svp_t.mp3",
+          "filePath": "tz_sw/audio/teen/testimonials/teen/teen_test_svp_t.mp3",
           "md5Checksum": "07fb2b31bd4b2db1eff417c6f7bd6832",
           "size_kb": 266.5
         }
@@ -722,7 +722,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/1on1_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/1on1_intro_t.mp3",
           "md5Checksum": "d5cc22f3681eb0456e5370b5efc74bfc",
           "size_kb": 98.1
         }
@@ -735,7 +735,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/celebrate_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/celebrate_intro_t.mp3",
           "md5Checksum": "edef84f8c0c4cd2093d4330a01341f09",
           "size_kb": 109.7
         }
@@ -748,7 +748,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/consequence_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/consequence_intro_t.mp3",
           "md5Checksum": "d6fd682d87eb6bfbc482fb5c3c585be4",
           "size_kb": 147.3
         }
@@ -761,7 +761,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/crisis_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/crisis_intro_t.mp3",
           "md5Checksum": "bb8da4a1c519661ff182643c9a646d17",
           "size_kb": 214.2
         }
@@ -774,7 +774,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/grief_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/grief_intro_t.mp3",
           "md5Checksum": "5726b2722b4e229190d03fb5a3356730",
           "size_kb": 113.1
         }
@@ -787,7 +787,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/instruct_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/instruct_intro_t.mp3",
           "md5Checksum": "2c94be9651da70216d0a4cf0860e3ecb",
           "size_kb": 108
         }
@@ -800,7 +800,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/learn_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/learn_intro_t.mp3",
           "md5Checksum": "d3b05e53c61aee42c9eccb5e24a92b87",
           "size_kb": 383.5
         }
@@ -813,7 +813,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/money_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/money_intro_t.mp3",
           "md5Checksum": "bac28cbd63e02a1753d32d13dcec3964",
           "size_kb": 160.1
         }
@@ -826,7 +826,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/praise_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/praise_intro_t.mp3",
           "md5Checksum": "3fa89e0609bc37f70ad24e50857219c3",
           "size_kb": 103.6
         }
@@ -839,7 +839,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/rules_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/rules_intro_t.mp3",
           "md5Checksum": "83da50991815fa29bc019418e826cc20",
           "size_kb": 110
         }
@@ -852,7 +852,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/safe_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/safe_intro_t.mp3",
           "md5Checksum": "b3177e9f2aabaee7f103ebbe736c59ff",
           "size_kb": 197
         }
@@ -865,7 +865,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/self_care_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/self_care_intro_t.mp3",
           "md5Checksum": "d23fd753340e73d789d7037770b056ca",
           "size_kb": 170.4
         }
@@ -878,7 +878,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/solve_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/solve_intro_t.mp3",
           "md5Checksum": "790c6ff963aae6f037d68ec83a928ecd",
           "size_kb": 234.3
         }
@@ -891,7 +891,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/srh_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/srh_intro_t.mp3",
           "md5Checksum": "478cbc86eb0513a4fa9d030e95e2f801",
           "size_kb": 135
         }
@@ -904,7 +904,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/stress_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/stress_intro_t.mp3",
           "md5Checksum": "bd23edd93cd252743f58ebb691cf763c",
           "size_kb": 183.1
         }
@@ -917,7 +917,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/svp_intro_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/svp_intro_t.mp3",
           "md5Checksum": "1577d3ba2d8b8b46e1b0e24a99a28f1b",
           "size_kb": 116.2
         }
@@ -930,7 +930,7 @@
     "overrides": {
       "theme_default": {
         "tz_sw": {
-          "filePath": "audio/tz_sw/teen/topic_intros/workshops_reflection_t.mp3",
+          "filePath": "tz_sw/audio/teen/topic_intros/workshops_reflection_t.mp3",
           "md5Checksum": "d9525f555027a8fe44a1a06d63534f8c",
           "size_kb": 363.9
         }
