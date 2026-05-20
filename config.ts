@@ -5,7 +5,7 @@ const config = generateDeploymentConfig("plh_teens_tz");
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.4.26",
+  content_tag_latest: "1.4.27",
 };
 
 config.google_drive.sheets_folders = [
