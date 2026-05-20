@@ -8251,6 +8251,15 @@
         "url": "https://docs.google.com/spreadsheets/d/1uBEmZtqR_EeWZCjDQ6i6fdL56Vh8IasbzpEGTVlmNvs"
       }
     },
+    "test_remote_assets": {
+      "flow_type": "template",
+      "flow_name": "test_remote_assets",
+      "_source": {
+        "name": "teens_tz_GT",
+        "path": "templates/TZ onboarding templates.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1eDoTJMq9TMVQoMiQ6jIl-yciUhYNfeaQe1o6pmz4JXc"
+      }
+    },
     "unlock_play": {
       "flow_type": "template",
       "flow_name": "unlock_play",
