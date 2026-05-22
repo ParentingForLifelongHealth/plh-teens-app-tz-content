@@ -249,6 +249,30 @@
       }
     },
     {
+      "type": "text",
+      "name": "debug_status_tz_sw",
+      "value": "Download status is: @local.download_status_tz_sw",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "debug_status_tz_sw",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "Download status is: @local.download_status_tz_sw",
+            "matchedExpression": "@local.download_status_tz_sw",
+            "type": "local",
+            "fieldName": "download_status_tz_sw"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.download_status_tz_sw": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "button",
       "name": "button_3",
       "value": "Reset remote assets (return to core asset pack before any downloads)",
