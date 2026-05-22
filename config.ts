@@ -25,6 +25,7 @@ config.google_drive.assets_folders = [
 
 config.remote_assets = {
   provider: "firebase",
+  bucketName: "plh_teens_tz",
   folderName: "asset_packs",
 };
 
