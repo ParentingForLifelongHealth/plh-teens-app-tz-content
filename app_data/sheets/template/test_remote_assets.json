@@ -45,7 +45,7 @@
     },
     {
       "name": "asset_pack_tz_en",
-      "value": "tz_en",
+      "value": "assets_tz_en",
       "_translations": {
         "value": {}
       },
@@ -165,7 +165,7 @@
     },
     {
       "name": "asset_pack_tz_sw",
-      "value": "tz_sw",
+      "value": "assets_tz_sw",
       "_translations": {
         "value": {}
       },
