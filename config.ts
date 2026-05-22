@@ -18,9 +18,10 @@ config.google_drive.sheets_folders = [
 ];
 
 config.google_drive.assets_folders = [
-  {id: "1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", name: "kids_global_assets"},
+  { id: "1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", name: "kids_global_assets" },
   { id: "1OojRkFsq9fvqppH-Flt7AH6oQBJOhOlv", name: "2.0 assets" },
-  { id: "16LwPfS2LebvH82sBPVQFBv1vkULRsenr", name: "2.0 remote assets", remote: true   }
+  { id: "1Z0ngAYuVJFyPsERss5WdVB59nawuluK4", name: "tz_en", remote: true },
+  { id: "1xIxFpNhgzSAPWL6VMkqKYcDWJthy4Xjr", name: "tz_sw", remote: true }
 ];
 
 config.remote_assets = {
