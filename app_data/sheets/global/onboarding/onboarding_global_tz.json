@@ -12,6 +12,12 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "has_remote_language_specific_assets",
+      "value": true,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
       "name": "has_onboarding_splash",
       "value": true,
       "exclude_from_translation": true
