@@ -81,10 +81,10 @@
       "caps_id": "F1_DAUGHTER_16",
       "family_no": 1,
       "age": 16,
-      "name": "Shukuru",
+      "name": "Maria",
       "role": "child",
       "image_asset": "images/character_icons/F1_DAUGHTER_16.svg",
-      "Flag if column E has duplicate names": ""
+      "Flag if column E has duplicate names": "Duplicate"
     },
     {
       "id": "f1_daughter_13",
@@ -170,11 +170,11 @@
       "id": "f3_mother",
       "caps_id": "F3_MOTHER",
       "family_no": 3,
-      "name": "Zulpha",
+      "name": "Zulfa",
       "role_name_tz_sw": "mama",
       "role": "caregiver",
       "image_asset": "images/character_icons/F3_MOTHER.svg",
-      "Flag if column E has duplicate names": "Duplicate",
+      "Flag if column E has duplicate names": "",
       "role_name": "Mother",
       "_translations": {
         "role_name": {
@@ -324,7 +324,7 @@
       "id": "friend_female_3",
       "caps_id": "FRIEND_FEMALE_3",
       "name": "Maria",
-      "Flag if column E has duplicate names": ""
+      "Flag if column E has duplicate names": "Duplicate"
     },
     {
       "id": "friend_male_1",
@@ -439,7 +439,7 @@
       "caps_id": "MEDIA_FEMALE_6",
       "name": "Zulpha",
       "Media Details  (Teens)": "money_t",
-      "Flag if column E has duplicate names": "Duplicate"
+      "Flag if column E has duplicate names": ""
     },
     {
       "id": "media_female_7",
