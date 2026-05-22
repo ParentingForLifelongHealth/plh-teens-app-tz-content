@@ -279,9 +279,16 @@
       "_translations": {
         "value": {}
       },
-      "parameter_list": {
-        "click | asset_pack": "reset"
-      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "asset_pack",
+          "args": [
+            "reset"
+          ],
+          "_raw": "click | asset_pack: reset"
+        }
+      ],
       "exclude_from_translation": true,
       "_nested_name": "button_3"
     },
