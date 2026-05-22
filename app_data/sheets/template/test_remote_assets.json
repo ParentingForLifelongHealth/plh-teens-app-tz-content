@@ -131,7 +131,7 @@
     {
       "type": "text",
       "name": "debug_status_tz_en",
-      "value": "Download status is: @local.download_status_tz_en",
+      "value": "English download status is: @local.download_status_tz_en",
       "_translations": {
         "value": {}
       },
@@ -140,7 +140,7 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "Download status is: @local.download_status_tz_en",
+            "fullExpression": "English download status is: @local.download_status_tz_en",
             "matchedExpression": "@local.download_status_tz_en",
             "type": "local",
             "fieldName": "download_status_tz_en"
@@ -251,15 +251,16 @@
     {
       "type": "text",
       "name": "debug_status_tz_sw",
-      "value": "Download status is: @local.download_status_tz_sw",
+      "value": "Swahili download status is: @local.download_status_tz_sw",
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "_nested_name": "debug_status_tz_sw",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "Download status is: @local.download_status_tz_sw",
+            "fullExpression": "Swahili download status is: @local.download_status_tz_sw",
             "matchedExpression": "@local.download_status_tz_sw",
             "type": "local",
             "fieldName": "download_status_tz_sw"
@@ -271,26 +272,6 @@
           "value"
         ]
       }
-    },
-    {
-      "type": "button",
-      "name": "button_3",
-      "value": "Reset remote assets (return to core asset pack before any downloads)",
-      "_translations": {
-        "value": {}
-      },
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "asset_pack",
-          "args": [
-            "reset"
-          ],
-          "_raw": "click | asset_pack: reset"
-        }
-      ],
-      "exclude_from_translation": true,
-      "_nested_name": "button_3"
     },
     {
       "name": "test_asset",
@@ -326,6 +307,114 @@
           "value"
         ]
       }
+    },
+    {
+      "type": "button",
+      "name": "button_3",
+      "value": "Reset remote assets (return to core asset pack before any downloads)",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "asset_pack",
+          "args": [
+            "reset"
+          ],
+          "_raw": "click | asset_pack: reset"
+        }
+      ],
+      "exclude_from_translation": true,
+      "_nested_name": "button_3"
+    },
+    {
+      "type": "radio_button_grid",
+      "name": "language_select",
+      "value": "@fields._app_language",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "answer_list": "@data.language",
+        "item_width": "50px"
+      },
+      "action_list": [
+        {
+          "trigger": "changed",
+          "action_id": "emit",
+          "args": [
+            "set_language",
+            "this.value"
+          ],
+          "_raw": "changed | emit: set_language:@local.language_select"
+        }
+      ],
+      "exclude_from_translation": true,
+      "_nested_name": "language_select",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields._app_language",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          }
+        ],
+        "parameter_list": {
+          "answer_list": [
+            {
+              "fullExpression": "@data.language",
+              "matchedExpression": "@data.language",
+              "type": "data",
+              "fieldName": "language"
+            }
+          ]
+        },
+        "action_list": {
+          "0": {
+            "_raw": [
+              {
+                "fullExpression": "changed | emit: set_language:@local.language_select",
+                "matchedExpression": "@local.language_select",
+                "type": "local",
+                "fieldName": "language_select"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@fields._app_language": [
+          "value"
+        ],
+        "@data.language": [
+          "parameter_list.answer_list"
+        ],
+        "@local.language_select": [
+          "action_list.0._raw"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_reload",
+      "value": "Reload",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "changed",
+          "action_id": "emit",
+          "args": [
+            "force_reload"
+          ],
+          "_raw": "changed | emit: force_reload"
+        }
+      ],
+      "exclude_from_translation": true,
+      "_nested_name": "button_reload"
     }
   ],
   "_source": {
