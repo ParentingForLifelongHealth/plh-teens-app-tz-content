@@ -145,7 +145,7 @@
               "_raw": "click | set_local: just_logged_in: true"
             }
           ],
-          "condition": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\" || @fields._operating_system === \"mac\"",
+          "condition": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\"",
           "_nested_name": "login.button_apple_sign_in",
           "_dynamicFields": {
             "value": [
@@ -158,19 +158,13 @@
             ],
             "condition": [
               {
-                "fullExpression": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\" || @fields._operating_system === \"mac\"",
+                "fullExpression": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\"",
                 "matchedExpression": "@fields._platform",
                 "type": "fields",
                 "fieldName": "_platform"
               },
               {
-                "fullExpression": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\" || @fields._operating_system === \"mac\"",
-                "matchedExpression": "@fields._operating_system",
-                "type": "fields",
-                "fieldName": "_operating_system"
-              },
-              {
-                "fullExpression": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\" || @fields._operating_system === \"mac\"",
+                "fullExpression": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\"",
                 "matchedExpression": "@fields._operating_system",
                 "type": "fields",
                 "fieldName": "_operating_system"
@@ -185,7 +179,6 @@
               "condition"
             ],
             "@fields._operating_system": [
-              "condition",
               "condition"
             ]
           }
@@ -588,7 +581,7 @@
           "type": "data_items",
           "name": "find_last_synced_id",
           "value": "_auth_profiles",
-          "condition": "@local.just_logged_in && !@global.login_is_mandatory",
+          "condition": "@local.just_logged_in",
           "parameter_list": {
             "sort": "updatedAt",
             "reverse": "true",
@@ -696,24 +689,15 @@
           "_dynamicFields": {
             "condition": [
               {
-                "fullExpression": "@local.just_logged_in && !@global.login_is_mandatory",
+                "fullExpression": "@local.just_logged_in",
                 "matchedExpression": "@local.just_logged_in",
                 "type": "local",
                 "fieldName": "just_logged_in"
-              },
-              {
-                "fullExpression": "@local.just_logged_in && !@global.login_is_mandatory",
-                "matchedExpression": "!@global.login_is_mandatory",
-                "type": "global",
-                "fieldName": "login_is_mandatory"
               }
             ]
           },
           "_dynamicDependencies": {
             "@local.just_logged_in": [
-              "condition"
-            ],
-            "!@global.login_is_mandatory": [
               "condition"
             ]
           }

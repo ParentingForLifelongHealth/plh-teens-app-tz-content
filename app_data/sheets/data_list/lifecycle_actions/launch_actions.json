@@ -46,6 +46,25 @@
     },
     {
       "lifecycle_event": "app_start",
+      "id": "download_remote_language_specific_assets",
+      "priority": 2.1,
+      "condition_list": [
+        "@fields.has_remote_language_specific_assets"
+      ],
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "asset_pack",
+          "args": [
+            "download",
+            "assets_@fields._app_language"
+          ],
+          "_raw": "asset_pack: download: assets_@fields._app_language"
+        }
+      ]
+    },
+    {
+      "lifecycle_event": "app_start",
       "id": "splash_auto_advance",
       "priority": 3,
       "condition_list": [
