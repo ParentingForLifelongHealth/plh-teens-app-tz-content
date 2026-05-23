@@ -137,7 +137,7 @@
     },
     {
       "name": "show_progress_bar",
-      "value": true,
+      "value": false,
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "show_progress_bar"
@@ -163,9 +163,6 @@
             "task_group_data": "@local.articles_data_list_name"
           },
           "exclude_from_translation": true,
-          "style_list": [
-            "flex: 1"
-          ],
           "_nested_name": "dg_progress_bar.task_progress_bar",
           "_dynamicFields": {
             "parameter_list": {
