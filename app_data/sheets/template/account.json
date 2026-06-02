@@ -145,7 +145,7 @@
               "_raw": "click | set_local: just_logged_in: true"
             }
           ],
-          "condition": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\"",
+          "condition": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\"  || !@fields._user_mode",
           "_nested_name": "login.button_apple_sign_in",
           "_dynamicFields": {
             "value": [
@@ -158,16 +158,22 @@
             ],
             "condition": [
               {
-                "fullExpression": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\"",
+                "fullExpression": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\"  || !@fields._user_mode",
                 "matchedExpression": "@fields._platform",
                 "type": "fields",
                 "fieldName": "_platform"
               },
               {
-                "fullExpression": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\"",
+                "fullExpression": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\"  || !@fields._user_mode",
                 "matchedExpression": "@fields._operating_system",
                 "type": "fields",
                 "fieldName": "_operating_system"
+              },
+              {
+                "fullExpression": "@fields._platform === \"ios\" || @fields._operating_system === \"ios\"  || !@fields._user_mode",
+                "matchedExpression": "!@fields._user_mode",
+                "type": "fields",
+                "fieldName": "_user_mode"
               }
             ]
           },
@@ -179,6 +185,9 @@
               "condition"
             ],
             "@fields._operating_system": [
+              "condition"
+            ],
+            "!@fields._user_mode": [
               "condition"
             ]
           }
