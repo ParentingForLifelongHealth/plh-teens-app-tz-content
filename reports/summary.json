@@ -31,7 +31,7 @@
       },
       {
         "type": "button",
-        "count": 84
+        "count": 83
       },
       {
         "type": "combo_box",
@@ -139,7 +139,7 @@
       },
       {
         "type": "template",
-        "count": 658
+        "count": 659
       },
       {
         "type": "text",
@@ -191,7 +191,7 @@
       },
       {
         "type": "asset_pack",
-        "count": 1
+        "count": 2
       },
       {
         "type": "auth",
@@ -203,7 +203,7 @@
       },
       {
         "type": "emit: force_reload",
-        "count": 5
+        "count": 4
       },
       {
         "type": "emit: force_reprocess",
@@ -251,7 +251,7 @@
       },
       {
         "type": "set_data",
-        "count": 55
+        "count": 57
       },
       {
         "type": "set_field",

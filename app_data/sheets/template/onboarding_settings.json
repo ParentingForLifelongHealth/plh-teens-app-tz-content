@@ -243,6 +243,7 @@
                       }
                     }
                   ],
+                  "condition": "!(@item._last && @global.has_remote_assets)",
                   "rows": [],
                   "_nested_name": "loop_pages.await_data_loop_evaluation.condition.page",
                   "_dynamicFields": {
@@ -295,7 +296,21 @@
                           ]
                         }
                       }
-                    }
+                    },
+                    "condition": [
+                      {
+                        "fullExpression": "!(@item._last && @global.has_remote_assets)",
+                        "matchedExpression": "@item._last",
+                        "type": "item",
+                        "fieldName": "_last"
+                      },
+                      {
+                        "fullExpression": "!(@item._last && @global.has_remote_assets)",
+                        "matchedExpression": "@global.has_remote_assets",
+                        "type": "global",
+                        "fieldName": "has_remote_assets"
+                      }
+                    ]
                   },
                   "_dynamicDependencies": {
                     "@item.id": [
@@ -306,6 +321,160 @@
                     "@local.completed_count": [
                       "action_list.1._raw",
                       "action_list.1.params._id"
+                    ],
+                    "@item._last": [
+                      "condition"
+                    ],
+                    "@global.has_remote_assets": [
+                      "condition"
+                    ]
+                  }
+                },
+                {
+                  "type": "template",
+                  "name": "page_last_remote_assets",
+                  "value": "onboarding_settings_@item.id",
+                  "action_list": [
+                    {
+                      "trigger": "completed",
+                      "action_id": "set_data",
+                      "args": [],
+                      "_raw": "completed | set_data |\n_list_id: onboarding_settings_pages,\n_id: @item.id,\ncompleted: true",
+                      "params": {
+                        "_list_id": "onboarding_settings_pages",
+                        "_id": "@item.id",
+                        "completed": true
+                      }
+                    },
+                    {
+                      "trigger": "completed",
+                      "action_id": "asset_pack",
+                      "args": [
+                        "download",
+                        "@global.asset_pack_name"
+                      ],
+                      "_raw": "completed | asset_pack: download: @global.asset_pack_name"
+                    },
+                    {
+                      "trigger": "uncompleted",
+                      "action_id": "set_data",
+                      "args": [],
+                      "_raw": "uncompleted | set_data | \n_list_id: onboarding_settings_pages,\n_id: page_@local.completed_count,\ncompleted: false",
+                      "params": {
+                        "_list_id": "onboarding_settings_pages",
+                        "_id": "page_@local.completed_count",
+                        "completed": false
+                      }
+                    }
+                  ],
+                  "condition": "@item._last && @global.has_remote_assets",
+                  "rows": [],
+                  "_nested_name": "loop_pages.await_data_loop_evaluation.condition.page_last_remote_assets",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "onboarding_settings_@item.id",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ],
+                    "action_list": {
+                      "0": {
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | set_data |\n_list_id: onboarding_settings_pages,\n_id: @item.id,\ncompleted: true",
+                            "matchedExpression": "@item.id",
+                            "type": "item",
+                            "fieldName": "id"
+                          }
+                        ],
+                        "params": {
+                          "_id": [
+                            {
+                              "fullExpression": "@item.id",
+                              "matchedExpression": "@item.id",
+                              "type": "item",
+                              "fieldName": "id"
+                            }
+                          ]
+                        }
+                      },
+                      "1": {
+                        "args": {
+                          "1": [
+                            {
+                              "fullExpression": "@global.asset_pack_name",
+                              "matchedExpression": "@global.asset_pack_name",
+                              "type": "global",
+                              "fieldName": "asset_pack_name"
+                            }
+                          ]
+                        },
+                        "_raw": [
+                          {
+                            "fullExpression": "completed | asset_pack: download: @global.asset_pack_name",
+                            "matchedExpression": "@global.asset_pack_name",
+                            "type": "global",
+                            "fieldName": "asset_pack_name"
+                          }
+                        ]
+                      },
+                      "2": {
+                        "_raw": [
+                          {
+                            "fullExpression": "uncompleted | set_data | \n_list_id: onboarding_settings_pages,\n_id: page_@local.completed_count,\ncompleted: false",
+                            "matchedExpression": "@local.completed_count",
+                            "type": "local",
+                            "fieldName": "completed_count"
+                          }
+                        ],
+                        "params": {
+                          "_id": [
+                            {
+                              "fullExpression": "page_@local.completed_count",
+                              "matchedExpression": "@local.completed_count",
+                              "type": "local",
+                              "fieldName": "completed_count"
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    "condition": [
+                      {
+                        "fullExpression": "@item._last && @global.has_remote_assets",
+                        "matchedExpression": "@item._last",
+                        "type": "item",
+                        "fieldName": "_last"
+                      },
+                      {
+                        "fullExpression": "@item._last && @global.has_remote_assets",
+                        "matchedExpression": "@global.has_remote_assets",
+                        "type": "global",
+                        "fieldName": "has_remote_assets"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.id": [
+                      "value",
+                      "action_list.0._raw",
+                      "action_list.0.params._id"
+                    ],
+                    "@global.asset_pack_name": [
+                      "action_list.1.args.1",
+                      "action_list.1._raw"
+                    ],
+                    "@local.completed_count": [
+                      "action_list.2._raw",
+                      "action_list.2.params._id"
+                    ],
+                    "@item._last": [
+                      "condition"
+                    ],
+                    "@global.has_remote_assets": [
+                      "condition"
                     ]
                   }
                 }
@@ -559,8 +728,8 @@
     }
   ],
   "_source": {
-    "name": "library_PLH_onboarding",
-    "path": "PLH onboarding.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1LUIu_aqkzYjyUq0ecQEmWJa62CEvQ4E2L4Fkz_94ydw"
+    "name": "teens_tz_GT",
+    "path": "templates/TZ onboarding templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1eDoTJMq9TMVQoMiQ6jIl-yciUhYNfeaQe1o6pmz4JXc"
   }
 }

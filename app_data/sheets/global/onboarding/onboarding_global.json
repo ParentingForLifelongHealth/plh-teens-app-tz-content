@@ -11,7 +11,7 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "has_remote_language_specific_assets",
+      "name": "has_remote_assets",
       "value": false
     },
     {

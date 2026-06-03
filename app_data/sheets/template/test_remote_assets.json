@@ -395,26 +395,6 @@
           "action_list.0._raw"
         ]
       }
-    },
-    {
-      "type": "button",
-      "name": "button_reload",
-      "value": "Reload",
-      "_translations": {
-        "value": {}
-      },
-      "action_list": [
-        {
-          "trigger": "changed",
-          "action_id": "emit",
-          "args": [
-            "force_reload"
-          ],
-          "_raw": "changed | emit: force_reload"
-        }
-      ],
-      "exclude_from_translation": true,
-      "_nested_name": "button_reload"
     }
   ],
   "_source": {
