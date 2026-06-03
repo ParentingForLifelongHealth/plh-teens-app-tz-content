@@ -60,14 +60,6 @@
         },
         {
           "trigger": "completed",
-          "action_id": "emit",
-          "args": [
-            "completed"
-          ],
-          "_raw": "completed | emit: completed"
-        },
-        {
-          "trigger": "completed",
           "action_id": "reset_data",
           "args": [],
           "_raw": "completed | reset_data | _list_id: onboarding_settings_pages",
@@ -83,6 +75,14 @@
             false
           ],
           "_raw": "completed | set_field: onboarding_settings_completed: false"
+        },
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed"
         }
       ],
       "rows": [
