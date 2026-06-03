@@ -60,11 +60,12 @@
         },
         {
           "trigger": "completed",
-          "action_id": "reset_data",
+          "action_id": "set_data",
           "args": [],
-          "_raw": "completed | reset_data | _list_id: onboarding_settings_pages",
+          "_raw": "completed | set_data | _list_id: onboarding_settings_pages, completed: false",
           "params": {
-            "_list_id": "onboarding_settings_pages"
+            "_list_id": "onboarding_settings_pages",
+            "completed": false
           }
         },
         {
