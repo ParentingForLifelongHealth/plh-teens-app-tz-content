@@ -10,7 +10,7 @@
 | apple_sign_in_button | 2 |
 | asset_pack_download_button | 2 |
 | audio | 4 |
-| button | 84 |
+| button | 83 |
 | combo_box | 9 |
 | data_items | 105 |
 | debug_toggle | 1 |
@@ -37,7 +37,7 @@
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 4 |
-| template | 658 |
+| template | 659 |
 | text | 148 |
 | text_area | 2 |
 | text_box | 12 |
@@ -56,10 +56,10 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| asset_pack | 1 |
+| asset_pack | 2 |
 | auth | 3 |
 | emit: completed | 478 |
-| emit: force_reload | 5 |
+| emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
@@ -71,7 +71,7 @@
 | pop_up | 45 |
 | reset_app | 4 |
 | reset_data | 3 |
-| set_data | 55 |
+| set_data | 57 |
 | set_field | 50 |
 | set_item | 38 |
 | set_local | 46 |
