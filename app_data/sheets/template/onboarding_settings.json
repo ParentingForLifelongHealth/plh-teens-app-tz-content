@@ -460,7 +460,7 @@
     },
     {
       "type": "data_items",
-      "name": "loop_pages",
+      "name": "page_finished",
       "value": "@data.onboarding_settings_pages",
       "parameter_list": {
         "filter": "@item.row_index == @local.last_index && @item.completed"
@@ -476,7 +476,7 @@
           },
           "condition": "!!@global.onboarding_completed_lottie_asset",
           "exclude_from_translation": true,
-          "_nested_name": "loop_pages.lottie",
+          "_nested_name": "page_finished.lottie",
           "_dynamicFields": {
             "value": [
               {
@@ -514,7 +514,7 @@
           "parameter_list": {
             "variant": "header"
           },
-          "_nested_name": "loop_pages.finish_profile_title",
+          "_nested_name": "page_finished.finish_profile_title",
           "_dynamicFields": {
             "value": [
               {
@@ -541,7 +541,7 @@
           "parameter_list": {
             "text_align": "center"
           },
-          "_nested_name": "loop_pages.finish_profile_text",
+          "_nested_name": "page_finished.finish_profile_text",
           "_dynamicFields": {
             "value": [
               {
@@ -597,7 +597,7 @@
               "parameter_list": {
                 "style": "navigation"
               },
-              "_nested_name": "loop_pages.dg_footer.button_completed_3",
+              "_nested_name": "page_finished.dg_footer.button_completed_3",
               "_dynamicFields": {
                 "value": [
                   {
@@ -615,10 +615,10 @@
               }
             }
           ],
-          "_nested_name": "loop_pages.dg_footer"
+          "_nested_name": "page_finished.dg_footer"
         }
       ],
-      "_nested_name": "loop_pages",
+      "_nested_name": "page_finished",
       "_dynamicFields": {
         "value": [
           {
@@ -910,16 +910,81 @@
               }
             },
             {
-              "type": "button",
-              "name": "button_retry",
-              "value": "Try again",
-              "_translations": {
-                "value": {}
-              },
+              "type": "display_group",
+              "name": "dg_footer",
               "parameter_list": {
-                "style": "navigation"
+                "sticky": "bottom"
               },
-              "_nested_name": "loop_asset_packs.page_error.button_retry"
+              "style_list": [
+                "padding: 12px 24px"
+              ],
+              "rows": [
+                {
+                  "type": "button",
+                  "name": "button_retry",
+                  "value": "@global.onboarding_error_button_text",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "action_list": [
+                    {
+                      "trigger": "click",
+                      "action_id": "asset_pack",
+                      "args": [
+                        "download",
+                        "@local.asset_pack_id"
+                      ],
+                      "_raw": "click | asset_pack: download: @local.asset_pack_id"
+                    }
+                  ],
+                  "parameter_list": {
+                    "style": "navigation"
+                  },
+                  "_nested_name": "loop_asset_packs.page_error.dg_footer.button_retry",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@global.onboarding_error_button_text",
+                        "matchedExpression": "@global.onboarding_error_button_text",
+                        "type": "global",
+                        "fieldName": "onboarding_error_button_text"
+                      }
+                    ],
+                    "action_list": {
+                      "0": {
+                        "args": {
+                          "1": [
+                            {
+                              "fullExpression": "@local.asset_pack_id",
+                              "matchedExpression": "@local.asset_pack_id",
+                              "type": "local",
+                              "fieldName": "asset_pack_id"
+                            }
+                          ]
+                        },
+                        "_raw": [
+                          {
+                            "fullExpression": "click | asset_pack: download: @local.asset_pack_id",
+                            "matchedExpression": "@local.asset_pack_id",
+                            "type": "local",
+                            "fieldName": "asset_pack_id"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "_dynamicDependencies": {
+                    "@global.onboarding_error_button_text": [
+                      "value"
+                    ],
+                    "@local.asset_pack_id": [
+                      "action_list.0.args.1",
+                      "action_list.0._raw"
+                    ]
+                  }
+                }
+              ],
+              "_nested_name": "loop_asset_packs.page_error.dg_footer"
             }
           ],
           "_nested_name": "loop_asset_packs.page_error",

@@ -128,6 +128,14 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "onboarding_error_button_text",
+      "value": "Try again",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "facilitator_intro_image_asset",
       "value": "images/onboarding/facilitator_female_onboarding_icon.svg",
       "_translations": {
