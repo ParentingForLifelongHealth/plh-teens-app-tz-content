@@ -395,6 +395,83 @@
           "action_list.0._raw"
         ]
       }
+    },
+    {
+      "type": "title",
+      "value": "Asset pack metadata",
+      "_translations": {
+        "value": {}
+      },
+      "name": "title_17",
+      "_nested_name": "title_17"
+    },
+    {
+      "type": "data_items",
+      "value": "_asset_packs",
+      "rows": [
+        {
+          "type": "text",
+          "value": "id: @item.id,\nname: @item.name,\ndownload_status: @item.download_status",
+          "_translations": {
+            "value": {}
+          },
+          "name": "text_1_@item.id",
+          "_nested_name": "data_items_18.text_1_@item.id",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "id: @item.id,\nname: @item.name,\ndownload_status: @item.download_status",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              },
+              {
+                "fullExpression": "id: @item.id,\nname: @item.name,\ndownload_status: @item.download_status",
+                "matchedExpression": "@item.name",
+                "type": "item",
+                "fieldName": "name"
+              },
+              {
+                "fullExpression": "id: @item.id,\nname: @item.name,\ndownload_status: @item.download_status",
+                "matchedExpression": "@item.download_status",
+                "type": "item",
+                "fieldName": "download_status"
+              }
+            ],
+            "name": [
+              {
+                "fullExpression": "text_1_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "data_items_18.text_1_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "value",
+              "name",
+              "_nested_name"
+            ],
+            "@item.name": [
+              "value"
+            ],
+            "@item.download_status": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "name": "data_items_18",
+      "_nested_name": "data_items_18"
     }
   ],
   "_source": {

@@ -16,7 +16,7 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "asset_pack_name",
+      "name": "asset_pack_id",
       "value": "assets_@fields._app_language",
       "_translations": {
         "value": {}

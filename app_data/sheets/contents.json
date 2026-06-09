@@ -850,9 +850,6 @@
       "_metadata": {
         "completed": {
           "type": "boolean"
-        },
-        "completed_count": {
-          "type": "number"
         }
       }
     },

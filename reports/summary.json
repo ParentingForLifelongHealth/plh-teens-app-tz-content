@@ -31,7 +31,7 @@
       },
       {
         "type": "button",
-        "count": 83
+        "count": 84
       },
       {
         "type": "combo_box",
@@ -71,7 +71,7 @@
       },
       {
         "type": "lottie_animation",
-        "count": 4
+        "count": 5
       },
       {
         "type": "nested_properties",
@@ -143,7 +143,7 @@
       },
       {
         "type": "text",
-        "count": 148
+        "count": 151
       },
       {
         "type": "text_area",
@@ -163,7 +163,7 @@
       },
       {
         "type": "title",
-        "count": 45
+        "count": 48
       },
       {
         "type": "toggle_bar",
@@ -199,7 +199,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 478
+        "count": 479
       },
       {
         "type": "emit: force_reload",
@@ -251,11 +251,11 @@
       },
       {
         "type": "set_data",
-        "count": 57
+        "count": 58
       },
       {
         "type": "set_field",
-        "count": 50
+        "count": 51
       },
       {
         "type": "set_item",
@@ -263,7 +263,7 @@
       },
       {
         "type": "set_local",
-        "count": 46
+        "count": 44
       },
       {
         "type": "task",
@@ -279,7 +279,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "44172 KB",
+        "KB": "44178 KB",
         "MB": "44.2 MB"
       },
       {
@@ -2276,6 +2276,11 @@
         "path": "lottie/gift_box.json",
         "count": 1,
         "size_kb": 674.5
+      },
+      {
+        "path": "lottie/loading_dots.json",
+        "count": 1,
+        "size_kb": 6.1
       },
       {
         "path": "lottie/relax/blue_dots.json",
