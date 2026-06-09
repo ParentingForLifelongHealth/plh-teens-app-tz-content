@@ -10,7 +10,7 @@
 | apple_sign_in_button | 2 |
 | asset_pack_download_button | 2 |
 | audio | 4 |
-| button | 83 |
+| button | 84 |
 | combo_box | 9 |
 | data_items | 105 |
 | debug_toggle | 1 |
@@ -20,7 +20,7 @@
 | google_sign_in_button | 2 |
 | image | 19 |
 | items | 17 |
-| lottie_animation | 4 |
+| lottie_animation | 5 |
 | nested_properties | 117 |
 | number_selector | 1 |
 | plh_activity_check_in | 1 |
@@ -38,12 +38,12 @@
 | task_card | 6 |
 | task_progress_bar | 4 |
 | template | 659 |
-| text | 148 |
+| text | 151 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 5 |
 | tile_component | 2 |
-| title | 45 |
+| title | 48 |
 | toggle_bar | 6 |
 | update_action_list | 2 |
 | video | 3 |
@@ -58,7 +58,7 @@
 | app_update | 1 |
 | asset_pack | 2 |
 | auth | 3 |
-| emit: completed | 478 |
+| emit: completed | 479 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
@@ -71,10 +71,10 @@
 | pop_up | 45 |
 | reset_app | 4 |
 | reset_data | 3 |
-| set_data | 57 |
-| set_field | 50 |
+| set_data | 58 |
+| set_field | 51 |
 | set_item | 38 |
-| set_local | 46 |
+| set_local | 44 |
 | task | 2 |
 | user | 3 |
 </details>
@@ -84,7 +84,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 44172 KB | 44.2 MB |
+| total | 44178 KB | 44.2 MB |
 | unused | 466 KB | 0.5 MB |
 </details>
 
@@ -515,6 +515,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | lottie/bulging_circles.json | 11.8 | 2 |
 | lottie/checkmark.json | 23.6 | 1 |
 | lottie/gift_box.json | 674.5 | 1 |
+| lottie/loading_dots.json | 6.1 | 1 |
 | lottie/relax/blue_dots.json | 14.7 | 7 |
 | lottie/relax/heart.json | 46.7 | 8 |
 | lottie/relax/looping_rings.json | 10.4 | 9 |
