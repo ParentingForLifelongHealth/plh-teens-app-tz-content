@@ -31,7 +31,7 @@
       },
       {
         "type": "button",
-        "count": 84
+        "count": 85
       },
       {
         "type": "combo_box",
@@ -39,7 +39,7 @@
       },
       {
         "type": "data_items",
-        "count": 105
+        "count": 106
       },
       {
         "type": "debug_toggle",
@@ -51,7 +51,7 @@
       },
       {
         "type": "display_group",
-        "count": 88
+        "count": 90
       },
       {
         "type": "drawer",
@@ -71,7 +71,7 @@
       },
       {
         "type": "lottie_animation",
-        "count": 5
+        "count": 6
       },
       {
         "type": "nested_properties",
@@ -143,7 +143,7 @@
       },
       {
         "type": "text",
-        "count": 151
+        "count": 152
       },
       {
         "type": "text_area",
@@ -163,7 +163,7 @@
       },
       {
         "type": "title",
-        "count": 48
+        "count": 49
       },
       {
         "type": "toggle_bar",
@@ -191,7 +191,7 @@
       },
       {
         "type": "asset_pack",
-        "count": 2
+        "count": 3
       },
       {
         "type": "auth",
@@ -199,7 +199,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 479
+        "count": 480
       },
       {
         "type": "emit: force_reload",
@@ -255,7 +255,7 @@
       },
       {
         "type": "set_field",
-        "count": 51
+        "count": 52
       },
       {
         "type": "set_item",
