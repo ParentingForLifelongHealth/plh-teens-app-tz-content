@@ -10,17 +10,17 @@
 | apple_sign_in_button | 2 |
 | asset_pack_download_button | 2 |
 | audio | 4 |
-| button | 84 |
+| button | 85 |
 | combo_box | 9 |
-| data_items | 105 |
+| data_items | 106 |
 | debug_toggle | 1 |
 | display_grid | 5 |
-| display_group | 88 |
+| display_group | 90 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 19 |
 | items | 17 |
-| lottie_animation | 5 |
+| lottie_animation | 6 |
 | nested_properties | 117 |
 | number_selector | 1 |
 | plh_activity_check_in | 1 |
@@ -38,12 +38,12 @@
 | task_card | 6 |
 | task_progress_bar | 4 |
 | template | 659 |
-| text | 151 |
+| text | 152 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 5 |
 | tile_component | 2 |
-| title | 48 |
+| title | 49 |
 | toggle_bar | 6 |
 | update_action_list | 2 |
 | video | 3 |
@@ -56,9 +56,9 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| asset_pack | 2 |
+| asset_pack | 3 |
 | auth | 3 |
-| emit: completed | 479 |
+| emit: completed | 480 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
@@ -72,7 +72,7 @@
 | reset_app | 4 |
 | reset_data | 3 |
 | set_data | 58 |
-| set_field | 51 |
+| set_field | 52 |
 | set_item | 38 |
 | set_local | 44 |
 | task | 2 |
