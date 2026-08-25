@@ -10,41 +10,45 @@
 | apple_sign_in_button | 2 |
 | asset_pack_download_button | 2 |
 | audio | 4 |
-| button | 85 |
+| button | 100 |
 | combo_box | 9 |
-| data_items | 106 |
+| data_items | 121 |
 | debug_toggle | 1 |
 | display_grid | 5 |
-| display_group | 90 |
+| display_group | 115 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 19 |
+| image | 26 |
 | items | 17 |
-| lottie_animation | 6 |
-| nested_properties | 117 |
+| lottie_animation | 5 |
+| nested_properties | 118 |
 | number_selector | 1 |
 | plh_activity_check_in | 1 |
 | plh_bottom_nav | 1 |
+| plh_course_accordion | 1 |
+| plh_course_sub_item | 1 |
+| plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |
 | plh_module_list_item | 3 |
+| plh_progress_bar | 6 |
 | progress_path | 1 |
 | qr_code | 1 |
-| radio_button_grid | 9 |
-| round_button | 11 |
+| radio_button_grid | 10 |
+| round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 1983 |
+| set_variable | 2189 |
 | simple_checkbox | 1 |
 | task_card | 6 |
-| task_progress_bar | 4 |
-| template | 659 |
-| text | 152 |
+| task_progress_bar | 6 |
+| template | 679 |
+| text | 201 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 5 |
 | tile_component | 2 |
-| title | 49 |
-| toggle_bar | 6 |
+| title | 61 |
+| toggle_bar | 5 |
 | update_action_list | 2 |
 | video | 3 |
 | youtube | 4 |
@@ -56,25 +60,25 @@
 | type | count |
 | --- | --- |
 | app_update | 1 |
-| asset_pack | 3 |
+| asset_pack | 9 |
 | auth | 3 |
-| emit: completed | 480 |
+| emit: completed | 495 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
-| emit: force_restart | 3 |
+| emit: force_restart | 4 |
 | emit: server_sync | 6 |
-| emit: set_language | 3 |
-| emit: uncompleted | 484 |
+| emit: set_language | 4 |
+| emit: uncompleted | 499 |
 | feedback | 13 |
-| go_to | 16 |
-| nav_stack | 181 |
+| go_to | 21 |
+| nav_stack | 179 |
 | pop_up | 45 |
 | reset_app | 4 |
 | reset_data | 3 |
 | set_data | 58 |
-| set_field | 52 |
-| set_item | 38 |
-| set_local | 44 |
+| set_field | 55 |
+| set_item | 44 |
+| set_local | 71 |
 | task | 2 |
 | user | 3 |
 </details>
@@ -84,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 44178 KB | 44.2 MB |
-| unused | 466 KB | 0.5 MB |
+| total | 41335 KB | 41.3 MB |
+| unused | 3309 KB | 3.3 MB |
 </details>
 
 <details open>
@@ -121,9 +125,25 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/question_blue.png | 3.4 |
 | images/icons/spark.png | 1.6 |
 | images/icons/star_outline_white.svg | 1 |
+| images/icons/trophy_footer.svg | 3.9 |
+| images/icons/trophy_footer_active.svg | 3.9 |
 | images/icons/world.svg | 6.2 |
+| images/logos/CWBSA.png | 84.4 |
+| images/logos/GISP.png | 30.5 |
+| images/logos/ICS_SP.jpg | 228.6 |
+| images/logos/IDEMS.png | 42.7 |
+| images/logos/NIMR.png | 225 |
+| images/logos/Oxford.png | 93.7 |
+| images/logos/PLH.png | 33.9 |
+| images/logos/UCT.png | 168 |
+| images/logos/UNICEF.png | 68.8 |
+| images/logos/Vodacom.png | 59.2 |
+| images/logos/WHO.jpeg | 310.7 |
 | images/logos/favicon.png | 6.3 |
 | images/logos/plh_white.png | 12.8 |
+| images/logos/plh_white.svg | 256.1 |
+| images/logos/tz_ministry.svg | 122.4 |
+| images/teen_modules/svp/delete_svp_usebody_t_1.gif | 1111.6 |
 | lottie/bulging_circles.txt | 0.2 |
 | video/plh_video/lets_slow_down.srt | 1.8 |
 | video/plh_video/lets_slow_down.vtt | 1.8 |
@@ -136,7 +156,28 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
+| images/backgrounds/lesson-cta-bg.svg | 2 |
 | images/backgrounds/map_view_bg.jpg | 1 |
+| images/icons/bug.svg | 2 |
+| images/icons/home_white.svg | 1 |
+| images/icons/local_library_white.svg | 1 |
+| images/icons/settings_white.svg | 1 |
+| images/logos/app_logo.png | 1 |
+| images/logos/partners/CWBSA.png | 1 |
+| images/logos/partners/GISP.png | 1 |
+| images/logos/partners/ICS_SP.jpg | 1 |
+| images/logos/partners/IDEMS.png | 1 |
+| images/logos/partners/NIMR.png | 1 |
+| images/logos/partners/Oxford.png | 1 |
+| images/logos/partners/PLH.png | 1 |
+| images/logos/partners/UCT.png | 1 |
+| images/logos/partners/UNICEF.png | 1 |
+| images/logos/partners/Vodacom.png | 1 |
+| images/logos/partners/WHO.jpeg | 1 |
+| images/logos/partners/plh_logomark.png | 1 |
+| images/logos/partners/plh_white.svg | 1 |
+| images/logos/partners/tz_ministry.svg | 1 |
+| images/teen_modules/svp/svp_usebody_t_3.gif | 2 |
 </details>
 
 <details >
@@ -252,7 +293,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/document-lock-outline.svg | 0.7 | 1 |
 | images/icons/document-text-outline.svg | 0.5 | 1 |
 | images/icons/expand_circle_right.svg | 0.5 | 1 |
-| images/icons/expand_circle_right_blue.svg | 2.1 | 1 |
+| images/icons/expand_circle_right_blue.svg | 2.1 | 2 |
 | images/icons/eye_blue.png | 4.2 | 10 |
 | images/icons/faces/angry.svg | 1.1 | 2 |
 | images/icons/faces/confused.svg | 1.8 | 4 |
@@ -306,20 +347,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/trophy.png | 1.6 | 1 |
 | images/icons/trophy_active.png | 1.7 | 1 |
 | images/icons/trophy_blue.png | 5.1 | 12 |
-| images/icons/trophy_footer.svg | 3.9 | 1 |
-| images/icons/trophy_footer_active.svg | 3.9 | 1 |
 | images/icons/verified.svg | 0.5 | 1 |
-| images/logos/CWBSA.png | 84.4 | 1 |
-| images/logos/GISP.png | 30.5 | 1 |
-| images/logos/ICS_SP.jpg | 228.6 | 1 |
-| images/logos/IDEMS.png | 42.7 | 1 |
-| images/logos/NIMR.png | 225 | 1 |
-| images/logos/Oxford.png | 93.7 | 1 |
-| images/logos/PLH.png | 33.9 | 1 |
-| images/logos/UCT.png | 168 | 1 |
-| images/logos/UNICEF.png | 68.8 | 1 |
-| images/logos/Vodacom.png | 59.2 | 1 |
-| images/logos/WHO.jpeg | 310.7 | 1 |
 | images/logos/donors/Agency_fund.png | 43.7 | 1 |
 | images/logos/donors/ERC.png | 321.9 | 1 |
 | images/logos/donors/GCRF.png | 38.7 | 1 |
@@ -329,9 +357,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/donors/OAK.png | 66.6 | 1 |
 | images/logos/donors/UKRI.png | 30.1 | 1 |
 | images/logos/donors/WCF.jpg | 90.5 | 1 |
-| images/logos/plh_logomark.png | 20.5 | 2 |
-| images/logos/plh_white.svg | 256.1 | 1 |
-| images/logos/tz_ministry.svg | 122.4 | 1 |
+| images/logos/plh_logomark.png | 20.5 | 1 |
 | images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 2 |
 | images/onboarding/facilitator_male_onboarding_icon.svg | 21.6 | 1 |
 | images/onboarding/frustrated.svg | 22.5 | 1 |
@@ -508,9 +534,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/svp/svp_pushy_boyfriend_t.svg | 50.4 | 2 |
 | images/teen_modules/svp/svp_pushy_friend_t.svg | 65.6 | 2 |
 | images/teen_modules/svp/svp_rejected_ride_t.svg | 74.4 | 2 |
-| images/teen_modules/svp/svp_usebody_t_1.gif | 1111.6 | 2 |
-| images/teen_modules/svp/svp_usebody_t_2.gif | 2008.5 | 2 |
-| images/teen_modules/svp/svp_usebody_t_3.gif | 844.1 | 2 |
+| images/teen_modules/svp/svp_usebody_t_1.gif | 2008.5 | 2 |
+| images/teen_modules/svp/svp_usebody_t_2.gif | 844.1 | 2 |
 | images/teen_modules/svp/svp_usevoice_t.svg | 18.4 | 2 |
 | lottie/bulging_circles.json | 11.8 | 2 |
 | lottie/checkmark.json | 23.6 | 1 |
@@ -519,7 +544,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | lottie/relax/blue_dots.json | 14.7 | 7 |
 | lottie/relax/heart.json | 46.7 | 8 |
 | lottie/relax/looping_rings.json | 10.4 | 9 |
-| lottie/relax/soothing_waves.json | 7.6 | 6 |
+| lottie/relax/soothing_waves.json | 7.6 | 5 |
 | lottie/relax/square_flow.json | 5.9 | 16 |
 | video/plh_video/lets_slow_down.mp4 | 13482.2 | 2 |
 </details>
@@ -529,9 +554,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 9 |
+| data_list |  | 11 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
+| data_list | campaign_rows | 1 |
+| data_list | campaign_schedule | 1 |
 | data_list | check_in | 1 |
 | data_list | generated | 36 |
 | data_list | hp_review | 2 |
@@ -563,7 +590,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
-| template |  | 102 |
-| template | generated | 502 |
+| template |  | 109 |
+| template | generated | 501 |
 | template | legal_terms | 4 |
 </details>

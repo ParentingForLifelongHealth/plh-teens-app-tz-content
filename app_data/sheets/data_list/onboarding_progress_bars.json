@@ -1,0 +1,74 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "onboarding_progress_bars",
+  "status": "released",
+  "data_list_name": "onboarding_settings_progress_bars",
+  "rows": [
+    {
+      "id": "id_1",
+      "colour": "var(--ion-color-primary-700)",
+      "timespan": 1000,
+      "text": "Getting everything ready for you",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Getting everything ready for you"
+        }
+      }
+    },
+    {
+      "id": "id_2",
+      "colour": "var(--ion-color-red-400)",
+      "timespan": 1000,
+      "text": "Looking at what your child needs",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Looking at what your child needs"
+        }
+      }
+    },
+    {
+      "id": "id_3",
+      "colour": "var(--ion-color-primary-variant-400)",
+      "timespan": 1000,
+      "text": "Getting ideas from experts",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Getting ideas from experts"
+        }
+      }
+    },
+    {
+      "id": "id_4",
+      "colour": "var(--ion-color-secondary-600)",
+      "timespan": 1000,
+      "text": "Making this just for your family",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Making this just for your family"
+        }
+      }
+    }
+  ],
+  "_source": {
+    "name": "library_PLH_onboarding",
+    "path": "PLH onboarding.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1LUIu_aqkzYjyUq0ecQEmWJa62CEvQ4E2L4Fkz_94ydw"
+  },
+  "_metadata": {
+    "timespan": {
+      "type": "number"
+    }
+  }
+}

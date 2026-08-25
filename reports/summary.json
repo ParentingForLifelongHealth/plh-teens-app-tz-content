@@ -31,7 +31,7 @@
       },
       {
         "type": "button",
-        "count": 85
+        "count": 100
       },
       {
         "type": "combo_box",
@@ -39,7 +39,7 @@
       },
       {
         "type": "data_items",
-        "count": 106
+        "count": 121
       },
       {
         "type": "debug_toggle",
@@ -51,7 +51,7 @@
       },
       {
         "type": "display_group",
-        "count": 90
+        "count": 115
       },
       {
         "type": "drawer",
@@ -63,7 +63,7 @@
       },
       {
         "type": "image",
-        "count": 19
+        "count": 26
       },
       {
         "type": "items",
@@ -71,11 +71,11 @@
       },
       {
         "type": "lottie_animation",
-        "count": 6
+        "count": 5
       },
       {
         "type": "nested_properties",
-        "count": 117
+        "count": 118
       },
       {
         "type": "number_selector",
@@ -90,12 +90,28 @@
         "count": 1
       },
       {
+        "type": "plh_course_accordion",
+        "count": 1
+      },
+      {
+        "type": "plh_course_sub_item",
+        "count": 1
+      },
+      {
+        "type": "plh_lesson_cta",
+        "count": 2
+      },
+      {
         "type": "plh_module_details_header",
         "count": 1
       },
       {
         "type": "plh_module_list_item",
         "count": 3
+      },
+      {
+        "type": "plh_progress_bar",
+        "count": 6
       },
       {
         "type": "progress_path",
@@ -107,11 +123,11 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 9
+        "count": 10
       },
       {
         "type": "round_button",
-        "count": 11
+        "count": 10
       },
       {
         "type": "select_text",
@@ -123,7 +139,7 @@
       },
       {
         "type": "set_variable",
-        "count": 1983
+        "count": 2189
       },
       {
         "type": "simple_checkbox",
@@ -135,15 +151,15 @@
       },
       {
         "type": "task_progress_bar",
-        "count": 4
+        "count": 6
       },
       {
         "type": "template",
-        "count": 659
+        "count": 679
       },
       {
         "type": "text",
-        "count": 152
+        "count": 201
       },
       {
         "type": "text_area",
@@ -163,11 +179,11 @@
       },
       {
         "type": "title",
-        "count": 49
+        "count": 61
       },
       {
         "type": "toggle_bar",
-        "count": 6
+        "count": 5
       },
       {
         "type": "update_action_list",
@@ -191,7 +207,7 @@
       },
       {
         "type": "asset_pack",
-        "count": 3
+        "count": 9
       },
       {
         "type": "auth",
@@ -199,7 +215,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 480
+        "count": 495
       },
       {
         "type": "emit: force_reload",
@@ -211,7 +227,7 @@
       },
       {
         "type": "emit: force_restart",
-        "count": 3
+        "count": 4
       },
       {
         "type": "emit: server_sync",
@@ -219,11 +235,11 @@
       },
       {
         "type": "emit: set_language",
-        "count": 3
+        "count": 4
       },
       {
         "type": "emit: uncompleted",
-        "count": 484
+        "count": 499
       },
       {
         "type": "feedback",
@@ -231,11 +247,11 @@
       },
       {
         "type": "go_to",
-        "count": 16
+        "count": 21
       },
       {
         "type": "nav_stack",
-        "count": 181
+        "count": 179
       },
       {
         "type": "pop_up",
@@ -255,15 +271,15 @@
       },
       {
         "type": "set_field",
-        "count": 52
+        "count": 55
       },
       {
         "type": "set_item",
-        "count": 38
+        "count": 44
       },
       {
         "type": "set_local",
-        "count": 44
+        "count": 71
       },
       {
         "type": "task",
@@ -279,13 +295,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "44178 KB",
-        "MB": "44.2 MB"
+        "KB": "41335 KB",
+        "MB": "41.3 MB"
       },
       {
         "assets": "unused",
-        "KB": "466 KB",
-        "MB": "0.5 MB"
+        "KB": "3309 KB",
+        "MB": "3.3 MB"
       }
     ]
   },
@@ -396,8 +412,60 @@
         "size_kb": 1
       },
       {
+        "path": "images/icons/trophy_footer.svg",
+        "size_kb": 3.9
+      },
+      {
+        "path": "images/icons/trophy_footer_active.svg",
+        "size_kb": 3.9
+      },
+      {
         "path": "images/icons/world.svg",
         "size_kb": 6.2
+      },
+      {
+        "path": "images/logos/CWBSA.png",
+        "size_kb": 84.4
+      },
+      {
+        "path": "images/logos/GISP.png",
+        "size_kb": 30.5
+      },
+      {
+        "path": "images/logos/ICS_SP.jpg",
+        "size_kb": 228.6
+      },
+      {
+        "path": "images/logos/IDEMS.png",
+        "size_kb": 42.7
+      },
+      {
+        "path": "images/logos/NIMR.png",
+        "size_kb": 225
+      },
+      {
+        "path": "images/logos/Oxford.png",
+        "size_kb": 93.7
+      },
+      {
+        "path": "images/logos/PLH.png",
+        "size_kb": 33.9
+      },
+      {
+        "path": "images/logos/UCT.png",
+        "size_kb": 168
+      },
+      {
+        "path": "images/logos/UNICEF.png",
+        "size_kb": 68.8
+      },
+      {
+        "path": "images/logos/Vodacom.png",
+        "size_kb": 59.2
+      },
+      {
+        "path": "images/logos/WHO.jpeg",
+        "size_kb": 310.7
       },
       {
         "path": "images/logos/favicon.png",
@@ -406,6 +474,18 @@
       {
         "path": "images/logos/plh_white.png",
         "size_kb": 12.8
+      },
+      {
+        "path": "images/logos/plh_white.svg",
+        "size_kb": 256.1
+      },
+      {
+        "path": "images/logos/tz_ministry.svg",
+        "size_kb": 122.4
+      },
+      {
+        "path": "images/teen_modules/svp/delete_svp_usebody_t_1.gif",
+        "size_kb": 1111.6
       },
       {
         "path": "lottie/bulging_circles.txt",
@@ -424,8 +504,113 @@
   "assets_missing": {
     "data": [
       {
+        "path": "images/backgrounds/lesson-cta-bg.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
         "path": "images/backgrounds/map_view_bg.jpg",
         "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/bug.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/icons/home_white.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/local_library_white.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/settings_white.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/app_logo.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/partners/CWBSA.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/partners/GISP.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/partners/ICS_SP.jpg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/partners/IDEMS.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/partners/NIMR.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/partners/Oxford.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/partners/PLH.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/partners/UCT.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/partners/UNICEF.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/partners/Vodacom.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/partners/WHO.jpeg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/partners/plh_logomark.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/partners/plh_white.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/partners/tz_ministry.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/svp/svp_usebody_t_3.gif",
+        "count": 2,
         "missing": true
       }
     ]
@@ -964,7 +1149,7 @@
       },
       {
         "path": "images/icons/expand_circle_right_blue.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 2.1
       },
       {
@@ -1233,74 +1418,9 @@
         "size_kb": 5.1
       },
       {
-        "path": "images/icons/trophy_footer.svg",
-        "count": 1,
-        "size_kb": 3.9
-      },
-      {
-        "path": "images/icons/trophy_footer_active.svg",
-        "count": 1,
-        "size_kb": 3.9
-      },
-      {
         "path": "images/icons/verified.svg",
         "count": 1,
         "size_kb": 0.5
-      },
-      {
-        "path": "images/logos/CWBSA.png",
-        "count": 1,
-        "size_kb": 84.4
-      },
-      {
-        "path": "images/logos/GISP.png",
-        "count": 1,
-        "size_kb": 30.5
-      },
-      {
-        "path": "images/logos/ICS_SP.jpg",
-        "count": 1,
-        "size_kb": 228.6
-      },
-      {
-        "path": "images/logos/IDEMS.png",
-        "count": 1,
-        "size_kb": 42.7
-      },
-      {
-        "path": "images/logos/NIMR.png",
-        "count": 1,
-        "size_kb": 225
-      },
-      {
-        "path": "images/logos/Oxford.png",
-        "count": 1,
-        "size_kb": 93.7
-      },
-      {
-        "path": "images/logos/PLH.png",
-        "count": 1,
-        "size_kb": 33.9
-      },
-      {
-        "path": "images/logos/UCT.png",
-        "count": 1,
-        "size_kb": 168
-      },
-      {
-        "path": "images/logos/UNICEF.png",
-        "count": 1,
-        "size_kb": 68.8
-      },
-      {
-        "path": "images/logos/Vodacom.png",
-        "count": 1,
-        "size_kb": 59.2
-      },
-      {
-        "path": "images/logos/WHO.jpeg",
-        "count": 1,
-        "size_kb": 310.7
       },
       {
         "path": "images/logos/donors/Agency_fund.png",
@@ -1349,18 +1469,8 @@
       },
       {
         "path": "images/logos/plh_logomark.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 20.5
-      },
-      {
-        "path": "images/logos/plh_white.svg",
-        "count": 1,
-        "size_kb": 256.1
-      },
-      {
-        "path": "images/logos/tz_ministry.svg",
-        "count": 1,
-        "size_kb": 122.4
       },
       {
         "path": "images/onboarding/facilitator_female_onboarding_icon.svg",
@@ -2245,15 +2355,10 @@
       {
         "path": "images/teen_modules/svp/svp_usebody_t_1.gif",
         "count": 2,
-        "size_kb": 1111.6
-      },
-      {
-        "path": "images/teen_modules/svp/svp_usebody_t_2.gif",
-        "count": 2,
         "size_kb": 2008.5
       },
       {
-        "path": "images/teen_modules/svp/svp_usebody_t_3.gif",
+        "path": "images/teen_modules/svp/svp_usebody_t_2.gif",
         "count": 2,
         "size_kb": 844.1
       },
@@ -2299,7 +2404,7 @@
       },
       {
         "path": "lottie/relax/soothing_waves.json",
-        "count": 6,
+        "count": 5,
         "size_kb": 7.6
       },
       {
@@ -2319,7 +2424,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 9
+        "total": 11
       },
       {
         "type": "data_list",
@@ -2329,6 +2434,16 @@
       {
         "type": "data_list",
         "subtype": "app_config_language_list",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "campaign_rows",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "campaign_schedule",
         "total": 1
       },
       {
@@ -2489,12 +2604,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 102
+        "total": 109
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 502
+        "total": 501
       },
       {
         "type": "template",

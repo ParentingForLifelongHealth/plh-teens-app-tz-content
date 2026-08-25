@@ -64,7 +64,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_header_image_asset",
-      "value": "images/logos/plh_white.svg",
+      "value": "images/logos/partners/plh_white.svg",
       "_translations": {
         "value": {}
       },
@@ -315,7 +315,7 @@
     }
   ],
   "_source": {
-    "name": "teens_tz_GT",
+    "name": "teens_tz",
     "path": "data/TZ onboarding.xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1V1i6pGZASQWux3EkVtDhO7zPw7rR1E0Y7H_5Ld0DEfI"
   }
