@@ -12,11 +12,10 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/topic_intros/stress_intro_t.mp3",
       "nested": false,
-      "text_1_facilitator": "Today's topic is about managing stress.\n\nWe know how stressful it is to bring up teenagers in these times. Learning to manage your stress helps you – and your family.",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_1_facilitator": "Today’s topic is about managing stress.\n\nWe know how stressful it is to bring up teenagers in these times. Learning to manage your stress helps you – and your family.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -26,7 +25,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Today's topic is about managing stress.\n\nWe know how stressful it is to bring up teenagers in these times. Learning to manage your stress helps you – and your family."
+          "eng": "Today’s topic is about managing stress.\n\nWe know how stressful it is to bring up teenagers in these times. Learning to manage your stress helps you – and your family."
         },
         "media_title": {
           "eng": "Can managing stress help you and your family? Tap play to find out"
@@ -44,11 +43,10 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_stress_t.mp3",
       "nested": false,
-      "text_1_facilitator": "With a few small changes, you can feel more peaceful in your normal day-to-day life.\n\nWhen you are peaceful, your family members will get calmer too!",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_1_facilitator": "A few simple habits (like pausing, breathing, and talking calmly) can make your day feel lighter.\n\nWhen you are calm, your family also feels calmer.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -58,7 +56,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "With a few small changes, you can feel more peaceful in your normal day-to-day life.\n\nWhen you are peaceful, your family members will get calmer too!"
+          "eng": "A few simple habits (like pausing, breathing, and talking calmly) can make your day feel lighter.\n\nWhen you are calm, your family also feels calmer."
         },
         "media_title": {
           "eng": "Pause, take a breath. Now hear how taking a simple pause helped @data.characters.media_female_4.name and her teens"
@@ -75,6 +73,7 @@
       "category_id": "explore",
       "image_asset": "/images/teen_modules/stress/stress1_t_1.svg",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "text_1_facilitator": "Let’s look at an example of how stress can sometimes just get too much, for all of us:",
       "_translations": {
         "text_1_facilitator": {
@@ -101,6 +100,7 @@
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_father",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "character_1_text": "Can I have money to buy some airtime?",
       "_translations": {
         "character_1_text": {
@@ -127,6 +127,7 @@
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_father",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "character_1_text": "What did I do? You never listen!",
       "_translations": {
         "character_1_text": {
@@ -152,6 +153,7 @@
       "image_asset": "/images/teen_modules/stress/stress1_t_4.svg",
       "character_1_id": "f1_daughter_13",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "character_1_text": "Look! I have made a house!",
       "_translations": {
         "character_1_text": {
@@ -170,6 +172,7 @@
       "image_asset": "/images/teen_modules/stress/stress1_t_5.svg",
       "character_1_id": "f1_son_18",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "character_1_text": "Who cares about your stupid house!",
       "_translations": {
         "character_1_text": {
@@ -194,6 +197,7 @@
       "quiz_2_option_3_image_asset": "images/faces/confused.svg",
       "quiz_2_option_4_image_asset": "images/faces/angry.svg",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "text_1_facilitator": "Let's think about what happened in this story.",
       "_translations": {
         "text_1_facilitator": {
@@ -232,60 +236,19 @@
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_1": {
-          "tz_sw": true
-        },
+        "quiz_2_feedback_1": {},
         "quiz_2_option_2_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_2": {
-          "tz_sw": true
-        },
+        "quiz_2_feedback_2": {},
         "quiz_2_option_3_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_2_feedback_3": {},
         "quiz_2_option_4_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_3_question": {
-          "tz_sw": true
-        },
-        "quiz_3_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_3_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_3_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_3_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_3_option_5_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_5": {
-          "tz_sw": true
-        }
+        "quiz_2_feedback_4": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -325,58 +288,25 @@
           "eng": "Sad"
         },
         "quiz_2_feedback_1": {
-          "eng": "Exactly. @data.characters.f1_father.name was in a difficult situation and this argument only made things worse."
+          "eng": "Yes. He felt stressed and overwhelmed by the situation."
         },
         "quiz_2_option_2_text": {
           "eng": "Scared"
         },
         "quiz_2_feedback_2": {
-          "eng": "Exactly. @data.characters.f1_father.name was in a difficult situation and this argument only made things worse."
+          "eng": "Yes. He felt stressed and overwhelmed by the situation."
         },
         "quiz_2_option_3_text": {
           "eng": "Confused"
         },
         "quiz_2_feedback_3": {
-          "eng": "Exactly. @data.characters.f1_father.name was in a difficult situation and this argument only made things worse."
+          "eng": "Yes. He felt stressed and overwhelmed by the situation."
         },
         "quiz_2_option_4_text": {
           "eng": "Angry"
         },
         "quiz_2_feedback_4": {
-          "eng": "Exactly. @data.characters.f1_father.name was in a difficult situation and this argument only made things worse."
-        },
-        "quiz_3_question": {
-          "eng": "What could @data.characters.f1_father.name have done differently?"
-        },
-        "quiz_3_option_1_text": {
-          "eng": "Recognise why he felt stressed"
-        },
-        "quiz_3_feedback_1": {
-          "eng": "Yes, when we recognise we feel stressed, we can take a deep breath and respond with calm and understanding. That way we can find solutions together that work."
-        },
-        "quiz_3_option_2_text": {
-          "eng": "Take a deep breath and speak calmly"
-        },
-        "quiz_3_feedback_2": {
-          "eng": "Yes, when we recognise we feel stressed, we can take a deep breath and respond with calm and understanding. That way we can find solutions together that make everyone feel better."
-        },
-        "quiz_3_option_3_text": {
-          "eng": "Show he understands his teen's feelings"
-        },
-        "quiz_3_feedback_3": {
-          "eng": "Yes, when we recognise we feel stressed, we can take a deep breath and respond with calm and understanding. That way we can find solutions together that make everyone feel better."
-        },
-        "quiz_3_option_4_text": {
-          "eng": "Think about solutions together with @data.characters.f1_son_18.name"
-        },
-        "quiz_3_feedback_4": {
-          "eng": "Yes, when we recognise we feel stressed, we can take a deep breath and respond with calm and understanding. That way we can find solutions together that make everyone feel better."
-        },
-        "quiz_3_option_5_text": {
-          "eng": "Do something positive together with @data.characters.f1_son_18.name"
-        },
-        "quiz_3_feedback_5": {
-          "eng": "Yes, when we recognise we feel stressed, we can take a deep breath and respond with calm and understanding. That way we can find solutions together that make everyone feel better."
+          "eng": "Yes. He felt stressed and overwhelmed by the situation."
         }
       },
       "quiz_1_question": "How do you think @data.characters.f1_father.name's son, @data.characters.f1_son_18.name, felt?",
@@ -390,319 +320,153 @@
       "quiz_1_feedback_4": "Yes, he did not understand why his father, @data.characters.f1_father.name, got angry, and probably felt all these emotions.",
       "quiz_2_question": "And @data.characters.f1_father.name?",
       "quiz_2_option_1_text": "Sad",
-      "quiz_2_feedback_1": "Exactly. @data.characters.f1_father.name was in a difficult situation and this argument only made things worse.",
+      "quiz_2_feedback_1": "Yes. He felt stressed and overwhelmed by the situation.",
       "quiz_2_option_2_text": "Scared",
-      "quiz_2_feedback_2": "Exactly. @data.characters.f1_father.name was in a difficult situation and this argument only made things worse.",
+      "quiz_2_feedback_2": "Yes. He felt stressed and overwhelmed by the situation.",
       "quiz_2_option_3_text": "Confused",
-      "quiz_2_feedback_3": "Exactly. @data.characters.f1_father.name was in a difficult situation and this argument only made things worse.",
+      "quiz_2_feedback_3": "Yes. He felt stressed and overwhelmed by the situation.",
       "quiz_2_option_4_text": "Angry",
-      "quiz_2_feedback_4": "Exactly. @data.characters.f1_father.name was in a difficult situation and this argument only made things worse.",
-      "quiz_3_question": "What could @data.characters.f1_father.name have done differently?",
-      "quiz_3_option_1_text": "Recognise why he felt stressed",
-      "quiz_3_feedback_1": "Yes, when we recognise we feel stressed, we can take a deep breath and respond with calm and understanding. That way we can find solutions together that work.",
-      "quiz_3_option_2_text": "Take a deep breath and speak calmly",
-      "quiz_3_feedback_2": "Yes, when we recognise we feel stressed, we can take a deep breath and respond with calm and understanding. That way we can find solutions together that make everyone feel better.",
-      "quiz_3_option_3_text": "Show he understands his teen's feelings",
-      "quiz_3_feedback_3": "Yes, when we recognise we feel stressed, we can take a deep breath and respond with calm and understanding. That way we can find solutions together that make everyone feel better.",
-      "quiz_3_option_4_text": "Think about solutions together with @data.characters.f1_son_18.name",
-      "quiz_3_feedback_4": "Yes, when we recognise we feel stressed, we can take a deep breath and respond with calm and understanding. That way we can find solutions together that make everyone feel better.",
-      "quiz_3_option_5_text": "Do something positive together with @data.characters.f1_son_18.name",
-      "quiz_3_feedback_5": "Yes, when we recognise we feel stressed, we can take a deep breath and respond with calm and understanding. That way we can find solutions together that make everyone feel better."
+      "quiz_2_feedback_4": "Yes. He felt stressed and overwhelmed by the situation."
     },
     {
       "id": "explore_7",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/stress/stress2_t_1.svg",
-      "character_1_id": "f1_son_18",
-      "character_2_id": "f1_father",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_daughter_13",
+      "character_3_id": "f1_son_18",
       "nested": false,
-      "text_1_facilitator": "Thank you for thinking along! Let’s go back in time and see what @data.characters.f1_father.name does now:",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_1_facilitator": "@data.characters.f1_father.name realised that his behaviour affected everyone’s mood and responses. Let’s see what he does to make things better.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Thank you for thinking along! Let’s go back in time and see what @data.characters.f1_father.name does now:"
-        },
-        "text_2": {
-          "eng": "@data.characters.f1_father.name lost his job. He was sitting at home feeling frustrated and stressed, when his son @data.characters.f1_son_18.name entered the room."
+          "eng": "@data.characters.f1_father.name realised that his behaviour affected everyone’s mood and responses. Let’s see what he does to make things better."
         },
         "character_1_text": {
-          "eng": "Can I have money to buy some airtime?"
+          "eng": "@data.characters.f1_son_18.name, @data.characters.f1_daughter_13.name, I am sorry for getting angry. Since losing my job, I feel very stressed and tired from looking for work every day. \n\nI know this is also hard for you. How are you feeling?"
         },
         "character_2_text": {
-          "eng": "*(taking a breath)* I’m sorry son. I had a difficult day today. The boss fired me."
+          "eng": "I feel worried when I need to ask for anything. The answer is always no..."
+        },
+        "character_3_text": {
+          "eng": "I also feel worried. I want to help, but I don’t know how."
         }
       },
-      "text_2": "@data.characters.f1_father.name lost his job. He was sitting at home feeling frustrated and stressed, when his son @data.characters.f1_son_18.name entered the room.",
-      "character_1_text": "Can I have money to buy some airtime?",
-      "character_2_text": "*(taking a breath)* I’m sorry son. I had a difficult day today. The boss fired me."
+      "character_1_text": "@data.characters.f1_son_18.name, @data.characters.f1_daughter_13.name, I am sorry for getting angry. Since losing my job, I feel very stressed and tired from looking for work every day. \n\nI know this is also hard for you. How are you feeling?",
+      "character_2_text": "I feel worried when I need to ask for anything. The answer is always no...",
+      "character_3_text": "I also feel worried. I want to help, but I don’t know how."
     },
     {
       "id": "explore_8",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/stress/stress2_t_2.svg",
-      "character_1_id": "f1_son_18",
-      "character_2_id": "f1_father",
+      "character_1_id": "f1_father",
       "nested": false,
-      "character_1_text": "Oh no! I need a new school uniform.",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "character_1_text": "You two are amazing. You've been carrying so much burden. We want to provide everything you need, but things like airtime and private tutoring cost a lot of money.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Oh no! I need a new school uniform."
-        },
-        "character_2_text": {
-          "eng": "I’ll try, son, and your @data.characters.f1_mother.role_name's job will help us get by while I look for another job."
+          "eng": "You two are amazing. You've been carrying so much burden. We want to provide everything you need, but things like airtime and private tutoring cost a lot of money."
         }
-      },
-      "character_2_text": "I’ll try, son, and your @data.characters.f1_mother.role_name's job will help us get by while I look for another job."
+      }
     },
     {
       "id": "explore_9",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/stress/stress2_t_3.svg",
       "character_1_id": "f1_son_18",
-      "character_2_id": "f1_father",
-      "nested": false,
-      "character_1_text": "Should I also help you look for work, @data.characters.f1_father.role_name?",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Should I also help you look for work, @data.characters.f1_father.role_name?"
-        },
-        "character_2_text": {
-          "eng": "No it’s okay, @data.characters.f1_son_18.name. I appreciate your offer. The most important thing is that you work hard at school. Thanks for listening to me."
-        }
-      },
-      "character_2_text": "No it’s okay, @data.characters.f1_son_18.name. I appreciate your offer. The most important thing is that you work hard at school. Thanks for listening to me."
-    },
-    {
-      "id": "explore_10",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress2_t_4.svg",
-      "character_1_id": "f1_father",
-      "character_2_id": "f1_son_18",
-      "nested": false,
-      "character_1_text": "Let’s play some soccer together. It will help me get this stress off my mind for a bit.",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Let’s play some soccer together. It will help me get this stress off my mind for a bit."
-        },
-        "character_2_text": {
-          "eng": "Okay, @data.characters.f1_father.role_name!"
-        }
-      },
-      "character_2_text": "Okay, @data.characters.f1_father.role_name!"
-    },
-    {
-      "id": "explore_11",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress3_t_1.svg",
-      "character_1_id": "f1_son_18",
-      "character_2_id": "f1_daughter_16",
-      "nested": false,
-      "text_1_facilitator": "Now let's look at an example where something simple, like a Safety Word, can help manage stress and keep your teen safe. \n\nFirst, think back to when you were a teenager. Was there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name! Let’s have a look:",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Now let's look at an example where something simple, like a Safety Word, can help manage stress and keep your teen safe. \n\nFirst, think back to when you were a teenager. Was there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name! Let’s have a look:"
-        },
-        "character_1_text": {
-          "eng": "Don’t tell the adults, but I am going to a bar with my friends tonight."
-        },
-        "character_2_text": {
-          "eng": "Have fun! I told them I am staying with my girlfriend, but I am actually going to a cool party."
-        }
-      },
-      "character_1_text": "Don’t tell the adults, but I am going to a bar with my friends tonight.",
-      "character_2_text": "Have fun! I told them I am staying with my girlfriend, but I am actually going to a cool party."
-    },
-    {
-      "id": "explore_12",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress3_t_2.svg",
-      "character_1_id": "f1_son_18",
-      "nested": false,
-      "character_1_text": "I think they are dealing drugs. We could all get arrested. But I can’t tell my parents – they will be so angry!",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "I think they are dealing drugs. We could all get arrested. But I can’t tell my parents – they will be so angry!"
-        }
-      }
-    },
-    {
-      "id": "explore_13",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress3_t_3.svg",
-      "character_1_id": "f1_daughter_16",
-      "nested": false,
-      "character_1_text": "I am scared. Everyone is too drunk to drive me home. This guy says he will take me, but he wants us to go to his house first. I can’t tell my parents – I lied about coming to this party.",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "I am scared. Everyone is too drunk to drive me home. This guy says he will take me, but he wants us to go to his house first. I can’t tell my parents – I lied about coming to this party."
-        }
-      }
-    },
-    {
-      "id": "explore_14",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress3_t_4.svg",
-      "character_1_id": "f1_father",
-      "nested": false,
-      "text_1_facilitator": "These are dangerous situations! Thankfully, @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name then remembered what their father told them:",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "These are dangerous situations! Thankfully, @data.characters.f1_son_18.name and @data.characters.f1_daughter_16.name then remembered what their father told them:"
-        },
-        "character_1_text": {
-          "eng": "I care about your safety more than anything. If you are ever upset, or scared, you can always call me for help, or tell me about it.\n\nShall we use an imaginary ‘Aunty Cecilia’ as our Safety Word? Just say something about Aunty Cecilia, I promise that I will try my best to help and I will not be angry – even if you are doing something you shouldn't be doing."
-        }
-      },
-      "character_1_text": "I care about your safety more than anything. If you are ever upset, or scared, you can always call me for help, or tell me about it.\n\nShall we use an imaginary ‘Aunty Cecilia’ as our Safety Word? Just say something about Aunty Cecilia, I promise that I will try my best to help and I will not be angry – even if you are doing something you shouldn't be doing."
-    },
-    {
-      "id": "explore_15",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress3_t_5.svg",
-      "character_1_id": "f1_daughter_16",
-      "character_2_id": "f1_father",
-      "nested": false,
-      "character_1_text": "Hey @data.characters.f1_father.role_name, how is Aunty Cecilia doing now?",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Hey @data.characters.f1_father.role_name, how is Aunty Cecilia doing now?"
-        },
-        "character_2_text": {
-          "eng": "*(on the other side of the phone)* Not well. We need you at home. I will come pick you up right away. Where are you?"
-        }
-      },
-      "character_2_text": "*(on the other side of the phone)* Not well. We need you at home. I will come pick you up right away. Where are you?"
-    },
-    {
-      "id": "explore_16",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/stress/stress3_t_6.svg",
-      "character_1_id": "f1_son_18",
-      "character_2_id": "f1_son_18",
+      "character_2_id": "f1_daughter_13",
       "character_3_id": "f1_father",
       "nested": false,
-      "character_1_text": "(🤔_thinking_) I think my friends are in trouble. I don’t want to stop being their friend, but I’m worried. Maybe @data.characters.f1_father.role_name knows what to do.",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "character_1_text": "I have an idea! @data.characters.f1_daughter_16.name is really good at maths. Maybe she can help @data.characters.f1_daughter_13.name with homework so we don’t need a tutor?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        },
-        "character_3_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "(🤔_thinking_) I think my friends are in trouble. I don’t want to stop being their friend, but I’m worried. Maybe @data.characters.f1_father.role_name knows what to do."
+          "eng": "I have an idea! @data.characters.f1_daughter_16.name is really good at maths. Maybe she can help @data.characters.f1_daughter_13.name with homework so we don’t need a tutor?"
         },
         "character_2_text": {
-          "eng": "@data.characters.f1_father.role_name, I just remembered, Aunty Cecilia said she will come visit tomorrow."
+          "eng": "Yes! I like learning with her!"
         },
         "character_3_text": {
-          "eng": "*(on the other side of the phone)* Okay, I need you at home to help get things ready. I will come pick you up now. Where are you?"
+          "eng": "That’s a wonderful idea. Thank you both for thinking of a solution together. I am really proud of you."
         }
       },
-      "character_2_text": "@data.characters.f1_father.role_name, I just remembered, Aunty Cecilia said she will come visit tomorrow.",
-      "character_3_text": "*(on the other side of the phone)* Okay, I need you at home to help get things ready. I will come pick you up now. Where are you?"
+      "character_2_text": "Yes! I like learning with her!",
+      "character_3_text": "That’s a wonderful idea. Thank you both for thinking of a solution together. I am really proud of you."
     },
     {
-      "id": "explore_17",
-      "category_id": "explore",
+      "id": "practise_1",
+      "category_id": "practise",
       "nested": false,
-      "text_1_facilitator": "Having a Safety Word can help your teen stay safe too. You can choose any word as a Safety Word. Only your family knows it means ‘help’.\n\nYour teen can say this word to let you know they are in trouble without you getting angry or punishing them, so you can help them.",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_1_facilitator": "We learned a lot from @data.characters.f1_father.name about making things better, even after getting angry.\n\nNow, take a moment to think about how you handle tough moments in your own life.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Having a Safety Word can help your teen stay safe too. You can choose any word as a Safety Word. Only your family knows it means ‘help’.\n\nYour teen can say this word to let you know they are in trouble without you getting angry or punishing them, so you can help them."
+          "eng": "We learned a lot from @data.characters.f1_father.name about making things better, even after getting angry.\n\nNow, take a moment to think about how you handle tough moments in your own life."
         },
-        "text_2": {
-          "eng": "**What Safety Word can you choose with your teen? Here are some ideas from other families:**\n\n🥑 A specific food\n👵🏽 A specific family member\n🐒 A specific animal\n🤔 Something else"
+        "quiz_1_question": {
+          "eng": "What can help you feel calm in a stressful moment?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Take 5 breaths"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great idea!\n\nPausing in your own way doesn’t make the situation easier, but it helps you feel less overwhelmed and more in control."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Walk away for a moment"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Great idea!\n\nPausing in your own way doesn’t make the situation easier, but it helps you feel less overwhelmed and more in control."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Share how you feel"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Nice! Sharing feelings can reduce stress."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Talk to a friend"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "Great idea!\n\nPausing in your own way doesn’t make the situation easier, but it helps you feel less overwhelmed and more in control."
         }
       },
-      "text_2": "**What Safety Word can you choose with your teen? Here are some ideas from other families:**\n\n🥑 A specific food\n👵🏽 A specific family member\n🐒 A specific animal\n🤔 Something else"
+      "quiz_1_question": "What can help you feel calm in a stressful moment?",
+      "quiz_1_option_1_text": "Take 5 breaths",
+      "quiz_1_feedback_1": "Great idea!\n\nPausing in your own way doesn’t make the situation easier, but it helps you feel less overwhelmed and more in control.",
+      "quiz_1_option_2_text": "Walk away for a moment",
+      "quiz_1_feedback_2": "Great idea!\n\nPausing in your own way doesn’t make the situation easier, but it helps you feel less overwhelmed and more in control.",
+      "quiz_1_option_3_text": "Share how you feel",
+      "quiz_1_feedback_3": "Nice! Sharing feelings can reduce stress.",
+      "quiz_1_option_4_text": "Talk to a friend",
+      "quiz_1_feedback_4": "Great idea!\n\nPausing in your own way doesn’t make the situation easier, but it helps you feel less overwhelmed and more in control."
     },
     {
       "id": "tips_1",
@@ -712,6 +476,7 @@
       "section_3_icon_asset": "images/icons/star_filled_blue.png",
       "section_4_icon_asset": "images/icons/eye_blue.png",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "text_1_facilitator": "Here are a few skills to help you manage stress that you can use with your teens!",
       "_translations": {
         "text_1_facilitator": {
@@ -784,23 +549,18 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "text_1_facilitator": "There are two home activities for this week:\n\n1) Whenever you are feeling stressed or upset with your teen, take five breaths in and out before you react.\nAnd when you're both calm, share with each other how you feel. \n\n2) Choose a \"Safety Word\" with your teen, and think of a situation together when you could use this.",
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_1_facilitator": "This week's home activity is to respond calmly when you feel stressed.\n\nWhenever you feel stressed or upset with your teen, pause and take five slow breaths before you react. When you are both calm, share how you feel with each other.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "text_2": {
           "tz_sw": true
         },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
@@ -816,19 +576,19 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "There are two home activities for this week:\n\n1) Whenever you are feeling stressed or upset with your teen, take five breaths in and out before you react.\nAnd when you're both calm, share with each other how you feel. \n\n2) Choose a \"Safety Word\" with your teen, and think of a situation together when you could use this."
+          "eng": "This week's home activity is to respond calmly when you feel stressed.\n\nWhenever you feel stressed or upset with your teen, pause and take five slow breaths before you react. When you are both calm, share how you feel with each other."
         },
         "text_2": {
           "eng": "**Remember to:** \n\n😮‍💨 BREATHE: take five breaths in and out before you react\n🤝🏾 SHARE: when you're both calm, share with your teen how you feel\n💙 SHOW: ask them how they feel to show you care\n🔍 SEEK: find something positive in this situation together"
         },
         "quiz_1_question": {
-          "eng": "Can you respond calmly and choose a “Safety Word” with your teen this week?"
+          "eng": "Can you try taking five slow breaths before responding this week?"
         },
         "quiz_1_option_1_text": {
           "eng": "Yes"
         },
         "quiz_1_feedback_1": {
-          "eng": "Great! Staying calm and having a “Safety Word” will help you and your family."
+          "eng": "Great! Pausing to breathe before reacting will help your whole family feel calmer."
         },
         "quiz_1_option_2_text": {
           "eng": "I think so"
@@ -844,9 +604,9 @@
         }
       },
       "text_2": "**Remember to:** \n\n😮‍💨 BREATHE: take five breaths in and out before you react\n🤝🏾 SHARE: when you're both calm, share with your teen how you feel\n💙 SHOW: ask them how they feel to show you care\n🔍 SEEK: find something positive in this situation together",
-      "quiz_1_question": "Can you respond calmly and choose a “Safety Word” with your teen this week?",
+      "quiz_1_question": "Can you try taking five slow breaths before responding this week?",
       "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Great! Staying calm and having a “Safety Word” will help you and your family.",
+      "quiz_1_feedback_1": "Great! Pausing to breathe before reacting will help your whole family feel calmer.",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_feedback_2": "That’s a good start. When you are stressed, remember to take a few deep breaths, it will make it easier to respond calmly.",
       "quiz_1_option_3_text": "No",
@@ -858,6 +618,7 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_stress_t.mp3",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "text_1_facilitator": "Remember, when we practice responding calmly and sharing how we feel, our teens learn to do the same. This skill will help them their whole life!",
       "_translations": {
         "text_1_facilitator": {
@@ -883,12 +644,41 @@
       },
       "media_title": "Hear how @data.characters.media_son_1.name learned to stay calm from his father",
       "media_transcript": "Whenever I would do something wrong, my father would get so angry at me and beat me. He would not even listen to me and I would get so angry as well at him and everyone else.\n\nNow, when he gets angry, he first takes a few deep breaths before he responds. It makes everyone calm down instead of causing a big fight.\n\nIt really helped me at home and at school, because even me I am no longer slashing everyone and I am no longer this moody person. When I feel really angry or stressed, I also take deep breaths like my father does. I am a different person."
+    },
+    {
+      "id": "check_out_1",
+      "category_id": "check_out",
+      "media_type": "video",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
+      "text_2": "Well done for taking time for yourself today. 🎉",
+      "_translations": {
+        "text_2": {},
+        "media_title": {},
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        },
+        "media_transcript": {
+          "eng": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
+        }
+      },
+      "media_title": "Here is a short video to help you slow down before you go",
+      "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
     }
   ],
   "_source": {
-    "name": "teens_tz_GT",
-    "path": "data/TZ modules 2.0.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
+    "name": "tz_GT",
+    "path": "TZ modules 2.1.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
   },
   "_metadata": {
     "nested": {

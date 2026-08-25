@@ -10,12 +10,14 @@
       "tag_list": [
         "teen"
       ],
+      "tag_course": "relation_t",
       "unlock_tag": 0,
       "number": 2.1,
       "bottom_aligned_image_asset": "images/homescreen/listview/self_care.svg",
       "image_asset": "images/homescreen/self_care.svg",
-      "relax_id": "relax_5",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1cpweixtTIA5RygkDLXN27XvFdYzh3Ta7YSbi8HOhw4o",
       "title": "Taking Care of Yourself",
       "_translations": {
         "title": {
@@ -33,11 +35,12 @@
       "tag_list": [
         "teen"
       ],
+      "tag_course": "relation_t",
       "unlock_tag": 2.1,
       "number": 2.2,
       "bottom_aligned_image_asset": "images/homescreen/listview/one_on_one_t.svg",
       "image_asset": "images/homescreen/one_on_one_t.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_2",
       "title": "One-on-One Time",
       "_translations": {
@@ -56,11 +59,12 @@
       "tag_list": [
         "teen"
       ],
+      "tag_course": "home_t",
       "unlock_tag": 2.2,
       "number": 2.3,
       "bottom_aligned_image_asset": "images/homescreen/listview/praise_t.svg",
       "image_asset": "images/homescreen/praise_t.svg",
-      "relax_id": "relax_17",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_3",
       "title": "Praise",
       "_translations": {
@@ -79,11 +83,12 @@
       "tag_list": [
         "teen"
       ],
+      "tag_course": "home_t",
       "unlock_tag": 2.3,
       "number": 2.4,
       "bottom_aligned_image_asset": "images/homescreen/listview/instruct_t.svg",
       "image_asset": "images/homescreen/instruct_t.svg",
-      "relax_id": "relax_4",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_4",
       "title": "Positive Instructions",
       "_translations": {
@@ -102,11 +107,12 @@
       "tag_list": [
         "teen"
       ],
+      "tag_course": "home_t",
       "unlock_tag": 2.4,
       "number": 2.5,
       "bottom_aligned_image_asset": "images/homescreen/listview/stress_t.svg",
       "image_asset": "images/homescreen/stress_t.svg",
-      "relax_id": "relax_7",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_5",
       "title": "Managing Stress",
       "_translations": {
@@ -125,11 +131,12 @@
       "tag_list": [
         "teen"
       ],
+      "tag_course": "home_t",
       "unlock_tag": 2.4,
       "number": 2.6,
       "bottom_aligned_image_asset": "images/homescreen/listview/solve_t.svg",
       "image_asset": "images/homescreen/solve_t.svg",
-      "relax_id": "relax_11",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_6",
       "title": "Solve Problems",
       "_translations": {
@@ -148,11 +155,12 @@
       "tag_list": [
         "teen"
       ],
+      "tag_course": "home_t",
       "unlock_tag": 2.4,
       "number": 2.7,
       "bottom_aligned_image_asset": "images/homescreen/listview/money_t.svg",
       "image_asset": "images/homescreen/money_t.svg",
-      "relax_id": "relax_8",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_7",
       "title": "Family Budgets",
       "_translations": {
@@ -171,11 +179,12 @@
       "tag_list": [
         "teen"
       ],
+      "tag_course": "home_t",
       "unlock_tag": 2.4,
       "number": 2.8,
       "bottom_aligned_image_asset": "images/homescreen/listview/rules_t.svg",
       "image_asset": "images/homescreen/rules_t.svg",
-      "relax_id": "relax_9",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_8",
       "title": "Rules",
       "_translations": {
@@ -194,11 +203,12 @@
       "tag_list": [
         "teen"
       ],
+      "tag_course": "home_t",
       "unlock_tag": 2.4,
       "number": 2.9,
       "bottom_aligned_image_asset": "images/homescreen/listview/consequence_t.svg",
       "image_asset": "images/homescreen/consequence_t.svg",
-      "relax_id": "relax_10",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_9",
       "title": "Calm Consequences",
       "_translations": {
@@ -217,11 +227,12 @@
       "tag_list": [
         "teen"
       ],
+      "tag_course": "safety_t",
       "unlock_tag": 2.4,
       "number": 3.1,
       "bottom_aligned_image_asset": "images/homescreen/listview/srh_t.svg",
       "image_asset": "images/homescreen/srh_t.svg",
-      "relax_id": "relax_15",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_12",
       "title": "Body Changes and Intimate Relationships",
       "_translations": {
@@ -240,11 +251,12 @@
       "tag_list": [
         "teen"
       ],
+      "tag_course": "safety_t",
       "unlock_tag": 2.4,
       "number": 3.2,
       "bottom_aligned_image_asset": "images/homescreen/listview/safe_t.svg",
       "image_asset": "images/homescreen/safe_t.svg",
-      "relax_id": "relax_12",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_10",
       "title": "Teen Safety",
       "_translations": {
@@ -263,11 +275,12 @@
       "tag_list": [
         "teen"
       ],
+      "tag_course": "safety_t",
       "unlock_tag": 2.4,
       "number": 3.3,
       "bottom_aligned_image_asset": "images/homescreen/listview/crisis_t.svg",
       "image_asset": "images/homescreen/crisis_t.svg",
-      "relax_id": "relax_13",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_11",
       "title": "Crisis",
       "_translations": {
@@ -282,17 +295,18 @@
       }
     },
     {
-      "id": "stayingsafe_t",
+      "id": "celebrate_t",
       "tag_list": [
         "teen"
       ],
+      "tag_course": "bonus_t",
       "unlock_tag": 2.4,
       "number": 3.4,
-      "bottom_aligned_image_asset": "images/homescreen/listview/svp_t.svg",
-      "image_asset": "images/homescreen/svp_t.svg",
-      "relax_id": "relax_17",
-      "check_in_id": "check_in_13",
-      "title": "Staying Safe",
+      "bottom_aligned_image_asset": "images/homescreen/listview/celebrate_t.svg",
+      "image_asset": "images/homescreen/celebrate_t.svg",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_16",
+      "title": "Celebration",
       "_translations": {
         "title": {
           "tz_sw": true
@@ -300,7 +314,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Staying Safe"
+          "eng": "Celebration"
         }
       }
     },
@@ -309,11 +323,12 @@
       "tag_list": [
         "teen"
       ],
+      "tag_course": "bonus_t",
       "unlock_tag": 2.4,
       "number": 3.5,
       "bottom_aligned_image_asset": "images/homescreen/listview/grief_t.svg",
       "image_asset": "images/homescreen/grief_t.svg",
-      "relax_id": "relax_22",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_14",
       "title": "Coping with Grief",
       "_translations": {
@@ -332,11 +347,12 @@
       "tag_list": [
         "teen"
       ],
+      "tag_course": "bonus_t",
       "unlock_tag": 2.4,
       "number": 3.6,
       "bottom_aligned_image_asset": "images/homescreen/listview/learn_t.svg",
       "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_20",
+      "relax_id": "relax_2",
       "check_in_id": "check_in_15",
       "title": "Helping Your Teen Learn",
       "_translations": {
@@ -351,17 +367,18 @@
       }
     },
     {
-      "id": "celebrate_t",
+      "id": "stayingsafe_t",
       "tag_list": [
         "teen"
       ],
+      "tag_course": "bonus_t",
       "unlock_tag": 2.4,
-      "number": 4,
-      "bottom_aligned_image_asset": "images/homescreen/listview/celebrate_t.svg",
-      "image_asset": "images/homescreen/celebrate_t.svg",
-      "relax_id": "relax_14",
-      "check_in_id": "check_in_16",
-      "title": "Celebration",
+      "number": 3.7,
+      "bottom_aligned_image_asset": "images/homescreen/listview/svp_t.svg",
+      "image_asset": "images/homescreen/svp_t.svg",
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_13",
+      "title": "Staying Safe",
       "_translations": {
         "title": {
           "tz_sw": true
@@ -369,15 +386,15 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Celebration"
+          "eng": "Staying Safe"
         }
       }
     }
   ],
   "_source": {
-    "name": "teens_tz_GT",
-    "path": "data/TZ modules 2.0.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
+    "name": "tz_GT",
+    "path": "TZ modules 2.1.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
   },
   "_metadata": {
     "unlock_tag": {

@@ -4,28 +4,28 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_14",
-      "lottie_asset": "lottie/relax/blue_dots.json",
-      "media_asset": "audio/relax/relax_14.mp3",
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
-      "title": "Ground & gratitude",
+      "attached_single_doc": "https://docs.google.com/document/d/1b3DjLNAG_9OjZFW94O1NJrU7gHaD6S7Fje0Tj0oVB8A",
+      "title": "Tap the play button to take a quick pause",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Ground & gratitude"
+          "eng": "Tap the play button to take a quick pause"
         },
         "transcript": {
-          "eng": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out."
+          "eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect."
         }
       },
-      "transcript": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out.",
+      "transcript": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -104,6 +104,7 @@
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/celebrate_intro_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1-yYXqG49ItOfScBo6PkV3GdB_0sXMRADZqTs4McBkKM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "🎉 CONGRATULATIONS! \n\nYou have done it! You have built lots of important parenting skills.\n\nThis is a huge achievement. It shows such care for your family.\n\nLet’s celebrate you and plan your future @global.app_name support."
@@ -138,6 +139,7 @@
       "id": "explore_1",
       "media_asset": "/audio/teen/topic_intros/workshops_reflection_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1-yYXqG49ItOfScBo6PkV3GdB_0sXMRADZqTs4McBkKM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "You and your family have learnt so much. Let's think back and see what has changed since learning all these parenting skills"
@@ -169,6 +171,7 @@
     },
     {
       "id": "tips_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1-yYXqG49ItOfScBo6PkV3GdB_0sXMRADZqTs4McBkKM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are a few tips to help you continue learning and supporting your community!"
@@ -180,7 +183,7 @@
           "eng": "MEET"
         },
         "section_1_text": {
-          "eng": "Keep meeting regularly to give each other parenting support."
+          "eng": "Keep meeting regularly to give each other parenting support and reflect about how things are going in your families."
         },
         "section_2_title": {
           "eng": "CALL"
@@ -214,9 +217,7 @@
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {
-          "tz_sw": true
-        },
+        "section_1_text": {},
         "section_2_title": {
           "tz_sw": true
         },
@@ -246,7 +247,7 @@
       "section_4_image_asset": "/images/teen_modules/celebrate/celebrate_t_4.svg",
       "text_2": "**Here are some ideas on how you can support each other:**",
       "section_1_title": "MEET",
-      "section_1_text": "Keep meeting regularly to give each other parenting support.",
+      "section_1_text": "Keep meeting regularly to give each other parenting support and reflect about how things are going in your families.",
       "section_2_title": "CALL",
       "section_2_text": "Be ‘parenting buddies’ to call when you are upset or do not know what to do.",
       "section_3_title": "TEXT",
@@ -256,9 +257,10 @@
       "completed": false
     },
     {
-      "id": "tips_2",
+      "id": "check_out_1",
       "media_asset": "/video/plh_video/lets_slow_down.mp4",
       "media_type": "video",
+      "attached_single_doc": "https://docs.google.com/document/d/1-yYXqG49ItOfScBo6PkV3GdB_0sXMRADZqTs4McBkKM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Well done!\n\nWe are so proud of you. You have shown strength, courage, and love for your family. Parents are amazing. You are amazing."
@@ -270,7 +272,7 @@
           "eng": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
         }
       },
-      "category_id": "practical_tips",
+      "category_id": "check_out",
       "nested": false,
       "text_1_facilitator": "Well done!\n\nWe are so proud of you. You have shown strength, courage, and love for your family. Parents are amazing. You are amazing.",
       "_translations": {

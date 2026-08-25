@@ -122,7 +122,7 @@
     }
   ],
   "_source": {
-    "name": "teens_tz_GT",
+    "name": "teens_tz",
     "path": "templates/TZ settings.xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1IsAL7jyVhqd8tDBN8G-CD0ePMgF4LNXMU6TX681tTaU"
   }

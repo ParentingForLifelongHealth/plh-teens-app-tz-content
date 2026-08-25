@@ -98,7 +98,7 @@
     }
   ],
   "_source": {
-    "name": "teens_tz_GT",
+    "name": "teens_tz",
     "path": "templates/TZ article_elements.xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1jW6eYzFKgELO6kGoPsXmKDO1RS_fOsipCB467mQzne8"
   }

@@ -59,18 +59,13 @@
     }
   ],
   "_source": {
-    "name": "teens_tz_GT",
+    "name": "teens_tz",
     "path": "templates/TZ library templates.xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1MGs2gu5skGfdltNo18dLS3cqGmyT_m3h4SlWpZi0cJQ"
   },
   "_output_flows": [
     {
       "flow_name": "library_article_relax_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "library_article_relax_2",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
