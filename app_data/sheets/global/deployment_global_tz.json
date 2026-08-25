@@ -26,7 +26,7 @@
     {
       "type": "declare_global_constant",
       "name": "home_screen_logo_asset",
-      "value": "images/logos/plh_logomark.png",
+      "value": "images/logos/partners/plh_logomark.png",
       "_translations": {
         "value": {}
       }
@@ -199,7 +199,7 @@
     }
   ],
   "_source": {
-    "name": "teens_tz_GT",
+    "name": "teens_tz",
     "path": "data/deployment_data_tz.xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1DjzYwjPkUV-meBwiePiDB00TN5zXa2l0gsSk6LU6ZNA"
   }

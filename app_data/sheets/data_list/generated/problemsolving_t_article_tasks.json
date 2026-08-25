@@ -4,28 +4,27 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_11",
-      "lottie_asset": "lottie/relax/soothing_waves.json",
-      "media_asset": "audio/relax/relax_11.mp3",
+      "id": "relax_3",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "media_asset": "audio/relax/relax_3.mp3",
       "media_type": "audio",
-      "title": "Counting sounds",
+      "title": "Tap the play button for a short break",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Counting sounds"
+          "eng": "Tap the play button for a short break"
         },
         "transcript": {
-          "eng": "Sit down and close your eyes.\nHow many sounds can you hear?  \nListen to the sounds inside and outside the room. Count them on your fingers. \nAfter ten seconds, how many fingers do you have up? What sounds did you hear? \n\nTry again for another ten seconds.  \nDid you hear any new sounds? Did you hear any sounds inside your own body? \nNotice how you feel now."
+          "eng": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!"
         }
       },
-      "transcript": "Sit down and close your eyes.\nHow many sounds can you hear?  \nListen to the sounds inside and outside the room. Count them on your fingers. \nAfter ten seconds, how many fingers do you have up? What sounds did you hear? \n\nTry again for another ten seconds.  \nDid you hear any new sounds? Did you hear any sounds inside your own body? \nNotice how you feel now.",
+      "transcript": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -104,6 +103,7 @@
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/solve_intro_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today's topic is about problem solving. \n\nEvery family faces challenges, but when we work together we can deal with problems in an effective and peaceful way.\n\nWhat a great skill for your teen to learn too!"
@@ -137,6 +137,7 @@
       "id": "intro_2",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_solve_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "As parents, we sometimes think we need to fix every problem by ourselves. And teens can think the same! \n\nBy involving your teen, you strengthen your relationship as well as their confidence. Together you can overcome anything."
@@ -145,7 +146,7 @@
           "eng": "Can problem solving keep your teens safe? It did for @data.characters.media_female_4.name - tap play to hear her story"
         },
         "media_transcript": {
-          "eng": "I did not have a good relationship with my daughter. I was always shouting at her, and she was refusing to go to school.\n\nOnly when I started spending One-on-One time with her, I realised that she did not want to go to school because she was being bullied at school. We sat down and used the 6 steps of problem solving. We identified the problem, and figured out solutions together: “What can I do as a parent so you can attend school and feel safe?”\n\nWe agreed I would go talk to the teacher to find a way forward. We really found the solutions together, and we are closer now."
+          "eng": "I did not have a good relationship with my daughter. I was always shouting at her, and she was refusing to go to school.\n\nOnly when I started spending One-on-One time with her did I realise she was being bullied at school. We sat down and used the steps of problem solving. We identified the problem and figured out solutions together: “What can I do as a parent so you can feel safe and attend school?”\n\nWe agreed I would talk to her teacher to find a way forward. We found the solutions together, and now we are much closer."
         }
       },
       "category_id": "intro",
@@ -158,104 +159,249 @@
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {
-          "tz_sw": true
-        }
+        "media_transcript": {}
       },
       "media_title": "Can problem solving keep your teens safe? It did for @data.characters.media_female_4.name - tap play to hear her story",
-      "media_transcript": "I did not have a good relationship with my daughter. I was always shouting at her, and she was refusing to go to school.\n\nOnly when I started spending One-on-One time with her, I realised that she did not want to go to school because she was being bullied at school. We sat down and used the 6 steps of problem solving. We identified the problem, and figured out solutions together: “What can I do as a parent so you can attend school and feel safe?”\n\nWe agreed I would go talk to the teacher to find a way forward. We really found the solutions together, and we are closer now.",
+      "media_transcript": "I did not have a good relationship with my daughter. I was always shouting at her, and she was refusing to go to school.\n\nOnly when I started spending One-on-One time with her did I realise she was being bullied at school. We sat down and used the steps of problem solving. We identified the problem and figured out solutions together: “What can I do as a parent so you can feel safe and attend school?”\n\nWe agreed I would talk to her teacher to find a way forward. We found the solutions together, and now we are much closer.",
       "completed": false
     },
     {
       "id": "explore_1",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s look at what happened to @data.characters.f1_daughter_13.name and her mother when @data.characters.f1_daughter_13.name got a phone from a boy… Can you believe it!"
+          "eng": "Problem-solving together is an important skill for every family. Let’s see how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name handle a problem calmly and find a plan together."
         },
         "character_1_text": {
-          "eng": "@data.characters.f1_daughter_13.name, where did you get that thing?"
+          "eng": "@data.characters.f2_son_15.name! That uniform is brand new, why did you get it all dirty and torn!"
         },
         "character_2_text": {
-          "eng": "@data.characters.man_threat.name bought it for me. It’s a nice phone, @data.characters.f1_mother.role_name. It takes great photos!"
+          "eng": "Sorry, @data.characters.f2_grandmother.role_name. There is this guy at school, he..."
         }
       },
       "category_id": "explore",
       "nested": false,
-      "text_1_facilitator": "Let’s look at what happened to @data.characters.f1_daughter_13.name and her mother when @data.characters.f1_daughter_13.name got a phone from a boy… Can you believe it!",
+      "text_1_facilitator": "Problem-solving together is an important skill for every family. Let’s see how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name handle a problem calmly and find a plan together.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "image_asset": "/images/teen_modules/solve/solve2_t_1.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_son_15",
+      "character_1_text": "@data.characters.f2_son_15.name! That uniform is brand new, why did you get it all dirty and torn!",
+      "character_2_text": "Sorry, @data.characters.f2_grandmother.role_name. There is this guy at school, he...",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
         "character_1_text": {
-          "tz_sw": true
+          "eng": "Just give me a moment. I am tired and now worried about having to repair this uniform."
         },
         "character_2_text": {
+          "eng": "I am sorry, @data.characters.f2_grandmother.role_name"
+        },
+        "character_3_text": {
+          "eng": "(🤔_thinking_) Take a pause… just breathe…"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "/images/teen_modules/solve/solve2_t_2.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_son_15",
+      "character_1_text": "Just give me a moment. I am tired and now worried about having to repair this uniform.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/solve/solve1_t_1.svg",
-      "character_1_id": "f1_mother",
-      "character_2_id": "f1_daughter_13",
-      "character_1_text": "@data.characters.f1_daughter_13.name, where did you get that thing?",
-      "character_2_text": "@data.characters.man_threat.name bought it for me. It’s a nice phone, @data.characters.f1_mother.role_name. It takes great photos!",
+      "character_2_text": "I am sorry, @data.characters.f2_grandmother.role_name",
+      "character_3_id": "f2_grandmother",
+      "character_3_text": "(🤔_thinking_) Take a pause… just breathe…",
       "completed": false
     },
     {
       "id": "explore_3",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "I don’t want to see that expensive thing! That boy is no good! How does he think you are going to repay him for this?!"
+          "eng": "Now tell me, what happened?"
         },
         "character_2_text": {
-          "eng": "That’s not how it works, @data.characters.f1_mother.role_name! That’s not fair!"
+          "eng": "This boy in class pulled me off my desk and tore my sleeve. He is kicking me every day, and takes my pens and exercise books."
+        },
+        "character_3_text": {
+          "eng": "I am sorry to hear that, but I am glad you told me, @data.characters.f2_son_15.name. We need to do something about your uniform though. After we speak, you can wash it and I will repair it. \n\nBut first, what do you think we should do about the bully problem?"
         }
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/solve/solve1_t_2.svg",
-      "character_1_id": "f1_mother",
-      "character_2_id": "f1_daughter_13",
-      "character_1_text": "I don’t want to see that expensive thing! That boy is no good! How does he think you are going to repay him for this?!",
+      "image_asset": "/images/teen_modules/solve/solve2_t_3.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_son_15",
+      "character_1_text": "Now tell me, what happened?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
       },
-      "character_2_text": "That’s not how it works, @data.characters.f1_mother.role_name! That’s not fair!",
+      "character_2_text": "This boy in class pulled me off my desk and tore my sleeve. He is kicking me every day, and takes my pens and exercise books.",
+      "character_3_id": "f2_grandmother",
+      "character_3_text": "I am sorry to hear that, but I am glad you told me, @data.characters.f2_son_15.name. We need to do something about your uniform though. After we speak, you can wash it and I will repair it. \n\nBut first, what do you think we should do about the bully problem?",
       "completed": false
     },
     {
       "id": "explore_4",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "I do not want to hear it!"
+          "eng": "He makes me so angry, I just want to hit him. Or maybe I should tell my teacher?"
         },
         "character_2_text": {
-          "eng": "You are not even trying to listen to me! I do not know why I even try with you!"
+          "eng": "Hmm… what do you think would happen if you hit him? And what might happen if you tell the teacher?"
+        },
+        "character_3_text": {
+          "eng": "If I hit him, we might fight and I could get into trouble. If I tell the teacher, maybe the other kids will laugh at me… Maybe you could talk to the teacher?"
         }
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/solve/solve1_t_3.svg",
-      "character_1_id": "f1_mother",
-      "character_2_id": "f1_daughter_13",
-      "character_1_text": "I do not want to hear it!",
+      "image_asset": "/images/teen_modules/solve/solve2_t_4.svg",
+      "character_1_id": "f2_son_15",
+      "character_2_id": "f2_grandmother",
+      "character_1_text": "He makes me so angry, I just want to hit him. Or maybe I should tell my teacher?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "Hmm… what do you think would happen if you hit him? And what might happen if you tell the teacher?",
+      "character_3_id": "f2_son_15",
+      "character_3_text": "If I hit him, we might fight and I could get into trouble. If I tell the teacher, maybe the other kids will laugh at me… Maybe you could talk to the teacher?",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "That sounds like a good idea. I can speak with your teacher or the school — they know how to handle this safely."
+        },
+        "character_2_text": {
+          "eng": "Maybe wait, @data.characters.f2_grandmother.role_name… I’m scared the bully will get even angrier. Maybe I can skip school tomorrow instead?"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "/images/teen_modules/solve/solve2_t_5.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_son_15",
+      "character_1_text": "That sounds like a good idea. I can speak with your teacher or the school — they know how to handle this safely.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Maybe wait, @data.characters.f2_grandmother.role_name… I’m scared the bully will get even angrier. Maybe I can skip school tomorrow instead?",
+      "completed": false
+    },
+    {
+      "id": "explore_6",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "No, @data.characters.f2_son_15.name, skipping school won’t help. You have a right to be safe. Let’s practise what you can say if he threatens you again — something simple and firm."
+        },
+        "character_2_text": {
+          "eng": "Maybe I can say, \"Stop. I don’t like that.\""
+        },
+        "character_3_text": {
+          "eng": "Good. And remember — walk away and stand near other children or the teacher. You are not alone."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "/images/teen_modules/solve/solve2_t_6.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_son_15",
+      "character_1_text": "No, @data.characters.f2_son_15.name, skipping school won’t help. You have a right to be safe. Let’s practise what you can say if he threatens you again — something simple and firm.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "Maybe I can say, \"Stop. I don’t like that.\"",
+      "character_3_id": "f2_grandmother",
+      "character_3_text": "Good. And remember — walk away and stand near other children or the teacher. You are not alone.",
+      "completed": false
+    },
+    {
+      "id": "explore_7",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "*A week later…*"
+        },
+        "character_1_text": {
+          "eng": "How are things going at school now?"
+        },
+        "character_2_text": {
+          "eng": "It’s better. The boy stopped kicking me, but he still says mean things."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "/images/teen_modules/solve/solve2_t_7.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_son_15",
+      "character_1_text": "How are things going at school now?",
       "_translations": {
         "character_1_text": {
           "tz_sw": true
         },
+        "character_2_text": {},
+        "text_2": {
+          "tz_sw": true
+        }
+      },
+      "character_2_text": "It’s better. The boy stopped kicking me, but he still says mean things.",
+      "text_2": "*A week later…*",
+      "completed": false
+    },
+    {
+      "id": "explore_8",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I’m sorry he is still unkind. Let’s make a plan to help you stay safe. You can sit near your friends, stay close to the teacher during breaks, and walk home with someone you trust. I’ll also ask my friend who works at the school to quietly look out for you. We will keep checking what works."
+        },
+        "character_2_text": {
+          "eng": "Yes, thank you, @data.characters.f2_grandmother.role_name. At least I know you are on my side."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "/images/teen_modules/solve/solve2_t_8.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_son_15",
+      "character_1_text": "I’m sorry he is still unkind. Let’s make a plan to help you stay safe. You can sit near your friends, stay close to the teacher during breaks, and walk home with someone you trust. I’ll also ask my friend who works at the school to quietly look out for you. We will keep checking what works.",
+      "_translations": {
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
       },
-      "character_2_text": "You are not even trying to listen to me! I do not know why I even try with you!",
+      "character_2_text": "Yes, thank you, @data.characters.f2_grandmother.role_name. At least I know you are on my side.",
       "completed": false
     },
     {
       "id": "tips_1",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "When you face a problem, take a few deep breaths to help you stay calm. \nThen, try to handle the problem using these four steps!"
@@ -318,13 +464,9 @@
         }
       },
       "section_1_icon_asset": "images/icons/brain_blue.png",
-      "section_1_image_asset": "/images/teen_modules/solve/solve_tool_t_1.svg",
       "section_2_icon_asset": "images/icons/lightbulb_blue.png",
-      "section_2_image_asset": "/images/teen_modules/solve/solve_tool_t_2.svg",
       "section_3_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_image_asset": "/images/teen_modules/solve/solve_tool_t_3.svg",
       "section_4_icon_asset": "images/icons/trophy_blue.png",
-      "section_4_image_asset": "/images/teen_modules/solve/solve_tool_t_4.svg",
       "section_1_title": "KNOW IT",
       "section_1_text": "Identify the problem.",
       "section_2_title": "SOLVE IT",
@@ -337,418 +479,86 @@
     },
     {
       "id": "practise_1",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Let’s see how problem solving works in real life— using this week’s 4 steps: know it, solve it, try it, and test it."
+          "eng": "Now let’s try problem-solving together: Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and her parents feel worried about it."
         },
-        "text_2": {
-          "eng": "@data.characters.f2_grandmother.name is coming home from work."
-        },
-        "character_1_text": {
-          "eng": "(🤔_thinking_) Ay my poor feet! I need to sit down for a moment and drink a cup of coffee before I start preparing food for everyone."
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "text_1_facilitator": "Let’s see how problem solving works in real life— using this week’s 4 steps: know it, solve it, try it, and test it.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        }
-      },
-      "image_asset": "/images/teen_modules/solve/solve2_t_1.svg",
-      "character_1_id": "f2_grandmother",
-      "character_1_text": "(🤔_thinking_) Ay my poor feet! I need to sit down for a moment and drink a cup of coffee before I start preparing food for everyone.",
-      "text_2": "@data.characters.f2_grandmother.name is coming home from work.",
-      "completed": false
-    },
-    {
-      "id": "practise_2",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "@data.characters.f2_son_15.name! What are you doing? That bread is for dinner! Now there will not be enough for us all!"
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "image_asset": "/images/teen_modules/solve/solve2_t_2.svg",
-      "character_1_id": "f2_grandmother",
-      "character_1_text": "@data.characters.f2_son_15.name! What are you doing? That bread is for dinner! Now there will not be enough for us all!",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        }
-      },
-      "completed": false
-    },
-    {
-      "id": "practise_3",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Sorry, @data.characters.f2_grandmother.role_name, I was just hungry. I can explain, you see, there is this guy at school..."
-        },
-        "character_2_text": {
-          "eng": "(🤔_thinking_) Take a pause… just breathe…"
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "image_asset": "/images/teen_modules/solve/solve2_t_3.svg",
-      "character_1_id": "f2_son_15",
-      "character_2_id": "f2_grandmother",
-      "character_1_text": "Sorry, @data.characters.f2_grandmother.role_name, I was just hungry. I can explain, you see, there is this guy at school...",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "character_2_text": "(🤔_thinking_) Take a pause… just breathe…",
-      "completed": false
-    },
-    {
-      "id": "practise_4",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Just give me a moment. I am tired and now worried about having enough food for dinner."
-        },
-        "character_2_text": {
-          "eng": "I am sorry, @data.characters.f2_grandmother.role_name."
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "image_asset": "/images/teen_modules/solve/solve2_t_4.svg",
-      "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_son_15",
-      "character_1_text": "Just give me a moment. I am tired and now worried about having enough food for dinner.",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "character_2_text": "I am sorry, @data.characters.f2_grandmother.role_name.",
-      "completed": false
-    },
-    {
-      "id": "practise_5",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Now tell me, why are you so hungry? Did you not eat your lunch at school?"
-        },
-        "character_2_text": {
-          "eng": "That is the problem. There is a guy at school who bullies me. He says if I do not give my lunch to him every day, he and his friends will hurt me. He makes me so mad!"
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "image_asset": "/images/teen_modules/solve/solve2_t_5.svg",
-      "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_son_15",
-      "character_1_text": "Now tell me, why are you so hungry? Did you not eat your lunch at school?",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "character_2_text": "That is the problem. There is a guy at school who bullies me. He says if I do not give my lunch to him every day, he and his friends will hurt me. He makes me so mad!",
-      "completed": false
-    },
-    {
-      "id": "practise_6",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "I am sorry to hear that but am glad that you told me, @data.characters.f2_son_15.name. It does not mean that you can eat everybody’s dinner. After we speak, you need to go to the shop to buy some more bread. But first, what do you think we should do about the bully problem?"
-        },
-        "character_2_text": {
-          "eng": "Well… I want to just hit him or get him back."
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "image_asset": "/images/teen_modules/solve/solve2_t_6.svg",
-      "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_son_15",
-      "character_1_text": "I am sorry to hear that but am glad that you told me, @data.characters.f2_son_15.name. It does not mean that you can eat everybody’s dinner. After we speak, you need to go to the shop to buy some more bread. But first, what do you think we should do about the bully problem?",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "character_2_text": "Well… I want to just hit him or get him back.",
-      "completed": false
-    },
-    {
-      "id": "practise_7",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Hmmm… what do you think will happen to you if you do that?"
-        },
-        "character_2_text": {
-          "eng": "I don’t know. He is bigger than me so he will probably hurt me more. And I could get into trouble at school and get expelled."
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "image_asset": "/images/teen_modules/solve/solve2_t_7.svg",
-      "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_son_15",
-      "character_1_text": "Hmmm… what do you think will happen to you if you do that?",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "character_2_text": "I don’t know. He is bigger than me so he will probably hurt me more. And I could get into trouble at school and get expelled.",
-      "completed": false
-    },
-    {
-      "id": "practise_8",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Yes, that could happen. What could we do instead?"
-        },
-        "character_2_text": {
-          "eng": "I guess I could tell the teacher. But then the other kids will call me a snitch. Maybe you could talk to the teacher?"
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "image_asset": "/images/teen_modules/solve/solve2_t_8.svg",
-      "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_son_15",
-      "character_1_text": "Yes, that could happen. What could we do instead?",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "character_2_text": "I guess I could tell the teacher. But then the other kids will call me a snitch. Maybe you could talk to the teacher?",
-      "completed": false
-    },
-    {
-      "id": "practise_9",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "That sounds like a better idea. I could also have a word with his parents if you want me to."
-        },
-        "character_2_text": {
-          "eng": "Sure. If you think that would help too. Thanks, @data.characters.f2_grandmother.role_name."
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "image_asset": "/images/teen_modules/solve/solve2_t_9.svg",
-      "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_son_15",
-      "character_1_text": "That sounds like a better idea. I could also have a word with his parents if you want me to.",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "character_2_text": "Sure. If you think that would help too. Thanks, @data.characters.f2_grandmother.role_name.",
-      "completed": false
-    },
-    {
-      "id": "practise_10",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Anything for you, my dear. I will do it first thing after dinner. And you know? If that does not work, we can always try something else together."
-        },
-        "character_2_text": {
-          "eng": "Thanks, @data.characters.f2_grandmother.role_name."
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "image_asset": "/images/teen_modules/solve/solve2_t_10.svg",
-      "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_son_15",
-      "character_1_text": "Anything for you, my dear. I will do it first thing after dinner. And you know? If that does not work, we can always try something else together.",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "character_2_text": "Thanks, @data.characters.f2_grandmother.role_name.",
-      "completed": false
-    },
-    {
-      "id": "practise_11",
-      "_translatedFields": {
-        "text_2": {
-          "eng": "*A week later…*"
-        },
-        "character_1_text": {
-          "eng": "How are things going at school now?"
-        },
-        "character_2_text": {
-          "eng": "It is going better, the boy does not take my lunch anymore. But he is still being really mean to me."
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "image_asset": "/images/teen_modules/solve/solve2_t_11.svg",
-      "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_son_15",
-      "character_1_text": "How are things going at school now?",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        }
-      },
-      "character_2_text": "It is going better, the boy does not take my lunch anymore. But he is still being really mean to me.",
-      "text_2": "*A week later…*",
-      "completed": false
-    },
-    {
-      "id": "practise_12",
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "I am sorry to hear that, @data.characters.f2_son_15.name. Shall I ask your uncle to go talk to his parents? If that does not work, we will try something else!"
-        },
-        "character_2_text": {
-          "eng": "Yes, thank you, @data.characters.f2_grandmother.role_name. At least I know you are on my side."
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "image_asset": "/images/teen_modules/solve/solve2_t_12.svg",
-      "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_son_15",
-      "character_1_text": "I am sorry to hear that, @data.characters.f2_son_15.name. Shall I ask your uncle to go talk to his parents? If that does not work, we will try something else!",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "character_2_text": "Yes, thank you, @data.characters.f2_grandmother.role_name. At least I know you are on my side.",
-      "completed": false
-    },
-    {
-      "id": "practise_13",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "That was a great example of how to solve a problem!  \n\nNow let’s remember what happened with @data.characters.f1_daughter_13.name and the phone she got from the boy.\n\nHow could @data.characters.f1_daughter_13.name and her mother, @data.characters.f1_mother.name, use the 4 steps of problem solving to come up with solutions, just like @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name did?"
-        },
-        "text_2": {
-          "eng": "**Remember, you can use the 4 steps to solve problems:**\n\n💭 Step 1: KNOW IT (identify problem)\n📋 Step 2: SOLVE IT (identify solutions) \n⚒️ Step 3: TRY IT (try one) \n🎯 Step 4: TEST IT (try another solution if this one did not work)"
-        }
-      },
-      "category_id": "practise",
-      "nested": false,
-      "text_1_facilitator": "That was a great example of how to solve a problem!  \n\nNow let’s remember what happened with @data.characters.f1_daughter_13.name and the phone she got from the boy.\n\nHow could @data.characters.f1_daughter_13.name and her mother, @data.characters.f1_mother.name, use the 4 steps of problem solving to come up with solutions, just like @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name did?",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "text_2": {
-          "tz_sw": true
-        }
-      },
-      "text_2": "**Remember, you can use the 4 steps to solve problems:**\n\n💭 Step 1: KNOW IT (identify problem)\n📋 Step 2: SOLVE IT (identify solutions) \n⚒️ Step 3: TRY IT (try one) \n🎯 Step 4: TEST IT (try another solution if this one did not work)",
-      "completed": false
-    },
-    {
-      "id": "practise_14",
-      "_translatedFields": {
         "quiz_1_question": {
-          "eng": "@data.characters.f1_daughter_13.name and @data.characters.f1_mother.name came up with three ideas together. \nTap on each one to see if these solutions worked!"
+          "eng": "What could @data.characters.f1_mother.name and @data.characters.f1_father.name do to handle the situation? \nTap on each option to see if these solutions worked!"
         },
         "quiz_1_option_1_text": {
-          "eng": "Ground @data.characters.f1_daughter_13.name for a month"
+          "eng": "Ground @data.characters.f1_daughter_16.name for a month"
         },
         "quiz_1_feedback_1_id": {
-          "eng": "practise_14_nested_1"
+          "eng": "practise_1_nested_1"
         },
         "quiz_1_option_2_text": {
           "eng": "Return the phone and save up together to buy a new one"
         },
         "quiz_1_feedback_2_id": {
-          "eng": "practise_14_nested_2"
+          "eng": "practise_1_nested_2"
         },
         "quiz_1_option_3_text": {
-          "eng": "Talk to @data.characters.f1_daughter_13.name about safe sex"
+          "eng": "Talk to @data.characters.f1_daughter_16.name about safe sex"
         },
         "quiz_1_feedback_3_id": {
-          "eng": "practise_14_nested_3"
+          "eng": "practise_1_nested_3"
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Listen to @data.characters.f1_daughter_16.name's side of the story"
+        },
+        "quiz_1_feedback_4_id": {
+          "eng": "practise_1_nested_4"
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Take a deep breath before reacting"
+        },
+        "quiz_1_feedback_5_id": {
+          "eng": "practise_1_nested_5"
         }
       },
       "category_id": "practise",
       "nested": false,
-      "quiz_1_question": "@data.characters.f1_daughter_13.name and @data.characters.f1_mother.name came up with three ideas together. \nTap on each one to see if these solutions worked!",
+      "quiz_1_question": "What could @data.characters.f1_mother.name and @data.characters.f1_father.name do to handle the situation? \nTap on each option to see if these solutions worked!",
       "_translations": {
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
         "quiz_1_feedback_1_id": {},
         "quiz_1_feedback_2_id": {},
-        "quiz_1_feedback_3_id": {}
+        "quiz_1_feedback_3_id": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4_id": {},
+        "quiz_1_option_5_text": {},
+        "quiz_1_feedback_5_id": {}
       },
-      "quiz_1_option_1_text": "Ground @data.characters.f1_daughter_13.name for a month",
+      "quiz_1_option_1_text": "Ground @data.characters.f1_daughter_16.name for a month",
       "quiz_1_option_2_text": "Return the phone and save up together to buy a new one",
-      "quiz_1_option_3_text": "Talk to @data.characters.f1_daughter_13.name about safe sex",
-      "quiz_1_feedback_1_id": "practise_14_nested_1",
-      "quiz_1_feedback_2_id": "practise_14_nested_2",
-      "quiz_1_feedback_3_id": "practise_14_nested_3",
+      "quiz_1_option_3_text": "Talk to @data.characters.f1_daughter_16.name about safe sex",
+      "text_1_facilitator": "Now let’s try problem-solving together: Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and her parents feel worried about it.",
+      "quiz_1_feedback_1_id": "practise_1_nested_1",
+      "quiz_1_feedback_2_id": "practise_1_nested_2",
+      "quiz_1_feedback_3_id": "practise_1_nested_3",
+      "quiz_1_option_4_text": "Listen to @data.characters.f1_daughter_16.name's side of the story",
+      "quiz_1_feedback_4_id": "practise_1_nested_4",
+      "quiz_1_option_5_text": "Take a deep breath before reacting",
+      "quiz_1_feedback_5_id": "practise_1_nested_5",
       "completed": false
     },
     {
       "id": "practise_15",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "When something bad happens, we often get upset and blame. But what our teens really need is someone to help find solutions together. \n\nListen to them, accept how they see and feel things, and thank them for trusting you.\n\nTeaching your teen how to deal with problems will help them for the rest of their lives. What a gift!"
         },
         "text_2": {
-          "eng": "**Here are some examples of problems other parents solved with their teens:**\n\n- My teenager does not want to go to school\n- I am worried my teenager will get pregnant or will get someone pregnant\n- I am worried about what my teen does online\n- My teenager is hanging out with bad friends\n- My teenager is lazy\n- My teenager is not doing their school work\n- My teenager might be using drugs"
+          "eng": "**Here are some examples of problems other parents solved with their teens:**\n\n- My teenager does not want to go to school\n- I am worried my teenager will get pregnant or will get someone pregnant\n- I am worried about what my teen does online\n- My teenager is hanging out with bad friends\n- My teenager is lazy"
         }
       },
       "category_id": "practise",
@@ -758,15 +568,14 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {
-          "tz_sw": true
-        }
+        "text_2": {}
       },
-      "text_2": "**Here are some examples of problems other parents solved with their teens:**\n\n- My teenager does not want to go to school\n- I am worried my teenager will get pregnant or will get someone pregnant\n- I am worried about what my teen does online\n- My teenager is hanging out with bad friends\n- My teenager is lazy\n- My teenager is not doing their school work\n- My teenager might be using drugs",
+      "text_2": "**Here are some examples of problems other parents solved with their teens:**\n\n- My teenager does not want to go to school\n- I am worried my teenager will get pregnant or will get someone pregnant\n- I am worried about what my teen does online\n- My teenager is hanging out with bad friends\n- My teenager is lazy",
       "completed": false
     },
     {
       "id": "home_activity_1",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Your home activity this week is to teach your teenagers the steps for problem-solving and use them together when a problem comes up."
@@ -842,6 +651,7 @@
       "id": "teen_test_1",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_solve_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "We all have problems, but they don’t define us! You can choose to address challenges and try different solutions together with your teen. \nThis shows your teen that they are never alone and gives them a key skill to use at home, with friends, and for life!"
@@ -869,6 +679,36 @@
       },
       "media_title": "Can you make an impact on your community with these skills? Hear @data.characters.media_son_2.name's story",
       "media_transcript": "When my father introduced the problem-solving steps to me, it helped me with my family, but it also helped me with my friends.\n\nI told my friends about the steps, and now when we are arguing we sit down and everyone comes up with solutions. We then look for the negatives and positives of each solution, and we agree “okay let’s try this one.”\n\nMy friends even took it to their own homes, and it is helping with their families as well!\n\nIt is great when others listen to you and accept your ideas even though you are young. We can all bring that harmony with our friends and family.",
+      "completed": false
+    },
+    {
+      "id": "check_out_1",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "media_type": "video",
+      "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        },
+        "media_transcript": {
+          "eng": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
+        }
+      },
+      "category_id": "check_out",
+      "nested": false,
+      "media_title": "Here is a short video to help you slow down before you go",
+      "_translations": {
+        "media_title": {},
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_2": {}
+      },
+      "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+      "text_2": "Well done for taking time for yourself today. 🎉",
       "completed": false
     }
   ],

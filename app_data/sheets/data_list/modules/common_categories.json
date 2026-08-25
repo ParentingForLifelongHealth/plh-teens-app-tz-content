@@ -8,6 +8,7 @@
     {
       "id": "relax",
       "icon_asset": "images/icons/smile_eyes_down.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1FFkho-7gOPLNo29UNuV2z-bGpJ5_2Q8jGSKcC1Mou38",
       "title": "Relax",
       "_translations": {
         "title": {
@@ -139,11 +140,24 @@
           "eng": "Content Notice"
         }
       }
+    },
+    {
+      "id": "check_out",
+      "icon_asset": "images/icons/smile_eyes_up.svg",
+      "title": "Check-out",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Check-out"
+        }
+      }
     }
   ],
   "_source": {
-    "name": "teens_tz_GT",
-    "path": "data/TZ modules 2.0.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
+    "name": "tz_GT",
+    "path": "TZ modules 2.1.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
   }
 }

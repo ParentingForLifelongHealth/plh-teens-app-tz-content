@@ -4,28 +4,28 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_22",
-      "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset": "audio/relax/relax_22.mp3",
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
-      "title": "Connect",
+      "attached_single_doc": "https://docs.google.com/document/d/1b3DjLNAG_9OjZFW94O1NJrU7gHaD6S7Fje0Tj0oVB8A",
+      "title": "Tap the play button to take a quick pause",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "transcript": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Connect"
+          "eng": "Tap the play button to take a quick pause"
         },
         "transcript": {
-          "eng": "When you take care of yourself, you take care of your children. We all need to connect. Try to talk to friends, family, and other support networks every day. If it has been a while since you reached out to someone, do it now!"
+          "eng": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect."
         }
       },
-      "transcript": "When you take care of yourself, you take care of your children. We all need to connect. Try to talk to friends, family, and other support networks every day. If it has been a while since you reached out to someone, do it now!",
+      "transcript": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -101,36 +101,13 @@
       "completed": false
     },
     {
-      "id": "sensitive_content_notice",
-      "_translatedFields": {
-        "section_1_title": {
-          "eng": "⚠️ Sensitive Content Notice"
-        },
-        "section_1_text": {
-          "eng": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help."
-        }
-      },
-      "category_id": "notice",
-      "nested": false,
-      "section_1_title": "⚠️ Sensitive Content Notice",
-      "_translations": {
-        "section_1_title": {
-          "tz_sw": true
-        },
-        "section_1_text": {
-          "tz_sw": true
-        }
-      },
-      "section_1_text": "This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n\nIf you need support, see the “Support Contacts” section in your Library for help.",
-      "completed": false
-    },
-    {
       "id": "intro_1",
       "media_asset": "/audio/teen/topic_intros/grief_intro_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Today's topic is about coping with grief.\n\nGrief affects us all in different ways.\n\nWhatever you feel, you are grieving in your own way, and that is okay."
+          "eng": "Today's topic is about coping with grief.\n\nGrief is something that we often don’t pay attention to, but grief affects us all in different ways."
         },
         "media_title": {
           "eng": "What techniques can you use to cope with grief? Tap play to find out"
@@ -141,11 +118,9 @@
       },
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Today's topic is about coping with grief.\n\nGrief affects us all in different ways.\n\nWhatever you feel, you are grieving in your own way, and that is okay.",
+      "text_1_facilitator": "Today's topic is about coping with grief.\n\nGrief is something that we often don’t pay attention to, but grief affects us all in different ways.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -161,9 +136,10 @@
       "id": "intro_2",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_grief_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Taking care of ourselves during grief helps us stay calm and present for our children. \nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported."
+          "eng": "Taking care of ourselves during grief helps us stay calm and present for our children. \n\nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported."
         },
         "media_title": {
           "eng": "Hear how naming feelings helped @data.characters.media_female_12.name feel closer to family while grieving"
@@ -174,11 +150,9 @@
       },
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "Taking care of ourselves during grief helps us stay calm and present for our children. \nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported.",
+      "text_1_facilitator": "Taking care of ourselves during grief helps us stay calm and present for our children. \n\nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -192,6 +166,7 @@
     },
     {
       "id": "explore_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Difficult emotions can lead to difficult behaviour – especially with children. Losing a caregiver or a loved one can make your teen feel worried, insecure, or angry, and can often make them act out.\n\nLet’s see what happened with @data.characters.f4_daughter_13.name who lost her mother 6 months ago:"
@@ -218,6 +193,7 @@
     },
     {
       "id": "explore_2",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "@data.characters.f4_daughter_13.name, you need to stop crying. It has been months already! This crying will not bring your @data.characters.f1_mother.role_name back and you are doing worse and worse in school!"
@@ -245,6 +221,7 @@
     },
     {
       "id": "explore_3",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Stop being so dramatic! Your behaviour is unacceptable!"
@@ -264,33 +241,34 @@
     },
     {
       "id": "explore_4",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's think about what happened in this story."
         },
         "quiz_1_question": {
-          "eng": "How did @data.characters.f4_father.name’s response make his daughter, @data.characters.f4_daughter_13.name, feel?"
+          "eng": "What emotions does @data.characters.f4_daughter_13.name, feel?"
         },
         "quiz_1_option_1_text": {
           "eng": "Sad"
         },
         "quiz_1_feedback_1": {
-          "eng": "Yes, telling someone to stop crying can make them feel even more sad, angry or confused."
+          "eng": "Yes, she seems sad right now because she is crying. Sadness is one of the stages of grief for teens and adults."
         },
         "quiz_1_option_2_text": {
-          "eng": "Confused"
+          "eng": "Feeling nothing"
         },
         "quiz_1_feedback_2": {
-          "eng": "Yes, telling someone to stop crying can make them feel even more sad, angry or confused."
+          "eng": "She seems more sad than numb right now, but feeling nothing is one of the stages of grief for teens and adults."
         },
         "quiz_1_option_3_text": {
           "eng": "Angry"
         },
         "quiz_1_feedback_3": {
-          "eng": "Yes, telling someone to stop crying can make them feel even more sad, angry or confused."
+          "eng": "She seems more sad than angry right now, but feeling angry is one of the five stages of grief for teens and adults."
         },
         "quiz_2_question": {
-          "eng": "What could @data.characters.f4_father.name have done differently?"
+          "eng": "@data.characters.f4_father.name's response made @data.characters.f4_daughter_13.name more upset. What could he have done differently?"
         },
         "quiz_2_option_1_text": {
           "eng": "Take a pause before responding and notice his own emotions"
@@ -320,37 +298,25 @@
       "category_id": "explore",
       "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/sad.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/confused.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/neutral.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/angry.svg",
-      "quiz_1_feedback_1": "Yes, telling someone to stop crying can make them feel even more sad, angry or confused.",
+      "quiz_1_feedback_1": "Yes, she seems sad right now because she is crying. Sadness is one of the stages of grief for teens and adults.",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
+        "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_2_question": {
-          "tz_sw": true
-        },
+        "quiz_2_question": {},
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
@@ -376,14 +342,14 @@
           "tz_sw": true
         }
       },
-      "quiz_1_feedback_2": "Yes, telling someone to stop crying can make them feel even more sad, angry or confused.",
-      "quiz_1_feedback_3": "Yes, telling someone to stop crying can make them feel even more sad, angry or confused.",
-      "quiz_1_question": "How did @data.characters.f4_father.name’s response make his daughter, @data.characters.f4_daughter_13.name, feel?",
+      "quiz_1_feedback_2": "She seems more sad than numb right now, but feeling nothing is one of the stages of grief for teens and adults.",
+      "quiz_1_feedback_3": "She seems more sad than angry right now, but feeling angry is one of the five stages of grief for teens and adults.",
+      "quiz_1_question": "What emotions does @data.characters.f4_daughter_13.name, feel?",
       "quiz_1_option_1_text": "Sad",
-      "quiz_1_option_2_text": "Confused",
+      "quiz_1_option_2_text": "Feeling nothing",
       "quiz_1_option_3_text": "Angry",
       "text_1_facilitator": "Let's think about what happened in this story.",
-      "quiz_2_question": "What could @data.characters.f4_father.name have done differently?",
+      "quiz_2_question": "@data.characters.f4_father.name's response made @data.characters.f4_daughter_13.name more upset. What could he have done differently?",
       "quiz_2_option_1_text": "Take a pause before responding and notice his own emotions",
       "quiz_2_feedback_1": "Yes, all these options are correct.\n\nWhen we lose someone we love, it helps to recognise and share our feelings as a family.",
       "quiz_2_option_2_text": "Ask @data.characters.f4_daughter_13.name to share more about how she feels",
@@ -396,6 +362,7 @@
     },
     {
       "id": "explore_5",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Thank you for thinking along!\n\nLet’s see what happens if @data.characters.f4_father.name tries to support @data.characters.f4_daughter_13.name:"
@@ -430,6 +397,7 @@
     },
     {
       "id": "explore_6",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I like that idea, let’s go see her on Saturday. Do you already want to tell me more about how you feel now?"
@@ -449,6 +417,7 @@
     },
     {
       "id": "explore_7",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "I honestly feel angry that she left. Is it okay to say that?"
@@ -468,6 +437,7 @@
     },
     {
       "id": "explore_8",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "character_1_text": {
           "eng": "Yes, it is normal to feel angry. We all have different feelings at different times, and that is okay. It is good to talk about this together, thank you for sharing with me."
@@ -487,6 +457,7 @@
     },
     {
       "id": "explore_9",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's think about what happened in this story."
@@ -532,6 +503,27 @@
         },
         "quiz_2_feedback_3": {
           "eng": "All these options are correct.\n\nEveryone copes with grief differently. We can help each other by accepting each other’s feelings and coming up with ideas together to support each other."
+        },
+        "quiz_3_question": {
+          "eng": "How do you think @data.characters.f4_father.name feels about losing his wife?"
+        },
+        "quiz_3_option_1_text": {
+          "eng": "Sad"
+        },
+        "quiz_3_feedback_1": {
+          "eng": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "Angry"
+        },
+        "quiz_3_feedback_2": {
+          "eng": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help."
+        },
+        "quiz_3_option_3_text": {
+          "eng": "Numb"
+        },
+        "quiz_3_feedback_3": {
+          "eng": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help."
         }
       },
       "category_id": "explore",
@@ -582,7 +574,18 @@
         },
         "quiz_2_feedback_3": {
           "tz_sw": true
-        }
+        },
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_3_feedback_2": {},
+        "quiz_3_option_3_text": {},
+        "quiz_3_feedback_3": {}
       },
       "quiz_1_feedback_2": "Yes, knowing that her @data.characters.f4_father.role_name understood and accepted her feelings made @data.characters.f4_daughter_13.name feel cared for and supported.",
       "quiz_1_feedback_3": "Exactly. Sharing her sadness and anger openly made @data.characters.f4_daughter_13.name feel comforted and closer to her father.",
@@ -598,10 +601,18 @@
       "quiz_2_feedback_2": "All these options are correct.\n\nEveryone copes with grief differently. We can help each other by accepting each other’s feelings and coming up with ideas together to support each other.",
       "quiz_2_option_3_text": "@data.characters.f4_daughter_13.name might show more challenging behaviour",
       "quiz_2_feedback_3": "All these options are correct.\n\nEveryone copes with grief differently. We can help each other by accepting each other’s feelings and coming up with ideas together to support each other.",
+      "quiz_3_question": "How do you think @data.characters.f4_father.name feels about losing his wife?",
+      "quiz_3_option_1_text": "Sad",
+      "quiz_3_feedback_1": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help.",
+      "quiz_3_option_2_text": "Angry",
+      "quiz_3_feedback_2": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help.",
+      "quiz_3_option_3_text": "Numb",
+      "quiz_3_feedback_3": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help.",
       "completed": false
     },
     {
       "id": "tips_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are some tips to help you and your family through times of grief:"
@@ -611,6 +622,12 @@
         },
         "section_1_text": {
           "eng": "Losing someone we love can affect us for weeks, months or years. There’s no right way to feel, and no need to feel better quickly.\n\nYour teen may feel sad, angry, confused, or unwell. They may have nightmares, pain, or school problems. Even if they seem happy, they might still feel sad. This is all normal."
+        },
+        "section_1_button_text": {
+          "eng": "5 stages of grief"
+        },
+        "section_1_extra_text": {
+          "eng": "Many people experience grief in the following 5 stages. Knowing this helps you to better support your teen and take care of yourself: \n\n1: 😟 Denial: “This isn’t really happening.”\n2: 😡 Anger: “I’m mad.”\n3: 🙏🏾 Bargaining: “I wish I could change it.”\n4: 😣 Depression: “I feel really sad.”\n5: 😔 Acceptance: “I’m okay now, even though it still hurts.”"
         },
         "section_2_title": {
           "eng": "SAY GOODBYE"
@@ -627,17 +644,19 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_title": "ACCEPT",
+      "text_1_facilitator": "Here are some tips to help you and your family through times of grief:",
       "_translations": {
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "section_1_title": {
           "tz_sw": true
         },
         "section_1_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "section_1_button_text": {},
+        "section_1_extra_text": {},
         "section_2_title": {
           "tz_sw": true
         },
@@ -651,11 +670,13 @@
           "tz_sw": true
         }
       },
-      "section_1_text": "Losing someone we love can affect us for weeks, months or years. There’s no right way to feel, and no need to feel better quickly.\n\nYour teen may feel sad, angry, confused, or unwell. They may have nightmares, pain, or school problems. Even if they seem happy, they might still feel sad. This is all normal.",
-      "text_1_facilitator": "Here are some tips to help you and your family through times of grief:",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/single_speech_blue.png",
       "section_3_icon_asset": "images/icons/speech_bubble_blue.png",
+      "section_1_title": "ACCEPT",
+      "section_1_text": "Losing someone we love can affect us for weeks, months or years. There’s no right way to feel, and no need to feel better quickly.\n\nYour teen may feel sad, angry, confused, or unwell. They may have nightmares, pain, or school problems. Even if they seem happy, they might still feel sad. This is all normal.",
+      "section_1_button_text": "5 stages of grief",
+      "section_1_extra_text": "Many people experience grief in the following 5 stages. Knowing this helps you to better support your teen and take care of yourself: \n\n1: 😟 Denial: “This isn’t really happening.”\n2: 😡 Anger: “I’m mad.”\n3: 🙏🏾 Bargaining: “I wish I could change it.”\n4: 😣 Depression: “I feel really sad.”\n5: 😔 Acceptance: “I’m okay now, even though it still hurts.”",
       "section_2_title": "SAY GOODBYE",
       "section_2_text": "Find a way to say goodbye that feels right for you and your family. Some people hold a ceremony or have a special meal to celebrate the person.\n\nAsk your teen what they would want to do to say goodbye.",
       "section_3_title": "TALK",
@@ -664,6 +685,7 @@
     },
     {
       "id": "practise_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "When we are going through a difficult time, it can help to talk about or write down how we feel.\n\nLet’s practise naming feelings. How do you feel now?"
@@ -772,6 +794,7 @@
     },
     {
       "id": "home_activity_1",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "This week's home activity is to share with your teen how you feel, and ask them to also name their feelings.\n\nYou can remind your teen of some emotions they might feel - like happy, sad, scared, hopeful, angry, or lonely. There is no right or wrong feeling. Sharing emotions helps you both feel less alone."
@@ -840,6 +863,7 @@
       "id": "teen_test_1",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_grief_t.mp3",
       "media_type": "audio",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Grief can make both parents and teens feel alone - but talking about your feelings can help you cope together. Even small steps like checking in and sharing emotions can rebuild trust and connection."
@@ -867,6 +891,36 @@
       },
       "media_title": "Hear how @data.characters.media_daughter_10.name and her father learned to support each other",
       "media_transcript": "When I lost my mom, everything changed. I was so sad, but it felt like my dad couldn't understand. Our relationship suffered. We did our own things and we stopped talking to each other. But then something incredible happened.\n\nMy dad learnt all these things from the app about what to do when you lose someone. He asked me how I was doing and we started to talk again. He explained that he was sad too, and he even said he was sorry for not talking to me after my mom died. We can now see that it is hard for both of us, and we can help each other. He is supporting me and we are a lot closer.",
+      "completed": false
+    },
+    {
+      "id": "check_out_1",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "media_type": "video",
+      "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        },
+        "media_transcript": {
+          "eng": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
+        }
+      },
+      "category_id": "check_out",
+      "nested": false,
+      "media_title": "Here is a short video to help you slow down before you go",
+      "_translations": {
+        "media_title": {},
+        "media_transcript": {
+          "tz_sw": true
+        },
+        "text_2": {}
+      },
+      "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
+      "text_2": "Well done for taking time for yourself today. 🎉",
       "completed": false
     }
   ],

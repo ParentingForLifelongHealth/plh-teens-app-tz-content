@@ -1535,6 +1535,10 @@
     "md5Checksum": "62a6d4c3fc8a490a5b641ae8643e1cd2",
     "size_kb": 57.8
   },
+  "images/teen_modules/svp/delete_svp_usebody_t_1.gif": {
+    "md5Checksum": "965ea1b4ffdcf683eb57f49bf88a6046",
+    "size_kb": 1111.6
+  },
   "images/teen_modules/svp/svp_catcalling_t.svg": {
     "md5Checksum": "aa98ecce720688b5d6796bfdec73e6a4",
     "size_kb": 96.1
@@ -1564,14 +1568,10 @@
     "size_kb": 74.4
   },
   "images/teen_modules/svp/svp_usebody_t_1.gif": {
-    "md5Checksum": "965ea1b4ffdcf683eb57f49bf88a6046",
-    "size_kb": 1111.6
-  },
-  "images/teen_modules/svp/svp_usebody_t_2.gif": {
     "md5Checksum": "a8496245082ef524815881cb5ab8f6e5",
     "size_kb": 2008.5
   },
-  "images/teen_modules/svp/svp_usebody_t_3.gif": {
+  "images/teen_modules/svp/svp_usebody_t_2.gif": {
     "md5Checksum": "ca9d35af7a81bf482b2b2eec1f027d40",
     "size_kb": 844.1
   },

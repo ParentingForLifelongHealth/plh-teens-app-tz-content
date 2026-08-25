@@ -22,7 +22,7 @@
     }
   ],
   "_source": {
-    "name": "teens_tz_GT",
+    "name": "teens_tz",
     "path": "data/TZ characters.xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1F07jqq33WYeJNFOlW0-GRFEX2wZBVBMcdjTSvdGkvLk"
   },

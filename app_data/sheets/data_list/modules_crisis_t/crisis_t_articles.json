@@ -10,6 +10,7 @@
       "id": "sensitive_content_notice",
       "category_id": "notice",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "section_1_title": "⚠️ Sensitive Content Notice",
       "_translations": {
         "section_1_title": {
@@ -35,11 +36,10 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/topic_intros/crisis_intro_t.mp3",
       "nested": false,
-      "text_1_facilitator": "Today's topic is about dealing with crises.\n\nAll families experience crises. When we prepare together and know where to get help BEFORE something bad happens, we can overcome any crisis.",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
+      "text_1_facilitator": "Today’s topic is dealing with crises.\n\nAll families face crises. When we prepare together and know where to get help before something happens, we can handle it more calmly and confidently.\n\nCrises can be scary, but you can get through them together.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "media_title": {
           "tz_sw": true
         },
@@ -49,7 +49,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Today's topic is about dealing with crises.\n\nAll families experience crises. When we prepare together and know where to get help BEFORE something bad happens, we can overcome any crisis."
+          "eng": "Today’s topic is dealing with crises.\n\nAll families face crises. When we prepare together and know where to get help before something happens, we can handle it more calmly and confidently.\n\nCrises can be scary, but you can get through them together."
         },
         "media_title": {
           "eng": "Can skills to handle crises help your family? Tap play to find out"
@@ -67,6 +67,7 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/testimonials/caregiver/caregiver_test_crisis_t.mp3",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Every crisis is a challenge, but it is also a chance to grow stronger as a family and show your teen that together, you can get through anything.",
       "_translations": {
         "text_1_facilitator": {
@@ -99,6 +100,7 @@
       "image_asset": "/images/teen_modules/crisis/crisis1_t_1.svg",
       "character_1_id": "f2_grandmother",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Crisis can happen to anyone.\n\nLet's see what happened with @data.characters.f2_grandmother.name and her granddaughter, @data.characters.f2_daughter_19.name:",
       "_translations": {
         "text_1_facilitator": {
@@ -126,30 +128,27 @@
       "character_2_id": "f2_grandmother",
       "character_3_id": "f2_grandmother",
       "nested": false,
-      "character_1_text": "It’s my Uncle, he… he… he touched me.",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
+      "character_1_text": "It’s that man, he… he… he touched me.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
+        "character_2_text": {},
         "character_3_text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "It’s my Uncle, he… he… he touched me."
+          "eng": "It’s that man, he… he… he touched me."
         },
         "character_2_text": {
-          "eng": "(🤔_thinking_) Take a deep breath... What does my child need? She needs me to be calm and listen."
+          "eng": "(🤔_thinking_) Oh no, this is terrible! Let me take a deep breath… Now, what does my child need? She needs me to be calm and listen."
         },
         "character_3_text": {
           "eng": "Come and sit down next to me. Take your time, I am listening."
         }
       },
-      "character_2_text": "(🤔_thinking_) Take a deep breath... What does my child need? She needs me to be calm and listen.",
+      "character_2_text": "(🤔_thinking_) Oh no, this is terrible! Let me take a deep breath… Now, what does my child need? She needs me to be calm and listen.",
       "character_3_text": "Come and sit down next to me. Take your time, I am listening."
     },
     {
@@ -159,18 +158,17 @@
       "character_1_id": "f2_daughter_19",
       "character_2_id": "f2_grandmother",
       "nested": false,
-      "character_1_text": "It is true, he… he… made me do it! He made me have sex with him! I did not want to, I swear, and I even said NO, but he told me I would be in trouble.",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
+      "character_1_text": "Yesterday when you went to see your friend. He just came and that’s when it happened. He… he… he made me have sex with him! I did not want to, I swear, and I even said NO, but he told me I would be in trouble.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "It is true, he… he… made me do it! He made me have sex with him! I did not want to, I swear, and I even said NO, but he told me I would be in trouble."
+          "eng": "Yesterday when you went to see your friend. He just came and that’s when it happened. He… he… he made me have sex with him! I did not want to, I swear, and I even said NO, but he told me I would be in trouble."
         },
         "character_2_text": {
           "eng": "Thank you for sharing this with me. You are not in trouble. This is not your fault."
@@ -182,126 +180,131 @@
       "id": "explore_4",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/crisis/crisis1_t_4.svg",
-      "character_1_id": "f2_daughter_19",
-      "character_2_id": "f2_grandmother",
-      "character_3_id": "f2_daughter_19",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_daughter_19",
       "nested": false,
-      "character_1_text": "Yesterday when you went to see your friend. He just came and that’s when it happened.",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
+      "character_1_text": "Let’s decide together what to do. Your @data.characters.f2_grandfather.role_name loves you and he would want to help. Are you okay with it if I call him?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        },
-        "character_3_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Yesterday when you went to see your friend. He just came and that’s when it happened."
+          "eng": "Let’s decide together what to do. Your @data.characters.f2_grandfather.role_name loves you and he would want to help. Are you okay with it if I call him?"
         },
         "character_2_text": {
-          "eng": "It is okay, I believe you my child. This is a big thing and we will find a way to get the help we need. Where could we go for help?"
-        },
-        "character_3_text": {
-          "eng": "My school?"
+          "eng": "Yes, that’s a good idea."
         }
       },
-      "character_2_text": "It is okay, I believe you my child. This is a big thing and we will find a way to get the help we need. Where could we go for help?",
-      "character_3_text": "My school?"
+      "character_2_text": "Yes, that’s a good idea."
     },
     {
       "id": "explore_5",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/crisis/crisis1_t_5.svg",
-      "character_1_id": "f2_grandmother",
-      "character_2_id": "f2_daughter_19",
+      "character_1_id": "f2_grandfather",
       "nested": false,
-      "character_1_text": "Ah I know, let’s go to the clinic. They will know what we can do to help you. Does that sound okay to you?",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
+      "character_1_text": "I am so sorry this happened to you, my child. We are here to support you. What you shared is important. We will find a way to get the help we need.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Ah I know, let’s go to the clinic. They will know what we can do to help you. Does that sound okay to you?"
-        },
-        "character_2_text": {
-          "eng": "Yes… Okay… But will you come with me?"
+          "eng": "I am so sorry this happened to you, my child. We are here to support you. What you shared is important. We will find a way to get the help we need."
         }
-      },
-      "character_2_text": "Yes… Okay… But will you come with me?"
+      }
     },
     {
       "id": "explore_6",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/crisis/crisis1_t_6.svg",
-      "character_1_id": "f2_grandmother",
+      "character_1_id": "f2_grandfather",
+      "character_2_id": "f2_daughter_19",
+      "character_3_id": "f2_grandmother",
       "nested": false,
-      "character_1_text": "Of course I will. And @data.characters.f2_daughter_19.name? Remember this is not your fault. I love you. You are a good person. We will get through this.",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
+      "character_1_text": "I think it would be a good idea to go to the clinic, so they can do a check-up to make sure you are okay. What do you think about that?",
       "_translations": {
-        "character_1_text": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "character_1_text": {
+          "eng": "I think it would be a good idea to go to the clinic, so they can do a check-up to make sure you are okay. What do you think about that?"
+        },
+        "character_2_text": {
+          "eng": "Yes… Okay… But will you come with me @data.characters.f2_grandmother.role_name?"
+        },
+        "character_3_text": {
           "eng": "Of course I will. And @data.characters.f2_daughter_19.name? Remember this is not your fault. I love you. You are a good person. We will get through this."
         }
-      }
+      },
+      "character_2_text": "Yes… Okay… But will you come with me @data.characters.f2_grandmother.role_name?",
+      "character_3_text": "Of course I will. And @data.characters.f2_daughter_19.name? Remember this is not your fault. I love you. You are a good person. We will get through this."
     },
     {
       "id": "explore_7",
       "category_id": "explore",
+      "image_asset": "/images/teen_modules/crisis/crisis1_t_7.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_grandfather",
       "nested": false,
-      "text_1_facilitator": "This was such a difficult situation for @data.characters.f2_daughter_19.name and @data.characters.f2_grandmother.name! And this can happen to other girls, and boys too.\n\nThankfully, @data.characters.f2_grandmother.name gave great support to @data.characters.f2_daughter_19.name. Let's think about what she did well.",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
+      "character_1_text": "I am glad we could handle this together. I was so scared you would think this is my fault.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I am glad we could handle this together. I was so scared you would think this is my fault."
         },
+        "character_2_text": {
+          "eng": "Of course not. A crisis can happen to any family. It is important that @data.characters.f2_daughter_19.name trusts us and we can support her. We can also look online at what support and information is available to help us."
+        }
+      },
+      "character_2_text": "Of course not. A crisis can happen to any family. It is important that @data.characters.f2_daughter_19.name trusts us and we can support her. We can also look online at what support and information is available to help us."
+    },
+    {
+      "id": "explore_8",
+      "category_id": "explore",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
+      "text_1_facilitator": "This was such a difficult situation for @data.characters.f2_daughter_19.name and her grandparents.\n\nLet's think about how @data.characters.f2_grandmother.name supported @data.characters.f2_daughter_19.name through this crisis.",
+      "_translations": {
+        "text_1_facilitator": {},
         "quiz_1_question": {
           "tz_sw": true
         },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_2": {},
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_3": {},
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
+        "quiz_1_feedback_4": {},
         "quiz_1_option_5_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_5": {
-          "tz_sw": true
-        }
+        "quiz_1_feedback_5": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "This was such a difficult situation for @data.characters.f2_daughter_19.name and @data.characters.f2_grandmother.name! And this can happen to other girls, and boys too.\n\nThankfully, @data.characters.f2_grandmother.name gave great support to @data.characters.f2_daughter_19.name. Let's think about what she did well."
+          "eng": "This was such a difficult situation for @data.characters.f2_daughter_19.name and her grandparents.\n\nLet's think about how @data.characters.f2_grandmother.name supported @data.characters.f2_daughter_19.name through this crisis."
         },
         "quiz_1_question": {
           "eng": "What skills did @data.characters.f2_grandmother.name use?"
@@ -310,274 +313,53 @@
           "eng": "Take a deep breath and pause before responding"
         },
         "quiz_1_feedback_1": {
-          "eng": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!"
+          "eng": "That’s right!\n\nAll these skills can help in a crisis."
         },
         "quiz_1_option_2_text": {
           "eng": "Listen to your teen"
         },
         "quiz_1_feedback_2": {
-          "eng": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!"
+          "eng": "That’s right!\n\nAll these skills can help in a crisis."
         },
         "quiz_1_option_3_text": {
           "eng": "Praise your teen for sharing"
         },
         "quiz_1_feedback_3": {
-          "eng": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!"
+          "eng": "That’s right!\n\nAll these skills can help in a crisis."
         },
         "quiz_1_option_4_text": {
           "eng": "Use problem solving skills"
         },
         "quiz_1_feedback_4": {
-          "eng": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!"
+          "eng": "That’s right!\n\nAll these skills can help in a crisis."
         },
         "quiz_1_option_5_text": {
           "eng": "Work out where you can get help"
         },
         "quiz_1_feedback_5": {
-          "eng": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!"
+          "eng": "That’s right!\n\nAll these skills can help in a crisis."
         }
       },
       "quiz_1_question": "What skills did @data.characters.f2_grandmother.name use?",
       "quiz_1_option_1_text": "Take a deep breath and pause before responding",
-      "quiz_1_feedback_1": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!",
+      "quiz_1_feedback_1": "That’s right!\n\nAll these skills can help in a crisis.",
       "quiz_1_option_2_text": "Listen to your teen",
-      "quiz_1_feedback_2": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!",
+      "quiz_1_feedback_2": "That’s right!\n\nAll these skills can help in a crisis.",
       "quiz_1_option_3_text": "Praise your teen for sharing",
-      "quiz_1_feedback_3": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!",
+      "quiz_1_feedback_3": "That’s right!\n\nAll these skills can help in a crisis.",
       "quiz_1_option_4_text": "Use problem solving skills",
-      "quiz_1_feedback_4": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!",
+      "quiz_1_feedback_4": "That’s right!\n\nAll these skills can help in a crisis.",
       "quiz_1_option_5_text": "Work out where you can get help",
-      "quiz_1_feedback_5": "Yes, @data.characters.f2_grandmother.name actually used all those skills – and so can you!"
-    },
-    {
-      "id": "explore_8",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/crisis/crisis2_t_1.svg",
-      "character_1_id": "f1_father",
-      "nested": false,
-      "text_1_facilitator": "Another problem that many parents are worried about is violence and crime. Let’s look at an example together.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Another problem that many parents are worried about is violence and crime. Let’s look at an example together."
-        },
-        "character_1_text": {
-          "eng": "@data.characters.f1_son_18.name, you've looked worried since yesterday. What is wrong?"
-        }
-      },
-      "character_1_text": "@data.characters.f1_son_18.name, you've looked worried since yesterday. What is wrong?"
-    },
-    {
-      "id": "explore_9",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/crisis/crisis2_t_2.svg",
-      "character_1_id": "f1_son_18",
-      "character_2_id": "f1_father",
-      "nested": false,
-      "character_1_text": "Yesterday, my friends and I went to a soccer match. Some guys who were drunk started a fight with my friend.",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Yesterday, my friends and I went to a soccer match. Some guys who were drunk started a fight with my friend."
-        },
-        "character_2_text": {
-          "eng": "Continue, I am listening. I hope you did not fight?"
-        }
-      },
-      "character_2_text": "Continue, I am listening. I hope you did not fight?"
-    },
-    {
-      "id": "explore_10",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/crisis/crisis2_t_3.svg",
-      "character_1_id": "f1_son_18",
-      "character_2_id": "f1_father",
-      "nested": false,
-      "character_1_text": "I did not want to, but I could not just stand there and let them beat up my friend, so…",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "I did not want to, but I could not just stand there and let them beat up my friend, so…"
-        },
-        "character_2_text": {
-          "eng": "So, did you fight in order to help defend your friend?"
-        }
-      },
-      "character_2_text": "So, did you fight in order to help defend your friend?"
-    },
-    {
-      "id": "explore_11",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/crisis/crisis2_t_4.svg",
-      "character_1_id": "f1_son_18",
-      "character_2_id": "f1_father",
-      "nested": false,
-      "character_1_text": "Everyone was fighting. I saw someone lying on the field in a pool of blood. He looked… dead.",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Everyone was fighting. I saw someone lying on the field in a pool of blood. He looked… dead."
-        },
-        "character_2_text": {
-          "eng": "I am glad you are telling me about this, @data.characters.f1_son_18.name. Let’s discuss whether we should involve the police or someone else to help."
-        }
-      },
-      "character_2_text": "I am glad you are telling me about this, @data.characters.f1_son_18.name. Let’s discuss whether we should involve the police or someone else to help."
-    },
-    {
-      "id": "explore_12",
-      "category_id": "explore",
-      "image_asset": "/images/teen_modules/crisis/crisis2_t_5.svg",
-      "character_1_id": "f1_son_18",
-      "character_2_id": "f1_father",
-      "nested": false,
-      "character_1_text": "Thank you, @data.characters.f1_father.role_name.",
-      "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "character_1_text": {
-          "eng": "Thank you, @data.characters.f1_father.role_name."
-        },
-        "character_2_text": {
-          "eng": "We will get through this. Remember, we will support you as a family."
-        }
-      },
-      "character_2_text": "We will get through this. Remember, we will support you as a family."
-    },
-    {
-      "id": "explore_13",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "This was such a difficult situation for @data.characters.f1_son_18.name and his father!  \n\nLet's think about how @data.characters.f1_father.name supported @data.characters.f1_son_18.name through this crisis.",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
-        "quiz_1_option_5_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_5": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "This was such a difficult situation for @data.characters.f1_son_18.name and his father!  \n\nLet's think about how @data.characters.f1_father.name supported @data.characters.f1_son_18.name through this crisis."
-        },
-        "quiz_1_question": {
-          "eng": "What skills did @data.characters.f1_father.name use?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Take a deep breath and pause before responding"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "That's right! \n\nAll these skills can help in a crisis."
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Listen calmly to your teen"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "That's right! \n\nAll these skills can help in a crisis."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Praise your teen for sharing"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "That's right! \n\nAll these skills can help in a crisis."
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Use problem solving skills"
-        },
-        "quiz_1_feedback_4": {
-          "eng": "That's right! \n\nAll these skills can help in a crisis."
-        },
-        "quiz_1_option_5_text": {
-          "eng": "Work out where you can get help"
-        },
-        "quiz_1_feedback_5": {
-          "eng": "That's right! \n\nAll these skills can help in a crisis."
-        }
-      },
-      "quiz_1_question": "What skills did @data.characters.f1_father.name use?",
-      "quiz_1_option_1_text": "Take a deep breath and pause before responding",
-      "quiz_1_feedback_1": "That's right! \n\nAll these skills can help in a crisis.",
-      "quiz_1_option_2_text": "Listen calmly to your teen",
-      "quiz_1_feedback_2": "That's right! \n\nAll these skills can help in a crisis.",
-      "quiz_1_option_3_text": "Praise your teen for sharing",
-      "quiz_1_feedback_3": "That's right! \n\nAll these skills can help in a crisis.",
-      "quiz_1_option_4_text": "Use problem solving skills",
-      "quiz_1_feedback_4": "That's right! \n\nAll these skills can help in a crisis.",
-      "quiz_1_option_5_text": "Work out where you can get help",
-      "quiz_1_feedback_5": "That's right! \n\nAll these skills can help in a crisis."
+      "quiz_1_feedback_5": "That’s right!\n\nAll these skills can help in a crisis."
     },
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_1_icon_asset": "images/icons/star_filled_blue.png",
       "section_2_icon_asset": "images/icons/speech_bubble_blue.png",
       "section_3_icon_asset": "images/icons/brain_blue.png",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Crisis can make us feel angry or helpless. But this is when our teens really need us to breathe, listen and think. \n\nHere are some tips to help you deal with a crisis!",
       "_translations": {
         "text_1_facilitator": {
@@ -598,15 +380,11 @@
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {
-          "tz_sw": true
-        },
+        "section_3_text": {},
         "section_3_button_text": {
           "tz_sw": true
         },
-        "section_3_extra_text": {
-          "tz_sw": true
-        }
+        "section_3_extra_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -628,13 +406,13 @@
           "eng": "THINK"
         },
         "section_3_text": {
-          "eng": "Talk with your teen. What might help the situation? You might need to make immediate plans now and then long-term plans later."
+          "eng": "Talk with your teen. What might help the situation? Reach out to the available support around you, in your community, and online."
         },
         "section_3_button_text": {
           "eng": "More tips"
         },
         "section_3_extra_text": {
-          "eng": "You can be proud of yourself for exploring ways to get help!"
+          "eng": "You might need to make immediate plans now and then long-term plans later. Remember, you can find Support Contacts in the @global.app_name Library."
         }
       },
       "section_1_title": "BREATHE",
@@ -642,14 +420,15 @@
       "section_2_title": "LISTEN",
       "section_2_text": "Tell them you are there for them and love them.",
       "section_3_title": "THINK",
-      "section_3_text": "Talk with your teen. What might help the situation? You might need to make immediate plans now and then long-term plans later.",
+      "section_3_text": "Talk with your teen. What might help the situation? Reach out to the available support around you, in your community, and online.",
       "section_3_button_text": "More tips",
-      "section_3_extra_text": "You can be proud of yourself for exploring ways to get help!"
+      "section_3_extra_text": "You might need to make immediate plans now and then long-term plans later. Remember, you can find Support Contacts in the @global.app_name Library."
     },
     {
       "id": "practise_1",
       "category_id": "practise",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "It is helpful to practise dealing with crises before something happens.\n\nLet's look at five family crisis examples together. Imagine you are the parent: What would you do?\n\nRemember: BREATHE - LISTEN - THINK",
       "_translations": {
         "text_1_facilitator": {
@@ -665,71 +444,42 @@
     {
       "id": "practise_2",
       "category_id": "practise",
-      "image_asset": "/images/teen_modules/crisis/crisis_learn_t_1.svg",
-      "character_1_id": "f2_son_15",
+      "image_asset": "/images/teen_modules/crisis/crisis_learn_t_2.svg",
+      "character_1_id": "f1_daughter_16",
       "nested": false,
-      "text_1_facilitator": "Crisis 1: @data.characters.f2_son_15.name fights at school.\n\nHow could you respond to @data.characters.f2_son_15.name?",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
+      "text_1_facilitator": "Crisis 1: @data.characters.f1_daughter_16.name gets pregnant.\n\nHow could you respond to @data.characters.f1_daughter_16.name?",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "text_1_facilitator": {},
+        "character_1_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Crisis 1: @data.characters.f2_son_15.name fights at school.\n\nHow could you respond to @data.characters.f2_son_15.name?"
+          "eng": "Crisis 1: @data.characters.f1_daughter_16.name gets pregnant.\n\nHow could you respond to @data.characters.f1_daughter_16.name?"
         },
         "character_1_text": {
-          "eng": "I have never done this before. And now they will expel me."
+          "eng": "I am so ashamed. I do not know what to do"
         }
       },
-      "character_1_text": "I have never done this before. And now they will expel me."
+      "character_1_text": "I am so ashamed. I do not know what to do"
     },
     {
       "id": "practise_3",
       "category_id": "practise",
-      "image_asset": "/images/teen_modules/crisis/crisis_learn_t_2.svg",
-      "character_1_id": "f1_daughter_16",
-      "nested": false,
-      "text_1_facilitator": "Crisis 2: @data.characters.f1_daughter_16.name gets pregnant.\n\nHow could you respond to @data.characters.f1_daughter_16.name?",
-      "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Crisis 2: @data.characters.f1_daughter_16.name gets pregnant.\n\nHow could you respond to @data.characters.f1_daughter_16.name?"
-        },
-        "character_1_text": {
-          "eng": "@data.characters.f1_father.role_name, I am so ashamed. I do not know what to do."
-        }
-      },
-      "character_1_text": "@data.characters.f1_father.role_name, I am so ashamed. I do not know what to do."
-    },
-    {
-      "id": "practise_4",
-      "category_id": "practise",
       "image_asset": "/images/teen_modules/crisis/crisis_learn_t_3.svg",
       "character_1_id": "f1_son_18",
       "nested": false,
-      "text_1_facilitator": "Crisis 3: @data.characters.f1_son_18.name makes a girl pregnant.\n\nHow could you respond to @data.characters.f1_son_18.name?",
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
+      "text_1_facilitator": "Crisis 2: @data.characters.f1_son_18.name makes a girl pregnant.\n\nHow could you respond to @data.characters.f1_son_18.name?",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "character_1_text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Crisis 3: @data.characters.f1_son_18.name makes a girl pregnant.\n\nHow could you respond to @data.characters.f1_son_18.name?"
+          "eng": "Crisis 2: @data.characters.f1_son_18.name makes a girl pregnant.\n\nHow could you respond to @data.characters.f1_son_18.name?"
         },
         "character_1_text": {
           "eng": "I do not want to have a baby."
@@ -738,11 +488,36 @@
       "character_1_text": "I do not want to have a baby."
     },
     {
+      "id": "practise_4",
+      "category_id": "practise",
+      "image_asset": "/images/teen_modules/crisis/crisis_learn_t_1.svg",
+      "character_1_id": "f2_son_15",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
+      "text_1_facilitator": "Crisis 3: @data.characters.f2_son_15.name fights at school.\n\nHow could you respond to @data.characters.f2_son_15.name?",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Crisis 3: @data.characters.f2_son_15.name fights at school.\n\nHow could you respond to @data.characters.f2_son_15.name?"
+        },
+        "character_1_text": {
+          "eng": "I have never done this before. And now they will expel me."
+        }
+      },
+      "character_1_text": "I have never done this before. And now they will expel me."
+    },
+    {
       "id": "practise_5",
       "category_id": "practise",
       "image_asset": "/images/teen_modules/crisis/crisis_learn_t_4.svg",
       "character_1_id": "friend_female_1",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Crisis 4: Someone in the family may get sick.\n\nHow could you respond in this situation?",
       "_translations": {
         "text_1_facilitator": {
@@ -768,29 +543,29 @@
       "image_asset": "/images/teen_modules/crisis/crisis_learn_t_5.svg",
       "character_1_id": "f2_daughter_19",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Crisis 5: @data.characters.f2_daughter_19.name is pressured into sex by her boyfriend.\n\nHow could you respond to @data.characters.f2_daughter_19.name?",
       "_translations": {
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "character_1_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Crisis 5: @data.characters.f2_daughter_19.name is pressured into sex by her boyfriend.\n\nHow could you respond to @data.characters.f2_daughter_19.name?"
         },
         "character_1_text": {
-          "eng": "I didn't really want to. Now I will get pregnant or be ill. @data.characters.f2_grandmother.role_name, I am so scared..."
+          "eng": "I didn't really want to. Now I will get pregnant or be ill. Grandmother, I am so scared..."
         }
       },
-      "character_1_text": "I didn't really want to. Now I will get pregnant or be ill. @data.characters.f2_grandmother.role_name, I am so scared..."
+      "character_1_text": "I didn't really want to. Now I will get pregnant or be ill. Grandmother, I am so scared..."
     },
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "This week's home activity is to look back at the five crisis examples and discuss what you would do together if this happened to a friend or in your family.",
       "_translations": {
         "text_1_facilitator": {
@@ -865,6 +640,7 @@
       "media_type": "audio",
       "media_asset": "/audio/teen/testimonials/teen/teen_test_crisis_t.mp3",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
       "text_1_facilitator": "Remember to support and encourage each other. It is hard to remain calm and listen to each other in a crisis - you can be proud of yourself.",
       "_translations": {
         "text_1_facilitator": {
@@ -890,12 +666,41 @@
       },
       "media_title": "@data.characters.media_daughter_12.name overcame a difficult crisis with the help of her mother. Tap play to learn how",
       "media_transcript": "Two years ago, I was raped by my uncle who stayed in our yard. I did not tell my mother, because I was afraid she would hit me, shout at me, or even throw me out of the house. I did not have anywhere else to go.\n\nWhen my mother started with @global.app_name, we started spending more time together. I was still afraid, but in the end I shared it with my mother. My mom did not shout, but she listened and told me it is not my fault. We went to the police and the clinic together. I am so grateful I do not have to carry this secret anymore."
+    },
+    {
+      "id": "check_out_1",
+      "category_id": "check_out",
+      "media_type": "video",
+      "media_asset": "/video/plh_video/lets_slow_down.mp4",
+      "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1PShOG6JlfAxudwmQ343umPWH7r_HrY3OVa597TnaaF8",
+      "text_2": "Well done for taking time for yourself today. 🎉",
+      "_translations": {
+        "text_2": {},
+        "media_title": {},
+        "media_transcript": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "text_2": {
+          "eng": "Well done for taking time for yourself today. 🎉"
+        },
+        "media_title": {
+          "eng": "Here is a short video to help you slow down before you go"
+        },
+        "media_transcript": {
+          "eng": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
+        }
+      },
+      "media_title": "Here is a short video to help you slow down before you go",
+      "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more"
     }
   ],
   "_source": {
-    "name": "teens_tz_GT",
-    "path": "data/TZ modules 2.0.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1o6VZyVv4Pkv2sO7V6pbVuIvdNfGTh8cfM6c5XbVoPJA"
+    "name": "tz_GT",
+    "path": "TZ modules 2.1.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/17CTGD2Cx3_Nve0IZUceahZ5831iqZUPpOdqa0fYRwzM"
   },
   "_metadata": {
     "nested": {
