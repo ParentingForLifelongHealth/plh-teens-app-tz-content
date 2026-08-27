@@ -5,7 +5,7 @@ const config = generateDeploymentConfig("plh_teens_tz");
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.4.35",
+  content_tag_latest: "1.4.36",
 };
 
 config.google_drive.sheets_folders = [
@@ -21,13 +21,46 @@ config.google_drive.sheets_folders = [
 config.google_drive.assets_folders = [
   { id: "1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", name: "kids_global_assets" },
   { id: "1OojRkFsq9fvqppH-Flt7AH6oQBJOhOlv", name: "2.0 assets" },
-  { id: "1Z0ngAYuVJFyPsERss5WdVB59nawuluK4", name: "assets_tz_en", remote: true },
-  { id: "1xIxFpNhgzSAPWL6VMkqKYcDWJthy4Xjr", name: "assets_tz_sw", remote: true }
+ // { id: "1Z0ngAYuVJFyPsERss5WdVB59nawuluK4", name: "assets_tz_en", remote: true },
+ // { id: "1xIxFpNhgzSAPWL6VMkqKYcDWJthy4Xjr", name: "assets_tz_sw", remote: true }
 ];
+
+config.canto = {
+  url: "https://parentingforlifelonghealth.canto.com",
+  sourceFolders: [
+    {
+      id: "H0LRC", name: "Tanzania ParentApp",
+      remote_assets: [
+        {
+          name: "assets_tz_sw",
+          condition: {
+            type: "custom_field",
+            field: "Language",
+            value: "Swahili",
+          },
+        },
+        {
+          name: "assets_tz_en",
+          condition: {
+            type: "custom_field",
+            field: "Language",
+            value: "English",
+          },
+        }
+      ],
+    }
+  ],
+  languageMappings: {
+    Swahili: "tz_sw",
+    English: "tz_en",
+  },
+  ...loadEncryptedConfig("canto.json"),
+}
 
 config.remote_assets = {
   provider: "firebase",
-  folderName: "asset_packs",
+  bucketName: "plh-teens-tz",
+  folderName: "remote_assets",
 };
 
 config.firebase = {
