@@ -16,7 +16,9 @@
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {}
+        "section_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -37,7 +39,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "text_1_facilitator": "Our topic today is Staying Safe.\n\nTo keep our teens safe, we need to understand their reality and the potential risky situations they can find themselves in.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -66,7 +70,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "text_1_facilitator": "We’ve looked at warning signs in the Teen Safety lesson. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -85,15 +91,33 @@
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "text_1_facilitator": "Here are four skills to help you and your teen stay safe!",
       "_translations": {
-        "text_1_facilitator": {},
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        },
+        "section_4_title": {
+          "tz_sw": true
+        },
+        "section_4_text": {
+          "tz_sw": true
+        },
         "section_4_button_text": {
           "tz_sw": true
         },
@@ -155,8 +179,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "text_1_facilitator": "Think about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -175,9 +203,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "text_1_facilitator": "This week's home activity is to talk with your teen about this Staying Safe module. Get them to practice saying NO!\n\nGo through the steps with your teen to identify what they are able to do, and practice saying NO as a first step to build their confidence.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {},
-        "quiz_1_question": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -277,8 +311,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1fw15KGQSEVnPN2nKc1uM6c8hlmlK99ZAx6QFgh39F9I",
       "text_2": "Well done for taking time for yourself today. 🎉",
       "_translations": {
-        "text_2": {},
-        "media_title": {},
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }

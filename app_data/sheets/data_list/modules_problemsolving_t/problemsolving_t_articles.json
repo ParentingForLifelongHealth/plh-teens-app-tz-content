@@ -54,7 +54,9 @@
         "media_title": {
           "tz_sw": true
         },
-        "media_transcript": {}
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -80,9 +82,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "text_1_facilitator": "Problem-solving together is an important skill for every family. Let’s see how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name handle a problem calmly and find a plan together.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -109,8 +117,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "character_1_text": "Just give me a moment. I am tired and now worried about having to repair this uniform.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
         "character_3_text": {
           "tz_sw": true
         }
@@ -140,9 +152,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "character_1_text": "Now tell me, what happened?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -169,9 +187,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "character_1_text": "He makes me so angry, I just want to hit him. Or maybe I should tell my teacher?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -197,8 +221,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "character_1_text": "That sounds like a good idea. I can speak with your teacher or the school — they know how to handle this safely.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -221,9 +249,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "character_1_text": "No, @data.characters.f2_son_15.name, skipping school won’t help. You have a right to be safe. Let’s practise what you can say if he threatens you again — something simple and firm.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -255,7 +289,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -281,7 +317,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "character_1_text": "I’m sorry he is still unkind. Let’s make a plan to help you stay safe. You can sit near your friends, stay close to the teacher during breaks, and walk home with someone you trust. I’ll also ask my friend who works at the school to quietly look out for you. We will keep checking what works.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -380,19 +418,31 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "text_1_facilitator": "Now let’s try problem-solving together: Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and her parents feel worried about it.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_1_id": {},
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
         "quiz_1_feedback_2_id": {},
-        "quiz_1_option_3_text": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_3_id": {},
-        "quiz_1_option_4_text": {},
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_4_id": {},
-        "quiz_1_option_5_text": {},
+        "quiz_1_option_5_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_5_id": {}
       },
       "_translatedFields": {
@@ -490,10 +540,18 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "text_1_facilitator": "This is a great option! \n\nBefore she worried alone, now they can come up with solutions together! \n\nTest all of the options to see how @data.characters.f1_daughter_16.name reacts",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -524,10 +582,18 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "text_1_facilitator": "This is a great option! \n\nBefore she worried alone, now they can come up with solutions together! \n\nTest all of the options to see how @data.characters.f1_daughter_16.name reacts",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -558,10 +624,18 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "text_1_facilitator": "This is a great option! \n\nBefore she worried alone, now they can come up with solutions together! \n\nTest all of the options to see how @data.characters.f1_daughter_16.name reacts",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -591,9 +665,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "text_1_facilitator": "This is a great option! \n\nBefore she worried alone, now they can come up with solutions together! \n\nTest all of the options to see how @data.characters.f1_daughter_16.name reacts",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -619,7 +699,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -746,8 +828,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/18Q_41f_U-4cX0GdI7tOkRj_G8yrzevifaC-UUdNoDco",
       "text_2": "Well done for taking time for yourself today. 🎉",
       "_translations": {
-        "text_2": {},
-        "media_title": {},
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }

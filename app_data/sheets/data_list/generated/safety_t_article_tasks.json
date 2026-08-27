@@ -10,8 +10,12 @@
       "media_type": "audio",
       "title": "Tap the play button to manage your stress",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -175,7 +179,9 @@
       "nested": false,
       "text_1_facilitator": "Teens stay safer when they know they can talk to you about anything.\n\nWith our support, they can learn to stay safe and make good decisions.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -253,7 +259,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
@@ -326,19 +334,39 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust.",
       "quiz_1_feedback_3": "Yes, all of these are warning signs! No one should push or convince you to do something you don’t want to do or feel unsure about. \n\nThink about the consequences, and only take advice from people you know and trust.",
@@ -416,7 +444,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_2": {},
+        "text_2": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         },
@@ -486,27 +516,45 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
         "character_3_text": {
           "tz_sw": true
         },
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_4": {}
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
       "quiz_1_feedback_3": "Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n\nHe may have done this before and could do it again. @data.characters.f2_son_15.name can try to find others with the same experience to help report him to a trusted adult.",
@@ -674,9 +722,15 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, these are serious warning signs.\n\nSharing sexual images without permission is wrong and a crime — especially when someone is under 18. @data.characters.friend_female_2.name might feel confused or ashamed. She needs to know that it’s not her fault and that she can talk to someone she trusts.\n\nTeens often get access to phones early, so open family conversations about phones and social media can help everyone stay safe.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -686,7 +740,9 @@
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
@@ -760,7 +816,9 @@
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -770,7 +828,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
@@ -830,14 +890,18 @@
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Great! You will need a:\n\n- 📄 Piece of paper (or old newspaper or a cardboard box) \n- 🖊️ Pen",
       "quiz_1_question": "Can you make this map together with your family now?",
@@ -864,7 +928,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/safe/safe_learn_t_1.svg",
       "text_2": "Draw a map of your teen’s community, with pictures of all the main places like streets, your house, school, shops, places your teen visits.\n\nYou can include your phone and other internet devices, as mobile apps and websites are also places where you and your teen can spend a lot of time!",
@@ -888,7 +954,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/safe/safe_learn_t_2.svg",
       "text_2": "- Which areas on your map are safe for teenagers? CIRCLE these\n- Which areas on your map are unsafe for teenagers? CROSS those off\n- What makes a place safe or unsafe?\n- What could you and your teen do to keep your teen safer? Is this different for boys and girls?\n- Looking at the places you mapped out, what rules could you come up with together to help your teen stay safe?",
@@ -912,7 +980,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/safe/safe_learn_t_3.svg",
       "text_2": "Sometimes, we can find ourselves in trouble.\n\n- Where can you and your teen get support when you face a crisis? MARK those areas with a little object like a stone or piece of paper.\n- Remember your phone and other internet devices. There is a lot of support available online!",
@@ -936,7 +1006,9 @@
       "nested": false,
       "text_1_facilitator": "Now that we understand our safe and unsafe places better, let’s look at an example where something simple, like a Safety Word, can help keep your teen safe.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         },
@@ -1009,7 +1081,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/safe/safe1_t_4.svg",
       "character_1_id": "f1_father",
@@ -1062,8 +1136,12 @@
       "character_2_id": "f1_mother",
       "character_1_text": "@data.characters.f1_mother.role_name, I just remembered, Aunty Cecilia said she will come visit tomorrow.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "*(on the other side of the phone)* I will send someone to pick you up now. Where are you?",
       "completed": false
@@ -1113,7 +1191,9 @@
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {},
+        "section_1_text": {
+          "tz_sw": true
+        },
         "text_1_facilitator": {
           "tz_sw": true
         },
@@ -1126,7 +1206,9 @@
         "section_2_button_text": {
           "tz_sw": true
         },
-        "section_2_extra_text": {},
+        "section_2_extra_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
@@ -1209,7 +1291,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "You can do it! Even starting the conversation is a big step towards helping your teen stay safe.",
       "quiz_1_feedback_3": "That's okay. It can feel hard at first, but small talks about safety make a big difference. Try again when you feel ready.",
@@ -1274,11 +1358,15 @@
       "nested": false,
       "media_title": "Here is a short video to help you slow down before you go",
       "_translations": {
-        "media_title": {},
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
       "text_2": "Well done for taking time for yourself today. 🎉",

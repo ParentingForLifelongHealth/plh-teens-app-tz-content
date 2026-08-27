@@ -48,9 +48,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "text_1_facilitator": "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected. Setting rules as a family helps build trust and responsibility for both teens and parents.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -76,7 +82,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "text_1_facilitator": "Let's read what happened with @data.characters.f1_son_18.name and his parents:",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         },
@@ -108,9 +116,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "text_1_facilitator": "Making rules as a team builds trust. Let’s see how @data.characters.f1_son_18.name and his parents did this the next day.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -136,8 +150,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "character_1_text": "That is right. It is also not safe in this area to be outside after sunset.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -159,7 +177,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "character_1_text": "I could come home at 8pm?",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -188,8 +208,12 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -215,8 +239,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "character_1_text": "Okay, @data.characters.f1_mother.role_name and @data.characters.f1_father.role_name.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -244,7 +272,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -272,14 +302,18 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
@@ -295,9 +329,15 @@
         "quiz_1_feedback_4": {
           "tz_sw": true
         },
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {},
-        "quiz_2_option_3_text": {},
+        "quiz_1_option_5_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_5": {
+          "tz_sw": true
+        },
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_2_option_4_text": {
           "tz_sw": true
         },
@@ -389,7 +429,9 @@
         "section_1_button_text": {
           "tz_sw": true
         },
-        "section_1_extra_text": {},
+        "section_1_extra_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },
@@ -399,11 +441,15 @@
         "section_2_button_text": {
           "tz_sw": true
         },
-        "section_2_extra_text": {},
+        "section_2_extra_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {}
+        "section_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -467,7 +513,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -493,7 +541,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "character_1_text": "You are a really great dancer! Tell me about why you like TikTok.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -517,7 +567,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "character_1_text": "I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n\nI know your friends look at TikTok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -534,7 +586,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "character_1_text": "Let’s look together online at how we can keep this fun for you but also safe. \n\nLook – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n\nCan we make a rule together that you can use TikTok, but with a private account? I trust you to know who to accept!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -700,8 +754,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "text_2": "Well done for taking time for yourself today. 🎉",
       "_translations": {
-        "text_2": {},
-        "media_title": {},
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }

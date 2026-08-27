@@ -12,7 +12,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1b3DjLNAG_9OjZFW94O1NJrU7gHaD6S7Fje0Tj0oVB8A",
       "title": "Tap the play button to take a quick pause",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -225,22 +227,54 @@
       "nested": false,
       "quiz_1_feedback_1": "Great!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_option_4_text": {},
-        "quiz_2_option_5_text": {}
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        },
+        "quiz_1_option_5_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_5": {
+          "tz_sw": true
+        },
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_2_option_5_text": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Fantastic!",
       "quiz_1_feedback_3": "Wonderful!",
@@ -475,11 +509,15 @@
         "section_4_title": {
           "tz_sw": true
         },
-        "section_4_text": {},
+        "section_4_text": {
+          "tz_sw": true
+        },
         "section_4_button_text": {
           "tz_sw": true
         },
-        "section_4_extra_text": {}
+        "section_4_extra_text": {
+          "tz_sw": true
+        }
       },
       "section_1_icon_asset": "images/icons/smile_eyes_down.svg",
       "section_2_icon_asset": "images/icons/eye_blue.png",
@@ -653,7 +691,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "That’s a good start! Look for small ways to relax, recognise your efforts, and reward yourself - even little moments of self-care can make a big difference.",
       "quiz_1_feedback_3": "That's okay. Try choosing one small, simple action like taking a deep breath or sitting quietly for a moment. Every little bit counts!",
@@ -687,7 +727,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "media_title": {},
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }
@@ -732,10 +774,18 @@
       "quiz_1_option_3_image_asset": "images/faces/sad.svg",
       "quiz_1_feedback_1": "That’s great to hear! Keep doing what helps you feel strong. Even small moments for yourself make a big difference.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -745,7 +795,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Thanks for checking in. “Okay” is a good start. Maybe try one small thing today just for you, like a short break or deep breath.",
       "quiz_1_feedback_3": "I’m glad you shared that. Remember, self-care keeps you strong for yourself and your family. Try one calming thing from this module or talk to someone you trust.",
@@ -776,11 +828,15 @@
       "nested": false,
       "media_title": "Here is a short video to help you slow down before you go",
       "_translations": {
-        "media_title": {},
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
       "text_2": "Well done for taking time for yourself today. 🎉",

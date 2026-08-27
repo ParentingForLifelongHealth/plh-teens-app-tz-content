@@ -11,7 +11,9 @@
       "media_type": "audio",
       "title": "Tap the play button for a short break",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -117,7 +119,9 @@
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {}
+        "section_1_text": {
+          "tz_sw": true
+        }
       },
       "section_1_text": "This module shares basic self-defence ideas. It cannot prepare you for every danger. If a partner or spouse is hurting you, fighting back can sometimes make things more dangerous. The safest choice is often to get away and get help.\n\nIf you need support, see the “Support Contacts” section in the @global.app_name Library for help.",
       "completed": false
@@ -142,7 +146,9 @@
       "nested": false,
       "text_1_facilitator": "Our topic today is Staying Safe.\n\nTo keep our teens safe, we need to understand their reality and the potential risky situations they can find themselves in.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -166,7 +172,9 @@
       "nested": false,
       "text_1_facilitator": "We’ve looked at warning signs in the Teen Safety lesson. Now let’s think—what can we do if we don’t feel safe?\n\nIf you feel unsafe, you can say or do anything to stay safe. The goal is to get away!",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -212,15 +220,33 @@
       "nested": false,
       "section_1_title": "SEE",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "text_1_facilitator": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
+        "section_1_title": {
+          "tz_sw": true
+        },
+        "section_1_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "section_2_title": {
+          "tz_sw": true
+        },
+        "section_2_text": {
+          "tz_sw": true
+        },
+        "section_3_title": {
+          "tz_sw": true
+        },
+        "section_3_text": {
+          "tz_sw": true
+        },
+        "section_4_title": {
+          "tz_sw": true
+        },
+        "section_4_text": {
+          "tz_sw": true
+        },
         "section_4_button_text": {
           "tz_sw": true
         },
@@ -259,8 +285,12 @@
       "nested": false,
       "text_1_facilitator": "Think about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n\nHow could she use her voice to get away?",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/svp/svp_usevoice_t.svg",
       "text_2": "**Together with your teen, find a chair and pretend it is the attacker. Practise saying/doing these responses:**\n\n- 🔈 Yell: \"No!\" \n- 🆘 Call for help: \"Someone help me!\" \n- ⚠️ Warn of consequences: \"I will call the police if you touch me again.\"\n- ⛔ Name the behaviour: \"Do not touch my bum.” or “Do not yell at me.”\n- 😳 Act crazy: \"Make a crazy scream or act like a gorilla!\"\n- 🤡 Use humour: “No lift for me, thanks. Last time I got a lift I threw up EVERYWHERE!”\n- 📱 Give something to get what you want: “I will give you my phone if you let me go.”",
@@ -311,7 +341,9 @@
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -321,8 +353,12 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "That is a good start! Every time you talk about safety, you make it easier for your teen to trust their instincts and speak up. Keep going!",
       "quiz_1_feedback_3": "That's okay. Safety talks can feel hard, but even one conversation can prepare your teen for real situations. You can try again when you are ready.",
@@ -388,11 +424,15 @@
       "nested": false,
       "media_title": "Here is a short video to help you slow down before you go",
       "_translations": {
-        "media_title": {},
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
       "text_2": "Well done for taking time for yourself today. 🎉",

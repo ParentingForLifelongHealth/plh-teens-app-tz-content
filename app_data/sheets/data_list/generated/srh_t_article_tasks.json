@@ -12,7 +12,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1b3DjLNAG_9OjZFW94O1NJrU7gHaD6S7Fje0Tj0oVB8A",
       "title": "Tap the play button to take a quick pause",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -221,9 +223,15 @@
       "nested": false,
       "text_1_facilitator": "Teens often learn different things about sex from school, friends, family, or social media - but this information isn’t always correct or right for their age.\n\nTalking about sex can feel uncomfortable. Parents and teens may even argue, especially if parents don’t agree with what their teen is doing.\n\nLet’s see how @data.characters.f2_grandfather.name and his grandson, @data.characters.f2_son_15.name, handled this.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {},
-        "character_1_text": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -254,9 +262,15 @@
       "nested": false,
       "text_2": "@data.characters.f2_son_15.name accidentally drops his bag, and a packet of condoms falls out.",
       "_translations": {
-        "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/srh/srh1_t_2.svg",
       "character_1_id": "f2_grandfather",
@@ -286,7 +300,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "But @data.characters.f2_grandfather.role_name, it’s not like that…!",
       "completed": false
@@ -309,8 +325,12 @@
       "character_2_id": "f2_son_15",
       "character_1_text": "No, no, no, @data.characters.f2_son_15.name! I will not have this discussion with you. Is that what you do at school? Talking about things not suited for your age instead of focusing on school? You won’t go out with those friends of yours anymore. You want to bring shame in this home. Stupid boy!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "No @data.characters.f2_grandfather.role_name, please don’t hit me, it is not what you think",
       "completed": false
@@ -375,27 +395,57 @@
       "nested": false,
       "quiz_1_feedback_1": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_option_4_text": {},
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_4": {
           "tz_sw": true
         },
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {}
+        "quiz_2_question": {
+          "tz_sw": true
+        },
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
       "quiz_1_feedback_3": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
@@ -448,14 +498,30 @@
       "nested": false,
       "quiz_1_feedback_1": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
       "quiz_1_feedback_3": "Yes, many families treat boys and girls differently. This often comes from worries about girls’ safety, boys being allowed more freedom, or old beliefs about how children should behave. This can mean girls are judged more strictly, while boys miss guidance on respect and responsibility.\n\nTalking about this helps us support both boys and girls in a fair and caring way.",
@@ -485,9 +551,15 @@
       "nested": false,
       "text_1_facilitator": "We saw how challenging that moment was for @data.characters.f2_grandfather.name and his grandson, @data.characters.f2_son_15.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/srh/srh2_t_1.svg",
       "character_1_id": "f1_mother",
@@ -520,9 +592,15 @@
         "text_2": {
           "tz_sw": true
         },
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/srh/srh2_t_2.svg",
       "character_1_id": "f1_mother",
@@ -551,8 +629,12 @@
       "character_2_id": "f1_mother",
       "character_1_text": "Actually… there is this boy, @data.characters.boyfriend_1.name. He asked if we could study together tomorrow.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Thank you for telling me. I do feel worried that it is not safe for you to spend time together. You may be pressured into doing something that you are not prepared to do. I don’t want to tell you who you can see, but we need to have some rules about how you spend time together with boys at your age.",
       "completed": false
@@ -606,7 +688,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother.role_name",
       "completed": false
@@ -686,7 +770,9 @@
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -816,7 +902,9 @@
         "text_2": {
           "tz_sw": true
         },
-        "quiz_1_option_4_text": {},
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_1_id": {},
         "quiz_1_feedback_2_id": {},
         "quiz_1_feedback_3_id": {},
@@ -1092,16 +1180,36 @@
       "nested": false,
       "quiz_1_feedback_1": "Talk with your teen about normal body changes like growing taller, more body hair, voice changes, breasts or periods, and stronger emotions or liking someone. Explain that everyone grows at their own pace. Encourage them to ask you or another trusted adult any questions.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {}
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Help your teen understand how pregnancy happens and how infections like HIV and chlamydia can spread through sex. Explain that condoms help protect against infections and pregnancy. Early pregnancy can affect their health, school and future plans. If your teen gets pregnant, support them and make sure they get the help they need.",
       "quiz_1_feedback_3": "Make sure that your teen knows that others should always treat them with respect and kindness, and they should do the same. In relationships, both people need to feel safe and say yes without pressure. This is called ‘consent’. Teens can say ‘no’ at any time.",
@@ -1174,7 +1282,9 @@
         "section_2_button_text": {
           "tz_sw": true
         },
-        "section_2_extra_text": {},
+        "section_2_extra_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
@@ -1184,7 +1294,9 @@
         "section_3_button_text": {
           "tz_sw": true
         },
-        "section_3_extra_text": {}
+        "section_3_extra_text": {
+          "tz_sw": true
+        }
       },
       "section_1_text": "Build a strong relationship with your teen by spending time with them and showing them you trust them. Create a safe, encouraging space, and avoid judging them.\n\nThat will make your teen share their questions and worries with you, when they need advice or are in a potentially dangerous situation.",
       "text_1_facilitator": "Discussing body changes and intimate relationships can be uncomfortable, but it is so important in order to keep your teen happy, healthy and safe. \n\nHere are some skills to help you get started.",
@@ -1255,7 +1367,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "You are doing so well! Even starting a small conversation makes a big difference. Keep going - your teen will appreciate your support.",
       "quiz_1_feedback_3": "That's okay. It is normal for these talks to feel a little uncomfortable at first. Try again another time - every small step counts.",
@@ -1289,8 +1403,12 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "media_title": {},
-        "media_transcript": {}
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "media_title": "@data.characters.media_male_8.name learned a lot from honest talks with his parents. Tap play to hear their story",
       "media_transcript": "As teens, we hear a lot about sex at school and online. Some of my friends said they were already having sex and told me it makes you a ‘real man’ and I was scared to tell my parents.\n\nWhen we did @global.app_name, we made a family rule to ask questions instead of keeping secrets. When I shared what I’d heard, my parents stayed calm and explained what sex really means — and that real friends never pressure you.\n\nNow, whenever I’m unsure about something, I know I can talk to my parents and we can figure out solutions together.",
@@ -1316,8 +1434,12 @@
       "nested": false,
       "text_2": "Well done for taking time for yourself today. 🎉",
       "_translations": {
-        "text_2": {},
-        "media_title": {},
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }

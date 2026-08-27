@@ -15,8 +15,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "text_1_facilitator": "Today's topic is about calm consequences.\n\nOur actions have consequences. Some consequences happen naturally (“if you break something, you can’t use it anymore”). \n\nOther consequences we set as a family to motivate us to follow the rules (“if you come home late, you can’t go out with friends tomorrow”).",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }
@@ -44,9 +48,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "text_1_facilitator": "When your teen behaves well you praise them, and when they break an agreed rule you give a calm consequence. \n\nCalm consequences work best when they are fair, agreed on together, and used consistently — not in anger.",
       "_translations": {
-        "text_1_facilitator": {},
-        "media_title": {},
-        "media_transcript": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -128,7 +138,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -149,7 +161,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "character_1_text": "That’s unfair! You never listen to me!! Why do I even bother trying to talk to you?!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -167,17 +181,27 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_1_option_2_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_2_question": {
           "tz_sw": true
         },
@@ -193,7 +217,9 @@
         "quiz_2_feedback_2": {
           "tz_sw": true
         },
-        "quiz_2_option_3_text": {},
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_2_feedback_3": {
           "tz_sw": true
         },
@@ -411,7 +437,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -493,7 +521,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -519,8 +549,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "character_1_text": "It is WAY past the time you were supposed to be home!\n\nWe talked about this, it is dangerous to stay out late.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -542,7 +576,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "character_1_text": "Okay you are right, I am sorry. It scares me when you do things that are not safe. Now tell me, why were you late?",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -566,7 +602,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "character_1_text": "I know it can be hard to say no to your friends. To be honest, I also find this hard sometimes. \n\nLet’s talk more in the morning so we can work out how you can handle this better with your friends.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -587,16 +625,30 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {},
-        "quiz_1_question": {},
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {}
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -676,7 +728,9 @@
         "quiz_1_option_5_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_5": {}
+        "quiz_1_feedback_5": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -736,19 +790,27 @@
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "text_1_facilitator": "Teens often break rules — it’s a normal part of growing up.\n\nWe can guide them without anger or violence. Calm consequences help them learn from their actions and take responsibility.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
-        "quiz_1_option_1_text": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
-        "quiz_1_option_3_text": {},
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_3": {
           "tz_sw": true
         }
@@ -798,11 +860,15 @@
         "quiz_1_question": {
           "tz_sw": true
         },
-        "quiz_1_option_1_text": {},
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
-        "quiz_1_option_2_text": {},
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_2": {
           "tz_sw": true
         },
@@ -966,7 +1032,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "text_1_facilitator": "Your home activity this week is to try using one **positive consequence** when your teen does something well — and one **negative consequence** when they break a household rule.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "text_2": {
           "tz_sw": true
         },
@@ -1072,8 +1140,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1JcySmsBQMLwEpfHlt9fFH4tUGAww8H7O-ntPkt4hlTQ",
       "text_2": "Well done for taking time for yourself today. 🎉",
       "_translations": {
-        "text_2": {},
-        "media_title": {},
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }
