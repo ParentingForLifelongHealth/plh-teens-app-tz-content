@@ -403,6 +403,18 @@
     "md5Checksum": "67a36d22ec7ac03ff60c1af08227e4df",
     "size_kb": 25.4
   },
+  "images/icons/balance_blue.png": {
+    "md5Checksum": "1c98d6a4ecc168045d7e1571953593b2",
+    "size_kb": 4.7
+  },
+  "images/icons/book_outline_blue.svg": {
+    "md5Checksum": "1b287c85e36a3375196a2a6ee7a0bca3",
+    "size_kb": 0.7
+  },
+  "images/icons/book_outline_white.svg": {
+    "md5Checksum": "12c477faa57812b7a16bc6a0d0424c06",
+    "size_kb": 0.7
+  },
   "images/icons/brain_blue.png": {
     "md5Checksum": "efeb76494b51228450e4d123d0e7c1af",
     "size_kb": 5.2
@@ -442,6 +454,10 @@
   "images/icons/document.svg": {
     "md5Checksum": "da7bbdc1985249219cfb178f5d1ea514",
     "size_kb": 7.3
+  },
+  "images/icons/expand_circle_right.png": {
+    "md5Checksum": "668d46c68a50b5862ae016cc05b8fa42",
+    "size_kb": 0.9
   },
   "images/icons/expand_circle_right.svg": {
     "md5Checksum": "a72d1868e1782c052aa829835234ac0d",
@@ -515,6 +531,10 @@
     "md5Checksum": "cf69cc2e8ba1f0aa7d15366c4d8df711",
     "size_kb": 3.5
   },
+  "images/icons/football_blue.png": {
+    "md5Checksum": "54b732c820a451491d4f721907654849",
+    "size_kb": 5.1
+  },
   "images/icons/globe-outline.svg": {
     "md5Checksum": "aa225a8e2cece01c64a3ec4d746f12ed",
     "size_kb": 0.8
@@ -548,8 +568,8 @@
     "size_kb": 4.9
   },
   "images/icons/heart_filled_red.png": {
-    "md5Checksum": "a303391b7325f4f7c8dad0d4f1220c8e",
-    "size_kb": 0.8
+    "md5Checksum": "17607eb5fd42929420bcff99c3e7e3ff",
+    "size_kb": 1.4
   },
   "images/icons/heart_filled_red.svg": {
     "md5Checksum": "b80dfa998c73b79fb2d0c7274f47f69c",
@@ -807,6 +827,10 @@
     "md5Checksum": "23c6ab14da736ba0d11b553c81afb5e0",
     "size_kb": 43.7
   },
+  "images/logos/donors/ERC-EU.png": {
+    "md5Checksum": "0059207e824ad297982b373928877b15",
+    "size_kb": 209.7
+  },
   "images/logos/donors/ERC.png": {
     "md5Checksum": "f69794db8b870aa39347cd16eaf1f968",
     "size_kb": 321.9
@@ -839,9 +863,97 @@
     "md5Checksum": "771bd4a2c6652dfeb0ee616a03f4240a",
     "size_kb": 90.5
   },
+  "images/logos/donors/Wellspring.jpeg": {
+    "md5Checksum": "2554d90e86de65bf038fc7962399a99e",
+    "size_kb": 106.5
+  },
+  "images/logos/donors/safe_online.png": {
+    "md5Checksum": "7191614124a086fe7c9036d105f70db4",
+    "size_kb": 65.8
+  },
   "images/logos/favicon.png": {
     "md5Checksum": "2265c040569691441d445a1696bd5035",
     "size_kb": 6.3
+  },
+  "images/logos/partners/CWBSA.png": {
+    "md5Checksum": "d5e02d5b088e5c80cd93a7af666fc9e1",
+    "size_kb": 84.4
+  },
+  "images/logos/partners/Exeter.png": {
+    "md5Checksum": "f8806c3baf9ccc107271d65f56c2bce7",
+    "size_kb": 140.5
+  },
+  "images/logos/partners/GISP.png": {
+    "md5Checksum": "78bf5a94dea5752f131d77dfbf71be84",
+    "size_kb": 30.5
+  },
+  "images/logos/partners/ICS_SP.jpg": {
+    "md5Checksum": "17b2bf4042cf4004b85c973ad9426e15",
+    "size_kb": 228.6
+  },
+  "images/logos/partners/IDEMS.png": {
+    "md5Checksum": "14708fffe8153ad45cd1834bb72f1944",
+    "size_kb": 42.7
+  },
+  "images/logos/partners/NIMR.png": {
+    "md5Checksum": "b6cab9812df99df7fcdc89aaf6094c05",
+    "size_kb": 225
+  },
+  "images/logos/partners/Oxford.png": {
+    "md5Checksum": "534a92b9cf93f74beeba66da1541ce29",
+    "size_kb": 93.7
+  },
+  "images/logos/partners/PLH.png": {
+    "md5Checksum": "7f8d6447bea922cc433afd57a5836d4e",
+    "size_kb": 33.9
+  },
+  "images/logos/partners/UCT.png": {
+    "md5Checksum": "07285fa8c3bedf764d5f18de4c315d00",
+    "size_kb": 168
+  },
+  "images/logos/partners/UNICEF.png": {
+    "md5Checksum": "7dc237af042a9dcf2f2346ea4f3b03e8",
+    "size_kb": 68.8
+  },
+  "images/logos/partners/Vodacom.png": {
+    "md5Checksum": "8778fc9ce3b6042ac77a3f87b3d2e013",
+    "size_kb": 59.2
+  },
+  "images/logos/partners/WHO.jpeg": {
+    "md5Checksum": "da9edd7c2b2a20419a5fbc9b3fa0b8f6",
+    "size_kb": 310.7
+  },
+  "images/logos/partners/favicon.png": {
+    "md5Checksum": "4d69d00da738dcea1c6c54a1a7814b27",
+    "size_kb": 149.9
+  },
+  "images/logos/partners/plh_logomark.png": {
+    "md5Checksum": "50743ae3369e45e94d5495af2fe5b1e3",
+    "size_kb": 20.5
+  },
+  "images/logos/partners/plh_white.png": {
+    "md5Checksum": "e73f142f2fd4c4d5d66cc438699a032c",
+    "size_kb": 12.8
+  },
+  "images/logos/partners/plh_white.svg": {
+    "md5Checksum": "13fd07dd63d468100f36e87dcb4c276a",
+    "size_kb": 256.1
+  },
+  "images/logos/partners/sino_horizontal.svg": {
+    "md5Checksum": "06a8668df87e64b5e494c555d73c4472",
+    "size_kb": 251
+  },
+  "images/logos/partners/sino_mark.svg": {
+    "md5Checksum": "a89c023dc10e0b7c4b98dab70e9c1fbe",
+    "size_kb": 461.7
+  },
+  "images/logos/partners/sino_white.svg": {
+    "md5Checksum": "13fd07dd63d468100f36e87dcb4c276a",
+    "size_kb": 256.1
+  },
+  "images/logos/partners/tz_ministry.svg": {
+    "md5Checksum": "75254a68cff7876ec0583e3210461773",
+    "size_kb": 122.4
   },
   "images/logos/plh_logomark.png": {
     "md5Checksum": "50743ae3369e45e94d5495af2fe5b1e3",
@@ -1624,8 +1736,8 @@
     "size_kb": 13482.2
   },
   "video/plh_video/lets_slow_down.srt": {
-    "md5Checksum": "998f3bc39a07a0ddf827e63af3f8507c",
-    "size_kb": 1.8
+    "md5Checksum": "77e6d4265f602b20745a738b9809bb15",
+    "size_kb": 1.7
   },
   "video/plh_video/lets_slow_down.vtt": {
     "md5Checksum": "1c172282f4c58766a03562d1eb88a4a4",

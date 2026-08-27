@@ -295,13 +295,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "35069 KB",
-        "MB": "35.1 MB"
+        "KB": "36814 KB",
+        "MB": "36.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "9575 KB",
-        "MB": "9.6 MB"
+        "KB": "11241 KB",
+        "MB": "11.2 MB"
       }
     ]
   },
@@ -328,12 +328,28 @@
         "size_kb": 0.6
       },
       {
+        "path": "images/icons/balance_blue.png",
+        "size_kb": 4.7
+      },
+      {
+        "path": "images/icons/book_outline_blue.svg",
+        "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/book_outline_white.svg",
+        "size_kb": 0.7
+      },
+      {
         "path": "images/icons/cancel.svg",
         "size_kb": 1.7
       },
       {
         "path": "images/icons/document.svg",
         "size_kb": 7.3
+      },
+      {
+        "path": "images/icons/expand_circle_right.png",
+        "size_kb": 0.9
       },
       {
         "path": "images/icons/faces/happier.svg",
@@ -358,6 +374,10 @@
       {
         "path": "images/icons/feather.svg",
         "size_kb": 3.5
+      },
+      {
+        "path": "images/icons/football_blue.png",
+        "size_kb": 5.1
       },
       {
         "path": "images/icons/heart.svg",
@@ -468,8 +488,44 @@
         "size_kb": 310.7
       },
       {
+        "path": "images/logos/donors/ERC-EU.png",
+        "size_kb": 209.7
+      },
+      {
+        "path": "images/logos/donors/Wellspring.jpeg",
+        "size_kb": 106.5
+      },
+      {
+        "path": "images/logos/donors/safe_online.png",
+        "size_kb": 65.8
+      },
+      {
         "path": "images/logos/favicon.png",
         "size_kb": 6.3
+      },
+      {
+        "path": "images/logos/partners/Exeter.png",
+        "size_kb": 140.5
+      },
+      {
+        "path": "images/logos/partners/favicon.png",
+        "size_kb": 149.9
+      },
+      {
+        "path": "images/logos/partners/plh_white.png",
+        "size_kb": 12.8
+      },
+      {
+        "path": "images/logos/partners/sino_horizontal.svg",
+        "size_kb": 251
+      },
+      {
+        "path": "images/logos/partners/sino_mark.svg",
+        "size_kb": 461.7
+      },
+      {
+        "path": "images/logos/partners/sino_white.svg",
+        "size_kb": 256.1
       },
       {
         "path": "images/logos/plh_white.png",
@@ -713,7 +769,7 @@
       },
       {
         "path": "video/plh_video/lets_slow_down.srt",
-        "size_kb": 1.8
+        "size_kb": 1.7
       },
       {
         "path": "video/plh_video/lets_slow_down.vtt",
@@ -755,76 +811,6 @@
       },
       {
         "path": "images/logos/app_logo.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/CWBSA.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/GISP.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/ICS_SP.jpg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/IDEMS.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/NIMR.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/Oxford.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/PLH.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/UCT.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/UNICEF.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/Vodacom.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/WHO.jpeg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/plh_logomark.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/plh_white.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/tz_ministry.svg",
         "count": 1,
         "missing": true
       },
@@ -1610,7 +1596,7 @@
       {
         "path": "images/icons/heart_filled_red.png",
         "count": 3,
-        "size_kb": 0.8
+        "size_kb": 1.4
       },
       {
         "path": "images/icons/heart_filled_red.svg",
@@ -1841,6 +1827,76 @@
         "path": "images/logos/donors/WCF.jpg",
         "count": 1,
         "size_kb": 90.5
+      },
+      {
+        "path": "images/logos/partners/CWBSA.png",
+        "count": 1,
+        "size_kb": 84.4
+      },
+      {
+        "path": "images/logos/partners/GISP.png",
+        "count": 1,
+        "size_kb": 30.5
+      },
+      {
+        "path": "images/logos/partners/ICS_SP.jpg",
+        "count": 1,
+        "size_kb": 228.6
+      },
+      {
+        "path": "images/logos/partners/IDEMS.png",
+        "count": 1,
+        "size_kb": 42.7
+      },
+      {
+        "path": "images/logos/partners/NIMR.png",
+        "count": 1,
+        "size_kb": 225
+      },
+      {
+        "path": "images/logos/partners/Oxford.png",
+        "count": 1,
+        "size_kb": 93.7
+      },
+      {
+        "path": "images/logos/partners/PLH.png",
+        "count": 1,
+        "size_kb": 33.9
+      },
+      {
+        "path": "images/logos/partners/UCT.png",
+        "count": 1,
+        "size_kb": 168
+      },
+      {
+        "path": "images/logos/partners/UNICEF.png",
+        "count": 1,
+        "size_kb": 68.8
+      },
+      {
+        "path": "images/logos/partners/Vodacom.png",
+        "count": 1,
+        "size_kb": 59.2
+      },
+      {
+        "path": "images/logos/partners/WHO.jpeg",
+        "count": 1,
+        "size_kb": 310.7
+      },
+      {
+        "path": "images/logos/partners/plh_logomark.png",
+        "count": 1,
+        "size_kb": 20.5
+      },
+      {
+        "path": "images/logos/partners/plh_white.svg",
+        "count": 2,
+        "size_kb": 256.1
+      },
+      {
+        "path": "images/logos/partners/tz_ministry.svg",
+        "count": 1,
+        "size_kb": 122.4
       },
       {
         "path": "images/logos/plh_logomark.png",

@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 35069 KB | 35.1 MB |
-| unused | 9575 KB | 9.6 MB |
+| total | 36814 KB | 36.8 MB |
+| unused | 11241 KB | 11.2 MB |
 </details>
 
 <details open>
@@ -104,14 +104,19 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
 | images/faces/happier.svg | 0.6 |
+| images/icons/balance_blue.png | 4.7 |
+| images/icons/book_outline_blue.svg | 0.7 |
+| images/icons/book_outline_white.svg | 0.7 |
 | images/icons/cancel.svg | 1.7 |
 | images/icons/document.svg | 7.3 |
+| images/icons/expand_circle_right.png | 0.9 |
 | images/icons/faces/happier.svg | 0.6 |
 | images/icons/faces/happiest.svg | 1.3 |
 | images/icons/faces/sadder.svg | 1.1 |
 | images/icons/faces/saddest.svg | 2 |
 | images/icons/faces/tired.svg | 2.4 |
 | images/icons/feather.svg | 3.5 |
+| images/icons/football_blue.png | 5.1 |
 | images/icons/heart.svg | 0.6 |
 | images/icons/in_progress_white.svg | 1.1 |
 | images/icons/key.svg | 5.5 |
@@ -139,7 +144,16 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/UNICEF.png | 68.8 |
 | images/logos/Vodacom.png | 59.2 |
 | images/logos/WHO.jpeg | 310.7 |
+| images/logos/donors/ERC-EU.png | 209.7 |
+| images/logos/donors/Wellspring.jpeg | 106.5 |
+| images/logos/donors/safe_online.png | 65.8 |
 | images/logos/favicon.png | 6.3 |
+| images/logos/partners/Exeter.png | 140.5 |
+| images/logos/partners/favicon.png | 149.9 |
+| images/logos/partners/plh_white.png | 12.8 |
+| images/logos/partners/sino_horizontal.svg | 251 |
+| images/logos/partners/sino_mark.svg | 461.7 |
+| images/logos/partners/sino_white.svg | 256.1 |
 | images/logos/plh_white.png | 12.8 |
 | images/logos/plh_white.svg | 256.1 |
 | images/logos/tz_ministry.svg | 122.4 |
@@ -200,7 +214,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/svp/svp_usebody_t_1.gif | 2008.5 |
 | images/teen_modules/svp/svp_usebody_t_2.gif | 844.1 |
 | lottie/bulging_circles.txt | 0.2 |
-| video/plh_video/lets_slow_down.srt | 1.8 |
+| video/plh_video/lets_slow_down.srt | 1.7 |
 | video/plh_video/lets_slow_down.vtt | 1.8 |
 </details>
 
@@ -218,20 +232,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/icons/local_library_white.svg | 1 |
 | images/icons/settings_white.svg | 1 |
 | images/logos/app_logo.png | 1 |
-| images/logos/partners/CWBSA.png | 1 |
-| images/logos/partners/GISP.png | 1 |
-| images/logos/partners/ICS_SP.jpg | 1 |
-| images/logos/partners/IDEMS.png | 1 |
-| images/logos/partners/NIMR.png | 1 |
-| images/logos/partners/Oxford.png | 1 |
-| images/logos/partners/PLH.png | 1 |
-| images/logos/partners/UCT.png | 1 |
-| images/logos/partners/UNICEF.png | 1 |
-| images/logos/partners/Vodacom.png | 1 |
-| images/logos/partners/WHO.jpeg | 1 |
-| images/logos/partners/plh_logomark.png | 1 |
-| images/logos/partners/plh_white.svg | 2 |
-| images/logos/partners/tz_ministry.svg | 1 |
 | images/onboarding/facilitator_onboarding_icon.svg | 1 |
 | images/teen_modules/crisis/crisis1_t_7.svg | 2 |
 | images/teen_modules/learn/learn1_t_1.svg | 2 |
@@ -396,7 +396,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/heart_filled.svg | 1.4 | 1 |
 | images/icons/heart_filled_active.png | 1.5 | 1 |
 | images/icons/heart_filled_blue.png | 4.9 | 18 |
-| images/icons/heart_filled_red.png | 0.8 | 3 |
+| images/icons/heart_filled_red.png | 1.4 | 3 |
 | images/icons/heart_filled_red.svg | 0.4 | 1 |
 | images/icons/home.svg | 0.4 | 1 |
 | images/icons/home_active.svg | 0.4 | 1 |
@@ -443,6 +443,20 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/donors/OAK.png | 66.6 | 1 |
 | images/logos/donors/UKRI.png | 30.1 | 1 |
 | images/logos/donors/WCF.jpg | 90.5 | 1 |
+| images/logos/partners/CWBSA.png | 84.4 | 1 |
+| images/logos/partners/GISP.png | 30.5 | 1 |
+| images/logos/partners/ICS_SP.jpg | 228.6 | 1 |
+| images/logos/partners/IDEMS.png | 42.7 | 1 |
+| images/logos/partners/NIMR.png | 225 | 1 |
+| images/logos/partners/Oxford.png | 93.7 | 1 |
+| images/logos/partners/PLH.png | 33.9 | 1 |
+| images/logos/partners/UCT.png | 168 | 1 |
+| images/logos/partners/UNICEF.png | 68.8 | 1 |
+| images/logos/partners/Vodacom.png | 59.2 | 1 |
+| images/logos/partners/WHO.jpeg | 310.7 | 1 |
+| images/logos/partners/plh_logomark.png | 20.5 | 1 |
+| images/logos/partners/plh_white.svg | 256.1 | 2 |
+| images/logos/partners/tz_ministry.svg | 122.4 | 1 |
 | images/logos/plh_logomark.png | 20.5 | 1 |
 | images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 2 |
 | images/onboarding/facilitator_male_onboarding_icon.svg | 21.6 | 1 |
