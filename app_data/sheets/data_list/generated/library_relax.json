@@ -12,7 +12,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1b3DjLNAG_9OjZFW94O1NJrU7gHaD6S7Fje0Tj0oVB8A",
       "title": "Tap the play button to take a quick pause",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -35,7 +37,9 @@
       "media_type": "audio",
       "title": "Tap the play button for a short break",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }

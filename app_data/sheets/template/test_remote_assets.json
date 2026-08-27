@@ -413,7 +413,9 @@
           "type": "text",
           "value": "id: @item.id,\nname: @item.name,\ndownload_status: @item.download_status",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "name": "text_1_@item.id",
           "_nested_name": "data_items_18.text_1_@item.id",

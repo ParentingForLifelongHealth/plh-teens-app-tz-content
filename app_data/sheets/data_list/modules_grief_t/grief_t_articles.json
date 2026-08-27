@@ -15,7 +15,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "text_1_facilitator": "Today's topic is about coping with grief.\n\nGrief is something that we often don’t pay attention to, but grief affects us all in different ways.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -46,7 +48,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "text_1_facilitator": "Taking care of ourselves during grief helps us stay calm and present for our children. \n\nWhen we share and name our feelings openly, it can help the whole family feel less alone and more supported.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -153,18 +157,30 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {},
-        "quiz_2_question": {},
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
@@ -403,17 +419,27 @@
         "quiz_2_feedback_3": {
           "tz_sw": true
         },
-        "quiz_3_question": {},
+        "quiz_3_question": {
+          "tz_sw": true
+        },
         "quiz_3_option_1_text": {
           "tz_sw": true
         },
-        "quiz_3_feedback_1": {},
+        "quiz_3_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_3_option_2_text": {
           "tz_sw": true
         },
-        "quiz_3_feedback_2": {},
-        "quiz_3_option_3_text": {},
-        "quiz_3_feedback_3": {}
+        "quiz_3_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_3_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_3_feedback_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -524,8 +550,12 @@
         "section_1_text": {
           "tz_sw": true
         },
-        "section_1_button_text": {},
-        "section_1_extra_text": {},
+        "section_1_button_text": {
+          "tz_sw": true
+        },
+        "section_1_extra_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },
@@ -793,8 +823,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1J6IQrLW5_WcuwDZB_494ebxCCaTNLu2KsDvdWPNe9xM",
       "text_2": "Well done for taking time for yourself today. 🎉",
       "_translations": {
-        "text_2": {},
-        "media_title": {},
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }

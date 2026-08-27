@@ -12,7 +12,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1b3DjLNAG_9OjZFW94O1NJrU7gHaD6S7Fje0Tj0oVB8A",
       "title": "Tap the play button to take a quick pause",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -120,7 +122,9 @@
       "nested": false,
       "text_1_facilitator": "Today's topic is about giving positive instructions!\n\nTelling our teens what we DO want them to do works better than telling them to STOP doing something.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -152,7 +156,9 @@
       "nested": false,
       "text_1_facilitator": "When you give positive instructions, your teen is more likely to listen! \n\nAnd remember to praise your teen for any good behaviour — the big and small things.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -201,7 +207,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/instruct/instruct1_t_2.svg",
       "text_2": "In the same way, when we tell our teens “don’t do that,” they often focus only on the thing we told them not to do. They may not understand what we *DO* want.\n\nAnd like most of us, they don’t enjoy being told what not to do.",
@@ -266,8 +274,12 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/instruct/instruct2_t_1.svg",
       "character_1_id": "f2_grandmother",
@@ -399,7 +411,9 @@
         "quiz_2_option_1_text": {
           "tz_sw": true
         },
-        "quiz_2_feedback_1": {},
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
         "quiz_2_option_2_text": {
           "tz_sw": true
         },
@@ -450,7 +464,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -481,9 +497,15 @@
       "image_asset": "/images/teen_modules/instruct/instruct3_t_2.svg",
       "text_2": "@data.characters.f2_daughter_19.name and her friend enjoy practising their soccer moves.",
       "_translations": {
-        "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_1_id": "f2_grandmother",
       "character_2_id": "f2_daughter_19",
@@ -509,8 +531,12 @@
       "character_2_id": "f2_grandfather",
       "character_1_text": "That was a great shot, @data.characters.f2_daughter_19.name, you keep getting better!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "Wow, @data.characters.f2_daughter_19.name! You are a great soccer player. All your practice is making you strong and helps you develop as a leader. I'm so proud of you!",
       "completed": false
@@ -575,9 +601,15 @@
         "quiz_1_feedback_1": {
           "tz_sw": true
         },
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -587,7 +619,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_2_question": {
           "tz_sw": true
         },
@@ -731,7 +765,9 @@
         "quiz_1_feedback_3": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
         "quiz_1_option_1_text": {
           "tz_sw": true
         },
@@ -741,7 +777,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "You could say: \"That’s great music. Who is the singer? Please turn the music off when you come into the house. You can play it in your room quietly if you want. Thank you!\"",
       "quiz_1_feedback_3": "You could say: \"I like that you enjoy your phone. Can you put it away during dinner so we can spend time together? Thanks – I really appreciate it.\"",
@@ -880,11 +918,15 @@
       "nested": false,
       "media_title": "Here is a short video to help you slow down before you go",
       "_translations": {
-        "media_title": {},
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
       "text_2": "Well done for taking time for yourself today. 🎉",

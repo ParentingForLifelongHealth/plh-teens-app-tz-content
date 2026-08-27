@@ -10,8 +10,12 @@
       "media_type": "audio",
       "title": "Tap the play button to manage your stress",
       "_translations": {
-        "title": {},
-        "transcript": {}
+        "title": {
+          "tz_sw": true
+        },
+        "transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -150,7 +154,9 @@
       "nested": false,
       "text_1_facilitator": "Let's discuss, what is one-on-one time?\n\nOne-on-one time is when you focus on your teens, without distractions like TVs or phones. Let your teens take the lead in choosing what you do or talk about.\n\nIt is great if you can spend fifteen minutes a day together, but even five minutes a day is really good.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -183,10 +189,18 @@
       "nested": false,
       "text_1_facilitator": "Doing a chore with your child is a simple way to start. Let’s see how @data.characters.f3_mother.name and @data.characters.f3_daughter_12.name do this together.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/one_on_one/1on1_t_1.svg",
       "character_1_id": "f3_mother",
@@ -215,8 +229,12 @@
       "character_2_id": "f3_mother",
       "character_1_text": "Thank you for helping me, @data.characters.f3_mother.role_name. It’s nice to do this together. I was feeling very nervous about my test tomorrow.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "You have studied so hard, @data.characters.f3_daughter_12.name. You always try your best, and we are proud of you.",
       "completed": false
@@ -269,19 +287,45 @@
       "nested": false,
       "quiz_1_feedback_1": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {}
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        },
+        "quiz_1_option_5_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_5": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
       "quiz_1_feedback_3": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
@@ -348,19 +392,45 @@
       "nested": false,
       "quiz_1_feedback_1": "That's right! Teens feel more loved and supported when both mothers and fathers spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {}
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_2_question": {
+          "tz_sw": true
+        },
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Try again… Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
       "quiz_1_feedback_3": "Teens feel more loved and supported when both mothers and fathers each spend time with them in their own way. \n\nCaring male role models can help teens feel more confident, do better in school, and avoid risky behaviour.",
@@ -424,11 +494,15 @@
         "section_1_title": {
           "tz_sw": true
         },
-        "section_1_text": {},
+        "section_1_text": {
+          "tz_sw": true
+        },
         "section_1_button_text": {
           "tz_sw": true
         },
-        "section_1_extra_text": {},
+        "section_1_extra_text": {
+          "tz_sw": true
+        },
         "section_2_title": {
           "tz_sw": true
         },
@@ -438,7 +512,9 @@
         "section_2_button_text": {
           "tz_sw": true
         },
-        "section_2_extra_text": {},
+        "section_2_extra_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
@@ -545,7 +621,9 @@
         "quiz_1_feedback_5": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
       "quiz_1_feedback_3": "Great idea! \n\nFeel like you have NO TIME and you are exhausted? Remember to also think of ways that do not take up extra time, like doing a chore together while chatting.",
@@ -682,11 +760,15 @@
       "nested": false,
       "media_title": "Here is a short video to help you slow down before you go",
       "_translations": {
-        "media_title": {},
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
       "text_2": "Well done for taking time for yourself today. 🎉",

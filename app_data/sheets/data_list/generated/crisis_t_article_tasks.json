@@ -11,7 +11,9 @@
       "media_type": "audio",
       "title": "Tap the play button for a short break",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "transcript": {
           "tz_sw": true
         }
@@ -144,7 +146,9 @@
       "nested": false,
       "text_1_facilitator": "Today’s topic is dealing with crises.\n\nAll families face crises. When we prepare together and know where to get help before something happens, we can handle it more calmly and confidently.\n\nCrises can be scary, but you can get through them together.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "media_title": {
           "tz_sw": true
         },
@@ -237,8 +241,12 @@
       "character_1_id": "f2_daughter_19",
       "character_1_text": "It’s that man, he… he… he touched me.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
         "character_3_text": {
           "tz_sw": true
         }
@@ -266,7 +274,9 @@
       "character_1_id": "f2_daughter_19",
       "character_1_text": "Yesterday when you went to see your friend. He just came and that’s when it happened. He… he… he made me have sex with him! I did not want to, I swear, and I even said NO, but he told me I would be in trouble.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -292,8 +302,12 @@
       "character_1_id": "f2_grandmother",
       "character_1_text": "Let’s decide together what to do. Your @data.characters.f2_grandfather.role_name loves you and he would want to help. Are you okay with it if I call him?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_id": "f2_daughter_19",
       "character_2_text": "Yes, that’s a good idea.",
@@ -313,7 +327,9 @@
       "character_1_id": "f2_grandfather",
       "character_1_text": "I am so sorry this happened to you, my child. We are here to support you. What you shared is important. We will find a way to get the help we need.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "completed": false
     },
@@ -337,8 +353,12 @@
       "character_1_id": "f2_grandfather",
       "character_1_text": "I think it would be a good idea to go to the clinic, so they can do a check-up to make sure you are okay. What do you think about that?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
         "character_3_text": {
           "tz_sw": true
         }
@@ -366,8 +386,12 @@
       "character_1_id": "f2_grandmother",
       "character_1_text": "I am glad we could handle this together. I was so scared you would think this is my fault.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_id": "f2_grandfather",
       "character_2_text": "Of course not. A crisis can happen to any family. It is important that @data.characters.f2_daughter_19.name trusts us and we can support her. We can also look online at what support and information is available to help us.",
@@ -418,9 +442,15 @@
       "nested": false,
       "quiz_1_feedback_1": "That’s right!\n\nAll these skills can help in a crisis.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -433,15 +463,21 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_option_4_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_4": {},
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        },
         "quiz_1_option_5_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_5": {}
+        "quiz_1_feedback_5": {
+          "tz_sw": true
+        }
       },
       "quiz_1_feedback_2": "That’s right!\n\nAll these skills can help in a crisis.",
       "quiz_1_feedback_3": "That’s right!\n\nAll these skills can help in a crisis.",
@@ -510,11 +546,15 @@
         "section_3_title": {
           "tz_sw": true
         },
-        "section_3_text": {},
+        "section_3_text": {
+          "tz_sw": true
+        },
         "section_3_button_text": {
           "tz_sw": true
         },
-        "section_3_extra_text": {}
+        "section_3_extra_text": {
+          "tz_sw": true
+        }
       },
       "section_1_text": "Stay calm. Ask yourself, \"What does my teen need right now?\"",
       "text_1_facilitator": "Crisis can make us feel angry or helpless. But this is when our teens really need us to breathe, listen and think. \n\nHere are some tips to help you deal with a crisis!",
@@ -562,8 +602,12 @@
       "nested": false,
       "text_1_facilitator": "Crisis 1: @data.characters.f1_daughter_16.name gets pregnant.\n\nHow could you respond to @data.characters.f1_daughter_16.name?",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/crisis/crisis_learn_t_2.svg",
       "character_1_id": "f1_daughter_16",
@@ -585,7 +629,9 @@
       "nested": false,
       "text_1_facilitator": "Crisis 2: @data.characters.f1_son_18.name makes a girl pregnant.\n\nHow could you respond to @data.characters.f1_son_18.name?",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         }
@@ -610,7 +656,9 @@
       "nested": false,
       "text_1_facilitator": "Crisis 3: @data.characters.f2_son_15.name fights at school.\n\nHow could you respond to @data.characters.f2_son_15.name?",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "character_1_text": {
           "tz_sw": true
         }
@@ -665,7 +713,9 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "character_1_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        }
       },
       "image_asset": "/images/teen_modules/crisis/crisis_learn_t_5.svg",
       "character_1_id": "f2_daughter_19",
@@ -800,11 +850,15 @@
       "nested": false,
       "media_title": "Here is a short video to help you slow down before you go",
       "_translations": {
-        "media_title": {},
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         },
-        "text_2": {}
+        "text_2": {
+          "tz_sw": true
+        }
       },
       "media_transcript": "When everything feels like it is falling apart And you can't help but raise your voice When all the frustrations are beginning to start Remember that you have a choice\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nYou can take pause, you can count to 10 Play a game or do something fun You can phone a friend, someone to confide in Remember you're not the only one\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more\n\nLet's slow down Take a few deep breaths Remember all we have to be grateful for Let's slow down Take a few deep breaths Because I really couldn't love you more Because I really couldn't love you more",
       "text_2": "Well done for taking time for yourself today. 🎉",

@@ -668,7 +668,9 @@
       "name": "greeting",
       "value": "Hello,",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -676,7 +678,9 @@
       "name": "unlock_course_title",
       "value": "Parenting Skills",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -684,7 +688,9 @@
       "name": "unlock_course_text",
       "value": "Finish these skills to unlock more",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -696,7 +702,9 @@
       "name": "lock_course_text",
       "value": "Bonus skills will be available once you complete all available Parenting Skills",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -704,7 +712,9 @@
       "name": "complete_course_title",
       "value": "Completed Skills",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -716,7 +726,9 @@
       "name": "all_unlock_course_title",
       "value": "Explore Skills",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -728,7 +740,9 @@
       "name": "completed_text",
       "value": "COMPLETED",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -736,7 +750,9 @@
       "name": "locked_text",
       "value": "LOCKED",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -744,7 +760,9 @@
       "name": "sub_items_name",
       "value": "skills",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -762,7 +780,9 @@
       "name": "course_badge_text",
       "value": "Skills",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {

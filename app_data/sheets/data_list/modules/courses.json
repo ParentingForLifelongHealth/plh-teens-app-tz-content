@@ -15,7 +15,9 @@
       "completed": false,
       "title": "Improve Your Relationship",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -33,7 +35,9 @@
       "completed": false,
       "title": "Create a Peaceful Home",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -51,7 +55,9 @@
       "completed": false,
       "title": "Keep Your Teen Safe",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -69,7 +75,9 @@
       "completed": false,
       "title": "Bonus Skills",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

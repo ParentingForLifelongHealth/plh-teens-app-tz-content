@@ -113,9 +113,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "Teens often learn different things about sex from school, friends, family, or social media - but this information isn’t always correct or right for their age.\n\nTalking about sex can feel uncomfortable. Parents and teens may even argue, especially if parents don’t agree with what their teen is doing.\n\nLet’s see how @data.characters.f2_grandfather.name and his grandson, @data.characters.f2_son_15.name, handled this.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {},
-        "character_1_text": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
@@ -148,9 +154,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_2": "@data.characters.f2_son_15.name accidentally drops his bag, and a packet of condoms falls out.",
       "_translations": {
-        "text_2": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_2": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -179,7 +191,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -201,8 +215,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "character_1_text": "No, no, no, @data.characters.f2_son_15.name! I will not have this discussion with you. Is that what you do at school? Talking about things not suited for your age instead of focusing on school? You won’t go out with those friends of yours anymore. You want to bring shame in this home. Stupid boy!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -224,24 +242,54 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_4": {
           "tz_sw": true
         },
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_2_option_3_text": {},
-        "quiz_2_feedback_3": {}
+        "quiz_2_question": {
+          "tz_sw": true
+        },
+        "quiz_2_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_2_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_2_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_2_feedback_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -321,14 +369,30 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "Now imagine a girl was in @data.characters.f2_son_15.name’s place. Some families might react differently because of worries about safety or beliefs learned over time. Thinking about this can help us understand our own reactions.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -374,9 +438,15 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "We saw how challenging that moment was for @data.characters.f2_grandfather.name and his grandson, @data.characters.f2_son_15.name.\n\nTalking about boyfriends and girlfriends is not always easy - for parents or teens.\n\nLet’s look at an example of how this kind of conversation can happen calmly.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -406,9 +476,15 @@
         "text_2": {
           "tz_sw": true
         },
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        },
+        "character_3_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_2": {
@@ -438,8 +514,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "character_1_text": "Actually… there is this boy, @data.characters.boyfriend_1.name. He asked if we could study together tomorrow.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "tz_sw": true
+        },
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -491,7 +571,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -534,7 +616,9 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {},
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
         "quiz_2_question": {
           "tz_sw": true
         },
@@ -675,7 +759,9 @@
           "tz_sw": true
         },
         "quiz_1_feedback_3_id": {},
-        "quiz_1_option_4_text": {},
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
         "quiz_1_feedback_4_id": {}
       },
       "_translatedFields": {
@@ -786,7 +872,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "Yes, you can ask another trusted adult to start this conversation with your teen if that would help your teen open up. \n\nTalk to that adult beforehand and help them be open and use the right words for any body parts they discuss (like breasts, penis, or vagina).\n\nThey can practise with you and ask a health worker or social worker for more information. The more they know, the better they can help your teen.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -1030,7 +1118,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "This may not work.\n\nWhen we try to control too much, both girls and boys may do the opposite of what we want.\n\nBut when we guide them and give them space to make choices, they often act more responsibly.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -1046,7 +1136,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "This may not work. \n\nBoth boys and girls get pressure and information from many places we can’t control.\n\nAs parents, we can guide and prepare them to know what is right or wrong—and help them feel confident to make good decisions.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -1098,7 +1190,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "That’s right.\n\nTo stay safe, both boys and girls need to know the difference between respectful behaviours and relationships, and unhealthy ones..\n\nRespectful relationships feel caring, safe, and fair. Unhealthy ones involve pressure, discomfort, or feeling unsafe.\n\nNo one should be forced to do something they’re not okay with.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -1227,16 +1321,36 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "Here are a few things that can help you feel more prepared to guide your teen. \n\nYou can always ask trusted adults or your local clinic for more information, and your teen can too.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {}
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
+        "quiz_1_question": {
+          "tz_sw": true
+        },
+        "quiz_1_option_1_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_1": {
+          "tz_sw": true
+        },
+        "quiz_1_option_2_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_2": {
+          "tz_sw": true
+        },
+        "quiz_1_option_3_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_3": {
+          "tz_sw": true
+        },
+        "quiz_1_option_4_text": {
+          "tz_sw": true
+        },
+        "quiz_1_feedback_4": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -1308,7 +1422,9 @@
         "section_2_button_text": {
           "tz_sw": true
         },
-        "section_2_extra_text": {},
+        "section_2_extra_text": {
+          "tz_sw": true
+        },
         "section_3_title": {
           "tz_sw": true
         },
@@ -1318,7 +1434,9 @@
         "section_3_button_text": {
           "tz_sw": true
         },
-        "section_3_extra_text": {}
+        "section_3_extra_text": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -1373,7 +1491,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_1_facilitator": "This week’s home activity is to read and talk about this module’s stories with your teen. Use them to start a conversation about body changes and relationships.\n\nYou can talk about what happened with @data.characters.f2_son_15.name or @data.characters.f1_daughter_16.name and their parents.\n\nThese stories can make it easier to talk about tricky topics and share ideas about healthy, respectful relationships.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "tz_sw": true
+        },
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -1442,8 +1562,12 @@
         "text_1_facilitator": {
           "tz_sw": true
         },
-        "media_title": {},
-        "media_transcript": {}
+        "media_title": {
+          "tz_sw": true
+        },
+        "media_transcript": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -1468,8 +1592,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
       "text_2": "Well done for taking time for yourself today. 🎉",
       "_translations": {
-        "text_2": {},
-        "media_title": {},
+        "text_2": {
+          "tz_sw": true
+        },
+        "media_title": {
+          "tz_sw": true
+        },
         "media_transcript": {
           "tz_sw": true
         }
