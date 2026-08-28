@@ -4,11 +4,12 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_2",
-      "lottie_asset": "lottie/relax/soothing_waves.json",
-      "media_asset": "audio/relax/relax_2.mp3",
+      "id": "relax_4",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/heart.json",
+      "media_asset": "audio/relax/relax_4.mp3",
       "media_type": "audio",
-      "title": "Tap the play button to manage your stress",
+      "title": "Breathe to three",
       "_translations": {
         "title": {
           "tz_sw": true
@@ -19,13 +20,13 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Tap the play button to manage your stress"
+          "eng": "Breathe to three"
         },
         "transcript": {
-          "eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow."
+          "eng": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!"
         }
       },
-      "transcript": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
+      "transcript": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
       "category_id": "relax",
       "nested": false,
       "completed": false

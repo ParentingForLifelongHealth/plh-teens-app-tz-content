@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 36814 KB | 36.8 MB |
-| unused | 11241 KB | 11.2 MB |
+| total | 37023 KB | 37 MB |
+| unused | 11033 KB | 11 MB |
 </details>
 
 <details open>
@@ -175,13 +175,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/teen_modules/learn/learn_support_t_4.svg | 40.2 |
 | images/teen_modules/money/money1_t_2.svg | 44.9 |
 | images/teen_modules/money/money2_t_2.svg | 61.8 |
-| images/teen_modules/rules/rules1_t_1.svg | 30.5 |
-| images/teen_modules/rules/rules1_t_2.svg | 32.1 |
-| images/teen_modules/rules/rules1_t_3.svg | 29.6 |
-| images/teen_modules/rules/rules1_t_4.svg | 29.5 |
-| images/teen_modules/rules/rules1_t_5.svg | 27.7 |
-| images/teen_modules/rules/rules1_t_6.svg | 23.3 |
-| images/teen_modules/rules/rules1_t_7.svg | 35.2 |
 | images/teen_modules/safe/safe2_t_1.svg | 35 |
 | images/teen_modules/safe/safe2_t_2.svg | 33 |
 | images/teen_modules/safe/safe_learn_t_4.svg | 926.4 |
@@ -227,7 +220,6 @@ Assets that have references within sheets but do not appear in app-data
 | --- | --- |
 | images/backgrounds/lesson-cta-bg.svg | 2 |
 | images/backgrounds/map_view_bg.jpg | 1 |
-| images/icons/bug.svg | 2 |
 | images/icons/home_white.svg | 1 |
 | images/icons/local_library_white.svg | 1 |
 | images/icons/settings_white.svg | 1 |
@@ -248,13 +240,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/teen_modules/one_on_one/1on1_t_2.svg | 2 |
 | images/teen_modules/one_on_one/1on1_t_3.svg | 2 |
 | images/teen_modules/praise/praise1_t_3.svg | 2 |
-| images/teen_modules/rules/rules1_t_1.png | 2 |
-| images/teen_modules/rules/rules1_t_2.png | 2 |
-| images/teen_modules/rules/rules1_t_3.png | 2 |
-| images/teen_modules/rules/rules1_t_4.png | 2 |
-| images/teen_modules/rules/rules1_t_5.png | 2 |
-| images/teen_modules/rules/rules1_t_6.png | 2 |
-| images/teen_modules/rules/rules1_t_7.png | 2 |
 | images/teen_modules/safe/warning_drugs_t.svg | 2 |
 | images/teen_modules/safe/warning_nude_pic_t.svg | 2 |
 | images/teen_modules/safe/warning_private_tutoring_t.svg | 2 |
@@ -370,6 +355,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/homescreen/stress_t.svg | 16.9 | 2 |
 | images/homescreen/svp_t.svg | 25.4 | 2 |
 | images/icons/brain_blue.png | 5.2 | 8 |
+| images/icons/bug.svg | 1.2 | 2 |
 | images/icons/clock_blue.png | 4.5 | 4 |
 | images/icons/diamond-outline.svg | 0.6 | 2 |
 | images/icons/diamond.png | 1.8 | 1 |
@@ -522,6 +508,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/money/money4_t_1.svg | 47.1 | 2 |
 | images/teen_modules/praise/praise1_t_1.svg | 164.8 | 2 |
 | images/teen_modules/praise/praise1_t_2.svg | 44.8 | 2 |
+| images/teen_modules/rules/rules1_t_1.svg | 30.5 | 2 |
+| images/teen_modules/rules/rules1_t_2.svg | 32.1 | 2 |
+| images/teen_modules/rules/rules1_t_3.svg | 29.6 | 2 |
+| images/teen_modules/rules/rules1_t_4.svg | 29.5 | 2 |
+| images/teen_modules/rules/rules1_t_5.svg | 27.7 | 2 |
+| images/teen_modules/rules/rules1_t_6.svg | 23.3 | 2 |
+| images/teen_modules/rules/rules1_t_7.svg | 35.2 | 2 |
 | images/teen_modules/rules/rules2_t_1.svg | 417.7 | 2 |
 | images/teen_modules/rules/rules2_t_2.svg | 233.3 | 2 |
 | images/teen_modules/rules/rules2_t_3.svg | 231.7 | 2 |
@@ -586,11 +579,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | lottie/checkmark.json | 23.6 | 2 |
 | lottie/gift_box.json | 674.5 | 1 |
 | lottie/loading_dots.json | 6.1 | 1 |
-| lottie/relax/blue_dots.json | 14.7 | 5 |
-| lottie/relax/heart.json | 46.7 | 5 |
-| lottie/relax/looping_rings.json | 10.4 | 10 |
-| lottie/relax/soothing_waves.json | 7.6 | 9 |
-| lottie/relax/square_flow.json | 5.9 | 16 |
+| lottie/relax/blue_dots.json | 14.7 | 9 |
+| lottie/relax/heart.json | 46.7 | 9 |
+| lottie/relax/looping_rings.json | 10.4 | 9 |
+| lottie/relax/soothing_waves.json | 7.6 | 4 |
+| lottie/relax/square_flow.json | 5.9 | 14 |
 | video/plh_video/lets_slow_down.mp4 | 13482.2 | 32 |
 </details>
 

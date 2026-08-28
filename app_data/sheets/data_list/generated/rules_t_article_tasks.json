@@ -4,11 +4,12 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_2",
-      "lottie_asset": "lottie/relax/soothing_waves.json",
-      "media_asset": "audio/relax/relax_2.mp3",
+      "id": "relax_5",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/blue_dots.json",
+      "media_asset": "audio/relax/relax_5.mp3",
       "media_type": "audio",
-      "title": "Tap the play button to manage your stress",
+      "title": "In and out",
       "_translations": {
         "title": {
           "tz_sw": true
@@ -19,13 +20,13 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Tap the play button to manage your stress"
+          "eng": "In and out"
         },
         "transcript": {
-          "eng": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow."
+          "eng": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!"
         }
       },
-      "transcript": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be grateful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
+      "transcript": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
       "category_id": "relax",
       "nested": false,
       "completed": false
@@ -196,7 +197,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/rules/rules1_t_1.png",
+      "image_asset": "/images/teen_modules/rules/rules1_t_1.svg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_son_18",
       "character_1_text": "You always come home late!",
@@ -231,7 +232,7 @@
           "tz_sw": true
         }
       },
-      "image_asset": "/images/teen_modules/rules/rules1_t_2.png",
+      "image_asset": "/images/teen_modules/rules/rules1_t_2.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_son_18",
       "character_1_text": "We want you to have fun, @data.characters.f1_son_18.name, but we are also worried about you staying out late. Do you know why?",
@@ -251,7 +252,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/rules/rules1_t_3.png",
+      "image_asset": "/images/teen_modules/rules/rules1_t_3.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_mother",
       "character_1_text": "That is right. It is also not safe in this area to be outside after sunset.",
@@ -279,7 +280,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/rules/rules1_t_4.png",
+      "image_asset": "/images/teen_modules/rules/rules1_t_4.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
       "character_1_text": "I could come home at 8pm?",
@@ -310,7 +311,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/rules/rules1_t_5.png",
+      "image_asset": "/images/teen_modules/rules/rules1_t_5.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
       "character_1_text": "Maybe we can agree I will come home at 6pm on school nights and 10pm on Fridays and Saturdays?",
@@ -343,7 +344,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/rules/rules1_t_6.png",
+      "image_asset": "/images/teen_modules/rules/rules1_t_6.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
       "character_1_text": "Okay, @data.characters.f1_mother.role_name and @data.characters.f1_father.role_name.",
@@ -374,7 +375,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "/images/teen_modules/rules/rules1_t_7.png",
+      "image_asset": "/images/teen_modules/rules/rules1_t_7.svg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_father",
       "character_1_text": "Thank you, @data.characters.f1_son_18.name, for coming home on time. After you finish your schoolwork, we can have your favourite meal for dinner.",
