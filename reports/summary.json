@@ -295,13 +295,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "36814 KB",
-        "MB": "36.8 MB"
+        "KB": "37023 KB",
+        "MB": "37 MB"
       },
       {
         "assets": "unused",
-        "KB": "11241 KB",
-        "MB": "11.2 MB"
+        "KB": "11033 KB",
+        "MB": "11 MB"
       }
     ]
   },
@@ -612,34 +612,6 @@
         "size_kb": 61.8
       },
       {
-        "path": "images/teen_modules/rules/rules1_t_1.svg",
-        "size_kb": 30.5
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_2.svg",
-        "size_kb": 32.1
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_3.svg",
-        "size_kb": 29.6
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_4.svg",
-        "size_kb": 29.5
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_5.svg",
-        "size_kb": 27.7
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_6.svg",
-        "size_kb": 23.3
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_7.svg",
-        "size_kb": 35.2
-      },
-      {
         "path": "images/teen_modules/safe/safe2_t_1.svg",
         "size_kb": 35
       },
@@ -790,11 +762,6 @@
         "missing": true
       },
       {
-        "path": "images/icons/bug.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
         "path": "images/icons/home_white.svg",
         "count": 1,
         "missing": true
@@ -891,41 +858,6 @@
       },
       {
         "path": "images/teen_modules/praise/praise1_t_3.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_1.png",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_2.png",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_3.png",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_4.png",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_5.png",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_6.png",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_7.png",
         "count": 2,
         "missing": true
       },
@@ -1462,6 +1394,11 @@
         "path": "images/icons/brain_blue.png",
         "count": 8,
         "size_kb": 5.2
+      },
+      {
+        "path": "images/icons/bug.svg",
+        "count": 2,
+        "size_kb": 1.2
       },
       {
         "path": "images/icons/clock_blue.png",
@@ -2224,6 +2161,41 @@
         "size_kb": 44.8
       },
       {
+        "path": "images/teen_modules/rules/rules1_t_1.svg",
+        "count": 2,
+        "size_kb": 30.5
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_2.svg",
+        "count": 2,
+        "size_kb": 32.1
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_3.svg",
+        "count": 2,
+        "size_kb": 29.6
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_4.svg",
+        "count": 2,
+        "size_kb": 29.5
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_5.svg",
+        "count": 2,
+        "size_kb": 27.7
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_6.svg",
+        "count": 2,
+        "size_kb": 23.3
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_7.svg",
+        "count": 2,
+        "size_kb": 35.2
+      },
+      {
         "path": "images/teen_modules/rules/rules2_t_1.svg",
         "count": 2,
         "size_kb": 417.7
@@ -2545,27 +2517,27 @@
       },
       {
         "path": "lottie/relax/blue_dots.json",
-        "count": 5,
+        "count": 9,
         "size_kb": 14.7
       },
       {
         "path": "lottie/relax/heart.json",
-        "count": 5,
+        "count": 9,
         "size_kb": 46.7
       },
       {
         "path": "lottie/relax/looping_rings.json",
-        "count": 10,
+        "count": 9,
         "size_kb": 10.4
       },
       {
         "path": "lottie/relax/soothing_waves.json",
-        "count": 9,
+        "count": 4,
         "size_kb": 7.6
       },
       {
         "path": "lottie/relax/square_flow.json",
-        "count": 16,
+        "count": 14,
         "size_kb": 5.9
       },
       {

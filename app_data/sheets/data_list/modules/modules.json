@@ -40,7 +40,7 @@
       "number": 2.2,
       "bottom_aligned_image_asset": "images/homescreen/listview/one_on_one_t.svg",
       "image_asset": "images/homescreen/one_on_one_t.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_2",
       "title": "One-on-One Time",
       "_translations": {
@@ -64,7 +64,7 @@
       "number": 2.3,
       "bottom_aligned_image_asset": "images/homescreen/listview/praise_t.svg",
       "image_asset": "images/homescreen/praise_t.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_3",
       "title": "Praise",
       "_translations": {
@@ -88,7 +88,7 @@
       "number": 2.4,
       "bottom_aligned_image_asset": "images/homescreen/listview/instruct_t.svg",
       "image_asset": "images/homescreen/instruct_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_4",
       "title": "Positive Instructions",
       "_translations": {
@@ -112,7 +112,7 @@
       "number": 2.5,
       "bottom_aligned_image_asset": "images/homescreen/listview/stress_t.svg",
       "image_asset": "images/homescreen/stress_t.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_5",
       "title": "Managing Stress",
       "_translations": {
@@ -160,7 +160,7 @@
       "number": 2.7,
       "bottom_aligned_image_asset": "images/homescreen/listview/money_t.svg",
       "image_asset": "images/homescreen/money_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_7",
       "title": "Family Budgets",
       "_translations": {
@@ -184,7 +184,7 @@
       "number": 2.8,
       "bottom_aligned_image_asset": "images/homescreen/listview/rules_t.svg",
       "image_asset": "images/homescreen/rules_t.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_8",
       "title": "Rules",
       "_translations": {
@@ -208,7 +208,7 @@
       "number": 2.9,
       "bottom_aligned_image_asset": "images/homescreen/listview/consequence_t.svg",
       "image_asset": "images/homescreen/consequence_t.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_9",
       "title": "Calm Consequences",
       "_translations": {
@@ -232,7 +232,7 @@
       "number": 3.1,
       "bottom_aligned_image_asset": "images/homescreen/listview/srh_t.svg",
       "image_asset": "images/homescreen/srh_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_12",
       "title": "Body Changes and Intimate Relationships",
       "_translations": {
@@ -256,7 +256,7 @@
       "number": 3.2,
       "bottom_aligned_image_asset": "images/homescreen/listview/safe_t.svg",
       "image_asset": "images/homescreen/safe_t.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_10",
       "title": "Teen Safety",
       "_translations": {
@@ -280,7 +280,7 @@
       "number": 3.3,
       "bottom_aligned_image_asset": "images/homescreen/listview/crisis_t.svg",
       "image_asset": "images/homescreen/crisis_t.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_11",
       "title": "Crisis",
       "_translations": {
@@ -328,7 +328,7 @@
       "number": 3.5,
       "bottom_aligned_image_asset": "images/homescreen/listview/grief_t.svg",
       "image_asset": "images/homescreen/grief_t.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_14",
       "title": "Coping with Grief",
       "_translations": {
@@ -352,7 +352,7 @@
       "number": 3.6,
       "bottom_aligned_image_asset": "images/homescreen/listview/learn_t.svg",
       "image_asset": "images/homescreen/learn_t.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_15",
       "title": "Helping Your Teen Learn",
       "_translations": {
@@ -376,7 +376,7 @@
       "number": 3.7,
       "bottom_aligned_image_asset": "images/homescreen/listview/svp_t.svg",
       "image_asset": "images/homescreen/svp_t.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_13",
       "title": "Staying Safe",
       "_translations": {
