@@ -294,7 +294,9 @@
       "name": "onboarding_error_troubleshoot_title",
       "value": "WHAT TO DO FIRST",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -302,7 +304,9 @@
       "name": "onboarding_error_troubleshoot",
       "value": "📱 Open Settings\n\n📶 Turn on Wi-Fi or Mobile Data\n\n↩️ Come back here and tap the button below",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -359,7 +363,9 @@
       "name": "onboarding_no_connection_troubleshoot_title",
       "value": "WHAT TO DO FIRST",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -367,7 +373,9 @@
       "name": "onboarding_no_connection_troubleshoot",
       "value": "📱 Open Settings\n\n📶 Turn on Wi-Fi or Mobile Data\n\n↩️ Come back here and tap the button below",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     }
   ],
