@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 20570 KB | 20.6 MB |
-| unused | 2495 KB | 2.5 MB |
+| total | 65255 KB | 65.3 MB |
+| unused | 4317 KB | 4.3 MB |
 </details>
 
 <details open>
@@ -157,6 +157,11 @@ Assets that appear in app-data but do not have references within sheets
 | lottie/bulging_circles.txt | 0.2 |
 | video/plh_video/lets_slow_down.srt | 1.7 |
 | video/plh_video/lets_slow_down.vtt | 1.8 |
+| images/teen_modules/money/money1_t_2.svg | 44.9 |
+| images/teen_modules/money/money2_t_2.svg | 82.9 |
+| images/teen_modules/safe/safe_learn_t_4.svg | 926.4 |
+| images/teen_modules/safe/warning_controlling_boyfriend_t.svg | 39.3 |
+| audio/teen/testimonials/caregiver/caregiver_test_svp_t.mp3 | 728.6 |
 </details>
 
 <details open>
@@ -166,6 +171,26 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
+| audio/relax/relax_10.mp3 | 1 |
+| audio/relax/relax_11.mp3 | 1 |
+| audio/relax/relax_12.mp3 | 1 |
+| audio/relax/relax_13.mp3 | 1 |
+| audio/relax/relax_14.mp3 | 1 |
+| audio/relax/relax_15.mp3 | 1 |
+| audio/relax/relax_16.mp3 | 1 |
+| audio/relax/relax_17.mp3 | 1 |
+| audio/relax/relax_18.mp3 | 1 |
+| audio/relax/relax_19.mp3 | 1 |
+| audio/relax/relax_2.mp3 | 1 |
+| audio/relax/relax_20.mp3 | 1 |
+| audio/relax/relax_21.mp3 | 1 |
+| audio/relax/relax_22.mp3 | 1 |
+| audio/relax/relax_23.mp3 | 1 |
+| audio/relax/relax_24.mp3 | 1 |
+| audio/relax/relax_6.mp3 | 1 |
+| audio/relax/relax_7.mp3 | 1 |
+| audio/relax/relax_8.mp3 | 1 |
+| audio/relax/relax_9.mp3 | 2 |
 | images/backgrounds/map_view_bg.jpg | 1 |
 | images/homescreen/celebrate_t.svg | 2 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 1 |
@@ -204,156 +229,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/logos/app_logo.png | 1 |
 | images/logos/plh_logomark.png | 1 |
 | images/onboarding/facilitator_onboarding_icon.svg | 1 |
-| images/teen_modules/celebrate/celebrate_cup.svg | 2 |
-| images/teen_modules/celebrate/celebrate_t_1.svg | 2 |
-| images/teen_modules/celebrate/celebrate_t_2.svg | 2 |
-| images/teen_modules/celebrate/celebrate_t_3.svg | 2 |
-| images/teen_modules/celebrate/celebrate_t_4.svg | 2 |
-| images/teen_modules/consequence/consequence1_t_1.svg | 2 |
-| images/teen_modules/consequence/consequence1_t_2.svg | 2 |
-| images/teen_modules/consequence/consequence1_t_3.svg | 2 |
-| images/teen_modules/consequence/consequence1_t_4.svg | 2 |
-| images/teen_modules/consequence/consequence2_t_1.svg | 2 |
-| images/teen_modules/consequence/consequence2_t_2.svg | 2 |
-| images/teen_modules/consequence/consequence2_t_3.svg | 2 |
-| images/teen_modules/consequence/consequence3_t_1.svg | 2 |
-| images/teen_modules/consequence/consequence3_t_2.svg | 2 |
-| images/teen_modules/consequence/consequence3_t_3.svg | 2 |
-| images/teen_modules/consequence/consequence3_t_4.svg | 2 |
-| images/teen_modules/consequence/consequence3_t_5.svg | 2 |
-| images/teen_modules/consequence/consequence3_t_6.svg | 2 |
-| images/teen_modules/consequence/consequence3_t_7.svg | 2 |
-| images/teen_modules/consequence/consequence3_t_8.svg | 2 |
-| images/teen_modules/consequence/consequence3_t_9.svg | 2 |
-| images/teen_modules/crisis/crisis1_t_1.svg | 2 |
-| images/teen_modules/crisis/crisis1_t_2.svg | 2 |
-| images/teen_modules/crisis/crisis1_t_3.svg | 2 |
-| images/teen_modules/crisis/crisis1_t_4.svg | 2 |
-| images/teen_modules/crisis/crisis1_t_5.svg | 2 |
-| images/teen_modules/crisis/crisis1_t_6.svg | 2 |
-| images/teen_modules/crisis/crisis1_t_7.svg | 2 |
-| images/teen_modules/crisis/crisis_learn_t_1.svg | 2 |
-| images/teen_modules/crisis/crisis_learn_t_2.svg | 2 |
-| images/teen_modules/crisis/crisis_learn_t_3.svg | 2 |
-| images/teen_modules/crisis/crisis_learn_t_4.svg | 2 |
-| images/teen_modules/crisis/crisis_learn_t_5.svg | 2 |
-| images/teen_modules/grief/grief1_t_1.svg | 2 |
-| images/teen_modules/grief/grief1_t_2.svg | 2 |
-| images/teen_modules/grief/grief1_t_3.svg | 2 |
-| images/teen_modules/grief/grief2_t_1.svg | 2 |
-| images/teen_modules/grief/grief2_t_2.svg | 2 |
-| images/teen_modules/grief/grief2_t_3.svg | 2 |
-| images/teen_modules/grief/grief2_t_4.svg | 2 |
-| images/teen_modules/instruct/instruct1_t_1.svg | 4 |
-| images/teen_modules/instruct/instruct1_t_2.svg | 2 |
-| images/teen_modules/instruct/instruct1_t_3.svg | 2 |
-| images/teen_modules/instruct/instruct2_t_1.svg | 2 |
-| images/teen_modules/instruct/instruct2_t_2.svg | 2 |
-| images/teen_modules/instruct/instruct3_t_1.svg | 2 |
-| images/teen_modules/instruct/instruct3_t_2.svg | 2 |
-| images/teen_modules/instruct/instruct3_t_3.svg | 2 |
-| images/teen_modules/learn/learn1_t_1.svg | 2 |
-| images/teen_modules/learn/learn1_t_2.svg | 2 |
-| images/teen_modules/learn/learn1_t_3.svg | 2 |
-| images/teen_modules/learn/learn2_t_1.jpg | 2 |
-| images/teen_modules/learn/learn2_t_2.jpg | 2 |
-| images/teen_modules/learn/learn2_t_3.jpg | 2 |
-| images/teen_modules/learn/learn2_t_4.jpg | 2 |
-| images/teen_modules/learn/learn3_t_1.svg | 2 |
-| images/teen_modules/learn/learn3_t_2.svg | 2 |
-| images/teen_modules/learn/learn3_t_3.svg | 2 |
-| images/teen_modules/money/money1_t_1.svg | 2 |
-| images/teen_modules/money/money2_t_1.svg | 2 |
-| images/teen_modules/money/money2_t_3.svg | 2 |
-| images/teen_modules/money/money2_t_4.svg | 2 |
-| images/teen_modules/money/money3_t_1.svg | 2 |
-| images/teen_modules/money/money3_t_2.svg | 2 |
-| images/teen_modules/money/money3_t_3.svg | 2 |
-| images/teen_modules/money/money3_t_4.svg | 4 |
-| images/teen_modules/money/money3_t_5.svg | 2 |
-| images/teen_modules/money/money4_t_1.svg | 2 |
-| images/teen_modules/one_on_one/1on1_t_1.svg | 2 |
-| images/teen_modules/one_on_one/1on1_t_2.svg | 2 |
-| images/teen_modules/one_on_one/1on1_t_3.svg | 2 |
-| images/teen_modules/praise/praise1_t_1.svg | 2 |
-| images/teen_modules/praise/praise1_t_2.svg | 2 |
-| images/teen_modules/praise/praise1_t_3.svg | 2 |
-| images/teen_modules/rules/rules1_t_1.svg | 2 |
-| images/teen_modules/rules/rules1_t_2.svg | 2 |
-| images/teen_modules/rules/rules1_t_3.svg | 2 |
-| images/teen_modules/rules/rules1_t_4.svg | 2 |
-| images/teen_modules/rules/rules1_t_5.svg | 2 |
-| images/teen_modules/rules/rules1_t_6.svg | 2 |
-| images/teen_modules/rules/rules1_t_7.svg | 2 |
-| images/teen_modules/rules/rules2_t_1.svg | 2 |
-| images/teen_modules/rules/rules2_t_2.svg | 2 |
-| images/teen_modules/rules/rules2_t_3.svg | 2 |
-| images/teen_modules/rules/rules2_t_4.svg | 2 |
-| images/teen_modules/rules/rules2_t_5.svg | 2 |
-| images/teen_modules/safe/safe1_t_1.svg | 2 |
-| images/teen_modules/safe/safe1_t_2.svg | 2 |
-| images/teen_modules/safe/safe1_t_3.svg | 2 |
-| images/teen_modules/safe/safe1_t_4.svg | 2 |
-| images/teen_modules/safe/safe1_t_5.svg | 2 |
-| images/teen_modules/safe/safe1_t_6.svg | 2 |
-| images/teen_modules/safe/safe_learn_t_1.svg | 2 |
-| images/teen_modules/safe/safe_learn_t_2.svg | 2 |
-| images/teen_modules/safe/safe_learn_t_3.svg | 2 |
-| images/teen_modules/safe/warning_drugs_t.svg | 2 |
-| images/teen_modules/safe/warning_nude_pic_t.svg | 2 |
-| images/teen_modules/safe/warning_private_tutoring_t.svg | 2 |
-| images/teen_modules/safe/warning_pushy_boyfriend_t.svg | 2 |
-| images/teen_modules/safe/warning_pushy_friend_t.svg | 2 |
-| images/teen_modules/safe/warning_rejected_ride_t.svg | 2 |
-| images/teen_modules/self_care/self_care1_t_1.svg | 2 |
-| images/teen_modules/self_care/self_care1_t_2.svg | 2 |
-| images/teen_modules/self_care/self_care2_t_1.svg | 2 |
-| images/teen_modules/solve/solve2_t_1.svg | 2 |
-| images/teen_modules/solve/solve2_t_2.svg | 2 |
-| images/teen_modules/solve/solve2_t_3.svg | 2 |
-| images/teen_modules/solve/solve2_t_4.svg | 2 |
-| images/teen_modules/solve/solve2_t_5.svg | 2 |
-| images/teen_modules/solve/solve2_t_6.svg | 2 |
-| images/teen_modules/solve/solve2_t_7.svg | 2 |
-| images/teen_modules/solve/solve2_t_8.svg | 2 |
-| images/teen_modules/solve/solve3_t_1.svg | 1 |
-| images/teen_modules/solve/solve3_t_2.svg | 1 |
-| images/teen_modules/solve/solve3_t_3.svg | 3 |
-| images/teen_modules/srh/srh1_t_1.svg | 2 |
-| images/teen_modules/srh/srh1_t_2.svg | 2 |
-| images/teen_modules/srh/srh1_t_3.svg | 2 |
-| images/teen_modules/srh/srh1_t_4.svg | 2 |
-| images/teen_modules/srh/srh1_t_5.svg | 2 |
-| images/teen_modules/srh/srh2_t_1.svg | 2 |
-| images/teen_modules/srh/srh2_t_2.svg | 2 |
-| images/teen_modules/srh/srh2_t_3.svg | 2 |
-| images/teen_modules/srh/srh2_t_4.svg | 2 |
-| images/teen_modules/srh/srh2_t_5.svg | 2 |
-| images/teen_modules/srh/srh_learn_sex_talk_age_t_1.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_age_t_2.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_age_t_3.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_safe_t_1.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_safe_t_2.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_safe_t_3.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_safe_t_4.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_safe_t_5.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_when_t_1.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_when_t_2.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_when_t_3.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_when_t_4.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_who_t_1.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_who_t_2.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_who_t_3.svg | 1 |
-| images/teen_modules/srh/srh_learn_sex_talk_who_t_4.svg | 1 |
-| images/teen_modules/stress/stress1_t_1.svg | 2 |
-| images/teen_modules/stress/stress1_t_2.svg | 2 |
-| images/teen_modules/stress/stress1_t_3.svg | 2 |
-| images/teen_modules/stress/stress1_t_4.svg | 2 |
-| images/teen_modules/stress/stress1_t_5.svg | 2 |
-| images/teen_modules/stress/stress2_t_1.svg | 2 |
-| images/teen_modules/stress/stress2_t_2.svg | 2 |
-| images/teen_modules/stress/stress2_t_3.svg | 2 |
-| images/teen_modules/svp/svp_usevoice_t.svg | 2 |
 | lottie/checkmark.json | 2 |
 | lottie/gift_box.json | 1 |
 | lottie/loading_dots.json | 1 |
@@ -366,6 +241,56 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | path | size_kb | count |
 | --- | --- | --- |
+| audio/relax/relax_1.mp3 | 104.3 | 7 |
+| audio/relax/relax_3.mp3 | 105.1 | 6 |
+| audio/relax/relax_4.mp3 | 227.4 | 6 |
+| audio/relax/relax_5.mp3 | 125.1 | 6 |
+| audio/teen/testimonials/caregiver/caregiver_test_1on1_t.mp3 | 788.7 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_consequence_t.mp3 | 1382.7 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_crisis_t.mp3 | 558.1 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_grief_t.mp3 | 184 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_instruct_t.mp3 | 227 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_learn_t.mp3 | 630.2 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_money_t.mp3 | 1812.8 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_praise_t.mp3 | 235.6 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_rules_t.mp3 | 1061.9 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_safe_t.mp3 | 764.6 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_self_care_t.mp3 | 560.5 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_solve_t.mp3 | 194.4 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_srh_t.mp3 | 332.4 | 2 |
+| audio/teen/testimonials/caregiver/caregiver_test_stress_t.mp3 | 177 | 2 |
+| audio/teen/testimonials/teen/teen_test_1on1_t.mp3 | 250.1 | 2 |
+| audio/teen/testimonials/teen/teen_test_consequence_t.mp3 | 217.5 | 2 |
+| audio/teen/testimonials/teen/teen_test_crisis_t.mp3 | 197 | 2 |
+| audio/teen/testimonials/teen/teen_test_grief_t.mp3 | 242.1 | 2 |
+| audio/teen/testimonials/teen/teen_test_instruct_t.mp3 | 265.3 | 2 |
+| audio/teen/testimonials/teen/teen_test_learn_t.mp3 | 793.7 | 2 |
+| audio/teen/testimonials/teen/teen_test_money_t.mp3 | 318.9 | 2 |
+| audio/teen/testimonials/teen/teen_test_praise_t.mp3 | 940.3 | 2 |
+| audio/teen/testimonials/teen/teen_test_rules_t.mp3 | 195 | 2 |
+| audio/teen/testimonials/teen/teen_test_safe_t.mp3 | 767 | 2 |
+| audio/teen/testimonials/teen/teen_test_self_care_t.mp3 | 409.2 | 2 |
+| audio/teen/testimonials/teen/teen_test_solve_t.mp3 | 237 | 2 |
+| audio/teen/testimonials/teen/teen_test_srh_t.mp3 | 1385.9 | 2 |
+| audio/teen/testimonials/teen/teen_test_stress_t.mp3 | 205 | 2 |
+| audio/teen/testimonials/teen/teen_test_svp_t.mp3 | 266.5 | 2 |
+| audio/teen/topic_intros/1on1_intro_t.mp3 | 98.1 | 2 |
+| audio/teen/topic_intros/celebrate_intro_t.mp3 | 109.7 | 2 |
+| audio/teen/topic_intros/consequence_intro_t.mp3 | 147.3 | 2 |
+| audio/teen/topic_intros/crisis_intro_t.mp3 | 214.2 | 2 |
+| audio/teen/topic_intros/grief_intro_t.mp3 | 113.1 | 2 |
+| audio/teen/topic_intros/instruct_intro_t.mp3 | 108 | 2 |
+| audio/teen/topic_intros/learn_intro_t.mp3 | 383.5 | 2 |
+| audio/teen/topic_intros/money_intro_t.mp3 | 160.1 | 2 |
+| audio/teen/topic_intros/praise_intro_t.mp3 | 103.6 | 2 |
+| audio/teen/topic_intros/rules_intro_t.mp3 | 110 | 2 |
+| audio/teen/topic_intros/safe_intro_t.mp3 | 197 | 2 |
+| audio/teen/topic_intros/self_care_intro_t.mp3 | 170.4 | 2 |
+| audio/teen/topic_intros/solve_intro_t.mp3 | 234.3 | 2 |
+| audio/teen/topic_intros/srh_intro_t.mp3 | 135 | 2 |
+| audio/teen/topic_intros/stress_intro_t.mp3 | 183.1 | 2 |
+| audio/teen/topic_intros/svp_intro_t.mp3 | 116.2 | 2 |
+| audio/teen/topic_intros/workshops_reflection_t.mp3 | 363.9 | 2 |
 | images/activities/bao.svg | 285.6 | 2 |
 | images/activities/can_you_catch_it.svg | 183.7 | 2 |
 | images/activities/charades.svg | 38.9 | 2 |
@@ -526,6 +451,156 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/onboarding/frustrated.svg | 22.5 | 1 |
 | images/onboarding/join_parents.svg | 37.6 | 1 |
 | images/onboarding/loving_parent.svg | 25.7 | 1 |
+| images/teen_modules/celebrate/celebrate_cup.svg | 60.9 | 2 |
+| images/teen_modules/celebrate/celebrate_t_1.svg | 152.3 | 2 |
+| images/teen_modules/celebrate/celebrate_t_2.svg | 34.9 | 2 |
+| images/teen_modules/celebrate/celebrate_t_3.svg | 89.6 | 2 |
+| images/teen_modules/celebrate/celebrate_t_4.svg | 166.6 | 2 |
+| images/teen_modules/consequence/consequence1_t_1.svg | 72.4 | 2 |
+| images/teen_modules/consequence/consequence1_t_2.svg | 46.5 | 2 |
+| images/teen_modules/consequence/consequence1_t_3.svg | 51.3 | 2 |
+| images/teen_modules/consequence/consequence1_t_4.svg | 46.4 | 2 |
+| images/teen_modules/consequence/consequence2_t_1.svg | 73 | 2 |
+| images/teen_modules/consequence/consequence2_t_2.svg | 46.7 | 2 |
+| images/teen_modules/consequence/consequence2_t_3.svg | 117.4 | 2 |
+| images/teen_modules/consequence/consequence3_t_1.svg | 56 | 2 |
+| images/teen_modules/consequence/consequence3_t_2.svg | 61.2 | 2 |
+| images/teen_modules/consequence/consequence3_t_3.svg | 56.1 | 2 |
+| images/teen_modules/consequence/consequence3_t_4.svg | 57.4 | 2 |
+| images/teen_modules/consequence/consequence3_t_5.svg | 66.2 | 2 |
+| images/teen_modules/consequence/consequence3_t_6.svg | 47.1 | 2 |
+| images/teen_modules/consequence/consequence3_t_7.svg | 48.4 | 2 |
+| images/teen_modules/consequence/consequence3_t_8.svg | 47.1 | 2 |
+| images/teen_modules/consequence/consequence3_t_9.svg | 53.1 | 2 |
+| images/teen_modules/crisis/crisis1_t_1.svg | 44.3 | 2 |
+| images/teen_modules/crisis/crisis1_t_2.svg | 51.1 | 2 |
+| images/teen_modules/crisis/crisis1_t_3.svg | 53.5 | 2 |
+| images/teen_modules/crisis/crisis1_t_4.svg | 88.9 | 2 |
+| images/teen_modules/crisis/crisis1_t_5.svg | 66.1 | 2 |
+| images/teen_modules/crisis/crisis1_t_6.svg | 66.3 | 2 |
+| images/teen_modules/crisis/crisis1_t_7.svg | 41 | 2 |
+| images/teen_modules/crisis/crisis_learn_t_1.svg | 42 | 2 |
+| images/teen_modules/crisis/crisis_learn_t_2.svg | 74.4 | 2 |
+| images/teen_modules/crisis/crisis_learn_t_3.svg | 38.5 | 2 |
+| images/teen_modules/crisis/crisis_learn_t_4.svg | 81.6 | 2 |
+| images/teen_modules/crisis/crisis_learn_t_5.svg | 41.4 | 2 |
+| images/teen_modules/grief/grief1_t_1.svg | 28.3 | 2 |
+| images/teen_modules/grief/grief1_t_2.svg | 59.8 | 2 |
+| images/teen_modules/grief/grief1_t_3.svg | 32.7 | 2 |
+| images/teen_modules/grief/grief2_t_1.svg | 33 | 2 |
+| images/teen_modules/grief/grief2_t_2.svg | 29.8 | 2 |
+| images/teen_modules/grief/grief2_t_3.svg | 32.2 | 2 |
+| images/teen_modules/grief/grief2_t_4.svg | 42.4 | 2 |
+| images/teen_modules/instruct/instruct1_t_1.svg | 7.9 | 4 |
+| images/teen_modules/instruct/instruct1_t_2.svg | 9.1 | 2 |
+| images/teen_modules/instruct/instruct1_t_3.svg | 26.5 | 2 |
+| images/teen_modules/instruct/instruct2_t_1.svg | 262.3 | 2 |
+| images/teen_modules/instruct/instruct2_t_2.svg | 264.5 | 2 |
+| images/teen_modules/instruct/instruct3_t_1.svg | 258 | 2 |
+| images/teen_modules/instruct/instruct3_t_2.svg | 202.5 | 2 |
+| images/teen_modules/instruct/instruct3_t_3.svg | 240.9 | 2 |
+| images/teen_modules/learn/learn1_t_1.svg | 154.7 | 2 |
+| images/teen_modules/learn/learn1_t_2.svg | 153.9 | 2 |
+| images/teen_modules/learn/learn1_t_3.svg | 163.8 | 2 |
+| images/teen_modules/learn/learn2_t_1.jpg | 1020.7 | 2 |
+| images/teen_modules/learn/learn2_t_2.jpg | 1119.2 | 2 |
+| images/teen_modules/learn/learn2_t_3.jpg | 1090.5 | 2 |
+| images/teen_modules/learn/learn2_t_4.jpg | 1221.5 | 2 |
+| images/teen_modules/learn/learn3_t_1.svg | 99 | 2 |
+| images/teen_modules/learn/learn3_t_2.svg | 37.5 | 2 |
+| images/teen_modules/learn/learn3_t_3.svg | 40.7 | 2 |
+| images/teen_modules/money/money1_t_1.svg | 77.4 | 2 |
+| images/teen_modules/money/money2_t_1.svg | 702.9 | 2 |
+| images/teen_modules/money/money2_t_3.svg | 717.1 | 2 |
+| images/teen_modules/money/money2_t_4.svg | 721.6 | 2 |
+| images/teen_modules/money/money3_t_1.svg | 62.1 | 2 |
+| images/teen_modules/money/money3_t_2.svg | 115.3 | 2 |
+| images/teen_modules/money/money3_t_3.svg | 45.7 | 2 |
+| images/teen_modules/money/money3_t_4.svg | 82.9 | 4 |
+| images/teen_modules/money/money3_t_5.svg | 86.8 | 2 |
+| images/teen_modules/money/money4_t_1.svg | 47.1 | 2 |
+| images/teen_modules/one_on_one/1on1_t_1.svg | 49.6 | 2 |
+| images/teen_modules/one_on_one/1on1_t_2.svg | 243.8 | 2 |
+| images/teen_modules/one_on_one/1on1_t_3.svg | 253.2 | 2 |
+| images/teen_modules/praise/praise1_t_1.svg | 180.2 | 2 |
+| images/teen_modules/praise/praise1_t_2.svg | 179.3 | 2 |
+| images/teen_modules/praise/praise1_t_3.svg | 169.9 | 2 |
+| images/teen_modules/rules/rules1_t_1.svg | 64.7 | 2 |
+| images/teen_modules/rules/rules1_t_2.svg | 80.2 | 2 |
+| images/teen_modules/rules/rules1_t_3.svg | 84.5 | 2 |
+| images/teen_modules/rules/rules1_t_4.svg | 82.4 | 2 |
+| images/teen_modules/rules/rules1_t_5.svg | 83.4 | 2 |
+| images/teen_modules/rules/rules1_t_6.svg | 76.5 | 2 |
+| images/teen_modules/rules/rules1_t_7.svg | 97 | 2 |
+| images/teen_modules/rules/rules2_t_1.svg | 417.7 | 2 |
+| images/teen_modules/rules/rules2_t_2.svg | 233.3 | 2 |
+| images/teen_modules/rules/rules2_t_3.svg | 231.7 | 2 |
+| images/teen_modules/rules/rules2_t_4.svg | 164.6 | 2 |
+| images/teen_modules/rules/rules2_t_5.svg | 423.4 | 2 |
+| images/teen_modules/safe/safe1_t_1.svg | 24.3 | 2 |
+| images/teen_modules/safe/safe1_t_2.svg | 42 | 2 |
+| images/teen_modules/safe/safe1_t_3.svg | 38.5 | 2 |
+| images/teen_modules/safe/safe1_t_4.svg | 97.4 | 2 |
+| images/teen_modules/safe/safe1_t_5.svg | 71.4 | 2 |
+| images/teen_modules/safe/safe1_t_6.svg | 47.7 | 2 |
+| images/teen_modules/safe/safe_learn_t_1.svg | 1365.4 | 2 |
+| images/teen_modules/safe/safe_learn_t_2.svg | 1560.3 | 2 |
+| images/teen_modules/safe/safe_learn_t_3.svg | 1991.8 | 2 |
+| images/teen_modules/safe/warning_drugs_t.svg | 54.6 | 2 |
+| images/teen_modules/safe/warning_nude_pic_t.svg | 126.2 | 2 |
+| images/teen_modules/safe/warning_private_tutoring_t.svg | 93.3 | 2 |
+| images/teen_modules/safe/warning_pushy_boyfriend_t.svg | 49.8 | 2 |
+| images/teen_modules/safe/warning_pushy_friend_t.svg | 65.6 | 2 |
+| images/teen_modules/safe/warning_rejected_ride_t.svg | 91.6 | 2 |
+| images/teen_modules/self_care/self_care1_t_1.svg | 47.2 | 2 |
+| images/teen_modules/self_care/self_care1_t_2.svg | 56.2 | 2 |
+| images/teen_modules/self_care/self_care2_t_1.svg | 27.9 | 2 |
+| images/teen_modules/solve/solve2_t_1.svg | 272.7 | 2 |
+| images/teen_modules/solve/solve2_t_2.svg | 281.7 | 2 |
+| images/teen_modules/solve/solve2_t_3.svg | 154.5 | 2 |
+| images/teen_modules/solve/solve2_t_4.svg | 217.8 | 2 |
+| images/teen_modules/solve/solve2_t_5.svg | 221.6 | 2 |
+| images/teen_modules/solve/solve2_t_6.svg | 220.2 | 2 |
+| images/teen_modules/solve/solve2_t_7.svg | 130 | 2 |
+| images/teen_modules/solve/solve2_t_8.svg | 63.8 | 2 |
+| images/teen_modules/solve/solve3_t_1.svg | 87.8 | 1 |
+| images/teen_modules/solve/solve3_t_2.svg | 80.7 | 1 |
+| images/teen_modules/solve/solve3_t_3.svg | 81.7 | 3 |
+| images/teen_modules/srh/srh1_t_1.svg | 71.5 | 2 |
+| images/teen_modules/srh/srh1_t_2.svg | 81.7 | 2 |
+| images/teen_modules/srh/srh1_t_3.svg | 40.2 | 2 |
+| images/teen_modules/srh/srh1_t_4.svg | 35.7 | 2 |
+| images/teen_modules/srh/srh1_t_5.svg | 36.9 | 2 |
+| images/teen_modules/srh/srh2_t_1.svg | 333.7 | 2 |
+| images/teen_modules/srh/srh2_t_2.svg | 227.6 | 2 |
+| images/teen_modules/srh/srh2_t_3.svg | 227.7 | 2 |
+| images/teen_modules/srh/srh2_t_4.svg | 222.2 | 2 |
+| images/teen_modules/srh/srh2_t_5.svg | 163.8 | 2 |
+| images/teen_modules/srh/srh_learn_sex_talk_age_t_1.svg | 125 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_age_t_2.svg | 70.9 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_age_t_3.svg | 25.6 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_safe_t_1.svg | 70 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_safe_t_2.svg | 28.8 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_safe_t_3.svg | 44 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_safe_t_4.svg | 60.7 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_safe_t_5.svg | 76.4 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_when_t_1.svg | 58.6 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_when_t_2.svg | 89.8 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_when_t_3.svg | 165.4 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_when_t_4.svg | 52.8 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_who_t_1.svg | 27.1 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_who_t_2.svg | 45.5 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_who_t_3.svg | 105 | 1 |
+| images/teen_modules/srh/srh_learn_sex_talk_who_t_4.svg | 99.3 | 1 |
+| images/teen_modules/stress/stress1_t_1.svg | 61.1 | 2 |
+| images/teen_modules/stress/stress1_t_2.svg | 75.3 | 2 |
+| images/teen_modules/stress/stress1_t_3.svg | 54.7 | 2 |
+| images/teen_modules/stress/stress1_t_4.svg | 243.7 | 2 |
+| images/teen_modules/stress/stress1_t_5.svg | 72.3 | 2 |
+| images/teen_modules/stress/stress2_t_1.svg | 87 | 2 |
+| images/teen_modules/stress/stress2_t_2.svg | 81.1 | 2 |
+| images/teen_modules/stress/stress2_t_3.svg | 86.4 | 2 |
+| images/teen_modules/svp/svp_usevoice_t.svg | 18.4 | 2 |
 | lottie/bulging_circles.json | 11.8 | 2 |
 | lottie/relax/blue_dots.json | 14.7 | 9 |
 | lottie/relax/heart.json | 46.7 | 9 |
