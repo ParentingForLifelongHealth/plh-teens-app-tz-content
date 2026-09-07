@@ -155,7 +155,7 @@
       },
       {
         "type": "template",
-        "count": 672
+        "count": 673
       },
       {
         "type": "text",
@@ -215,7 +215,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 489
+        "count": 490
       },
       {
         "type": "emit: force_reload",
@@ -239,7 +239,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 493
+        "count": 494
       },
       {
         "type": "feedback",
@@ -267,11 +267,11 @@
       },
       {
         "type": "set_data",
-        "count": 58
+        "count": 57
       },
       {
         "type": "set_field",
-        "count": 57
+        "count": 56
       },
       {
         "type": "set_item",
@@ -295,13 +295,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "37023 KB",
-        "MB": "37 MB"
+        "KB": "20570 KB",
+        "MB": "20.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "11033 KB",
-        "MB": "11 MB"
+        "KB": "2495 KB",
+        "MB": "2.5 MB"
       }
     ]
   },
@@ -324,6 +324,14 @@
         "size_kb": 239
       },
       {
+        "path": "images/backgrounds/complete_module.svg",
+        "size_kb": 4.5
+      },
+      {
+        "path": "images/backgrounds/homescreen_pattern.svg",
+        "size_kb": 156.3
+      },
+      {
         "path": "images/faces/happier.svg",
         "size_kb": 0.6
       },
@@ -342,6 +350,14 @@
       {
         "path": "images/icons/cancel.svg",
         "size_kb": 1.7
+      },
+      {
+        "path": "images/icons/celebration.svg",
+        "size_kb": 70.4
+      },
+      {
+        "path": "images/icons/chatbubble-ellipses-outline.svg",
+        "size_kb": 0.8
       },
       {
         "path": "images/icons/document.svg",
@@ -380,8 +396,16 @@
         "size_kb": 5.1
       },
       {
+        "path": "images/icons/heart-outline.svg",
+        "size_kb": 0.4
+      },
+      {
         "path": "images/icons/heart.svg",
         "size_kb": 0.6
+      },
+      {
+        "path": "images/icons/hourglass_blue.png",
+        "size_kb": 4.3
       },
       {
         "path": "images/icons/in_progress_white.svg",
@@ -424,6 +448,10 @@
         "size_kb": 3.4
       },
       {
+        "path": "images/icons/repeat_blue.png",
+        "size_kb": 5.4
+      },
+      {
         "path": "images/icons/spark.png",
         "size_kb": 1.6
       },
@@ -440,52 +468,20 @@
         "size_kb": 3.9
       },
       {
+        "path": "images/icons/trophy_large.svg",
+        "size_kb": 2.2
+      },
+      {
         "path": "images/icons/world.svg",
         "size_kb": 6.2
       },
       {
-        "path": "images/logos/CWBSA.png",
-        "size_kb": 84.4
-      },
-      {
-        "path": "images/logos/GISP.png",
-        "size_kb": 30.5
-      },
-      {
-        "path": "images/logos/ICS_SP.jpg",
-        "size_kb": 228.6
-      },
-      {
         "path": "images/logos/IDEMS.png",
-        "size_kb": 42.7
-      },
-      {
-        "path": "images/logos/NIMR.png",
-        "size_kb": 225
-      },
-      {
-        "path": "images/logos/Oxford.png",
-        "size_kb": 93.7
+        "size_kb": 84.6
       },
       {
         "path": "images/logos/PLH.png",
-        "size_kb": 33.9
-      },
-      {
-        "path": "images/logos/UCT.png",
-        "size_kb": 168
-      },
-      {
-        "path": "images/logos/UNICEF.png",
-        "size_kb": 68.8
-      },
-      {
-        "path": "images/logos/Vodacom.png",
-        "size_kb": 59.2
-      },
-      {
-        "path": "images/logos/WHO.jpeg",
-        "size_kb": 310.7
+        "size_kb": 26.6
       },
       {
         "path": "images/logos/donors/ERC-EU.png",
@@ -532,210 +528,6 @@
         "size_kb": 12.8
       },
       {
-        "path": "images/logos/plh_white.svg",
-        "size_kb": 256.1
-      },
-      {
-        "path": "images/logos/tz_ministry.svg",
-        "size_kb": 122.4
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis2_t_1.svg",
-        "size_kb": 77.2
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis2_t_2.svg",
-        "size_kb": 54.6
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis2_t_3.svg",
-        "size_kb": 58
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis2_t_4.svg",
-        "size_kb": 55.5
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis2_t_5.svg",
-        "size_kb": 56
-      },
-      {
-        "path": "images/teen_modules/instruct/instruct2_t_3.svg",
-        "size_kb": 42.6
-      },
-      {
-        "path": "images/teen_modules/instruct/instruct3_t_4.svg",
-        "size_kb": 42.5
-      },
-      {
-        "path": "images/teen_modules/instruct/instruct3_t_5.svg",
-        "size_kb": 53.4
-      },
-      {
-        "path": "images/teen_modules/learn/learn_conflict_t_1.svg",
-        "size_kb": 51.8
-      },
-      {
-        "path": "images/teen_modules/learn/learn_conflict_t_2.svg",
-        "size_kb": 69.4
-      },
-      {
-        "path": "images/teen_modules/learn/learn_conflict_t_3.svg",
-        "size_kb": 47.4
-      },
-      {
-        "path": "images/teen_modules/learn/learn_conflict_t_4.svg",
-        "size_kb": 48.3
-      },
-      {
-        "path": "images/teen_modules/learn/learn_support_t_1.svg",
-        "size_kb": 51.8
-      },
-      {
-        "path": "images/teen_modules/learn/learn_support_t_2.svg",
-        "size_kb": 69.4
-      },
-      {
-        "path": "images/teen_modules/learn/learn_support_t_3.svg",
-        "size_kb": 46
-      },
-      {
-        "path": "images/teen_modules/learn/learn_support_t_4.svg",
-        "size_kb": 40.2
-      },
-      {
-        "path": "images/teen_modules/money/money1_t_2.svg",
-        "size_kb": 44.9
-      },
-      {
-        "path": "images/teen_modules/money/money2_t_2.svg",
-        "size_kb": 61.8
-      },
-      {
-        "path": "images/teen_modules/safe/safe2_t_1.svg",
-        "size_kb": 35
-      },
-      {
-        "path": "images/teen_modules/safe/safe2_t_2.svg",
-        "size_kb": 33
-      },
-      {
-        "path": "images/teen_modules/safe/safe_learn_t_4.svg",
-        "size_kb": 926.4
-      },
-      {
-        "path": "images/teen_modules/solve/solve1_t_1.svg",
-        "size_kb": 35.6
-      },
-      {
-        "path": "images/teen_modules/solve/solve1_t_2.svg",
-        "size_kb": 33.4
-      },
-      {
-        "path": "images/teen_modules/solve/solve1_t_3.svg",
-        "size_kb": 33.6
-      },
-      {
-        "path": "images/teen_modules/solve/solve2_t_10.svg",
-        "size_kb": 25.9
-      },
-      {
-        "path": "images/teen_modules/solve/solve2_t_11.svg",
-        "size_kb": 34.5
-      },
-      {
-        "path": "images/teen_modules/solve/solve2_t_12.svg",
-        "size_kb": 25.7
-      },
-      {
-        "path": "images/teen_modules/solve/solve2_t_9.svg",
-        "size_kb": 33.5
-      },
-      {
-        "path": "images/teen_modules/solve/solve_tool_t_1.svg",
-        "size_kb": 42.1
-      },
-      {
-        "path": "images/teen_modules/solve/solve_tool_t_2.svg",
-        "size_kb": 75.3
-      },
-      {
-        "path": "images/teen_modules/solve/solve_tool_t_3.svg",
-        "size_kb": 39.4
-      },
-      {
-        "path": "images/teen_modules/solve/solve_tool_t_4.svg",
-        "size_kb": 33.4
-      },
-      {
-        "path": "images/teen_modules/stress/stress2_t_4.svg",
-        "size_kb": 55.6
-      },
-      {
-        "path": "images/teen_modules/stress/stress3_t_1.svg",
-        "size_kb": 24.3
-      },
-      {
-        "path": "images/teen_modules/stress/stress3_t_2.svg",
-        "size_kb": 42
-      },
-      {
-        "path": "images/teen_modules/stress/stress3_t_3.svg",
-        "size_kb": 38.5
-      },
-      {
-        "path": "images/teen_modules/stress/stress3_t_4.svg",
-        "size_kb": 103.5
-      },
-      {
-        "path": "images/teen_modules/stress/stress3_t_5.svg",
-        "size_kb": 71.4
-      },
-      {
-        "path": "images/teen_modules/stress/stress3_t_6.svg",
-        "size_kb": 57.8
-      },
-      {
-        "path": "images/teen_modules/svp/delete_svp_usebody_t_1.gif",
-        "size_kb": 1111.6
-      },
-      {
-        "path": "images/teen_modules/svp/svp_catcalling_t.svg",
-        "size_kb": 96.1
-      },
-      {
-        "path": "images/teen_modules/svp/svp_controlling_boyfriend_t.svg",
-        "size_kb": 39.8
-      },
-      {
-        "path": "images/teen_modules/svp/svp_nude_pic_t.svg",
-        "size_kb": 49.6
-      },
-      {
-        "path": "images/teen_modules/svp/svp_private_tutoring_t.svg",
-        "size_kb": 58.6
-      },
-      {
-        "path": "images/teen_modules/svp/svp_pushy_boyfriend_t.svg",
-        "size_kb": 50.4
-      },
-      {
-        "path": "images/teen_modules/svp/svp_pushy_friend_t.svg",
-        "size_kb": 65.6
-      },
-      {
-        "path": "images/teen_modules/svp/svp_rejected_ride_t.svg",
-        "size_kb": 74.4
-      },
-      {
-        "path": "images/teen_modules/svp/svp_usebody_t_1.gif",
-        "size_kb": 2008.5
-      },
-      {
-        "path": "images/teen_modules/svp/svp_usebody_t_2.gif",
-        "size_kb": 844.1
-      },
-      {
         "path": "lottie/bulging_circles.txt",
         "size_kb": 0.2
       },
@@ -752,32 +544,187 @@
   "assets_missing": {
     "data": [
       {
-        "path": "images/backgrounds/lesson-cta-bg.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
         "path": "images/backgrounds/map_view_bg.jpg",
         "count": 1,
         "missing": true
       },
       {
-        "path": "images/icons/home_white.svg",
+        "path": "images/homescreen/celebrate_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/check_in/traditional_rondavel_closed.svg",
         "count": 1,
         "missing": true
       },
       {
-        "path": "images/icons/local_library_white.svg",
+        "path": "images/homescreen/check_in/traditional_rondavel_open.svg",
         "count": 1,
         "missing": true
       },
       {
-        "path": "images/icons/settings_white.svg",
-        "count": 1,
+        "path": "images/homescreen/consequence_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/crisis_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/grief_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/instruct_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/learn_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/celebrate_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/consequence_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/crisis_t.svg",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/grief_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/instruct_t.svg",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/learn_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/money_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/one_on_one_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/praise_t.svg",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/rules_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/safe_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/self_care.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/solve_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/srh_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/stress_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/listview/svp_t.svg",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/money_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/one_on_one_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/praise_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/rules_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/safe_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/self_care.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/solve_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/srh_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/stress_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/homescreen/svp_t.svg",
+        "count": 2,
         "missing": true
       },
       {
         "path": "images/logos/app_logo.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/plh_logomark.png",
         "count": 1,
         "missing": true
       },
@@ -787,7 +734,242 @@
         "missing": true
       },
       {
+        "path": "images/teen_modules/celebrate/celebrate_cup.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/celebrate/celebrate_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/celebrate/celebrate_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/celebrate/celebrate_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/celebrate/celebrate_t_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence1_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence1_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence1_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence1_t_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence2_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence2_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence2_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_5.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_6.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_7.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_8.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/consequence/consequence3_t_9.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis1_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis1_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis1_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis1_t_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis1_t_5.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis1_t_6.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
         "path": "images/teen_modules/crisis/crisis1_t_7.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis_learn_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis_learn_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis_learn_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis_learn_t_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/crisis/crisis_learn_t_5.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/grief/grief1_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/grief/grief1_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/grief/grief1_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/grief/grief2_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/grief/grief2_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/grief/grief2_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/grief/grief2_t_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct1_t_1.svg",
+        "count": 4,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct1_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct1_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct2_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct2_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct3_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct3_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/instruct/instruct3_t_3.svg",
         "count": 2,
         "missing": true
       },
@@ -842,6 +1024,56 @@
         "missing": true
       },
       {
+        "path": "images/teen_modules/money/money1_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money2_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money2_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money2_t_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money3_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money3_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money3_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money3_t_4.svg",
+        "count": 4,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money3_t_5.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/money/money4_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
         "path": "images/teen_modules/one_on_one/1on1_t_1.svg",
         "count": 2,
         "missing": true
@@ -857,7 +1089,122 @@
         "missing": true
       },
       {
+        "path": "images/teen_modules/praise/praise1_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/praise/praise1_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
         "path": "images/teen_modules/praise/praise1_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_5.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_6.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/rules/rules1_t_7.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/rules/rules2_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/rules/rules2_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/rules/rules2_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/rules/rules2_t_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/rules/rules2_t_5.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/safe/safe1_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/safe/safe1_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/safe/safe1_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/safe/safe1_t_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/safe/safe1_t_5.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/safe/safe1_t_6.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/safe/safe_learn_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/safe/safe_learn_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/safe/safe_learn_t_3.svg",
         "count": 2,
         "missing": true
       },
@@ -892,7 +1239,92 @@
         "missing": true
       },
       {
+        "path": "images/teen_modules/self_care/self_care1_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/self_care/self_care1_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
         "path": "images/teen_modules/self_care/self_care2_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_5.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_6.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_7.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/solve/solve2_t_8.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/solve/solve3_t_1.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/solve/solve3_t_2.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/solve/solve3_t_3.svg",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh1_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh1_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh1_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh1_t_4.svg",
         "count": 2,
         "missing": true
       },
@@ -902,7 +1334,167 @@
         "missing": true
       },
       {
+        "path": "images/teen_modules/srh/srh2_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh2_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh2_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh2_t_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh2_t_5.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_age_t_1.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_age_t_2.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_age_t_3.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_1.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_2.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_3.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_4.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_5.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_1.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_2.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_3.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_4.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_who_t_1.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_who_t_2.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/srh/srh_learn_sex_talk_who_t_3.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
         "path": "images/teen_modules/srh/srh_learn_sex_talk_who_t_4.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/stress/stress1_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/stress/stress1_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/stress/stress1_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/stress/stress1_t_4.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/stress/stress1_t_5.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/stress/stress2_t_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/stress/stress2_t_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/stress/stress2_t_3.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "images/teen_modules/svp/svp_usevoice_t.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "lottie/checkmark.json",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "lottie/gift_box.json",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "lottie/loading_dots.json",
         "count": 1,
         "missing": true
       }
@@ -1049,6 +1641,11 @@
         "path": "images/backgrounds/kites.svg",
         "count": 1,
         "size_kb": 37.3
+      },
+      {
+        "path": "images/backgrounds/lesson-cta-bg.svg",
+        "count": 2,
+        "size_kb": 4
       },
       {
         "path": "images/backgrounds/library_top_right.png",
@@ -1221,176 +1818,6 @@
         "size_kb": 2.4
       },
       {
-        "path": "images/homescreen/celebrate_t.svg",
-        "count": 2,
-        "size_kb": 36.3
-      },
-      {
-        "path": "images/homescreen/check_in/traditional_rondavel_closed.svg",
-        "count": 1,
-        "size_kb": 23.9
-      },
-      {
-        "path": "images/homescreen/check_in/traditional_rondavel_open.svg",
-        "count": 1,
-        "size_kb": 28.8
-      },
-      {
-        "path": "images/homescreen/consequence_t.svg",
-        "count": 2,
-        "size_kb": 23
-      },
-      {
-        "path": "images/homescreen/crisis_t.svg",
-        "count": 2,
-        "size_kb": 46.1
-      },
-      {
-        "path": "images/homescreen/grief_t.svg",
-        "count": 2,
-        "size_kb": 30.8
-      },
-      {
-        "path": "images/homescreen/instruct_t.svg",
-        "count": 2,
-        "size_kb": 40.6
-      },
-      {
-        "path": "images/homescreen/learn_t.svg",
-        "count": 2,
-        "size_kb": 28.4
-      },
-      {
-        "path": "images/homescreen/listview/celebrate_t.svg",
-        "count": 2,
-        "size_kb": 31.1
-      },
-      {
-        "path": "images/homescreen/listview/consequence_t.svg",
-        "count": 2,
-        "size_kb": 29.3
-      },
-      {
-        "path": "images/homescreen/listview/crisis_t.svg",
-        "count": 3,
-        "size_kb": 44
-      },
-      {
-        "path": "images/homescreen/listview/grief_t.svg",
-        "count": 2,
-        "size_kb": 26.8
-      },
-      {
-        "path": "images/homescreen/listview/instruct_t.svg",
-        "count": 3,
-        "size_kb": 37.9
-      },
-      {
-        "path": "images/homescreen/listview/learn_t.svg",
-        "count": 2,
-        "size_kb": 25.4
-      },
-      {
-        "path": "images/homescreen/listview/money_t.svg",
-        "count": 2,
-        "size_kb": 31.7
-      },
-      {
-        "path": "images/homescreen/listview/one_on_one_t.svg",
-        "count": 2,
-        "size_kb": 39.8
-      },
-      {
-        "path": "images/homescreen/listview/praise_t.svg",
-        "count": 3,
-        "size_kb": 33.7
-      },
-      {
-        "path": "images/homescreen/listview/rules_t.svg",
-        "count": 2,
-        "size_kb": 35.8
-      },
-      {
-        "path": "images/homescreen/listview/safe_t.svg",
-        "count": 2,
-        "size_kb": 20.6
-      },
-      {
-        "path": "images/homescreen/listview/self_care.svg",
-        "count": 2,
-        "size_kb": 52.6
-      },
-      {
-        "path": "images/homescreen/listview/solve_t.svg",
-        "count": 2,
-        "size_kb": 33.5
-      },
-      {
-        "path": "images/homescreen/listview/srh_t.svg",
-        "count": 2,
-        "size_kb": 40.9
-      },
-      {
-        "path": "images/homescreen/listview/stress_t.svg",
-        "count": 2,
-        "size_kb": 15.5
-      },
-      {
-        "path": "images/homescreen/listview/svp_t.svg",
-        "count": 3,
-        "size_kb": 20.3
-      },
-      {
-        "path": "images/homescreen/money_t.svg",
-        "count": 2,
-        "size_kb": 37.1
-      },
-      {
-        "path": "images/homescreen/one_on_one_t.svg",
-        "count": 2,
-        "size_kb": 48.5
-      },
-      {
-        "path": "images/homescreen/praise_t.svg",
-        "count": 2,
-        "size_kb": 32.2
-      },
-      {
-        "path": "images/homescreen/rules_t.svg",
-        "count": 2,
-        "size_kb": 41.2
-      },
-      {
-        "path": "images/homescreen/safe_t.svg",
-        "count": 2,
-        "size_kb": 23.9
-      },
-      {
-        "path": "images/homescreen/self_care.svg",
-        "count": 2,
-        "size_kb": 59.9
-      },
-      {
-        "path": "images/homescreen/solve_t.svg",
-        "count": 2,
-        "size_kb": 53.7
-      },
-      {
-        "path": "images/homescreen/srh_t.svg",
-        "count": 2,
-        "size_kb": 46.2
-      },
-      {
-        "path": "images/homescreen/stress_t.svg",
-        "count": 2,
-        "size_kb": 16.9
-      },
-      {
-        "path": "images/homescreen/svp_t.svg",
-        "count": 2,
-        "size_kb": 25.4
-      },
-      {
         "path": "images/icons/brain_blue.png",
         "count": 8,
         "size_kb": 5.2
@@ -1551,6 +1978,11 @@
         "size_kb": 0.4
       },
       {
+        "path": "images/icons/home_white.svg",
+        "count": 1,
+        "size_kb": 0.7
+      },
+      {
         "path": "images/icons/in_progress.svg",
         "count": 2,
         "size_kb": 1.1
@@ -1574,6 +2006,11 @@
         "path": "images/icons/local_library_active.svg",
         "count": 1,
         "size_kb": 1.6
+      },
+      {
+        "path": "images/icons/local_library_white.svg",
+        "count": 1,
+        "size_kb": 1.9
       },
       {
         "path": "images/icons/lock-closed-outline.png",
@@ -1647,6 +2084,11 @@
       },
       {
         "path": "images/icons/settings_active.svg",
+        "count": 1,
+        "size_kb": 2.4
+      },
+      {
+        "path": "images/icons/settings_white.svg",
         "count": 1,
         "size_kb": 2.4
       },
@@ -1836,11 +2278,6 @@
         "size_kb": 122.4
       },
       {
-        "path": "images/logos/plh_logomark.png",
-        "count": 1,
-        "size_kb": 20.5
-      },
-      {
         "path": "images/onboarding/facilitator_female_onboarding_icon.svg",
         "count": 2,
         "size_kb": 29.4
@@ -1866,654 +2303,9 @@
         "size_kb": 25.7
       },
       {
-        "path": "images/teen_modules/celebrate/celebrate_cup.svg",
-        "count": 2,
-        "size_kb": 60.9
-      },
-      {
-        "path": "images/teen_modules/celebrate/celebrate_t_1.svg",
-        "count": 2,
-        "size_kb": 152.3
-      },
-      {
-        "path": "images/teen_modules/celebrate/celebrate_t_2.svg",
-        "count": 2,
-        "size_kb": 34.9
-      },
-      {
-        "path": "images/teen_modules/celebrate/celebrate_t_3.svg",
-        "count": 2,
-        "size_kb": 89.6
-      },
-      {
-        "path": "images/teen_modules/celebrate/celebrate_t_4.svg",
-        "count": 2,
-        "size_kb": 166.6
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence1_t_1.svg",
-        "count": 2,
-        "size_kb": 72.4
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence1_t_2.svg",
-        "count": 2,
-        "size_kb": 46.5
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence1_t_3.svg",
-        "count": 2,
-        "size_kb": 51.3
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence1_t_4.svg",
-        "count": 2,
-        "size_kb": 46.4
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence2_t_1.svg",
-        "count": 2,
-        "size_kb": 73
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence2_t_2.svg",
-        "count": 2,
-        "size_kb": 46.7
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence2_t_3.svg",
-        "count": 2,
-        "size_kb": 117.4
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence3_t_1.svg",
-        "count": 2,
-        "size_kb": 56
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence3_t_2.svg",
-        "count": 2,
-        "size_kb": 61.2
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence3_t_3.svg",
-        "count": 2,
-        "size_kb": 56.1
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence3_t_4.svg",
-        "count": 2,
-        "size_kb": 57.4
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence3_t_5.svg",
-        "count": 2,
-        "size_kb": 66.2
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence3_t_6.svg",
-        "count": 2,
-        "size_kb": 47.1
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence3_t_7.svg",
-        "count": 2,
-        "size_kb": 48.4
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence3_t_8.svg",
-        "count": 2,
-        "size_kb": 47.1
-      },
-      {
-        "path": "images/teen_modules/consequence/consequence3_t_9.svg",
-        "count": 2,
-        "size_kb": 53.1
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis1_t_1.svg",
-        "count": 2,
-        "size_kb": 36.7
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis1_t_2.svg",
-        "count": 2,
-        "size_kb": 33.4
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis1_t_3.svg",
-        "count": 2,
-        "size_kb": 36.6
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis1_t_4.svg",
-        "count": 2,
-        "size_kb": 34.3
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis1_t_5.svg",
-        "count": 2,
-        "size_kb": 37
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis1_t_6.svg",
-        "count": 2,
-        "size_kb": 27.7
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis_learn_t_1.svg",
-        "count": 2,
-        "size_kb": 42
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis_learn_t_2.svg",
-        "count": 2,
-        "size_kb": 74.4
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis_learn_t_3.svg",
-        "count": 2,
-        "size_kb": 38.5
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis_learn_t_4.svg",
-        "count": 2,
-        "size_kb": 81.6
-      },
-      {
-        "path": "images/teen_modules/crisis/crisis_learn_t_5.svg",
-        "count": 2,
-        "size_kb": 41.4
-      },
-      {
-        "path": "images/teen_modules/grief/grief1_t_1.svg",
-        "count": 2,
-        "size_kb": 28.3
-      },
-      {
-        "path": "images/teen_modules/grief/grief1_t_2.svg",
-        "count": 2,
-        "size_kb": 59.8
-      },
-      {
-        "path": "images/teen_modules/grief/grief1_t_3.svg",
-        "count": 2,
-        "size_kb": 32.7
-      },
-      {
-        "path": "images/teen_modules/grief/grief2_t_1.svg",
-        "count": 2,
-        "size_kb": 33
-      },
-      {
-        "path": "images/teen_modules/grief/grief2_t_2.svg",
-        "count": 2,
-        "size_kb": 29.8
-      },
-      {
-        "path": "images/teen_modules/grief/grief2_t_3.svg",
-        "count": 2,
-        "size_kb": 32.2
-      },
-      {
-        "path": "images/teen_modules/grief/grief2_t_4.svg",
-        "count": 2,
-        "size_kb": 32.7
-      },
-      {
-        "path": "images/teen_modules/instruct/instruct1_t_1.svg",
-        "count": 4,
-        "size_kb": 7.9
-      },
-      {
-        "path": "images/teen_modules/instruct/instruct1_t_2.svg",
-        "count": 2,
-        "size_kb": 9.1
-      },
-      {
-        "path": "images/teen_modules/instruct/instruct1_t_3.svg",
-        "count": 2,
-        "size_kb": 26.5
-      },
-      {
-        "path": "images/teen_modules/instruct/instruct2_t_1.svg",
-        "count": 2,
-        "size_kb": 47.3
-      },
-      {
-        "path": "images/teen_modules/instruct/instruct2_t_2.svg",
-        "count": 2,
-        "size_kb": 37.4
-      },
-      {
-        "path": "images/teen_modules/instruct/instruct3_t_1.svg",
-        "count": 2,
-        "size_kb": 47
-      },
-      {
-        "path": "images/teen_modules/instruct/instruct3_t_2.svg",
-        "count": 2,
-        "size_kb": 39.7
-      },
-      {
-        "path": "images/teen_modules/instruct/instruct3_t_3.svg",
-        "count": 2,
-        "size_kb": 43.4
-      },
-      {
-        "path": "images/teen_modules/money/money1_t_1.svg",
-        "count": 2,
-        "size_kb": 38.9
-      },
-      {
-        "path": "images/teen_modules/money/money2_t_1.svg",
-        "count": 2,
-        "size_kb": 702.9
-      },
-      {
-        "path": "images/teen_modules/money/money2_t_3.svg",
-        "count": 2,
-        "size_kb": 717.1
-      },
-      {
-        "path": "images/teen_modules/money/money2_t_4.svg",
-        "count": 2,
-        "size_kb": 721.6
-      },
-      {
-        "path": "images/teen_modules/money/money3_t_1.svg",
-        "count": 2,
-        "size_kb": 35.3
-      },
-      {
-        "path": "images/teen_modules/money/money3_t_2.svg",
-        "count": 2,
-        "size_kb": 65
-      },
-      {
-        "path": "images/teen_modules/money/money3_t_3.svg",
-        "count": 2,
-        "size_kb": 17.8
-      },
-      {
-        "path": "images/teen_modules/money/money3_t_4.svg",
-        "count": 4,
-        "size_kb": 58.2
-      },
-      {
-        "path": "images/teen_modules/money/money3_t_5.svg",
-        "count": 2,
-        "size_kb": 51.9
-      },
-      {
-        "path": "images/teen_modules/money/money4_t_1.svg",
-        "count": 2,
-        "size_kb": 47.1
-      },
-      {
-        "path": "images/teen_modules/praise/praise1_t_1.svg",
-        "count": 2,
-        "size_kb": 164.8
-      },
-      {
-        "path": "images/teen_modules/praise/praise1_t_2.svg",
-        "count": 2,
-        "size_kb": 44.8
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_1.svg",
-        "count": 2,
-        "size_kb": 30.5
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_2.svg",
-        "count": 2,
-        "size_kb": 32.1
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_3.svg",
-        "count": 2,
-        "size_kb": 29.6
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_4.svg",
-        "count": 2,
-        "size_kb": 29.5
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_5.svg",
-        "count": 2,
-        "size_kb": 27.7
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_6.svg",
-        "count": 2,
-        "size_kb": 23.3
-      },
-      {
-        "path": "images/teen_modules/rules/rules1_t_7.svg",
-        "count": 2,
-        "size_kb": 35.2
-      },
-      {
-        "path": "images/teen_modules/rules/rules2_t_1.svg",
-        "count": 2,
-        "size_kb": 417.7
-      },
-      {
-        "path": "images/teen_modules/rules/rules2_t_2.svg",
-        "count": 2,
-        "size_kb": 233.3
-      },
-      {
-        "path": "images/teen_modules/rules/rules2_t_3.svg",
-        "count": 2,
-        "size_kb": 231.7
-      },
-      {
-        "path": "images/teen_modules/rules/rules2_t_4.svg",
-        "count": 2,
-        "size_kb": 164.6
-      },
-      {
-        "path": "images/teen_modules/rules/rules2_t_5.svg",
-        "count": 2,
-        "size_kb": 423.4
-      },
-      {
-        "path": "images/teen_modules/safe/safe1_t_1.svg",
-        "count": 2,
-        "size_kb": 32.5
-      },
-      {
-        "path": "images/teen_modules/safe/safe1_t_2.svg",
-        "count": 2,
-        "size_kb": 68.7
-      },
-      {
-        "path": "images/teen_modules/safe/safe1_t_3.svg",
-        "count": 2,
-        "size_kb": 64.3
-      },
-      {
-        "path": "images/teen_modules/safe/safe1_t_4.svg",
-        "count": 2,
-        "size_kb": 41
-      },
-      {
-        "path": "images/teen_modules/safe/safe1_t_5.svg",
-        "count": 2,
-        "size_kb": 41
-      },
-      {
-        "path": "images/teen_modules/safe/safe1_t_6.svg",
-        "count": 2,
-        "size_kb": 32.8
-      },
-      {
-        "path": "images/teen_modules/safe/safe_learn_t_1.svg",
-        "count": 2,
-        "size_kb": 1365.4
-      },
-      {
-        "path": "images/teen_modules/safe/safe_learn_t_2.svg",
-        "count": 2,
-        "size_kb": 1560.3
-      },
-      {
-        "path": "images/teen_modules/safe/safe_learn_t_3.svg",
-        "count": 2,
-        "size_kb": 1991.8
-      },
-      {
-        "path": "images/teen_modules/self_care/self_care1_t_1.svg",
-        "count": 2,
-        "size_kb": 35.1
-      },
-      {
-        "path": "images/teen_modules/self_care/self_care1_t_2.svg",
-        "count": 2,
-        "size_kb": 27.9
-      },
-      {
-        "path": "images/teen_modules/solve/solve2_t_1.svg",
-        "count": 2,
-        "size_kb": 49.2
-      },
-      {
-        "path": "images/teen_modules/solve/solve2_t_2.svg",
-        "count": 2,
-        "size_kb": 46.3
-      },
-      {
-        "path": "images/teen_modules/solve/solve2_t_3.svg",
-        "count": 2,
-        "size_kb": 59.6
-      },
-      {
-        "path": "images/teen_modules/solve/solve2_t_4.svg",
-        "count": 2,
-        "size_kb": 29.8
-      },
-      {
-        "path": "images/teen_modules/solve/solve2_t_5.svg",
-        "count": 2,
-        "size_kb": 33.1
-      },
-      {
-        "path": "images/teen_modules/solve/solve2_t_6.svg",
-        "count": 2,
-        "size_kb": 33.8
-      },
-      {
-        "path": "images/teen_modules/solve/solve2_t_7.svg",
-        "count": 2,
-        "size_kb": 34.7
-      },
-      {
-        "path": "images/teen_modules/solve/solve2_t_8.svg",
-        "count": 2,
-        "size_kb": 38.3
-      },
-      {
-        "path": "images/teen_modules/solve/solve3_t_1.svg",
-        "count": 1,
-        "size_kb": 31.5
-      },
-      {
-        "path": "images/teen_modules/solve/solve3_t_2.svg",
-        "count": 1,
-        "size_kb": 31.9
-      },
-      {
-        "path": "images/teen_modules/solve/solve3_t_3.svg",
-        "count": 3,
-        "size_kb": 31.3
-      },
-      {
-        "path": "images/teen_modules/srh/srh1_t_1.svg",
-        "count": 2,
-        "size_kb": 32.5
-      },
-      {
-        "path": "images/teen_modules/srh/srh1_t_2.svg",
-        "count": 2,
-        "size_kb": 36.9
-      },
-      {
-        "path": "images/teen_modules/srh/srh1_t_3.svg",
-        "count": 2,
-        "size_kb": 30.6
-      },
-      {
-        "path": "images/teen_modules/srh/srh1_t_4.svg",
-        "count": 2,
-        "size_kb": 31
-      },
-      {
-        "path": "images/teen_modules/srh/srh2_t_1.svg",
-        "count": 2,
-        "size_kb": 49.9
-      },
-      {
-        "path": "images/teen_modules/srh/srh2_t_2.svg",
-        "count": 2,
-        "size_kb": 44
-      },
-      {
-        "path": "images/teen_modules/srh/srh2_t_3.svg",
-        "count": 2,
-        "size_kb": 28.7
-      },
-      {
-        "path": "images/teen_modules/srh/srh2_t_4.svg",
-        "count": 2,
-        "size_kb": 30.1
-      },
-      {
-        "path": "images/teen_modules/srh/srh2_t_5.svg",
-        "count": 2,
-        "size_kb": 27.2
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_age_t_1.svg",
-        "count": 1,
-        "size_kb": 125
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_age_t_2.svg",
-        "count": 1,
-        "size_kb": 70.9
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_age_t_3.svg",
-        "count": 1,
-        "size_kb": 25.6
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_1.svg",
-        "count": 1,
-        "size_kb": 70
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_2.svg",
-        "count": 1,
-        "size_kb": 28.8
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_3.svg",
-        "count": 1,
-        "size_kb": 44
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_4.svg",
-        "count": 1,
-        "size_kb": 60.7
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_safe_t_5.svg",
-        "count": 1,
-        "size_kb": 76.4
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_1.svg",
-        "count": 1,
-        "size_kb": 59.2
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_2.svg",
-        "count": 1,
-        "size_kb": 89.8
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_3.svg",
-        "count": 1,
-        "size_kb": 203.3
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_when_t_4.svg",
-        "count": 1,
-        "size_kb": 52.8
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_who_t_1.svg",
-        "count": 1,
-        "size_kb": 27.1
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_who_t_2.svg",
-        "count": 1,
-        "size_kb": 45.5
-      },
-      {
-        "path": "images/teen_modules/srh/srh_learn_sex_talk_who_t_3.svg",
-        "count": 1,
-        "size_kb": 105
-      },
-      {
-        "path": "images/teen_modules/stress/stress1_t_1.svg",
-        "count": 2,
-        "size_kb": 61.1
-      },
-      {
-        "path": "images/teen_modules/stress/stress1_t_2.svg",
-        "count": 2,
-        "size_kb": 75.3
-      },
-      {
-        "path": "images/teen_modules/stress/stress1_t_3.svg",
-        "count": 2,
-        "size_kb": 54.7
-      },
-      {
-        "path": "images/teen_modules/stress/stress1_t_4.svg",
-        "count": 2,
-        "size_kb": 243.7
-      },
-      {
-        "path": "images/teen_modules/stress/stress1_t_5.svg",
-        "count": 2,
-        "size_kb": 72.3
-      },
-      {
-        "path": "images/teen_modules/stress/stress2_t_1.svg",
-        "count": 2,
-        "size_kb": 75.1
-      },
-      {
-        "path": "images/teen_modules/stress/stress2_t_2.svg",
-        "count": 2,
-        "size_kb": 59.4
-      },
-      {
-        "path": "images/teen_modules/stress/stress2_t_3.svg",
-        "count": 2,
-        "size_kb": 55.3
-      },
-      {
-        "path": "images/teen_modules/svp/svp_usevoice_t.svg",
-        "count": 2,
-        "size_kb": 18.4
-      },
-      {
         "path": "lottie/bulging_circles.json",
         "count": 2,
         "size_kb": 11.8
-      },
-      {
-        "path": "lottie/checkmark.json",
-        "count": 2,
-        "size_kb": 23.6
-      },
-      {
-        "path": "lottie/gift_box.json",
-        "count": 1,
-        "size_kb": 674.5
-      },
-      {
-        "path": "lottie/loading_dots.json",
-        "count": 1,
-        "size_kb": 6.1
       },
       {
         "path": "lottie/relax/blue_dots.json",
