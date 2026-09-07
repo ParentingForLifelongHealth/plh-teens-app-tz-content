@@ -402,6 +402,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "name": "title_17",
       "_nested_name": "title_17"
     },
@@ -417,6 +418,7 @@
               "tz_sw": true
             }
           },
+          "exclude_from_translation": true,
           "name": "text_1_@item.id",
           "_nested_name": "data_items_18.text_1_@item.id",
           "_dynamicFields": {
