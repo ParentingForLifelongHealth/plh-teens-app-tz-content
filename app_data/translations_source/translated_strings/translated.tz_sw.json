@@ -2748,30 +2748,6 @@
     "note": ""
   },
   {
-    "SourceText": "Support Contacts",
-    "text": "Mawasiliano ya Msaada",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "I need help with:",
-    "text": "Ninahitaji msaada na:",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Essential Tools",
-    "text": "Nyenzo Muhimu",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Take a Pause",
-    "text": "Pumzika",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "An emergency",
     "text": "Dharura",
     "type": "data_list",
@@ -2856,6 +2832,66 @@
     "note": ""
   },
   {
+    "SourceText": "Support Contacts",
+    "text": "Mawasiliano ya Msaada",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I need help with:",
+    "text": "Ninahitaji msaada na:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Essential Tools",
+    "text": "Nyenzo Muhimu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Take a Pause",
+    "text": "Pumzika",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Getting everything ready for you",
+    "text": "Kila kitu kiko tayari kwa ajili yako",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Looking at what your child needs",
+    "text": "Zingatia yale ambayo mwanao anayahitaji",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Getting ideas from experts",
+    "text": "Pata maoni mbalimbali kutoka kwa wataalamu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Making this just for your family",
+    "text": "Fanya hili kwa ajili tu ya familia yako",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Partners",
+    "text": "Washirika",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Donors",
+    "text": "Wafadhili",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "grandmother",
     "text": "bibi",
     "type": "data_list",
@@ -2892,16 +2928,10 @@
     "note": ""
   },
   {
-    "SourceText": "Partners",
-    "text": "Washirika",
+    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 10 to 17 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:",
+    "text": "@global.app_name ni programu iliyoundwa na IDEMS International na Parenting for Lifelong Health kusaidia wazazi na walezi wa watoto wenye umri wa miaka 10 hadi 17. Mchoro ni kazi asilia za Orli Setton kwa ajili ya Parenting for Lifelong Health. Yote yaliyomo humu yameshirikishwa chini ya leseni ya Creative Commons BY-SA International 4.0. Iliandaliwa kwa ushirikiano na washirika wakuu:",
     "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Donors",
-    "text": "Wafadhili",
-    "type": "data_list",
-    "note": ""
+    "note": "The string @global.app_name should not be translated."
   },
   {
     "SourceText": "Parent or caregiver",
@@ -2924,36 +2954,6 @@
   {
     "SourceText": "None of the above",
     "text": "Hakuna kati ya zilizo hapo juu",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 10 to 17 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:",
-    "text": "@global.app_name ni programu iliyoundwa na IDEMS International na Parenting for Lifelong Health kusaidia wazazi na walezi wa watoto wenye umri wa miaka 10 hadi 17. Mchoro ni kazi asilia za Orli Setton kwa ajili ya Parenting for Lifelong Health. Yote yaliyomo humu yameshirikishwa chini ya leseni ya Creative Commons BY-SA International 4.0. Iliandaliwa kwa ushirikiano na washirika wakuu:",
-    "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Getting everything ready for you",
-    "text": "Kila kitu kiko tayari kwa ajili yako",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Looking at what your child needs",
-    "text": "Zingatia yale ambayo mwanao anayahitaji",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Getting ideas from experts",
-    "text": "Pata maoni mbalimbali kutoka kwa wataalamu",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Making this just for your family",
-    "text": "Fanya hili kwa ajili tu ya familia yako",
     "type": "data_list",
     "note": ""
   },
@@ -3072,30 +3072,6 @@
     "note": ""
   },
   {
-    "SourceText": "Improve Your Relationship",
-    "text": "Boresha uhusiano wako",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Create a Peaceful Home",
-    "text": "Tengeneza mazingira ya amani nyumbani",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Keep Your Teen Safe",
-    "text": "Mweke Kijana Wako Salama",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Bonus Skills",
-    "text": "Ujuzi wa ziada",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Relax",
     "text": "Kuwa mwenye amani",
     "type": "data_list",
@@ -3152,6 +3128,30 @@
   {
     "SourceText": "Check-out",
     "text": "Tafakari",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Improve Your Relationship",
+    "text": "Boresha uhusiano wako",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Create a Peaceful Home",
+    "text": "Tengeneza mazingira ya amani nyumbani",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Keep Your Teen Safe",
+    "text": "Mweke Kijana Wako Salama",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Bonus Skills",
+    "text": "Ujuzi wa ziada",
     "type": "data_list",
     "note": ""
   },
@@ -3296,24 +3296,6 @@
   {
     "SourceText": "I am a...",
     "text": "Mimi ni...",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "5 December 2024",
-    "text": "5 Desemba 2024",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Tap and choose",
-    "text": "Bofya na uchague",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "We are also grateful for the support of a family foundation that wishes to remain anonymous",
-    "text": "Pia tunashukuru msaada kutoka kwa taasisi ya kifamilia inayopendelea kubaki bila kutajwa jina",
     "type": "global",
     "note": ""
   },
@@ -3780,75 +3762,21 @@
     "note": ""
   },
   {
-    "SourceText": "id: @item.id,\nname: @item.name,\ndownload_status: @item.download_status",
-    "text": "id: @item.id\njina:@item.name,\npakua statas:@item.download_status",
-    "type": "template",
-    "note": "The following strings should not be translated:\n@item.id\n@item.name\n@item.download_status"
-  },
-  {
-    "SourceText": "Continue",
-    "text": "Endelea",
-    "type": "template",
+    "SourceText": "5 December 2024",
+    "text": "5 Desemba 2024",
+    "type": "global",
     "note": ""
   },
   {
-    "SourceText": "Submit",
-    "text": "Tuma",
-    "type": "template",
+    "SourceText": "Tap and choose",
+    "text": "Bofya na uchague",
+    "type": "global",
     "note": ""
   },
   {
-    "SourceText": "Tap and type",
-    "text": "Bofya na uandike",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "To launch the app in developer mode, enter your developer code in the box below and press @local.submit.",
-    "text": "Ili kuzindua programu katika hali ya kubuni, weka msimbo wako wa kubuni kwenye kisanduku kilicho hapa chini na ubonyeze @local.submit.",
-    "type": "template",
-    "note": "The string @local.submit should not be translated."
-  },
-  {
-    "SourceText": "You have entered an incorrect code.",
-    "text": "Umeingiza kodi isiyo sahihi.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "This code is correct.",
-    "text": "Utambulisho huu ni sahihi.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Enter developer mode",
-    "text": "Unaingia kwenye ukurasa wa mtengenezaji",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "What you need",
-    "text": "Unachohitaji",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Steps",
-    "text": "Hatua",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "More tips",
-    "text": "Dondoo zaidi",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Try also",
-    "text": "Jaribu pia",
-    "type": "template",
+    "SourceText": "We are also grateful for the support of a family foundation that wishes to remain anonymous",
+    "text": "Pia tunashukuru msaada kutoka kwa taasisi ya kifamilia inayopendelea kubaki bila kutajwa jina",
+    "type": "global",
     "note": ""
   },
   {
@@ -3866,18 +3794,6 @@
   {
     "SourceText": "Save",
     "text": "Tunza",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
-    "text": "@global.app_name imepakua taarifa za wakati huu. Tafadhali anzisha tena programu tumishi kumalizia kuiweka sawa.",
-    "type": "template",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Restart",
-    "text": "Anzisha upya tena",
     "type": "template",
     "note": ""
   },
@@ -3946,6 +3862,90 @@
     "text": "Unatoka kwenye ukurasa wa mtengenezaji",
     "type": "template",
     "note": ""
+  },
+  {
+    "SourceText": "What you need",
+    "text": "Unachohitaji",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Steps",
+    "text": "Hatua",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "More tips",
+    "text": "Dondoo zaidi",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Try also",
+    "text": "Jaribu pia",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
+    "text": "@global.app_name imepakua taarifa za wakati huu. Tafadhali anzisha tena programu tumishi kumalizia kuiweka sawa.",
+    "type": "template",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Restart",
+    "text": "Anzisha upya tena",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Submit",
+    "text": "Tuma",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Tap and type",
+    "text": "Bofya na uandike",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "To launch the app in developer mode, enter your developer code in the box below and press @local.submit.",
+    "text": "Ili kuzindua programu katika hali ya kubuni, weka msimbo wako wa kubuni kwenye kisanduku kilicho hapa chini na ubonyeze @local.submit.",
+    "type": "template",
+    "note": "The string @local.submit should not be translated."
+  },
+  {
+    "SourceText": "You have entered an incorrect code.",
+    "text": "Umeingiza kodi isiyo sahihi.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "This code is correct.",
+    "text": "Utambulisho huu ni sahihi.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Enter developer mode",
+    "text": "Unaingia kwenye ukurasa wa mtengenezaji",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue",
+    "text": "Endelea",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "id: @item.id,\nname: @item.name,\ndownload_status: @item.download_status",
+    "text": "id: @item.id\njina:@item.name,\npakua statas:@item.download_status",
+    "type": "template",
+    "note": "The following strings should not be translated:\n@item.id\n@item.name\n@item.download_status"
   },
   {
     "SourceText": "🎉 CONGRATULATIONS! \n\nYou have done it! You have built lots of important parenting skills.\n\nThis is a huge achievement. It shows such care for your family.\n\nLet’s celebrate you and plan your future @global.app_name support.",
