@@ -30,14 +30,14 @@
 | plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |
 | plh_module_list_item | 3 |
-| plh_progress_bar | 6 |
+| plh_progress_bar | 5 |
 | progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 11 |
 | round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2190 |
+| set_variable | 2187 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 6 |
@@ -78,7 +78,7 @@
 | set_data | 57 |
 | set_field | 56 |
 | set_item | 44 |
-| set_local | 71 |
+| set_local | 69 |
 | task | 2 |
 | user | 3 |
 </details>
