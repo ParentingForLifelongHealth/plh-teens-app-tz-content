@@ -5,7 +5,7 @@ const config = generateDeploymentConfig("plh_teens_tz");
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.6.8",
+  content_tag_latest: "1.6.9",
 };
 
 config.google_drive.sheets_folders = [
@@ -71,10 +71,8 @@ config.firebase = {
 config.android = {
   app_id:'international.idems.plh_teens_tz',
   app_name:'ParentApp Teens',
-  splash_asset_path: "./app_data/assets/android/splash.png",
-  icon_asset_path: "./app_data/assets/android/icon.png",
-  icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
-  icon_asset_background_path: "./app_data/assets/android/icon-background.png",
+  logo_asset_path: "./app_data/assets/android/icon.png",
+  logo_background_color: "#0e3a5a",
 };
 
 config.ios = {
