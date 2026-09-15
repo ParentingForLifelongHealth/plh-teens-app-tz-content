@@ -15,7 +15,7 @@
 | data_items | 121 |
 | debug_toggle | 1 |
 | display_grid | 5 |
-| display_group | 116 |
+| display_group | 115 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 26 |
@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 65255 KB | 65.3 MB |
-| unused | 4317 KB | 4.3 MB |
+| total | 66417 KB | 66.4 MB |
+| unused | 3986 KB | 4 MB |
 </details>
 
 <details open>
@@ -99,10 +99,7 @@ Assets that appear in app-data but do not have references within sheets
 
 | path | size_kb |
 | --- | --- |
-| android/icon-background.png | 21.4 |
-| android/icon-foreground.png | 58.3 |
-| android/icon.png | 70.3 |
-| android/splash.png | 239 |
+| android/icon.png | 58.3 |
 | images/backgrounds/complete_module.svg | 4.5 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
 | images/faces/happier.svg | 0.6 |
@@ -192,40 +189,6 @@ Assets that have references within sheets but do not appear in app-data
 | audio/relax/relax_8.mp3 | 1 |
 | audio/relax/relax_9.mp3 | 2 |
 | images/backgrounds/map_view_bg.jpg | 1 |
-| images/homescreen/celebrate_t.svg | 2 |
-| images/homescreen/check_in/traditional_rondavel_closed.svg | 1 |
-| images/homescreen/check_in/traditional_rondavel_open.svg | 1 |
-| images/homescreen/consequence_t.svg | 2 |
-| images/homescreen/crisis_t.svg | 2 |
-| images/homescreen/grief_t.svg | 2 |
-| images/homescreen/instruct_t.svg | 2 |
-| images/homescreen/learn_t.svg | 2 |
-| images/homescreen/listview/celebrate_t.svg | 2 |
-| images/homescreen/listview/consequence_t.svg | 2 |
-| images/homescreen/listview/crisis_t.svg | 3 |
-| images/homescreen/listview/grief_t.svg | 2 |
-| images/homescreen/listview/instruct_t.svg | 3 |
-| images/homescreen/listview/learn_t.svg | 2 |
-| images/homescreen/listview/money_t.svg | 2 |
-| images/homescreen/listview/one_on_one_t.svg | 2 |
-| images/homescreen/listview/praise_t.svg | 3 |
-| images/homescreen/listview/rules_t.svg | 2 |
-| images/homescreen/listview/safe_t.svg | 2 |
-| images/homescreen/listview/self_care.svg | 2 |
-| images/homescreen/listview/solve_t.svg | 2 |
-| images/homescreen/listview/srh_t.svg | 2 |
-| images/homescreen/listview/stress_t.svg | 2 |
-| images/homescreen/listview/svp_t.svg | 3 |
-| images/homescreen/money_t.svg | 2 |
-| images/homescreen/one_on_one_t.svg | 2 |
-| images/homescreen/praise_t.svg | 2 |
-| images/homescreen/rules_t.svg | 2 |
-| images/homescreen/safe_t.svg | 2 |
-| images/homescreen/self_care.svg | 2 |
-| images/homescreen/solve_t.svg | 2 |
-| images/homescreen/srh_t.svg | 2 |
-| images/homescreen/stress_t.svg | 2 |
-| images/homescreen/svp_t.svg | 2 |
 | images/logos/app_logo.png | 1 |
 | images/logos/plh_logomark.png | 1 |
 | images/onboarding/facilitator_onboarding_icon.svg | 1 |
@@ -354,6 +317,40 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/faces/sad.svg | 0.6 | 26 |
 | images/faces/scared.svg | 2.1 | 4 |
 | images/faces/tired.svg | 2.4 | 2 |
+| images/homescreen/check_in/traditional_rondavel_closed.svg | 23.9 | 1 |
+| images/homescreen/check_in/traditional_rondavel_open.svg | 28.8 | 1 |
+| images/homescreen/home/celebrate_t.svg | 36.3 | 2 |
+| images/homescreen/home/consequence_t.svg | 23 | 2 |
+| images/homescreen/home/crisis_t.svg | 46.1 | 2 |
+| images/homescreen/home/grief_t.svg | 30.8 | 2 |
+| images/homescreen/home/instruct_t.svg | 40.6 | 2 |
+| images/homescreen/home/learn_t.svg | 28.4 | 2 |
+| images/homescreen/home/money_t.svg | 37.1 | 2 |
+| images/homescreen/home/one_on_one_t.svg | 48.5 | 2 |
+| images/homescreen/home/praise_t.svg | 32.2 | 2 |
+| images/homescreen/home/rules_t.svg | 41.2 | 2 |
+| images/homescreen/home/safe_t.svg | 23.9 | 2 |
+| images/homescreen/home/self_care.svg | 59.9 | 2 |
+| images/homescreen/home/solve_t.svg | 53.7 | 2 |
+| images/homescreen/home/srh_t.svg | 46.2 | 2 |
+| images/homescreen/home/stress_t.svg | 16.9 | 2 |
+| images/homescreen/home/svp_t.svg | 25.4 | 2 |
+| images/homescreen/listview/celebrate_t.svg | 31.1 | 2 |
+| images/homescreen/listview/consequence_t.svg | 29.3 | 2 |
+| images/homescreen/listview/crisis_t.svg | 44 | 3 |
+| images/homescreen/listview/grief_t.svg | 26.8 | 2 |
+| images/homescreen/listview/instruct_t.svg | 37.9 | 3 |
+| images/homescreen/listview/learn_t.svg | 25.4 | 2 |
+| images/homescreen/listview/money_t.svg | 31.7 | 2 |
+| images/homescreen/listview/one_on_one_t.svg | 39.8 | 2 |
+| images/homescreen/listview/praise_t.svg | 33.7 | 3 |
+| images/homescreen/listview/rules_t.svg | 35.8 | 2 |
+| images/homescreen/listview/safe_t.svg | 20.6 | 2 |
+| images/homescreen/listview/self_care.svg | 52.6 | 2 |
+| images/homescreen/listview/solve_t.svg | 33.5 | 2 |
+| images/homescreen/listview/srh_t.svg | 40.9 | 2 |
+| images/homescreen/listview/stress_t.svg | 15.5 | 2 |
+| images/homescreen/listview/svp_t.svg | 20.3 | 3 |
 | images/icons/brain_blue.png | 5.2 | 8 |
 | images/icons/bug.svg | 1.2 | 2 |
 | images/icons/clock_blue.png | 4.5 | 4 |

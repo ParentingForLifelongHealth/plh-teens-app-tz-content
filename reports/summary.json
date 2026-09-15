@@ -51,7 +51,7 @@
       },
       {
         "type": "display_group",
-        "count": 116
+        "count": 115
       },
       {
         "type": "drawer",
@@ -295,33 +295,21 @@
     "data": [
       {
         "assets": "total",
-        "KB": "65255 KB",
-        "MB": "65.3 MB"
+        "KB": "66417 KB",
+        "MB": "66.4 MB"
       },
       {
         "assets": "unused",
-        "KB": "4317 KB",
-        "MB": "4.3 MB"
+        "KB": "3986 KB",
+        "MB": "4 MB"
       }
     ]
   },
   "assets_unused": {
     "data": [
       {
-        "path": "android/icon-background.png",
-        "size_kb": 21.4
-      },
-      {
-        "path": "android/icon-foreground.png",
-        "size_kb": 58.3
-      },
-      {
         "path": "android/icon.png",
-        "size_kb": 70.3
-      },
-      {
-        "path": "android/splash.png",
-        "size_kb": 239
+        "size_kb": 58.3
       },
       {
         "path": "images/backgrounds/complete_module.svg",
@@ -666,176 +654,6 @@
       {
         "path": "images/backgrounds/map_view_bg.jpg",
         "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/celebrate_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/check_in/traditional_rondavel_closed.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/check_in/traditional_rondavel_open.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/consequence_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/crisis_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/grief_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/instruct_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/learn_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/celebrate_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/consequence_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/crisis_t.svg",
-        "count": 3,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/grief_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/instruct_t.svg",
-        "count": 3,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/learn_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/money_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/one_on_one_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/praise_t.svg",
-        "count": 3,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/rules_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/safe_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/self_care.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/solve_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/srh_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/stress_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/listview/svp_t.svg",
-        "count": 3,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/money_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/one_on_one_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/praise_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/rules_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/safe_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/self_care.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/solve_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/srh_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/stress_t.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/homescreen/svp_t.svg",
-        "count": 2,
         "missing": true
       },
       {
@@ -1436,6 +1254,176 @@
         "path": "images/faces/tired.svg",
         "count": 2,
         "size_kb": 2.4
+      },
+      {
+        "path": "images/homescreen/check_in/traditional_rondavel_closed.svg",
+        "count": 1,
+        "size_kb": 23.9
+      },
+      {
+        "path": "images/homescreen/check_in/traditional_rondavel_open.svg",
+        "count": 1,
+        "size_kb": 28.8
+      },
+      {
+        "path": "images/homescreen/home/celebrate_t.svg",
+        "count": 2,
+        "size_kb": 36.3
+      },
+      {
+        "path": "images/homescreen/home/consequence_t.svg",
+        "count": 2,
+        "size_kb": 23
+      },
+      {
+        "path": "images/homescreen/home/crisis_t.svg",
+        "count": 2,
+        "size_kb": 46.1
+      },
+      {
+        "path": "images/homescreen/home/grief_t.svg",
+        "count": 2,
+        "size_kb": 30.8
+      },
+      {
+        "path": "images/homescreen/home/instruct_t.svg",
+        "count": 2,
+        "size_kb": 40.6
+      },
+      {
+        "path": "images/homescreen/home/learn_t.svg",
+        "count": 2,
+        "size_kb": 28.4
+      },
+      {
+        "path": "images/homescreen/home/money_t.svg",
+        "count": 2,
+        "size_kb": 37.1
+      },
+      {
+        "path": "images/homescreen/home/one_on_one_t.svg",
+        "count": 2,
+        "size_kb": 48.5
+      },
+      {
+        "path": "images/homescreen/home/praise_t.svg",
+        "count": 2,
+        "size_kb": 32.2
+      },
+      {
+        "path": "images/homescreen/home/rules_t.svg",
+        "count": 2,
+        "size_kb": 41.2
+      },
+      {
+        "path": "images/homescreen/home/safe_t.svg",
+        "count": 2,
+        "size_kb": 23.9
+      },
+      {
+        "path": "images/homescreen/home/self_care.svg",
+        "count": 2,
+        "size_kb": 59.9
+      },
+      {
+        "path": "images/homescreen/home/solve_t.svg",
+        "count": 2,
+        "size_kb": 53.7
+      },
+      {
+        "path": "images/homescreen/home/srh_t.svg",
+        "count": 2,
+        "size_kb": 46.2
+      },
+      {
+        "path": "images/homescreen/home/stress_t.svg",
+        "count": 2,
+        "size_kb": 16.9
+      },
+      {
+        "path": "images/homescreen/home/svp_t.svg",
+        "count": 2,
+        "size_kb": 25.4
+      },
+      {
+        "path": "images/homescreen/listview/celebrate_t.svg",
+        "count": 2,
+        "size_kb": 31.1
+      },
+      {
+        "path": "images/homescreen/listview/consequence_t.svg",
+        "count": 2,
+        "size_kb": 29.3
+      },
+      {
+        "path": "images/homescreen/listview/crisis_t.svg",
+        "count": 3,
+        "size_kb": 44
+      },
+      {
+        "path": "images/homescreen/listview/grief_t.svg",
+        "count": 2,
+        "size_kb": 26.8
+      },
+      {
+        "path": "images/homescreen/listview/instruct_t.svg",
+        "count": 3,
+        "size_kb": 37.9
+      },
+      {
+        "path": "images/homescreen/listview/learn_t.svg",
+        "count": 2,
+        "size_kb": 25.4
+      },
+      {
+        "path": "images/homescreen/listview/money_t.svg",
+        "count": 2,
+        "size_kb": 31.7
+      },
+      {
+        "path": "images/homescreen/listview/one_on_one_t.svg",
+        "count": 2,
+        "size_kb": 39.8
+      },
+      {
+        "path": "images/homescreen/listview/praise_t.svg",
+        "count": 3,
+        "size_kb": 33.7
+      },
+      {
+        "path": "images/homescreen/listview/rules_t.svg",
+        "count": 2,
+        "size_kb": 35.8
+      },
+      {
+        "path": "images/homescreen/listview/safe_t.svg",
+        "count": 2,
+        "size_kb": 20.6
+      },
+      {
+        "path": "images/homescreen/listview/self_care.svg",
+        "count": 2,
+        "size_kb": 52.6
+      },
+      {
+        "path": "images/homescreen/listview/solve_t.svg",
+        "count": 2,
+        "size_kb": 33.5
+      },
+      {
+        "path": "images/homescreen/listview/srh_t.svg",
+        "count": 2,
+        "size_kb": 40.9
+      },
+      {
+        "path": "images/homescreen/listview/stress_t.svg",
+        "count": 2,
+        "size_kb": 15.5
+      },
+      {
+        "path": "images/homescreen/listview/svp_t.svg",
+        "count": 3,
+        "size_kb": 20.3
       },
       {
         "path": "images/icons/brain_blue.png",
