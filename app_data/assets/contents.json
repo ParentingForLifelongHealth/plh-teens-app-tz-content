@@ -731,14 +731,6 @@
     "md5Checksum": "771bd4a2c6652dfeb0ee616a03f4240a",
     "size_kb": 90.5
   },
-  "images/logos/donors/Wellspring.jpeg": {
-    "md5Checksum": "2554d90e86de65bf038fc7962399a99e",
-    "size_kb": 106.5
-  },
-  "images/logos/donors/safe_online.png": {
-    "md5Checksum": "7191614124a086fe7c9036d105f70db4",
-    "size_kb": 65.8
-  },
   "images/logos/favicon.png": {
     "md5Checksum": "2265c040569691441d445a1696bd5035",
     "size_kb": 6.3
@@ -746,10 +738,6 @@
   "images/logos/partners/CWBSA.png": {
     "md5Checksum": "d5e02d5b088e5c80cd93a7af666fc9e1",
     "size_kb": 84.4
-  },
-  "images/logos/partners/Exeter.png": {
-    "md5Checksum": "f8806c3baf9ccc107271d65f56c2bce7",
-    "size_kb": 140.5
   },
   "images/logos/partners/GISP.png": {
     "md5Checksum": "78bf5a94dea5752f131d77dfbf71be84",
@@ -791,33 +779,9 @@
     "md5Checksum": "da9edd7c2b2a20419a5fbc9b3fa0b8f6",
     "size_kb": 310.7
   },
-  "images/logos/partners/favicon.png": {
-    "md5Checksum": "4d69d00da738dcea1c6c54a1a7814b27",
-    "size_kb": 149.9
-  },
   "images/logos/partners/plh_logomark.png": {
     "md5Checksum": "50743ae3369e45e94d5495af2fe5b1e3",
     "size_kb": 20.5
-  },
-  "images/logos/partners/plh_white.png": {
-    "md5Checksum": "e73f142f2fd4c4d5d66cc438699a032c",
-    "size_kb": 12.8
-  },
-  "images/logos/partners/plh_white.svg": {
-    "md5Checksum": "13fd07dd63d468100f36e87dcb4c276a",
-    "size_kb": 256.1
-  },
-  "images/logos/partners/sino_horizontal.svg": {
-    "md5Checksum": "06a8668df87e64b5e494c555d73c4472",
-    "size_kb": 251
-  },
-  "images/logos/partners/sino_mark.svg": {
-    "md5Checksum": "a89c023dc10e0b7c4b98dab70e9c1fbe",
-    "size_kb": 461.7
-  },
-  "images/logos/partners/sino_white.svg": {
-    "md5Checksum": "13fd07dd63d468100f36e87dcb4c276a",
-    "size_kb": 256.1
   },
   "images/logos/partners/tz_ministry.svg": {
     "md5Checksum": "75254a68cff7876ec0583e3210461773",

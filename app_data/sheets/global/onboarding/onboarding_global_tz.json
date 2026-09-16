@@ -46,7 +46,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_loading_lottie_asset",
-      "value": "lottie/loading_dots.json",
+      "value": "lottie/app/loading_dots.json",
       "_translations": {
         "value": {}
       },
@@ -82,7 +82,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_completed_lottie_asset",
-      "value": "lottie/checkmark.json",
+      "value": "lottie/app/checkmark.json",
       "_translations": {
         "value": {}
       },
