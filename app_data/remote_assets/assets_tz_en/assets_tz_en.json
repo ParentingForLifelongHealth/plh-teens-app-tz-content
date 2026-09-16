@@ -658,16 +658,6 @@
       "size_kb": 1991.8
     },
     {
-      "id": "images/teen_modules/safe/safe_learn_t_4.svg",
-      "md5Checksum": "085c27d74f5c3eece0db91f24f68972d",
-      "size_kb": 926.4
-    },
-    {
-      "id": "images/teen_modules/safe/warning_controlling_boyfriend_t.svg",
-      "md5Checksum": "ebe3bc94ae51b79ce0a9b36d7bbdc2ed",
-      "size_kb": 39.3
-    },
-    {
       "id": "images/teen_modules/safe/warning_drugs_t.svg",
       "md5Checksum": "3a941a8c9836df4848d2a03a0f6783ba",
       "size_kb": 54.6
@@ -941,6 +931,21 @@
       "id": "images/teen_modules/svp/svp_usevoice_t.svg",
       "md5Checksum": "29ac3b89ca6dfe7d04f988fb3cf8b218",
       "size_kb": 18.4
+    },
+    {
+      "id": "lottie/app/checkmark.json",
+      "md5Checksum": "2790a4c02434de5484cc904ae8ff3080",
+      "size_kb": 23.6
+    },
+    {
+      "id": "lottie/app/gift_box.json",
+      "md5Checksum": "fb4a512a2fa9005f43066ae23d73f41a",
+      "size_kb": 674.5
+    },
+    {
+      "id": "lottie/app/loading_dots.json",
+      "md5Checksum": "8ce22b6a20af368314f50d6f35496fa0",
+      "size_kb": 6.1
     },
     {
       "id": "audio/relax/relax_1.mp3",
@@ -1708,5 +1713,5 @@
       }
     }
   ],
-  "version": "dc3d8d602a225300a9344f5d4b654b01"
+  "version": "6caf6196c843fe058a145eb96335212b"
 }
