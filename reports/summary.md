@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 66190 KB | 66.2 MB |
-| unused | 1697 KB | 1.7 MB |
+| total | 66840 KB | 66.8 MB |
+| unused | 1047 KB | 1 MB |
 </details>
 
 <details open>
@@ -102,6 +102,7 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon.png | 58.3 |
 | images/backgrounds/complete_module.svg | 4.5 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
+| images/backgrounds/kites.svg | 37.3 |
 | images/faces/happier.svg | 0.6 |
 | images/icons/balance_blue.png | 4.7 |
 | images/icons/book_outline_blue.svg | 0.7 |
@@ -142,13 +143,11 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/PLH.png | 26.6 |
 | images/logos/donors/ERC-EU.png | 209.7 |
 | images/logos/favicon.png | 6.3 |
-| images/logos/plh_white.png | 12.8 |
 | lottie/bulging_circles.txt | 0.2 |
 | video/plh_video/lets_slow_down.srt | 1.7 |
 | video/plh_video/lets_slow_down.vtt | 1.8 |
 | images/teen_modules/money/money1_t_2.svg | 44.9 |
 | images/teen_modules/money/money2_t_2.svg | 82.9 |
-| lottie/app/gift_box.json | 674.5 |
 | audio/teen/testimonials/caregiver/caregiver_test_svp_t.mp3 | 174.8 |
 </details>
 
@@ -181,7 +180,7 @@ Assets that have references within sheets but do not appear in app-data
 | audio/relax/relax_9.mp3 | 2 |
 | images/backgrounds/map_view_bg.jpg | 1 |
 | images/logos/app_logo.png | 1 |
-| images/logos/partners/plh_white.svg | 2 |
+| images/logos/partners/plh_white.svg | 1 |
 | images/logos/plh_logomark.png | 1 |
 | images/onboarding/facilitator_onboarding_icon.svg | 1 |
 | lottie/gift_box.json | 1 |
@@ -271,7 +270,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/walk.svg | 101.3 | 2 |
 | images/activities/yes_no_maybe.svg | 58.2 | 2 |
 | images/backgrounds/bottom_banner.svg | 23.2 | 2 |
-| images/backgrounds/kites.svg | 37.3 | 1 |
 | images/backgrounds/lesson-cta-bg.svg | 4 | 2 |
 | images/backgrounds/library_top_right.png | 1358.6 | 3 |
 | images/backgrounds/mountains_trees.svg | 23.2 | 1 |
@@ -432,6 +430,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/partners/WHO.jpeg | 310.7 | 1 |
 | images/logos/partners/plh_logomark.png | 20.5 | 1 |
 | images/logos/partners/tz_ministry.svg | 122.4 | 1 |
+| images/logos/plh_white.png | 12.8 | 1 |
 | images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 2 |
 | images/onboarding/facilitator_male_onboarding_icon.svg | 21.6 | 1 |
 | images/onboarding/frustrated.svg | 22.5 | 1 |
@@ -588,6 +587,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/stress/stress2_t_3.svg | 86.4 | 2 |
 | images/teen_modules/svp/svp_usevoice_t.svg | 18.4 | 2 |
 | lottie/app/checkmark.json | 23.6 | 2 |
+| lottie/app/gift_box.json | 674.5 | 1 |
 | lottie/app/loading_dots.json | 6.1 | 1 |
 | lottie/bulging_circles.json | 11.8 | 2 |
 | lottie/relax/blue_dots.json | 14.7 | 9 |

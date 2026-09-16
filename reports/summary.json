@@ -295,13 +295,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "66190 KB",
-        "MB": "66.2 MB"
+        "KB": "66840 KB",
+        "MB": "66.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "1697 KB",
-        "MB": "1.7 MB"
+        "KB": "1047 KB",
+        "MB": "1 MB"
       }
     ]
   },
@@ -318,6 +318,10 @@
       {
         "path": "images/backgrounds/homescreen_pattern.svg",
         "size_kb": 156.3
+      },
+      {
+        "path": "images/backgrounds/kites.svg",
+        "size_kb": 37.3
       },
       {
         "path": "images/faces/happier.svg",
@@ -480,10 +484,6 @@
         "size_kb": 6.3
       },
       {
-        "path": "images/logos/plh_white.png",
-        "size_kb": 12.8
-      },
-      {
         "path": "lottie/bulging_circles.txt",
         "size_kb": 0.2
       },
@@ -502,10 +502,6 @@
       {
         "path": "images/teen_modules/money/money2_t_2.svg",
         "size_kb": 82.9
-      },
-      {
-        "path": "lottie/app/gift_box.json",
-        "size_kb": 674.5
       },
       {
         "path": "audio/teen/testimonials/caregiver/caregiver_test_svp_t.mp3",
@@ -627,7 +623,7 @@
       },
       {
         "path": "images/logos/partners/plh_white.svg",
-        "count": 2,
+        "count": 1,
         "missing": true
       },
       {
@@ -1033,11 +1029,6 @@
         "path": "images/backgrounds/bottom_banner.svg",
         "count": 2,
         "size_kb": 23.2
-      },
-      {
-        "path": "images/backgrounds/kites.svg",
-        "count": 1,
-        "size_kb": 37.3
       },
       {
         "path": "images/backgrounds/lesson-cta-bg.svg",
@@ -1840,6 +1831,11 @@
         "size_kb": 122.4
       },
       {
+        "path": "images/logos/plh_white.png",
+        "count": 1,
+        "size_kb": 12.8
+      },
+      {
         "path": "images/onboarding/facilitator_female_onboarding_icon.svg",
         "count": 2,
         "size_kb": 29.4
@@ -2618,6 +2614,11 @@
         "path": "lottie/app/checkmark.json",
         "count": 2,
         "size_kb": 23.6
+      },
+      {
+        "path": "lottie/app/gift_box.json",
+        "count": 1,
+        "size_kb": 674.5
       },
       {
         "path": "lottie/app/loading_dots.json",
