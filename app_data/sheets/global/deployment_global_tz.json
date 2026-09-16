@@ -196,6 +196,15 @@
           "tz_sw": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "unlock_play_lottie",
+      "value": "lottie/app/gift_box.json",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
     }
   ],
   "_source": {
