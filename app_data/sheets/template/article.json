@@ -625,7 +625,7 @@
     {
       "type": "template",
       "name": "text_1_facilitator",
-      "value": "feedback",
+      "value": "feedback_article",
       "condition": "!!(@local.article_data.text_1_facilitator)",
       "exclude_from_translation": true,
       "rows": [
