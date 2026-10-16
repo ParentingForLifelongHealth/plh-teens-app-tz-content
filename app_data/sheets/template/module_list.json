@@ -329,7 +329,8 @@
           },
           "condition": "!!@global.unlock_course_text",
           "style_list": [
-            "margin-block: -1em"
+            "margin-top: -6px",
+            "margin-bottom: -8px"
           ],
           "name": "text_2",
           "_nested_name": "core_title.text_2",
@@ -430,7 +431,8 @@
           },
           "condition": "!!@global.all_unlock_course_text",
           "style_list": [
-            "margin-block: -1em"
+            "margin-top: -6px",
+            "margin-bottom: -8px"
           ],
           "name": "text_2",
           "_nested_name": "unlocked_title.text_2",
@@ -724,7 +726,8 @@
             "value": {}
           },
           "style_list": [
-            "margin-block: -1em"
+            "margin-top: -6px",
+            "margin-bottom: -8px"
           ],
           "name": "text_2",
           "_nested_name": "completed_title.text_2",
