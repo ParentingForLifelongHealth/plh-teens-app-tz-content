@@ -37,7 +37,7 @@
 | round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2183 |
+| set_variable | 2195 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 6 |
@@ -45,7 +45,7 @@
 | text | 203 |
 | text_area | 2 |
 | text_box | 12 |
-| text_bubble | 7 |
+| text_bubble | 8 |
 | tile_component | 2 |
 | title | 61 |
 | toggle_bar | 5 |
@@ -639,7 +639,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 3 |
-| template |  | 110 |
+| template |  | 111 |
 | template | generated | 493 |
 | template | legal_terms | 4 |
 </details>
