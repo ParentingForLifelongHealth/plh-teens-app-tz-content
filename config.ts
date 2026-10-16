@@ -96,7 +96,7 @@ config.app_data.assets_filter_function = (fileEntry) =>
 
 config.api.db_name = "plh_teens_tz";
 config.app_data.output_path = "./app_data";
-config.web.favicon_asset = "images/logos/plh_logomark.png";
+config.web.favicon_asset = "images/logos/partners/plh_logomark.png";
 
 config.app_config.APP_LANGUAGES.default = "tz_sw";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "ParentApp Teens";
