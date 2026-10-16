@@ -4799,7 +4799,7 @@
       "_source": {
         "name": "kids_global",
         "path": "templates/modules/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1gfiZARKRfqyvaRg8AP20bi2D4K8NrCxmnW-3cMNhX2I"
+        "url": "https://docs.google.com/spreadsheets/d/1_MRsWF8AnMMiATXY0uvBW6OkL0M38TEzwVj6CFp_yNw"
       }
     },
     "category_card": {
@@ -4826,7 +4826,7 @@
       "_source": {
         "name": "kids_global",
         "path": "templates/modules/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1gfiZARKRfqyvaRg8AP20bi2D4K8NrCxmnW-3cMNhX2I"
+        "url": "https://docs.google.com/spreadsheets/d/1_MRsWF8AnMMiATXY0uvBW6OkL0M38TEzwVj6CFp_yNw"
       }
     },
     "countdown_days": {
@@ -4898,7 +4898,7 @@
       "_source": {
         "name": "kids_global",
         "path": "templates/modules/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1gfiZARKRfqyvaRg8AP20bi2D4K8NrCxmnW-3cMNhX2I"
+        "url": "https://docs.google.com/spreadsheets/d/1_MRsWF8AnMMiATXY0uvBW6OkL0M38TEzwVj6CFp_yNw"
       }
     },
     "feedback": {
@@ -4907,7 +4907,16 @@
       "_source": {
         "name": "kids_global",
         "path": "templates/modules/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1gfiZARKRfqyvaRg8AP20bi2D4K8NrCxmnW-3cMNhX2I"
+        "url": "https://docs.google.com/spreadsheets/d/1_MRsWF8AnMMiATXY0uvBW6OkL0M38TEzwVj6CFp_yNw"
+      }
+    },
+    "feedback_article": {
+      "flow_type": "template",
+      "flow_name": "feedback_article",
+      "_source": {
+        "name": "kids_global",
+        "path": "templates/modules/articles.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1_MRsWF8AnMMiATXY0uvBW6OkL0M38TEzwVj6CFp_yNw"
       }
     },
     "feedback_debug": {
@@ -7626,7 +7635,7 @@
       "_source": {
         "name": "kids_global",
         "path": "templates/modules/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1gfiZARKRfqyvaRg8AP20bi2D4K8NrCxmnW-3cMNhX2I"
+        "url": "https://docs.google.com/spreadsheets/d/1_MRsWF8AnMMiATXY0uvBW6OkL0M38TEzwVj6CFp_yNw"
       }
     },
     "module": {
@@ -8155,7 +8164,7 @@
       "_source": {
         "name": "kids_global",
         "path": "templates/modules/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1gfiZARKRfqyvaRg8AP20bi2D4K8NrCxmnW-3cMNhX2I"
+        "url": "https://docs.google.com/spreadsheets/d/1_MRsWF8AnMMiATXY0uvBW6OkL0M38TEzwVj6CFp_yNw"
       }
     },
     "question": {
@@ -8164,7 +8173,7 @@
       "_source": {
         "name": "kids_global",
         "path": "templates/modules/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1gfiZARKRfqyvaRg8AP20bi2D4K8NrCxmnW-3cMNhX2I"
+        "url": "https://docs.google.com/spreadsheets/d/1_MRsWF8AnMMiATXY0uvBW6OkL0M38TEzwVj6CFp_yNw"
       }
     },
     "related_element": {
@@ -8218,7 +8227,7 @@
       "_source": {
         "name": "kids_global",
         "path": "templates/modules/articles.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1gfiZARKRfqyvaRg8AP20bi2D4K8NrCxmnW-3cMNhX2I"
+        "url": "https://docs.google.com/spreadsheets/d/1_MRsWF8AnMMiATXY0uvBW6OkL0M38TEzwVj6CFp_yNw"
       }
     },
     "section_element": {

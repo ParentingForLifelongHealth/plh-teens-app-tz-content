@@ -139,7 +139,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2183
+        "count": 2195
       },
       {
         "type": "simple_checkbox",
@@ -171,7 +171,7 @@
       },
       {
         "type": "text_bubble",
-        "count": 7
+        "count": 8
       },
       {
         "type": "tile_component",
@@ -2847,7 +2847,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 110
+        "total": 111
       },
       {
         "type": "template",
