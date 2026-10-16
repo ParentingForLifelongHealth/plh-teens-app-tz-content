@@ -67,7 +67,7 @@
     },
     {
       "id": "bonus_t",
-      "core": false,
+      "core": true,
       "tag_list": [
         "teen"
       ],

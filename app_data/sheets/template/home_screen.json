@@ -2,13 +2,6 @@
   "flow_type": "template",
   "flow_name": "home_screen",
   "status": "released",
-  "parameter_list": {
-    "app_config": {
-      "LAYOUT": {
-        "page_padding": "24px 0"
-      }
-    }
-  },
   "rows": [
     {
       "name": "home_screen_logo",
@@ -77,24 +70,8 @@
       "_translations": {
         "value": {}
       },
-      "condition": "!@global.home_screen_logo_height",
       "type": "set_variable",
-      "_nested_name": "home_screen_logo_height",
-      "_dynamicFields": {
-        "condition": [
-          {
-            "fullExpression": "!@global.home_screen_logo_height",
-            "matchedExpression": "!@global.home_screen_logo_height",
-            "type": "global",
-            "fieldName": "home_screen_logo_height"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "!@global.home_screen_logo_height": [
-          "condition"
-        ]
-      }
+      "_nested_name": "home_screen_logo_height"
     },
     {
       "name": "home_screen_logo_height",
@@ -279,8 +256,7 @@
           "name": "dg_row",
           "exclude_from_translation": true,
           "style_list": [
-            "justify-content: space-between",
-            "padding: 12px 24px"
+            "justify-content: space-between"
           ],
           "rows": [
             {
@@ -290,10 +266,6 @@
               "_translations": {
                 "value": {}
               },
-              "style_list": [
-                "margin-top: 24px",
-                "margin-left: -24px"
-              ],
               "_nested_name": "dg_sticky_top.dg_row.hello_name",
               "_dynamicFields": {
                 "value": [
@@ -329,10 +301,7 @@
               },
               "exclude_from_translation": true,
               "style_list": [
-                "height: @local.home_screen_logo_height",
-                "margin-top: 8px",
-                "margin-bottom: -8px",
-                "margin-right: -34px"
+                "height: @local.home_screen_logo_height"
               ],
               "_nested_name": "dg_sticky_top.dg_row.image",
               "_dynamicFields": {
@@ -385,7 +354,6 @@
           "condition": "!@local.has_been_clicked_previously",
           "exclude_from_translation": true,
           "style_list": [
-            "padding: 0px 24px 0px",
             "margin-top: -12px"
           ],
           "rows": [],
@@ -450,7 +418,6 @@
           "condition": "@local.has_been_clicked_previously",
           "exclude_from_translation": true,
           "style_list": [
-            "padding: 0px 24px 0px",
             "margin-top: -12px"
           ],
           "rows": [],
@@ -531,7 +498,7 @@
       "condition": "@fields.display_modules_as_list",
       "exclude_from_translation": true,
       "style_list": [
-        "padding: 4px 24px 0px 24px",
+        "padding: 8px 0px 0px",
         "margin-top: -1em"
       ],
       "rows": [],
