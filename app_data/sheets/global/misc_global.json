@@ -685,13 +685,7 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "unlock_course_text",
-      "value": "Finish these skills to unlock more",
-      "_translations": {
-        "value": {
-          "tz_sw": true
-        }
-      }
+      "name": "unlock_course_text"
     },
     {
       "type": "declare_global_constant",
@@ -699,13 +693,7 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "lock_course_text",
-      "value": "Bonus skills will be available once you complete all available Parenting Skills",
-      "_translations": {
-        "value": {
-          "tz_sw": true
-        }
-      }
+      "name": "lock_course_text"
     },
     {
       "type": "declare_global_constant",

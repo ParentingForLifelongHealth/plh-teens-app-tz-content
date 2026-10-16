@@ -39,7 +39,7 @@
       },
       {
         "type": "data_items",
-        "count": 121
+        "count": 120
       },
       {
         "type": "debug_toggle",
@@ -51,7 +51,7 @@
       },
       {
         "type": "display_group",
-        "count": 115
+        "count": 114
       },
       {
         "type": "drawer",
@@ -63,7 +63,7 @@
       },
       {
         "type": "image",
-        "count": 26
+        "count": 27
       },
       {
         "type": "items",
@@ -139,7 +139,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2195
+        "count": 2190
       },
       {
         "type": "simple_checkbox",
@@ -147,7 +147,7 @@
       },
       {
         "type": "task_card",
-        "count": 6
+        "count": 7
       },
       {
         "type": "task_progress_bar",
@@ -155,11 +155,11 @@
       },
       {
         "type": "template",
-        "count": 671
+        "count": 670
       },
       {
         "type": "text",
-        "count": 203
+        "count": 202
       },
       {
         "type": "text_area",
@@ -179,7 +179,7 @@
       },
       {
         "type": "title",
-        "count": 61
+        "count": 60
       },
       {
         "type": "toggle_bar",
@@ -247,7 +247,7 @@
       },
       {
         "type": "go_to",
-        "count": 21
+        "count": 22
       },
       {
         "type": "nav_stack",
@@ -295,12 +295,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "66840 KB",
+        "KB": "66843 KB",
         "MB": "66.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "1047 KB",
+        "KB": "1045 KB",
         "MB": "1 MB"
       }
     ]
@@ -458,10 +458,6 @@
       {
         "path": "images/icons/trophy_footer_active.svg",
         "size_kb": 3.9
-      },
-      {
-        "path": "images/icons/trophy_large.svg",
-        "size_kb": 2.2
       },
       {
         "path": "images/icons/world.svg",
@@ -1714,6 +1710,11 @@
         "path": "images/icons/trophy_blue.png",
         "count": 12,
         "size_kb": 5.1
+      },
+      {
+        "path": "images/icons/trophy_large.svg",
+        "count": 1,
+        "size_kb": 2.2
       },
       {
         "path": "images/icons/verified.svg",
