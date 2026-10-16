@@ -23,19 +23,17 @@
       "caps_id": "F1_MOTHER",
       "family_no": 1,
       "name": "Amina",
-      "role_name_tz_sw": "mama",
+      "role_name_tz_sw": "Mama",
       "role": "caregiver",
       "image_asset": "images/character_icons/F1_MOTHER.svg",
       "Flag if column E has duplicate names": "Duplicate",
-      "role_name": "mother",
+      "role_name": "Mother",
       "_translations": {
-        "role_name": {
-          "tz_sw": true
-        }
+        "role_name": {}
       },
       "_translatedFields": {
         "role_name": {
-          "eng": "mother"
+          "eng": "Mother"
         }
       }
     },
@@ -44,19 +42,17 @@
       "caps_id": "F1_FATHER",
       "family_no": 1,
       "name": "Jumanne",
-      "role_name_tz_sw": "baba",
+      "role_name_tz_sw": "Baba",
       "role": "caregiver",
       "image_asset": "images/character_icons/F1_FATHER.svg",
       "Flag if column E has duplicate names": "Duplicate",
-      "role_name": "father",
+      "role_name": "Father",
       "_translations": {
-        "role_name": {
-          "tz_sw": true
-        }
+        "role_name": {}
       },
       "_translatedFields": {
         "role_name": {
-          "eng": "father"
+          "eng": "Father"
         }
       }
     },
@@ -75,10 +71,10 @@
       "caps_id": "F1_DAUGHTER_16",
       "family_no": 1,
       "age": 16,
-      "name": "Shukuru",
+      "name": "Maria",
       "role": "child",
       "image_asset": "images/character_icons/F1_DAUGHTER_16.svg",
-      "Flag if column E has duplicate names": ""
+      "Flag if column E has duplicate names": "Duplicate"
     },
     {
       "id": "f1_daughter_13",
@@ -104,19 +100,17 @@
       "caps_id": "F2_GRANDMOTHER",
       "family_no": 2,
       "name": "Aisha",
-      "role_name_tz_sw": "bibi",
+      "role_name_tz_sw": "Bibi",
       "role": "caregiver",
       "image_asset": "images/character_icons/F2_GRANDMOTHER.svg",
       "Flag if column E has duplicate names": "Duplicate",
-      "role_name": "grandmother",
+      "role_name": "Grandmother",
       "_translations": {
-        "role_name": {
-          "tz_sw": true
-        }
+        "role_name": {}
       },
       "_translatedFields": {
         "role_name": {
-          "eng": "grandmother"
+          "eng": "Grandmother"
         }
       }
     },
@@ -125,19 +119,17 @@
       "caps_id": "F2_GRANDFATHER",
       "family_no": 2,
       "name": "Saguda",
-      "role_name_tz_sw": "babu",
+      "role_name_tz_sw": "Babu",
       "role": "caregiver",
       "image_asset": "images/character_icons/F2_GRANDFATHER.svg",
       "Flag if column E has duplicate names": "",
-      "role_name": "grandfather",
+      "role_name": "Grandfather",
       "_translations": {
-        "role_name": {
-          "tz_sw": true
-        }
+        "role_name": {}
       },
       "_translatedFields": {
         "role_name": {
-          "eng": "grandfather"
+          "eng": "Grandfather"
         }
       }
     },
@@ -165,19 +157,17 @@
       "caps_id": "F3_MOTHER",
       "family_no": 3,
       "name": "Zulpha",
-      "role_name_tz_sw": "mama",
+      "role_name_tz_sw": "Mama",
       "role": "caregiver",
       "image_asset": "images/character_icons/F3_MOTHER.svg",
       "Flag if column E has duplicate names": "Duplicate",
-      "role_name": "mother",
+      "role_name": "Mother",
       "_translations": {
-        "role_name": {
-          "tz_sw": true
-        }
+        "role_name": {}
       },
       "_translatedFields": {
         "role_name": {
-          "eng": "mother"
+          "eng": "Mother"
         }
       }
     },
@@ -186,19 +176,17 @@
       "caps_id": "F3_UNCLE",
       "family_no": 3,
       "name": "Sendeu",
-      "role_name_tz_sw": "mjomba",
+      "role_name_tz_sw": "Mjomba",
       "role": "caregiver",
       "image_asset": "images/character_icons/F3_UNCLE.svg",
       "Flag if column E has duplicate names": "",
-      "role_name": "uncle",
+      "role_name": "Uncle",
       "_translations": {
-        "role_name": {
-          "tz_sw": true
-        }
+        "role_name": {}
       },
       "_translatedFields": {
         "role_name": {
-          "eng": "uncle"
+          "eng": "Uncle"
         }
       }
     },
@@ -227,19 +215,17 @@
       "caps_id": "F4_FATHER",
       "family_no": 4,
       "name": "Mabula",
-      "role_name_tz_sw": "baba",
+      "role_name_tz_sw": "Baba",
       "role": "caregiver",
       "image_asset": "images/character_icons/F4_FATHER.svg",
       "Flag if column E has duplicate names": "",
-      "role_name": "father",
+      "role_name": "Father",
       "_translations": {
-        "role_name": {
-          "tz_sw": true
-        }
+        "role_name": {}
       },
       "_translatedFields": {
         "role_name": {
-          "eng": "father"
+          "eng": "Father"
         }
       }
     },
@@ -318,7 +304,7 @@
       "id": "friend_female_3",
       "caps_id": "FRIEND_FEMALE_3",
       "name": "Maria",
-      "Flag if column E has duplicate names": ""
+      "Flag if column E has duplicate names": "Duplicate"
     },
     {
       "id": "friend_male_1",

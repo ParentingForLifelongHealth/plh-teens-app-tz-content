@@ -139,7 +139,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2187
+        "count": 2183
       },
       {
         "type": "simple_checkbox",
@@ -155,7 +155,7 @@
       },
       {
         "type": "template",
-        "count": 673
+        "count": 671
       },
       {
         "type": "text",
@@ -251,7 +251,7 @@
       },
       {
         "type": "nav_stack",
-        "count": 179
+        "count": 177
       },
       {
         "type": "pop_up",
@@ -608,7 +608,7 @@
       },
       {
         "path": "audio/relax/relax_9.mp3",
-        "count": 2,
+        "count": 1,
         "missing": true
       },
       {
@@ -2652,7 +2652,7 @@
       },
       {
         "path": "lottie/relax/square_flow.json",
-        "count": 14,
+        "count": 13,
         "size_kb": 5.9
       },
       {
@@ -2852,7 +2852,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 494
+        "total": 493
       },
       {
         "type": "template",

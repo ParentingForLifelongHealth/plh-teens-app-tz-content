@@ -76,19 +76,15 @@
       "id": "explore_1",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/one_on_one/1on1_t_1.svg",
-      "character_1_id": "f3_mother",
-      "character_2_id": "f3_daughter_12",
-      "character_3_id": "f3_mother",
+      "character_1_id": "f1_mother",
+      "character_2_id": "f1_daughter_13",
+      "character_3_id": "f1_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
-      "text_1_facilitator": "Doing a chore with your child is a simple way to start. Let’s see how @data.characters.f3_mother.name and @data.characters.f3_daughter_12.name do this together.",
+      "text_1_facilitator": "Doing a chore with your child is a simple way to start. Let’s see how @data.characters.f1_mother.name and @data.characters.f3_daughter_12.name do this together.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         },
@@ -98,10 +94,10 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Doing a chore with your child is a simple way to start. Let’s see how @data.characters.f3_mother.name and @data.characters.f3_daughter_12.name do this together."
+          "eng": "Doing a chore with your child is a simple way to start. Let’s see how @data.characters.f1_mother.name and @data.characters.f3_daughter_12.name do this together."
         },
         "character_1_text": {
-          "eng": "Hi @data.characters.f3_daughter_12.name! I have 5 minutes of one-on-one time before work. What would you like to do together?"
+          "eng": "Hi @data.characters.f1_daughter_13.name! I have 5 minutes of one-on-one time before work. What would you like to do together?"
         },
         "character_2_text": {
           "eng": "I still need to feed the chickens. Do you want to come and collect the eggs?"
@@ -110,7 +106,7 @@
           "eng": "Of course!"
         }
       },
-      "character_1_text": "Hi @data.characters.f3_daughter_12.name! I have 5 minutes of one-on-one time before work. What would you like to do together?",
+      "character_1_text": "Hi @data.characters.f1_daughter_13.name! I have 5 minutes of one-on-one time before work. What would you like to do together?",
       "character_2_text": "I still need to feed the chickens. Do you want to come and collect the eggs?",
       "character_3_text": "Of course!"
     },
@@ -118,143 +114,113 @@
       "id": "explore_2",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/one_on_one/1on1_t_2.svg",
-      "character_1_id": "f3_daughter_12",
-      "character_2_id": "f3_mother",
+      "character_1_id": "f1_daughter_13",
+      "character_2_id": "f1_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
-      "character_1_text": "Thank you for helping me, @data.characters.f3_mother.role_name. It’s nice to do this together. I was feeling very nervous about my test tomorrow.",
+      "character_1_text": "Thank you for helping me, @data.characters.f1_mother.role_name. It’s nice to do this together. I was feeling very nervous about my test tomorrow.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_1_text": {},
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Thank you for helping me, @data.characters.f3_mother.role_name. It’s nice to do this together. I was feeling very nervous about my test tomorrow."
+          "eng": "Thank you for helping me, @data.characters.f1_mother.role_name. It’s nice to do this together. I was feeling very nervous about my test tomorrow."
         },
         "character_2_text": {
-          "eng": "You have studied so hard, @data.characters.f3_daughter_12.name. You always try your best, and we are proud of you."
+          "eng": "You have studied so hard, @data.characters.f1_daughter_13.name. You always try your best, and we are proud of you."
         }
       },
-      "character_2_text": "You have studied so hard, @data.characters.f3_daughter_12.name. You always try your best, and we are proud of you."
+      "character_2_text": "You have studied so hard, @data.characters.f1_daughter_13.name. You always try your best, and we are proud of you."
     },
     {
       "id": "explore_3",
       "category_id": "explore",
       "image_asset": "/images/teen_modules/one_on_one/1on1_t_3.svg",
-      "character_1_id": "f3_daughter_12",
-      "character_2_id": "f3_mother",
+      "character_1_id": "f1_daughter_13",
+      "character_2_id": "f1_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
-      "character_1_text": "Thank you, @data.characters.f3_mother.role_name! Oh look, the wire is loose. The baby chicks can get out.",
+      "character_1_text": "Thank you, @data.characters.f1_mother.role_name! Oh look, the wire is loose. The baby chicks can get out.",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
-        "character_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_question": {
-          "tz_sw": true
-        },
-        "quiz_1_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_1_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_1_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        },
-        "quiz_1_option_4_text": {
-          "tz_sw": true
-        },
-        "quiz_1_feedback_4": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
+        "character_2_text": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_option_3_text": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
         "quiz_1_option_5_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_5": {
-          "tz_sw": true
-        }
+        "quiz_1_feedback_5": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Thank you, @data.characters.f3_mother.role_name! Oh look, the wire is loose. The baby chicks can get out."
+          "eng": "Thank you, @data.characters.f1_mother.role_name! Oh look, the wire is loose. The baby chicks can get out."
         },
         "character_2_text": {
-          "eng": "Well done for noticing that, @data.characters.f3_daughter_12.name. Let’s put some stones there for now, and we can fix it together after school."
+          "eng": "Well done for noticing that, @data.characters.f1_daughter_13.name. Let’s put some stones there for now, and we can fix it together after school."
         },
         "quiz_1_question": {
-          "eng": "Let’s think about what @data.characters.f3_mother.name did to make one-on-one time work well:"
+          "eng": "Let’s think about what @data.characters.f1_mother.name did to make one-on-one time work well:"
         },
         "quiz_1_option_1_text": {
-          "eng": "@data.characters.f3_mother.name listened and followed @data.characters.f3_daughter_12.name’s lead"
+          "eng": "@data.characters.f1_mother.name listened and followed @data.characters.f1_daughter_13.name’s lead"
         },
         "quiz_1_feedback_1": {
-          "eng": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn."
+          "eng": "All of these are correct! \n@data.characters.f1_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f1_daughter_13.name feel supported, calm, and ready to learn."
         },
         "quiz_1_option_2_text": {
-          "eng": "Praised @data.characters.f3_daughter_12.name"
+          "eng": "Praised @data.characters.f1_daughter_13.name"
         },
         "quiz_1_feedback_2": {
-          "eng": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn."
+          "eng": "All of these are correct! \n@data.characters.f1_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f1_daughter_13.name feel supported, calm, and ready to learn."
         },
         "quiz_1_option_3_text": {
-          "eng": "Focused fully on @data.characters.f3_daughter_12.name (no distractions)"
+          "eng": "Focused fully on @data.characters.f1_daughter_13.name (no distractions)"
         },
         "quiz_1_feedback_3": {
-          "eng": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn."
+          "eng": "All of these are correct! \n@data.characters.f1_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f1_daughter_13.name feel supported, calm, and ready to learn."
         },
         "quiz_1_option_4_text": {
-          "eng": "Let @data.characters.f3_daughter_12.name know they had 5 minutes together"
+          "eng": "Let @data.characters.f1_daughter_13.name know they had 5 minutes together"
         },
         "quiz_1_feedback_4": {
-          "eng": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn."
+          "eng": "All of these are correct! \n@data.characters.f1_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f1_daughter_13.name feel supported, calm, and ready to learn."
         },
         "quiz_1_option_5_text": {
           "eng": "Made it fun"
         },
         "quiz_1_feedback_5": {
-          "eng": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn."
+          "eng": "All of these are correct! \n@data.characters.f1_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f1_daughter_13.name feel supported, calm, and ready to learn."
         }
       },
-      "character_2_text": "Well done for noticing that, @data.characters.f3_daughter_12.name. Let’s put some stones there for now, and we can fix it together after school.",
-      "quiz_1_question": "Let’s think about what @data.characters.f3_mother.name did to make one-on-one time work well:",
-      "quiz_1_option_1_text": "@data.characters.f3_mother.name listened and followed @data.characters.f3_daughter_12.name’s lead",
-      "quiz_1_feedback_1": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
-      "quiz_1_option_2_text": "Praised @data.characters.f3_daughter_12.name",
-      "quiz_1_feedback_2": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
-      "quiz_1_option_3_text": "Focused fully on @data.characters.f3_daughter_12.name (no distractions)",
-      "quiz_1_feedback_3": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
-      "quiz_1_option_4_text": "Let @data.characters.f3_daughter_12.name know they had 5 minutes together",
-      "quiz_1_feedback_4": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn.",
+      "character_2_text": "Well done for noticing that, @data.characters.f1_daughter_13.name. Let’s put some stones there for now, and we can fix it together after school.",
+      "quiz_1_question": "Let’s think about what @data.characters.f1_mother.name did to make one-on-one time work well:",
+      "quiz_1_option_1_text": "@data.characters.f1_mother.name listened and followed @data.characters.f1_daughter_13.name’s lead",
+      "quiz_1_feedback_1": "All of these are correct! \n@data.characters.f1_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f1_daughter_13.name feel supported, calm, and ready to learn.",
+      "quiz_1_option_2_text": "Praised @data.characters.f1_daughter_13.name",
+      "quiz_1_feedback_2": "All of these are correct! \n@data.characters.f1_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f1_daughter_13.name feel supported, calm, and ready to learn.",
+      "quiz_1_option_3_text": "Focused fully on @data.characters.f1_daughter_13.name (no distractions)",
+      "quiz_1_feedback_3": "All of these are correct! \n@data.characters.f1_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f1_daughter_13.name feel supported, calm, and ready to learn.",
+      "quiz_1_option_4_text": "Let @data.characters.f1_daughter_13.name know they had 5 minutes together",
+      "quiz_1_feedback_4": "All of these are correct! \n@data.characters.f1_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f1_daughter_13.name feel supported, calm, and ready to learn.",
       "quiz_1_option_5_text": "Made it fun",
-      "quiz_1_feedback_5": "All of these are correct! \n@data.characters.f3_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f3_daughter_12.name feel supported, calm, and ready to learn."
+      "quiz_1_feedback_5": "All of these are correct! \n@data.characters.f1_mother.name shows that even a short moment can be special. She listens, praises, and stays focused. This helps @data.characters.f1_daughter_13.name feel supported, calm, and ready to learn."
     },
     {
       "id": "explore_4",
       "category_id": "explore",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1d2aBBD-z2EbP3Od5lchEPtOzjCG9N8r2zqkGGXGgnkc",
-      "text_1_facilitator": "@data.characters.f3_mother.name showed how enjoyable a short one-on-one time activity can be. \n\nOther caregivers can make these moments special too.",
+      "text_1_facilitator": "@data.characters.f1_mother.name showed how enjoyable a short one-on-one time activity can be. \n\nOther caregivers can make these moments special too.",
       "_translations": {
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "quiz_1_question": {
           "tz_sw": true
         },
@@ -294,7 +260,7 @@
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "@data.characters.f3_mother.name showed how enjoyable a short one-on-one time activity can be. \n\nOther caregivers can make these moments special too."
+          "eng": "@data.characters.f1_mother.name showed how enjoyable a short one-on-one time activity can be. \n\nOther caregivers can make these moments special too."
         },
         "quiz_1_question": {
           "eng": "True or False: Mothers AND fathers need to spend one-on-one time with their teens?"

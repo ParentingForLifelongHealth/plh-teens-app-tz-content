@@ -37,11 +37,11 @@
 | round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2187 |
+| set_variable | 2183 |
 | simple_checkbox | 1 |
 | task_card | 6 |
 | task_progress_bar | 6 |
-| template | 673 |
+| template | 671 |
 | text | 203 |
 | text_area | 2 |
 | text_box | 12 |
@@ -71,7 +71,7 @@
 | emit: uncompleted | 494 |
 | feedback | 13 |
 | go_to | 21 |
-| nav_stack | 179 |
+| nav_stack | 177 |
 | pop_up | 45 |
 | reset_app | 4 |
 | reset_data | 3 |
@@ -177,7 +177,7 @@ Assets that have references within sheets but do not appear in app-data
 | audio/relax/relax_6.mp3 | 1 |
 | audio/relax/relax_7.mp3 | 1 |
 | audio/relax/relax_8.mp3 | 1 |
-| audio/relax/relax_9.mp3 | 2 |
+| audio/relax/relax_9.mp3 | 1 |
 | images/backgrounds/map_view_bg.jpg | 1 |
 | images/logos/app_logo.png | 1 |
 | images/logos/partners/plh_white.svg | 1 |
@@ -594,7 +594,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | lottie/relax/heart.json | 46.7 | 9 |
 | lottie/relax/looping_rings.json | 10.4 | 9 |
 | lottie/relax/soothing_waves.json | 7.6 | 4 |
-| lottie/relax/square_flow.json | 5.9 | 14 |
+| lottie/relax/square_flow.json | 5.9 | 13 |
 | video/plh_video/lets_slow_down.mp4 | 13482.2 | 32 |
 </details>
 
@@ -640,6 +640,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global | legal_terms | 1 |
 | global | onboarding | 3 |
 | template |  | 110 |
-| template | generated | 494 |
+| template | generated | 493 |
 | template | legal_terms | 4 |
 </details>

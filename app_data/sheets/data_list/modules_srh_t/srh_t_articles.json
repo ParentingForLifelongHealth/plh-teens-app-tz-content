@@ -320,7 +320,7 @@
           "eng": "He felt ashamed to talk about sex"
         },
         "quiz_1_feedback_4": {
-          "eng": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships."
+          "eng": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships."
         },
         "quiz_2_question": {
           "eng": "How might this kind of reaction affect @data.characters.f2_son_15.name?"
@@ -352,7 +352,7 @@
       "quiz_1_option_3_text": "He was scared that @data.characters.f2_son_15.name was already having sex",
       "quiz_1_feedback_3": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
       "quiz_1_option_4_text": "He felt ashamed to talk about sex",
-      "quiz_1_feedback_4": "It is possible she felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
+      "quiz_1_feedback_4": "It is possible he felt this way and then reacted harshly.\n\nWhen we are angry or scared, we can say or do things that hurt others and harm our relationships.",
       "quiz_2_question": "How might this kind of reaction affect @data.characters.f2_son_15.name?",
       "quiz_2_option_1_text": "@data.characters.f2_son_15.name may not trust @data.characters.f2_grandfather.name in the future",
       "quiz_2_feedback_1": "Yes, all of these are true. After this fight, @data.characters.f2_son_15.name may look for answers somewhere else.\nHe might end up in unsafe situations and not feel okay talking to @data.characters.f2_grandfather.name about it even if he has questions or needs help. He may feel worried that @data.characters.f2_grandfather.name will judge his choices or feel ashamed of him.",
@@ -471,11 +471,8 @@
       "character_3_id": "f1_mother",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1aM6BqyzpZ5YSbG1GBmU03RJBe7GjEojWL8tSTDtXA_I",
-      "text_2": "@data.characters.f1_daughter_16.name sits down next to @data.characters.f1_mother.name.",
+      "character_1_text": "Mmm, I see. And how do you feel about your friends having a boyfriend? I was just wondering.",
       "_translations": {
-        "text_2": {
-          "tz_sw": true
-        },
         "character_1_text": {
           "tz_sw": true
         },
@@ -487,9 +484,6 @@
         }
       },
       "_translatedFields": {
-        "text_2": {
-          "eng": "@data.characters.f1_daughter_16.name sits down next to @data.characters.f1_mother.name."
-        },
         "character_1_text": {
           "eng": "Mmm, I see. And how do you feel about your friends having a boyfriend? I was just wondering."
         },
@@ -500,7 +494,6 @@
           "eng": "That makes sense. It’s normal to feel both. I remember thinking having a boyfriend was exciting and made me feel special, but I was also nervous. If anything ever comes up, you can always talk to me."
         }
       },
-      "character_1_text": "Mmm, I see. And how do you feel about your friends having a boyfriend? I was just wondering.",
       "character_2_text": "I don’t know. Sometimes I feel curious, but also a bit unsure.",
       "character_3_text": "That makes sense. It’s normal to feel both. I remember thinking having a boyfriend was exciting and made me feel special, but I was also nervous. If anything ever comes up, you can always talk to me."
     },
@@ -571,19 +564,17 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {
-          "tz_sw": true
-        }
+        "character_2_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
           "eng": "That would be fine as long as his parents also know. I will chat with his mother when I see her later today. And after you get back, we can talk about how it went."
         },
         "character_2_text": {
-          "eng": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother.role_name"
+          "eng": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother.role_name."
         }
       },
-      "character_2_text": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother.role_name"
+      "character_2_text": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother.role_name."
     },
     {
       "id": "explore_12",
@@ -645,12 +636,6 @@
         },
         "quiz_2_feedback_4": {
           "tz_sw": true
-        },
-        "quiz_2_option_5_text": {
-          "tz_sw": true
-        },
-        "quiz_2_feedback_5": {
-          "tz_sw": true
         }
       },
       "_translatedFields": {
@@ -682,33 +667,27 @@
           "eng": "How did @data.characters.f1_mother.name respond to her daughter, @data.characters.f1_daughter_16.name?"
         },
         "quiz_2_option_1_text": {
-          "eng": "She breathes to stay calm"
+          "eng": "She praises @data.characters.f1_daughter_16.name for sharing"
         },
         "quiz_2_feedback_1": {
           "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
         },
         "quiz_2_option_2_text": {
-          "eng": "She praises @data.characters.f1_daughter_16.name for sharing"
+          "eng": "She shares why she is worried"
         },
         "quiz_2_feedback_2": {
           "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
         },
         "quiz_2_option_3_text": {
-          "eng": "She shares why she is worried"
+          "eng": "She creates rules with @data.characters.f1_daughter_16.name"
         },
         "quiz_2_feedback_3": {
           "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
         },
         "quiz_2_option_4_text": {
-          "eng": "She creates rules with @data.characters.f1_daughter_16.name"
-        },
-        "quiz_2_feedback_4": {
-          "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
-        },
-        "quiz_2_option_5_text": {
           "eng": "She involves other adults for support"
         },
-        "quiz_2_feedback_5": {
+        "quiz_2_feedback_4": {
           "eng": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
         }
       },
@@ -720,16 +699,14 @@
       "quiz_1_option_3_text": "Hopeful",
       "quiz_1_feedback_3": "Yes, it was probably hard to start this conversation, but mother knew that having this conversation would help keep @data.characters.f1_daughter_16.name safe.",
       "quiz_2_question": "How did @data.characters.f1_mother.name respond to her daughter, @data.characters.f1_daughter_16.name?",
-      "quiz_2_option_1_text": "She breathes to stay calm",
+      "quiz_2_option_1_text": "She praises @data.characters.f1_daughter_16.name for sharing",
       "quiz_2_feedback_1": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_2_option_2_text": "She praises @data.characters.f1_daughter_16.name for sharing",
+      "quiz_2_option_2_text": "She shares why she is worried",
       "quiz_2_feedback_2": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_2_option_3_text": "She shares why she is worried",
+      "quiz_2_option_3_text": "She creates rules with @data.characters.f1_daughter_16.name",
       "quiz_2_feedback_3": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_2_option_4_text": "She creates rules with @data.characters.f1_daughter_16.name",
-      "quiz_2_feedback_4": "Yes, @data.characters.f1_mother.name uses all these great strategies!",
-      "quiz_2_option_5_text": "She involves other adults for support",
-      "quiz_2_feedback_5": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
+      "quiz_2_option_4_text": "She involves other adults for support",
+      "quiz_2_feedback_4": "Yes, @data.characters.f1_mother.name uses all these great strategies!"
     },
     {
       "id": "explore_13",
@@ -1422,9 +1399,7 @@
         "section_2_button_text": {
           "tz_sw": true
         },
-        "section_2_extra_text": {
-          "tz_sw": true
-        },
+        "section_2_extra_text": {},
         "section_3_title": {
           "tz_sw": true
         },
@@ -1458,7 +1433,7 @@
           "eng": "More tips"
         },
         "section_2_extra_text": {
-          "eng": "If this feels too difficult, especially with a child of a different sex, you can help your teen find a trusted adult they feel comfortable with. Who is a relative or family friend they could talk to?”"
+          "eng": "If this feels too difficult, especially with a child of a different sex, you can help your teen find a trusted adult they feel comfortable with. Who is a relative or family friend they could talk to?"
         },
         "section_3_title": {
           "eng": "GUIDE"
@@ -1478,7 +1453,7 @@
       "section_2_title": "START",
       "section_2_text": "Your teen may feel shy or scared, so parents need to start the talk about body changes and intimate relationships.\n\nBegin early by answering questions simply and honestly. This builds confidence for you and your child.\n\nIt’s okay to feel uncomfortable. Be open, use the correct words, and get help if you don’t know all the answers.",
       "section_2_button_text": "More tips",
-      "section_2_extra_text": "If this feels too difficult, especially with a child of a different sex, you can help your teen find a trusted adult they feel comfortable with. Who is a relative or family friend they could talk to?”",
+      "section_2_extra_text": "If this feels too difficult, especially with a child of a different sex, you can help your teen find a trusted adult they feel comfortable with. Who is a relative or family friend they could talk to?",
       "section_3_title": "GUIDE",
       "section_3_text": "Your teen will hear about sex from many places. If they feel safe with you, you can help them find good information and make smart choices.\n\nHelp them think about consequences without shame or blame. Make sure they know they should never feel pressure (or pressure others) into sex or a relationship.\n\nYou can also ask other adults or health workers for help and information.",
       "section_3_button_text": "More tips",

@@ -9,7 +9,7 @@
       "lottie_asset": "lottie/relax/blue_dots.json",
       "media_asset": "audio/relax/relax_5.mp3",
       "media_type": "audio",
-      "title": "In and out",
+      "title": "Tap the play button to take a quick pause",
       "_translations": {
         "title": {
           "tz_sw": true
@@ -20,7 +20,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "In and out"
+          "eng": "Tap the play button to take a quick pause"
         },
         "transcript": {
           "eng": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!"
@@ -300,7 +300,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Maybe we can agree I will come home at 6pm on school nights and 10pm on Fridays and Saturdays?"
+          "eng": "Maybe we can agree I will come home at 6pm on school nights and 8pm on Fridays and Saturdays?"
         },
         "character_2_text": {
           "eng": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 8pm on Fridays and Saturdays."
@@ -314,11 +314,9 @@
       "image_asset": "/images/teen_modules/rules/rules1_t_5.svg",
       "character_1_id": "f1_son_18",
       "character_2_id": "f1_mother",
-      "character_1_text": "Maybe we can agree I will come home at 6pm on school nights and 10pm on Fridays and Saturdays?",
+      "character_1_text": "Maybe we can agree I will come home at 6pm on school nights and 8pm on Fridays and Saturdays?",
       "_translations": {
-        "character_1_text": {
-          "tz_sw": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "tz_sw": true
         },

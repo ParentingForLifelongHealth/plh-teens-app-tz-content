@@ -624,9 +624,7 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "quiz_1_feedback_3": {
-          "tz_sw": true
-        }
+        "quiz_1_feedback_3": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -654,7 +652,7 @@
           "eng": "No"
         },
         "quiz_1_feedback_3": {
-          "eng": "I understand, sometimes we just don’t have capacity. Try to keep spending time with your teen - whenever you are ready you can practise responding calmly and find a Safety Word together."
+          "eng": "I understand, sometimes we just don’t have capacity. Try to keep spending time with your teen - whenever you are ready you can practise responding calmly."
         }
       },
       "text_2": "**Remember to:** \n\n😮‍💨 BREATHE: take five breaths in and out before you react\n🤝🏾 SHARE: when you're both calm, share with your teen how you feel\n💙 SHOW: ask them how they feel to show you care\n🔍 SEEK: find something positive in this situation together",
@@ -664,7 +662,7 @@
       "quiz_1_option_2_text": "I think so",
       "quiz_1_feedback_2": "That’s a good start. When you are stressed, remember to take a few deep breaths, it will make it easier to respond calmly.",
       "quiz_1_option_3_text": "No",
-      "quiz_1_feedback_3": "I understand, sometimes we just don’t have capacity. Try to keep spending time with your teen - whenever you are ready you can practise responding calmly and find a Safety Word together."
+      "quiz_1_feedback_3": "I understand, sometimes we just don’t have capacity. Try to keep spending time with your teen - whenever you are ready you can practise responding calmly."
     },
     {
       "id": "teen_test_1",
