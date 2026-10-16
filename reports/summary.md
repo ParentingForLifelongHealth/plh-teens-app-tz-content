@@ -12,13 +12,13 @@
 | audio | 4 |
 | button | 101 |
 | combo_box | 9 |
-| data_items | 121 |
+| data_items | 120 |
 | debug_toggle | 1 |
 | display_grid | 5 |
-| display_group | 115 |
+| display_group | 114 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 26 |
+| image | 27 |
 | items | 17 |
 | lottie_animation | 5 |
 | nested_properties | 118 |
@@ -37,17 +37,17 @@
 | round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2195 |
+| set_variable | 2190 |
 | simple_checkbox | 1 |
-| task_card | 6 |
+| task_card | 7 |
 | task_progress_bar | 6 |
-| template | 671 |
-| text | 203 |
+| template | 670 |
+| text | 202 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 8 |
 | tile_component | 2 |
-| title | 61 |
+| title | 60 |
 | toggle_bar | 5 |
 | update_action_list | 2 |
 | video | 3 |
@@ -70,7 +70,7 @@
 | emit: set_language | 4 |
 | emit: uncompleted | 494 |
 | feedback | 13 |
-| go_to | 21 |
+| go_to | 22 |
 | nav_stack | 177 |
 | pop_up | 45 |
 | reset_app | 4 |
@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 66840 KB | 66.8 MB |
-| unused | 1047 KB | 1 MB |
+| total | 66843 KB | 66.8 MB |
+| unused | 1045 KB | 1 MB |
 </details>
 
 <details open>
@@ -137,7 +137,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/star_outline_white.svg | 1 |
 | images/icons/trophy_footer.svg | 3.9 |
 | images/icons/trophy_footer_active.svg | 3.9 |
-| images/icons/trophy_large.svg | 2.2 |
 | images/icons/world.svg | 6.2 |
 | images/logos/IDEMS.png | 84.6 |
 | images/logos/PLH.png | 26.6 |
@@ -407,6 +406,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/trophy.png | 1.6 | 1 |
 | images/icons/trophy_active.png | 1.7 | 1 |
 | images/icons/trophy_blue.png | 5.1 | 12 |
+| images/icons/trophy_large.svg | 2.2 | 1 |
 | images/icons/verified.svg | 0.5 | 1 |
 | images/logos/donors/Agency_fund.png | 43.7 | 1 |
 | images/logos/donors/ERC.png | 321.9 | 1 |
