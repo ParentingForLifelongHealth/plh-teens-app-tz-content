@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 66843 KB | 66.8 MB |
-| unused | 835 KB | 0.8 MB |
+| total | 66830 KB | 66.8 MB |
+| unused | 848 KB | 0.8 MB |
 </details>
 
 <details open>
@@ -141,6 +141,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/IDEMS.png | 84.6 |
 | images/logos/PLH.png | 26.6 |
 | images/logos/favicon.png | 6.3 |
+| images/logos/plh_white.png | 12.8 |
 | lottie/bulging_circles.txt | 0.2 |
 | video/plh_video/lets_slow_down.srt | 1.7 |
 | video/plh_video/lets_slow_down.vtt | 1.8 |
@@ -176,12 +177,6 @@ Assets that have references within sheets but do not appear in app-data
 | audio/relax/relax_7.mp3 | 1 |
 | audio/relax/relax_8.mp3 | 1 |
 | audio/relax/relax_9.mp3 | 1 |
-| images/backgrounds/map_view_bg.jpg | 1 |
-| images/logos/app_logo.png | 1 |
-| images/logos/partners/plh_white.svg | 1 |
-| images/logos/plh_logomark.png | 1 |
-| images/onboarding/facilitator_onboarding_icon.svg | 1 |
-| lottie/gift_box.json | 1 |
 </details>
 
 <details >
@@ -305,7 +300,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/faces/tired.svg | 2.4 | 2 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 23.9 | 1 |
 | images/homescreen/check_in/traditional_rondavel_open.svg | 28.8 | 1 |
-| images/homescreen/home/celebrate_t.svg | 36.3 | 2 |
+| images/homescreen/home/celebrate_t.svg | 36.3 | 3 |
 | images/homescreen/home/consequence_t.svg | 23 | 2 |
 | images/homescreen/home/crisis_t.svg | 46.1 | 2 |
 | images/homescreen/home/grief_t.svg | 30.8 | 2 |
@@ -427,10 +422,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/partners/UNICEF.png | 68.8 | 1 |
 | images/logos/partners/Vodacom.png | 59.2 | 1 |
 | images/logos/partners/WHO.jpeg | 310.7 | 1 |
-| images/logos/partners/plh_logomark.png | 20.5 | 1 |
+| images/logos/partners/plh_logomark.png | 20.5 | 4 |
 | images/logos/partners/tz_ministry.svg | 122.4 | 1 |
-| images/logos/plh_white.png | 12.8 | 1 |
-| images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 2 |
+| images/onboarding/facilitator_female_onboarding_icon.svg | 29.4 | 1 |
 | images/onboarding/facilitator_male_onboarding_icon.svg | 21.6 | 1 |
 | images/onboarding/frustrated.svg | 22.5 | 1 |
 | images/onboarding/join_parents.svg | 37.6 | 1 |
@@ -586,7 +580,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/teen_modules/stress/stress2_t_3.svg | 86.4 | 2 |
 | images/teen_modules/svp/svp_usevoice_t.svg | 18.4 | 2 |
 | lottie/app/checkmark.json | 23.6 | 2 |
-| lottie/app/gift_box.json | 674.5 | 1 |
+| lottie/app/gift_box.json | 674.5 | 2 |
 | lottie/app/loading_dots.json | 6.1 | 1 |
 | lottie/bulging_circles.json | 11.8 | 2 |
 | lottie/relax/blue_dots.json | 14.7 | 9 |

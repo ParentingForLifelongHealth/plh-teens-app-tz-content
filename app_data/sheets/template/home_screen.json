@@ -5,10 +5,6 @@
   "rows": [
     {
       "name": "home_screen_logo",
-      "value": "images/logos/app_logo.png",
-      "_translations": {
-        "value": {}
-      },
       "condition": "!@global.home_screen_logo_asset",
       "type": "set_variable",
       "_nested_name": "home_screen_logo",
