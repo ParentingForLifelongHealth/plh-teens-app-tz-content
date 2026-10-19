@@ -295,12 +295,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "66843 KB",
+        "KB": "66830 KB",
         "MB": "66.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "835 KB",
+        "KB": "848 KB",
         "MB": "0.8 MB"
       }
     ]
@@ -476,6 +476,10 @@
         "size_kb": 6.3
       },
       {
+        "path": "images/logos/plh_white.png",
+        "size_kb": 12.8
+      },
+      {
         "path": "lottie/bulging_circles.txt",
         "size_kb": 0.2
       },
@@ -600,36 +604,6 @@
       },
       {
         "path": "audio/relax/relax_9.mp3",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/backgrounds/map_view_bg.jpg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/app_logo.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/partners/plh_white.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/plh_logomark.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/onboarding/facilitator_onboarding_icon.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "lottie/gift_box.json",
         "count": 1,
         "missing": true
       }
@@ -1209,7 +1183,7 @@
       },
       {
         "path": "images/homescreen/home/celebrate_t.svg",
-        "count": 2,
+        "count": 3,
         "size_kb": 36.3
       },
       {
@@ -1819,7 +1793,7 @@
       },
       {
         "path": "images/logos/partners/plh_logomark.png",
-        "count": 1,
+        "count": 4,
         "size_kb": 20.5
       },
       {
@@ -1828,13 +1802,8 @@
         "size_kb": 122.4
       },
       {
-        "path": "images/logos/plh_white.png",
-        "count": 1,
-        "size_kb": 12.8
-      },
-      {
         "path": "images/onboarding/facilitator_female_onboarding_icon.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 29.4
       },
       {
@@ -2614,7 +2583,7 @@
       },
       {
         "path": "lottie/app/gift_box.json",
-        "count": 1,
+        "count": 2,
         "size_kb": 674.5
       },
       {

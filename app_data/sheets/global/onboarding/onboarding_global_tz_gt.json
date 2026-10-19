@@ -46,7 +46,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_header_image_asset",
-      "value": "images/logos/plh_white.png",
+      "value": "images/logos/partners/plh_logomark.png",
       "_translations": {
         "value": {}
       },
@@ -65,15 +65,6 @@
       "type": "declare_global_constant",
       "name": "onboarding_completed_lottie_asset",
       "value": "lottie/app/checkmark.json",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "facilitator_intro_image_asset",
-      "value": "images/onboarding/facilitator_onboarding_icon.svg",
       "_translations": {
         "value": {}
       },
