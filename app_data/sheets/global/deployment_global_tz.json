@@ -205,6 +205,15 @@
         "value": {}
       },
       "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "all_complete_image",
+      "value": "images/homescreen/home/celebrate_t.svg",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
     }
   ],
   "_source": {
