@@ -501,45 +501,24 @@
           "eng": "Exactly. Sharing her sadness and anger openly made @data.characters.f4_daughter_13.name feel comforted and closer to her father."
         },
         "quiz_2_question": {
-          "eng": "What could have happened if @data.characters.f4_father.name got angry at his daughter, @data.characters.f4_daughter_13.name, when she shared that she was feeling angry?"
-        },
-        "quiz_2_option_1_text": {
-          "eng": "@data.characters.f4_daughter_13.name might not trust her @data.characters.f4_father.role_name"
-        },
-        "quiz_2_feedback_1": {
-          "eng": "All these options are correct.\n\nEveryone copes with grief differently. We can help each other by accepting each other’s feelings and coming up with ideas together to support each other."
-        },
-        "quiz_2_option_2_text": {
-          "eng": "@data.characters.f4_daughter_13.name and her @data.characters.f4_father.role_name might talk less and feel more alone"
-        },
-        "quiz_2_feedback_2": {
-          "eng": "All these options are correct.\n\nEveryone copes with grief differently. We can help each other by accepting each other’s feelings and coming up with ideas together to support each other."
-        },
-        "quiz_2_option_3_text": {
-          "eng": "@data.characters.f4_daughter_13.name might show more challenging behaviour"
-        },
-        "quiz_2_feedback_3": {
-          "eng": "All these options are correct.\n\nEveryone copes with grief differently. We can help each other by accepting each other’s feelings and coming up with ideas together to support each other."
-        },
-        "quiz_3_question": {
           "eng": "How do you think @data.characters.f4_father.name feels about losing his wife?"
         },
-        "quiz_3_option_1_text": {
+        "quiz_2_option_1_text": {
           "eng": "Sad"
         },
-        "quiz_3_feedback_1": {
+        "quiz_2_feedback_1": {
           "eng": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help."
         },
-        "quiz_3_option_2_text": {
+        "quiz_2_option_2_text": {
           "eng": "Angry"
         },
-        "quiz_3_feedback_2": {
+        "quiz_2_feedback_2": {
           "eng": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help."
         },
-        "quiz_3_option_3_text": {
+        "quiz_2_option_3_text": {
           "eng": "Numb"
         },
-        "quiz_3_feedback_3": {
+        "quiz_2_feedback_3": {
           "eng": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help."
         }
       },
@@ -591,27 +570,6 @@
         },
         "quiz_2_feedback_3": {
           "tz_sw": true
-        },
-        "quiz_3_question": {
-          "tz_sw": true
-        },
-        "quiz_3_option_1_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_1": {
-          "tz_sw": true
-        },
-        "quiz_3_option_2_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_2": {
-          "tz_sw": true
-        },
-        "quiz_3_option_3_text": {
-          "tz_sw": true
-        },
-        "quiz_3_feedback_3": {
-          "tz_sw": true
         }
       },
       "quiz_1_feedback_2": "Yes, knowing that her @data.characters.f4_father.role_name understood and accepted her feelings made @data.characters.f4_daughter_13.name feel cared for and supported.",
@@ -621,20 +579,13 @@
       "quiz_1_option_2_text": "Supported",
       "quiz_1_option_3_text": "Comforted",
       "text_1_facilitator": "Let's think about what happened in this story.",
-      "quiz_2_question": "What could have happened if @data.characters.f4_father.name got angry at his daughter, @data.characters.f4_daughter_13.name, when she shared that she was feeling angry?",
-      "quiz_2_option_1_text": "@data.characters.f4_daughter_13.name might not trust her @data.characters.f4_father.role_name",
-      "quiz_2_feedback_1": "All these options are correct.\n\nEveryone copes with grief differently. We can help each other by accepting each other’s feelings and coming up with ideas together to support each other.",
-      "quiz_2_option_2_text": "@data.characters.f4_daughter_13.name and her @data.characters.f4_father.role_name might talk less and feel more alone",
-      "quiz_2_feedback_2": "All these options are correct.\n\nEveryone copes with grief differently. We can help each other by accepting each other’s feelings and coming up with ideas together to support each other.",
-      "quiz_2_option_3_text": "@data.characters.f4_daughter_13.name might show more challenging behaviour",
-      "quiz_2_feedback_3": "All these options are correct.\n\nEveryone copes with grief differently. We can help each other by accepting each other’s feelings and coming up with ideas together to support each other.",
-      "quiz_3_question": "How do you think @data.characters.f4_father.name feels about losing his wife?",
-      "quiz_3_option_1_text": "Sad",
-      "quiz_3_feedback_1": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help.",
-      "quiz_3_option_2_text": "Angry",
-      "quiz_3_feedback_2": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help.",
-      "quiz_3_option_3_text": "Numb",
-      "quiz_3_feedback_3": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help.",
+      "quiz_2_question": "How do you think @data.characters.f4_father.name feels about losing his wife?",
+      "quiz_2_option_1_text": "Sad",
+      "quiz_2_feedback_1": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help.",
+      "quiz_2_option_2_text": "Angry",
+      "quiz_2_feedback_2": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help.",
+      "quiz_2_option_3_text": "Numb",
+      "quiz_2_feedback_3": "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help.",
       "completed": false
     },
     {

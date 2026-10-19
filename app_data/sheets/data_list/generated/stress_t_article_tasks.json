@@ -707,7 +707,7 @@
       "attached_single_doc": "https://docs.google.com/document/d/1Wp3pfCV1sny_q_3tnrVCy3yFgOLMrJOvSMR7n3yITgk",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "This week's home activity is to respond calmly when you feel stressed.\n\nWhenever you feel stressed or upset with your teen, pause and take five slow breaths before you react. When you are both calm, share how you feel with each other."
+          "eng": "This week's home activity is to respond calmly when you feel stressed."
         },
         "text_2": {
           "eng": "**Remember to:** \n\n😮‍💨 BREATHE: take five breaths in and out before you react\n🤝🏾 SHARE: when you're both calm, share with your teen how you feel\n💙 SHOW: ask them how they feel to show you care\n🔍 SEEK: find something positive in this situation together"
@@ -757,9 +757,7 @@
         "quiz_1_option_3_text": {
           "tz_sw": true
         },
-        "text_1_facilitator": {
-          "tz_sw": true
-        },
+        "text_1_facilitator": {},
         "text_2": {
           "tz_sw": true
         }
@@ -770,7 +768,7 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "text_1_facilitator": "This week's home activity is to respond calmly when you feel stressed.\n\nWhenever you feel stressed or upset with your teen, pause and take five slow breaths before you react. When you are both calm, share how you feel with each other.",
+      "text_1_facilitator": "This week's home activity is to respond calmly when you feel stressed.",
       "text_2": "**Remember to:** \n\n😮‍💨 BREATHE: take five breaths in and out before you react\n🤝🏾 SHARE: when you're both calm, share with your teen how you feel\n💙 SHOW: ask them how they feel to show you care\n🔍 SEEK: find something positive in this situation together",
       "completed": false
     },

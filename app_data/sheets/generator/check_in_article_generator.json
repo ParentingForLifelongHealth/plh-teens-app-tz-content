@@ -142,11 +142,6 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "article_celebrate_t_check_in_16",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "article_grief_t_check_in_14",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -158,6 +153,11 @@
     },
     {
       "flow_name": "article_stayingsafe_t_check_in_13",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_celebrate_t_check_in_16",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

@@ -300,8 +300,8 @@
       },
       {
         "assets": "unused",
-        "KB": "1045 KB",
-        "MB": "1 MB"
+        "KB": "835 KB",
+        "MB": "0.8 MB"
       }
     ]
   },
@@ -470,10 +470,6 @@
       {
         "path": "images/logos/PLH.png",
         "size_kb": 26.6
-      },
-      {
-        "path": "images/logos/donors/ERC-EU.png",
-        "size_kb": 209.7
       },
       {
         "path": "images/logos/favicon.png",

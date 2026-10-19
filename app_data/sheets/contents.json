@@ -1566,11 +1566,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_celebrate_t_check_in_16",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_grief_t_check_in_14",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -1582,6 +1577,11 @@
         },
         {
           "flow_name": "article_stayingsafe_t_check_in_13",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_celebrate_t_check_in_16",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -2158,11 +2158,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "library_article_celebrate_t_tips_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "library_article_grief_t_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -2174,6 +2169,11 @@
         },
         {
           "flow_name": "library_article_stayingsafe_t_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_celebrate_t_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -2292,11 +2292,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "module_celebrate_t",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "module_grief_t",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -2308,6 +2303,11 @@
         },
         {
           "flow_name": "module_stayingsafe_t",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_celebrate_t",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -2389,11 +2389,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "module_overview_celebrate_t",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "module_overview_grief_t",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -2405,6 +2400,11 @@
         },
         {
           "flow_name": "module_overview_stayingsafe_t",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_overview_celebrate_t",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -2486,11 +2486,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "module_celebrate_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "module_grief_t_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -2502,6 +2497,11 @@
         },
         {
           "flow_name": "module_stayingsafe_t_start_at_uncompleted",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_celebrate_t_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -2583,11 +2583,6 @@
           "flow_type": "data_pipe"
         },
         {
-          "flow_name": "prep_celebrate_t_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
           "flow_name": "prep_grief_t_articles",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
@@ -2599,6 +2594,11 @@
         },
         {
           "flow_name": "prep_stayingsafe_t_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_celebrate_t_articles",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         }
@@ -2680,11 +2680,6 @@
           "flow_type": "data_pipe"
         },
         {
-          "flow_name": "prep_celebrate_t_categories",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
           "flow_name": "prep_grief_t_categories",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
@@ -2696,6 +2691,11 @@
         },
         {
           "flow_name": "prep_stayingsafe_t_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_celebrate_t_categories",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         }
@@ -2914,11 +2914,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "stack_module_celebrate_t",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "stack_module_grief_t",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -2930,6 +2925,11 @@
         },
         {
           "flow_name": "stack_module_stayingsafe_t",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "stack_module_celebrate_t",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -3011,11 +3011,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "stack_module_celebrate_t_start_at_id",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "stack_module_grief_t_start_at_id",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -3027,6 +3022,11 @@
         },
         {
           "flow_name": "stack_module_stayingsafe_t_start_at_id",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "stack_module_celebrate_t_start_at_id",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -3422,11 +3422,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_celebrate_t_relax_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_grief_t_relax_3",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -3438,6 +3433,11 @@
         },
         {
           "flow_name": "article_stayingsafe_t_relax_5",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_celebrate_t_relax_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
