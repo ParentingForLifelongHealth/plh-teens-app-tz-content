@@ -295,37 +295,13 @@
       }
     },
     {
-      "id": "celebrate_t",
-      "tag_list": [
-        "teen"
-      ],
-      "tag_course": "bonus_t",
-      "unlock_tag": 2.4,
-      "number": 3.4,
-      "bottom_aligned_image_asset": "images/homescreen/listview/celebrate_t.svg",
-      "image_asset": "images/homescreen/home/celebrate_t.svg",
-      "relax_id": "relax_1",
-      "check_in_id": "check_in_16",
-      "title": "Celebration",
-      "_translations": {
-        "title": {
-          "tz_sw": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Celebration"
-        }
-      }
-    },
-    {
       "id": "grief_t",
       "tag_list": [
         "teen"
       ],
       "tag_course": "bonus_t",
       "unlock_tag": 2.4,
-      "number": 3.5,
+      "number": 3.4,
       "bottom_aligned_image_asset": "images/homescreen/listview/grief_t.svg",
       "image_asset": "images/homescreen/home/grief_t.svg",
       "relax_id": "relax_3",
@@ -349,7 +325,7 @@
       ],
       "tag_course": "bonus_t",
       "unlock_tag": 2.4,
-      "number": 3.6,
+      "number": 3.5,
       "bottom_aligned_image_asset": "images/homescreen/listview/learn_t.svg",
       "image_asset": "images/homescreen/home/learn_t.svg",
       "relax_id": "relax_4",
@@ -373,7 +349,7 @@
       ],
       "tag_course": "bonus_t",
       "unlock_tag": 2.4,
-      "number": 3.7,
+      "number": 3.6,
       "bottom_aligned_image_asset": "images/homescreen/listview/svp_t.svg",
       "image_asset": "images/homescreen/home/svp_t.svg",
       "relax_id": "relax_5",
@@ -387,6 +363,30 @@
       "_translatedFields": {
         "title": {
           "eng": "Staying Safe"
+        }
+      }
+    },
+    {
+      "id": "celebrate_t",
+      "tag_list": [
+        "teen"
+      ],
+      "tag_course": "bonus_t",
+      "unlock_tag": 2.4,
+      "number": 3.7,
+      "bottom_aligned_image_asset": "images/homescreen/listview/celebrate_t.svg",
+      "image_asset": "images/homescreen/home/celebrate_t.svg",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_16",
+      "title": "Celebration",
+      "_translations": {
+        "title": {
+          "tz_sw": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Celebration"
         }
       }
     }

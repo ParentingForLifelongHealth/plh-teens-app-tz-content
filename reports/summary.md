@@ -89,7 +89,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 66843 KB | 66.8 MB |
-| unused | 1045 KB | 1 MB |
+| unused | 835 KB | 0.8 MB |
 </details>
 
 <details open>
@@ -140,7 +140,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/world.svg | 6.2 |
 | images/logos/IDEMS.png | 84.6 |
 | images/logos/PLH.png | 26.6 |
-| images/logos/donors/ERC-EU.png | 209.7 |
 | images/logos/favicon.png | 6.3 |
 | lottie/bulging_circles.txt | 0.2 |
 | video/plh_video/lets_slow_down.srt | 1.7 |

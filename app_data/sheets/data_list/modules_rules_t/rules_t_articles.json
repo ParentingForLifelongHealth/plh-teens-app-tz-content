@@ -203,28 +203,28 @@
       "character_3_id": "f1_father",
       "nested": false,
       "attached_single_doc": "https://docs.google.com/document/d/1VmdIhIzOgqmtsgolb3uBt0MvJiGCSu06v17sawNZ7V8",
-      "character_1_text": "Maybe we can agree I will come home at 6pm on school nights and 8pm on Fridays and Saturdays?",
+      "character_1_text": "Maybe we can agree I will come home at 6pm on school nights and 10pm on Fridays and Saturdays?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {
+        "character_1_text": {
           "tz_sw": true
         },
+        "character_2_text": {},
         "character_3_text": {
           "tz_sw": true
         }
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Maybe we can agree I will come home at 6pm on school nights and 8pm on Fridays and Saturdays?"
+          "eng": "Maybe we can agree I will come home at 6pm on school nights and 10pm on Fridays and Saturdays?"
         },
         "character_2_text": {
-          "eng": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 8pm on Fridays and Saturdays."
+          "eng": "Hmm 10pm is late. Let's agree our rule is that you come home at 6pm on school nights and 8pm on weekends."
         },
         "character_3_text": {
           "eng": "But you will always make sure you walk home with a friend, okay?"
         }
       },
-      "character_2_text": "Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 8pm on Fridays and Saturdays.",
+      "character_2_text": "Hmm 10pm is late. Let's agree our rule is that you come home at 6pm on school nights and 8pm on weekends.",
       "character_3_text": "But you will always make sure you walk home with a friend, okay?"
     },
     {
