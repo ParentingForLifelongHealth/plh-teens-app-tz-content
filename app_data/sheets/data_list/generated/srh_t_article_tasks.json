@@ -680,7 +680,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {}
+        "character_2_text": {
+          "tz_sw": true
+        }
       },
       "character_2_text": "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother.role_name.",
       "completed": false

@@ -414,9 +414,7 @@
           "type": "text",
           "value": "id: @item.id,\nname: @item.name,\ndownload_status: @item.download_status",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "exclude_from_translation": true,
           "name": "text_1_@item.id",
