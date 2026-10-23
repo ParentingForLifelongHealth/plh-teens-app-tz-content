@@ -209,7 +209,7 @@
     {
       "type": "declare_global_constant",
       "name": "all_complete_image",
-      "value": "images/homescreen/home/celebrate_t.svg",
+      "value": "images/icons/celebration.svg",
       "_translations": {
         "value": {}
       },
