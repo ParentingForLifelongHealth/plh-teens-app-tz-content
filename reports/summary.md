@@ -12,7 +12,7 @@
 | audio | 4 |
 | button | 101 |
 | combo_box | 9 |
-| data_items | 120 |
+| data_items | 104 |
 | debug_toggle | 1 |
 | display_grid | 5 |
 | display_group | 114 |
@@ -37,11 +37,11 @@
 | round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2190 |
+| set_variable | 2078 |
 | simple_checkbox | 1 |
 | task_card | 7 |
 | task_progress_bar | 6 |
-| template | 670 |
+| template | 654 |
 | text | 202 |
 | text_area | 2 |
 | text_box | 12 |
@@ -62,13 +62,13 @@
 | app_update | 1 |
 | asset_pack | 9 |
 | auth | 3 |
-| emit: completed | 490 |
+| emit: completed | 474 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 4 |
 | emit: server_sync | 6 |
 | emit: set_language | 4 |
-| emit: uncompleted | 494 |
+| emit: uncompleted | 478 |
 | feedback | 13 |
 | go_to | 22 |
 | nav_stack | 177 |
@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 66830 KB | 66.8 MB |
-| unused | 848 KB | 0.8 MB |
+| total | 66900 KB | 66.9 MB |
+| unused | 778 KB | 0.8 MB |
 </details>
 
 <details open>
@@ -108,7 +108,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |
 | images/icons/cancel.svg | 1.7 |
-| images/icons/celebration.svg | 70.4 |
 | images/icons/chatbubble-ellipses-outline.svg | 0.8 |
 | images/icons/document.svg | 7.3 |
 | images/icons/expand_circle_right.png | 0.9 |
@@ -300,7 +299,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/faces/tired.svg | 2.4 | 2 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 23.9 | 1 |
 | images/homescreen/check_in/traditional_rondavel_open.svg | 28.8 | 1 |
-| images/homescreen/home/celebrate_t.svg | 36.3 | 3 |
+| images/homescreen/home/celebrate_t.svg | 36.3 | 2 |
 | images/homescreen/home/consequence_t.svg | 23 | 2 |
 | images/homescreen/home/crisis_t.svg | 46.1 | 2 |
 | images/homescreen/home/grief_t.svg | 30.8 | 2 |
@@ -334,6 +333,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/homescreen/listview/svp_t.svg | 20.3 | 3 |
 | images/icons/brain_blue.png | 5.2 | 8 |
 | images/icons/bug.svg | 1.2 | 2 |
+| images/icons/celebration.svg | 70.4 | 1 |
 | images/icons/clock_blue.png | 4.5 | 4 |
 | images/icons/diamond-outline.svg | 0.6 | 2 |
 | images/icons/diamond.png | 1.8 | 1 |
@@ -628,11 +628,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | relax | 1 |
 | data_pipe |  | 4 |
 | data_pipe | generated | 32 |
-| generator |  | 31 |
+| generator |  | 30 |
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 3 |
 | template |  | 111 |
-| template | generated | 493 |
+| template | generated | 477 |
 | template | legal_terms | 4 |
 </details>

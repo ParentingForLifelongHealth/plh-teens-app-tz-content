@@ -39,7 +39,7 @@
       },
       {
         "type": "data_items",
-        "count": 120
+        "count": 104
       },
       {
         "type": "debug_toggle",
@@ -139,7 +139,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2190
+        "count": 2078
       },
       {
         "type": "simple_checkbox",
@@ -155,7 +155,7 @@
       },
       {
         "type": "template",
-        "count": 670
+        "count": 654
       },
       {
         "type": "text",
@@ -215,7 +215,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 490
+        "count": 474
       },
       {
         "type": "emit: force_reload",
@@ -239,7 +239,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 494
+        "count": 478
       },
       {
         "type": "feedback",
@@ -295,12 +295,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "66830 KB",
-        "MB": "66.8 MB"
+        "KB": "66900 KB",
+        "MB": "66.9 MB"
       },
       {
         "assets": "unused",
-        "KB": "848 KB",
+        "KB": "778 KB",
         "MB": "0.8 MB"
       }
     ]
@@ -342,10 +342,6 @@
       {
         "path": "images/icons/cancel.svg",
         "size_kb": 1.7
-      },
-      {
-        "path": "images/icons/celebration.svg",
-        "size_kb": 70.4
       },
       {
         "path": "images/icons/chatbubble-ellipses-outline.svg",
@@ -1183,7 +1179,7 @@
       },
       {
         "path": "images/homescreen/home/celebrate_t.svg",
-        "count": 3,
+        "count": 2,
         "size_kb": 36.3
       },
       {
@@ -1350,6 +1346,11 @@
         "path": "images/icons/bug.svg",
         "count": 2,
         "size_kb": 1.2
+      },
+      {
+        "path": "images/icons/celebration.svg",
+        "count": 1,
+        "size_kb": 70.4
       },
       {
         "path": "images/icons/clock_blue.png",
@@ -2793,7 +2794,7 @@
       {
         "type": "generator",
         "subtype": null,
-        "total": 31
+        "total": 30
       },
       {
         "type": "global",
@@ -2818,7 +2819,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 493
+        "total": 477
       },
       {
         "type": "template",

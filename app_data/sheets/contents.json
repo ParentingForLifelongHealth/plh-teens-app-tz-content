@@ -2410,103 +2410,6 @@
         }
       ]
     },
-    "gen_module_start_at_uncompleted": {
-      "flow_type": "generator",
-      "flow_name": "gen_module_start_at_uncompleted",
-      "parameter_list": {
-        "input_data_list": "modules",
-        "output_flow_name": "module_{@gen.id}_start_at_uncompleted",
-        "output_flow_type": "template",
-        "output_flow_subtype": "generated"
-      },
-      "_source": {
-        "name": "kids_global",
-        "path": "templates/modules/module_navigation.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1MeuVFYp7ovMCABdgC5c1mExgDK8Xop13fzzBNR5EAPo"
-      },
-      "_output_flows": [
-        {
-          "flow_name": "module_selfcare_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_oneononetime_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_praise_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_instructions_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_stress_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_problemsolving_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_money_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_rules_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_consequences_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_srh_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_safety_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_crisis_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_grief_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_learn_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_stayingsafe_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_celebrate_t_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        }
-      ]
-    },
     "gen_prep_articles": {
       "flow_type": "generator",
       "flow_name": "gen_prep_articles",
@@ -6950,18 +6853,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_celebrate_t_start_at_uncompleted": {
-      "flow_name": "module_celebrate_t_start_at_uncompleted",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_consequences_t": {
       "flow_name": "module_consequences_t",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_consequences_t_start_at_uncompleted": {
-      "flow_name": "module_consequences_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -6970,18 +6863,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_crisis_t_start_at_uncompleted": {
-      "flow_name": "module_crisis_t_start_at_uncompleted",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_grief_t": {
       "flow_name": "module_grief_t",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_grief_t_start_at_uncompleted": {
-      "flow_name": "module_grief_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -6990,18 +6873,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_instructions_t_start_at_uncompleted": {
-      "flow_name": "module_instructions_t_start_at_uncompleted",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_learn_t": {
       "flow_name": "module_learn_t",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_learn_t_start_at_uncompleted": {
-      "flow_name": "module_learn_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -7010,18 +6883,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_money_t_start_at_uncompleted": {
-      "flow_name": "module_money_t_start_at_uncompleted",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_oneononetime_t": {
       "flow_name": "module_oneononetime_t",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_oneononetime_t_start_at_uncompleted": {
-      "flow_name": "module_oneononetime_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -7110,18 +6973,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_praise_t_start_at_uncompleted": {
-      "flow_name": "module_praise_t_start_at_uncompleted",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_problemsolving_t": {
       "flow_name": "module_problemsolving_t",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_problemsolving_t_start_at_uncompleted": {
-      "flow_name": "module_problemsolving_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -7130,18 +6983,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_rules_t_start_at_uncompleted": {
-      "flow_name": "module_rules_t_start_at_uncompleted",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_safety_t": {
       "flow_name": "module_safety_t",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_safety_t_start_at_uncompleted": {
-      "flow_name": "module_safety_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -7150,18 +6993,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_selfcare_t_start_at_uncompleted": {
-      "flow_name": "module_selfcare_t_start_at_uncompleted",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_srh_t": {
       "flow_name": "module_srh_t",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_srh_t_start_at_uncompleted": {
-      "flow_name": "module_srh_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -7170,18 +7003,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "module_stayingsafe_t_start_at_uncompleted": {
-      "flow_name": "module_stayingsafe_t_start_at_uncompleted",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "module_stress_t": {
       "flow_name": "module_stress_t",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "module_stress_t_start_at_uncompleted": {
-      "flow_name": "module_stress_t_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
