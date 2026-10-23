@@ -5,7 +5,7 @@ const config = generateDeploymentConfig("plh_teens_tz");
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-teens-app-tz-content.git",
-  content_tag_latest: "1.6.21",
+  content_tag_latest: "1.6.22",
 };
 
 config.google_drive.sheets_folders = [
