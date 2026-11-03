@@ -1137,7 +1137,9 @@
       "character_2_id": "f1_mother",
       "character_1_text": "Mama, I just remembered, Aunty Cecilia said she will come visit tomorrow.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }

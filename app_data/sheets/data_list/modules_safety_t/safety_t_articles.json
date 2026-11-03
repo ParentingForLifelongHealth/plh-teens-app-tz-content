@@ -1015,7 +1015,9 @@
       "attached_single_doc": "https://docs.google.com/document/d/12FiHy6vu8-wDFf7xOdGRL7b0WluKXZ6tp22OwL7HW9I",
       "character_1_text": "Mama, I just remembered, Aunty Cecilia said she will come visit tomorrow.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "tz_sw": true
+        },
         "character_2_text": {
           "tz_sw": true
         }
