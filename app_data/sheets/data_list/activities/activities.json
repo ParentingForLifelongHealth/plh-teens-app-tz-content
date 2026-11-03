@@ -1383,7 +1383,9 @@
         "title": {
           "tz_sw": true
         },
-        "intro_text": {},
+        "intro_text": {
+          "tz_sw": true
+        },
         "steps_text": {
           "tz_sw": true
         }

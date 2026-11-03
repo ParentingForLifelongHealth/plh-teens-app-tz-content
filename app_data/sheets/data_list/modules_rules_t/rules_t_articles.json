@@ -208,7 +208,9 @@
         "character_1_text": {
           "tz_sw": true
         },
-        "character_2_text": {},
+        "character_2_text": {
+          "tz_sw": true
+        },
         "character_3_text": {
           "tz_sw": true
         }

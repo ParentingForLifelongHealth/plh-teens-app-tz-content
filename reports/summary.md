@@ -606,7 +606,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | hp_review | 2 |
 | data_list | legal_terms | 2 |
 | data_list | library | 3 |
-| data_list | lifecycle_actions | 2 |
+| data_list | lifecycle_actions | 3 |
 | data_list | modules | 3 |
 | data_list | modules_celebrate_t | 1 |
 | data_list | modules_consequences_t | 1 |
@@ -629,7 +629,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe |  | 4 |
 | data_pipe | generated | 32 |
 | generator |  | 30 |
-| global |  | 5 |
+| global |  | 6 |
 | global | legal_terms | 1 |
 | global | onboarding | 3 |
 | template |  | 111 |

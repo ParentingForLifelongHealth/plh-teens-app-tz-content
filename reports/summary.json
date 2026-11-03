@@ -2684,7 +2684,7 @@
       {
         "type": "data_list",
         "subtype": "lifecycle_actions",
-        "total": 2
+        "total": 3
       },
       {
         "type": "data_list",
@@ -2799,7 +2799,7 @@
       {
         "type": "global",
         "subtype": null,
-        "total": 5
+        "total": 6
       },
       {
         "type": "global",
