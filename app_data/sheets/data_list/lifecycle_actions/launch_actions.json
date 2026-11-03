@@ -41,6 +41,14 @@
             "fullscreen": true,
             "showCloseButton": false
           }
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "server_sync"
+          ],
+          "_raw": "emit: server_sync"
         }
       ]
     },
@@ -72,6 +80,14 @@
             true
           ],
           "_raw": "set_field: onboarding_splash_completed: true"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "server_sync"
+          ],
+          "_raw": "emit: server_sync"
         }
       ]
     },
@@ -94,6 +110,14 @@
             "fullscreen": true,
             "showCloseButton": false
           }
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "server_sync"
+          ],
+          "_raw": "emit: server_sync"
         }
       ]
     },
@@ -116,6 +140,14 @@
             "fullscreen": true,
             "showCloseButton": false
           }
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "server_sync"
+          ],
+          "_raw": "emit: server_sync"
         }
       ]
     },
@@ -204,20 +236,20 @@
       "action_list": [
         {
           "trigger": "click",
-          "action_id": "emit",
-          "args": [
-            "server_sync"
-          ],
-          "_raw": "emit: server_sync"
-        },
-        {
-          "trigger": "click",
           "action_id": "set_field",
           "args": [
             "onboarding_completed",
             true
           ],
           "_raw": "set_field: onboarding_completed: true"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "server_sync"
+          ],
+          "_raw": "emit: server_sync"
         }
       ]
     },

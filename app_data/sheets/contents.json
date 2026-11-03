@@ -574,6 +574,21 @@
         }
       }
     },
+    "nf_launch_actions": {
+      "flow_type": "data_list",
+      "flow_subtype": "lifecycle_actions",
+      "flow_name": "nf_launch_actions",
+      "_source": {
+        "name": "teens_tz",
+        "path": "data/TZ notifications.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1-tT85e8AmdUHAh0JIoIKEqa-OZf5g1Qk8YWKsNJI23w"
+      },
+      "_metadata": {
+        "priority": {
+          "type": "number"
+        }
+      }
+    },
     "misc_global": {
       "flow_type": "data_list",
       "flow_name": "misc_global",
@@ -4571,6 +4586,15 @@
         "name": "teens_tz",
         "path": "data/deployment_data_tz.xlsx",
         "url": "https://docs.google.com/spreadsheets/d/1DjzYwjPkUV-meBwiePiDB00TN5zXa2l0gsSk6LU6ZNA"
+      }
+    },
+    "nf_global": {
+      "flow_type": "global",
+      "flow_name": "nf_global",
+      "_source": {
+        "name": "teens_tz",
+        "path": "data/TZ notifications.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1-tT85e8AmdUHAh0JIoIKEqa-OZf5g1Qk8YWKsNJI23w"
       }
     },
     "onboarding_global": {
