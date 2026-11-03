@@ -297,7 +297,8 @@
               },
               "exclude_from_translation": true,
               "style_list": [
-                "height: @local.home_screen_logo_height"
+                "height: @local.home_screen_logo_height",
+                "width: @local.home_screen_logo_height"
               ],
               "_nested_name": "dg_sticky_top.dg_row.image",
               "_dynamicFields": {
@@ -317,6 +318,14 @@
                       "type": "local",
                       "fieldName": "home_screen_logo_height"
                     }
+                  ],
+                  "1": [
+                    {
+                      "fullExpression": "width: @local.home_screen_logo_height",
+                      "matchedExpression": "@local.home_screen_logo_height",
+                      "type": "local",
+                      "fieldName": "home_screen_logo_height"
+                    }
                   ]
                 }
               },
@@ -325,7 +334,8 @@
                   "value"
                 ],
                 "@local.home_screen_logo_height": [
-                  "style_list.0"
+                  "style_list.0",
+                  "style_list.1"
                 ]
               }
             }

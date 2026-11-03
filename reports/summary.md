@@ -66,7 +66,7 @@
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 4 |
-| emit: server_sync | 6 |
+| emit: server_sync | 8 |
 | emit: set_language | 4 |
 | emit: uncompleted | 478 |
 | feedback | 13 |
