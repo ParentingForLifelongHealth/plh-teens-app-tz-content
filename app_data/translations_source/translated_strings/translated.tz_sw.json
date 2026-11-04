@@ -5017,7 +5017,7 @@
   },
   {
     "SourceText": "@data.characters.media_daughter_12.name overcame a difficult crisis with the help of her mother. Tap play to learn how",
-    "text": "ameshinda hali ngumu kwa msaada wa mama yake. Bonyeza kitufe cha cheza ili kujifunza ni kwa namna gani",
+    "text": "@data.characters.media_daughter_12.name ameshinda hali ngumu kwa msaada wa mama yake. Bonyeza kitufe cha cheza ili kujifunza ni kwa namna gani",
     "type": "data_list",
     "note": "The string @data.characters.media_daughter_12.name should not be translated."
   },
@@ -5983,7 +5983,7 @@
   },
   {
     "SourceText": "**Think back to your own teenage years:**\n\n- Where did you learn best? \n- Who was your favourite person to learn from? \n- What kind of skills are most helpful to you today?\n- What kind of knowledge is most helpful to you today?",
-    "text": "** Fikiria nyuma enzi zako za ujana**\n\n-Ulijifunza vizuri wapi?\n-Nani alikuwa ni mtu wako pendwa wa kujifunza kwake?\n-Ni aina zipi za ujuzi ambazo zinamsaada kwako kwa leo?\n-Ni aina ipi ya maarifa ni msaada muhimu kwako leo?",
+    "text": "**Fikiria nyuma enzi zako za ujana**\n\n- Ulijifunza vizuri wapi?\n- Nani alikuwa ni mtu wako pendwa wa kujifunza kwake?\n- Ni aina zipi za ujuzi ambazo zinamsaada kwako kwa leo?\n- Ni aina ipi ya maarifa ni msaada muhimu kwako leo?",
     "type": "data_list",
     "note": ""
   },
@@ -10555,7 +10555,7 @@
   },
   {
     "SourceText": "**Remember to:**\n\n👀 See: Notice danger.  \n📣 Shout: Shout \"No!\", \"Help me!\" or \"Stop!\"\n🏃🏽‍♀️ Get Away: Run to a safe place.\n⭐ Get Help: Tell a trusted adult.",
-    "text": "** Kumbuka ku:**\n\n👀 ona : Tambua dalili za hatari.\n📣 Piga kelele: Piga kelele \"Hapana!\", \"Nisaidie!\" au  \"Acha!\"\n🏃🏽‍♀️ Toka hapo: Kimbilia eneo salama.\n⭐ Pata msaada: Mtaarifu mtu mzima yeyote anayeaminika.\n\n\n",
+    "text": "**Kumbuka ku:**\n\n👀 Ona: Tambua dalili za hatari.\n📣 Piga kelele: Piga kelele \"Hapana!\", \"Nisaidie!\" au  \"Acha!\"\n🏃🏽‍♀️ Toka hapo: Kimbilia eneo salama.\n⭐ Pata msaada: Mtaarifu mtu mzima yeyote anayeaminika.",
     "type": "data_list",
     "note": ""
   },
